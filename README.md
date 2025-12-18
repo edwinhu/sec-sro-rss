@@ -4,16 +4,17 @@ Automatically generated RSS feed of SEC Self-Regulatory Organization (SRO) rulem
 
 ## Feed URLs
 
-Once deployed, the feeds will be available at:
+- **RSS**: https://edwinhu.github.io/sec-sro-rss/feed.xml
+- **Atom**: https://edwinhu.github.io/sec-sro-rss/atom.xml
+- **JSON**: https://edwinhu.github.io/sec-sro-rss/filings.json
 
-- **RSS**: `https://edwinhu.github.io/sec-sro-rss/feed.xml`
-- **Atom**: `https://edwinhu.github.io/sec-sro-rss/atom.xml`
-- **JSON**: `https://edwinhu.github.io/sec-sro-rss/filings.json`
+## Data Source
 
-## Sources
+Uses the [Federal Register API](https://www.federalregister.gov/developers/documentation/api/v1) to fetch SEC notices with "Self-Regulatory Organizations" in the title. This covers all SROs including:
 
-- [National Securities Exchanges](https://www.sec.gov/rules-regulations/self-regulatory-organization-rulemaking/national-securities-exchanges) (NYSE, NASDAQ, CBOE, etc.)
-- [FINRA](https://www.sec.gov/rules-regulations/self-regulatory-organization-rulemaking/finra)
+- National Securities Exchanges (NYSE, NASDAQ, CBOE, etc.)
+- FINRA
+- Clearing agencies (DTCC, OCC, etc.)
 
 ## Filters
 
@@ -22,15 +23,12 @@ The following are **excluded** from the feed:
 1. **"Notice of Filing and Immediate Effectiveness"** - Routine filings that become effective immediately without a comment period
 2. **Crypto/Digital Asset filings** - Bitcoin, Ethereum, and other cryptocurrency-related rule changes
 
-## Setup
+## Setup (for forking)
 
 1. Fork this repository
-2. Enable GitHub Pages:
-   - Go to Settings > Pages
-   - Set Source to "GitHub Actions"
-3. Update placeholders:
-   - Replace `edwinhu` in `scraper.py`, `docs/index.html`, and this README with your GitHub username
-4. The workflow will run automatically every 6 hours, or trigger manually via Actions tab
+2. Enable GitHub Pages: Settings > Pages > Source: "GitHub Actions"
+3. Replace `edwinhu` with your username in `scraper.py`, `docs/index.html`, and this README
+4. The workflow runs every 6 hours automatically
 
 ## Local Development
 
