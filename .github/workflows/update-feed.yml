@@ -17,6 +17,10 @@ permissions:
   pages: write
   id-token: write
 
+concurrency:
+  group: update-feed
+  cancel-in-progress: true
+
 jobs:
   update-feed:
     runs-on: ubuntu-latest
@@ -24,6 +28,8 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
 
       - name: Set up Python
         uses: actions/setup-python@v5
@@ -42,8 +48,11 @@ jobs:
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
           git add docs/
-          git diff --staged --quiet || git commit -m "Update SEC SRO feed [$(date -u +%Y-%m-%dT%H:%M:%SZ)]"
-          git push
+          if ! git diff --staged --quiet; then
+            git commit -m "Update SEC SRO feed [$(date -u +%Y-%m-%dT%H:%M:%SZ)]"
+            git pull --rebase origin main
+            git push
+          fi
 
   deploy-pages:
     needs: update-feed
