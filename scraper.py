@@ -52,10 +52,9 @@ CRYPTO_PATTERNS = [
     r"\bDOGE\b",
 ]
 
-USER_AGENT = (
-    "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) "
-    "AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-)
+# SEC requires identifying User-Agent per their fair access policy
+# https://www.sec.gov/os/webmaster-faq#developers
+USER_AGENT = "sec-sro-rss/1.0 (https://github.com/edwinhu/sec-sro-rss; edwin@example.com)"
 REQUEST_DELAY = 2  # seconds between requests to respect rate limits
 
 
