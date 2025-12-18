@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>SEC SRO Rulemaking Feed</title>
+    <style>
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+            max-width: 800px;
+            margin: 2rem auto;
+            padding: 0 1rem;
+            line-height: 1.6;
+            color: #333;
+        }
+        h1 { color: #003968; }
+        a { color: #0066cc; }
+        code {
+            background: #f4f4f4;
+            padding: 0.2em 0.4em;
+            border-radius: 3px;
+            font-size: 0.9em;
+        }
+        .feed-links {
+            background: #f8f9fa;
+            padding: 1rem;
+            border-radius: 8px;
+            margin: 1.5rem 0;
+        }
+        .feed-links a {
+            display: inline-block;
+            margin-right: 1rem;
+            padding: 0.5rem 1rem;
+            background: #003968;
+            color: white;
+            text-decoration: none;
+            border-radius: 4px;
+        }
+        .feed-links a:hover { background: #004d8f; }
+        .filters {
+            background: #fff3cd;
+            border: 1px solid #ffc107;
+            padding: 1rem;
+            border-radius: 8px;
+            margin: 1.5rem 0;
+        }
+        footer {
+            margin-top: 3rem;
+            padding-top: 1rem;
+            border-top: 1px solid #ddd;
+            font-size: 0.9rem;
+            color: #666;
+        }
+    </style>
+</head>
+<body>
+    <h1>SEC Self-Regulatory Organization Rulemaking Feed</h1>
+
+    <p>An RSS feed of SEC SRO (Self-Regulatory Organization) rulemaking filings, automatically updated every 6 hours.</p>
+
+    <div class="feed-links">
+        <strong>Subscribe:</strong><br><br>
+        <a href="feed.xml">RSS Feed</a>
+        <a href="atom.xml">Atom Feed</a>
+        <a href="filings.json">JSON</a>
+    </div>
+
+    <h2>Sources</h2>
+    <p>This feed aggregates filings from:</p>
+    <ul>
+        <li><a href="https://www.sec.gov/rules-regulations/self-regulatory-organization-rulemaking/national-securities-exchanges">National Securities Exchanges</a> (NYSE, NASDAQ, CBOE, etc.)</li>
+        <li><a href="https://www.sec.gov/rules-regulations/self-regulatory-organization-rulemaking/finra">FINRA</a></li>
+    </ul>
+
+    <div class="filters">
+        <strong>Filters Applied:</strong>
+        <p>The following types of filings are excluded:</p>
+        <ul>
+            <li><strong>"Notice of Filing and Immediate Effectiveness"</strong> - Routine filings that take effect immediately</li>
+            <li><strong>Crypto/Digital Asset listings</strong> - Bitcoin, Ethereum, and other cryptocurrency-related filings</li>
+        </ul>
+    </div>
+
+    <h2>Usage</h2>
+    <p>Add this feed URL to your RSS reader:</p>
+    <code>https://YOUR_USERNAME.github.io/sec-sro-rss/feed.xml</code>
+
+    <footer>
+        <p>
+            <a href="https://github.com/YOUR_USERNAME/sec-sro-rss">Source on GitHub</a> |
+            Updated automatically via GitHub Actions
+        </p>
+    </footer>
+</body>
+</html>
