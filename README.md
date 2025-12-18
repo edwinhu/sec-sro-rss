@@ -6,9 +6,9 @@ Automatically generated RSS feed of SEC Self-Regulatory Organization (SRO) rulem
 
 Once deployed, the feeds will be available at:
 
-- **RSS**: `https://YOUR_USERNAME.github.io/sec-sro-rss/feed.xml`
-- **Atom**: `https://YOUR_USERNAME.github.io/sec-sro-rss/atom.xml`
-- **JSON**: `https://YOUR_USERNAME.github.io/sec-sro-rss/filings.json`
+- **RSS**: `https://edwinhu.github.io/sec-sro-rss/feed.xml`
+- **Atom**: `https://edwinhu.github.io/sec-sro-rss/atom.xml`
+- **JSON**: `https://edwinhu.github.io/sec-sro-rss/filings.json`
 
 ## Sources
 
@@ -29,7 +29,7 @@ The following are **excluded** from the feed:
    - Go to Settings > Pages
    - Set Source to "GitHub Actions"
 3. Update placeholders:
-   - Replace `YOUR_USERNAME` in `scraper.py`, `docs/index.html`, and this README with your GitHub username
+   - Replace `edwinhu` in `scraper.py`, `docs/index.html`, and this README with your GitHub username
 4. The workflow will run automatically every 6 hours, or trigger manually via Actions tab
 
 ## Local Development

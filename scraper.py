@@ -258,11 +258,11 @@ def deduplicate_filings(filings: list[SROFiling]) -> list[SROFiling]:
 def generate_feed(filings: list[SROFiling], output_dir: Path) -> None:
     """Generate RSS and Atom feeds from filings."""
     fg = FeedGenerator()
-    fg.id("https://github.com/YOUR_USERNAME/sec-sro-rss")
+    fg.id("https://github.com/edwinhu/sec-sro-rss")
     fg.title("SEC Self-Regulatory Organization Rulemaking")
     fg.subtitle("Filtered SEC SRO filings (excludes immediate effectiveness notices and crypto)")
     fg.link(href="https://www.sec.gov/rules-regulations/self-regulatory-organization-rulemaking", rel="alternate")
-    fg.link(href="https://YOUR_USERNAME.github.io/sec-sro-rss/feed.xml", rel="self")
+    fg.link(href="https://edwinhu.github.io/sec-sro-rss/feed.xml", rel="self")
     fg.language("en")
     fg.updated(datetime.now(timezone.utc))
 
