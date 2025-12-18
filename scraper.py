@@ -2,14 +2,15 @@
 """
 SEC SRO Rulemaking RSS Feed Generator
 
-Scrapes SEC Self-Regulatory Organization rulemaking pages and generates
-an RSS feed, filtering out:
+Uses the Federal Register API to fetch SEC Self-Regulatory Organization
+notices, then generates an RSS feed, filtering out:
 - "Notice of Filing and Immediate Effectiveness" items
 - Crypto/digital asset related listings
+
+The Federal Register API is reliable and doesn't block cloud IPs like SEC.gov does.
 """
 
 import re
-import time
 import json
 import hashlib
 from datetime import datetime, timezone
@@ -17,15 +18,11 @@ from pathlib import Path
 from typing import NamedTuple
 
 import requests
-from bs4 import BeautifulSoup
 from feedgen.feed import FeedGenerator
 
-# Configuration
-SEC_BASE_URL = "https://www.sec.gov"
-SRO_PAGES = {
-    "national-securities-exchanges": f"{SEC_BASE_URL}/rules-regulations/self-regulatory-organization-rulemaking/national-securities-exchanges",
-    "finra": f"{SEC_BASE_URL}/rules-regulations/self-regulatory-organization-rulemaking/finra",
-}
+# Federal Register API endpoint
+# Docs: https://www.federalregister.gov/developers/documentation/api/v1
+FR_API_BASE = "https://www.federalregister.gov/api/v1"
 
 # Filtering patterns
 EXCLUDE_TITLE_PATTERNS = [
@@ -52,10 +49,7 @@ CRYPTO_PATTERNS = [
     r"\bDOGE\b",
 ]
 
-# SEC requires identifying User-Agent per their fair access policy
-# https://www.sec.gov/os/webmaster-faq#developers
-USER_AGENT = "sec-sro-rss/1.0 (https://github.com/edwinhu/sec-sro-rss; edwin@example.com)"
-REQUEST_DELAY = 2  # seconds between requests to respect rate limits
+USER_AGENT = "sec-sro-rss/1.0 (https://github.com/edwinhu/sec-sro-rss)"
 
 
 class SROFiling(NamedTuple):
@@ -64,7 +58,7 @@ class SROFiling(NamedTuple):
     url: str
     date: str
     description: str
-    source: str  # 'finra' or 'national-securities-exchanges'
+    source: str
 
     @property
     def id(self) -> str:
@@ -89,140 +83,83 @@ def should_exclude(title: str, description: str = "") -> bool:
     return False
 
 
-def fetch_page(url: str, session: requests.Session) -> str | None:
-    """Fetch a page with proper headers and error handling."""
-    headers = {
-        "User-Agent": USER_AGENT,
-        "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
-        "Accept-Language": "en-US,en;q=0.5",
+def fetch_federal_register_documents() -> list[SROFiling]:
+    """Fetch SEC SRO documents from Federal Register API.
+
+    We search for SEC notices with "Self-Regulatory Organizations" in the title.
+    The API returns documents in JSON format with all metadata we need.
+    """
+    filings = []
+    session = requests.Session()
+    session.headers.update({"User-Agent": USER_AGENT})
+
+    # Search parameters for SEC SRO notices
+    # - agencies[]: securities-and-exchange-commission
+    # - type[]: NOTICE
+    # - term: "Self-Regulatory Organizations"
+    # - per_page: 100 (max)
+    # - order: newest
+
+    params = {
+        "conditions[agencies][]": "securities-and-exchange-commission",
+        "conditions[type][]": "NOTICE",
+        "conditions[term]": "Self-Regulatory Organizations",
+        "per_page": 100,
+        "order": "newest",
+        "fields[]": [
+            "title",
+            "document_number",
+            "html_url",
+            "pdf_url",
+            "publication_date",
+            "abstract",
+            "agencies",
+        ],
     }
 
+    url = f"{FR_API_BASE}/documents.json"
+    print(f"Fetching from Federal Register API...")
+    print(f"  URL: {url}")
+
     try:
-        response = session.get(url, headers=headers, timeout=30)
+        response = session.get(url, params=params, timeout=30)
         response.raise_for_status()
-        return response.text
+        data = response.json()
     except requests.RequestException as e:
-        print(f"Error fetching {url}: {e}")
-        return None
+        print(f"Error fetching from Federal Register: {e}")
+        return []
 
+    results = data.get("results", [])
+    print(f"  Found {len(results)} documents")
 
-def parse_sro_page(html: str, source: str) -> list[SROFiling]:
-    """Parse SRO rulemaking page and extract filings.
+    for doc in results:
+        title = doc.get("title", "")
+        html_url = doc.get("html_url", "")
+        pdf_url = doc.get("pdf_url", "")
+        pub_date = doc.get("publication_date", "")
+        abstract = doc.get("abstract", "") or ""
+        doc_number = doc.get("document_number", "")
 
-    The SEC page has a table with columns:
-    - Release Number (with PDF link)
-    - SEC Issue Date
-    - File Number
-    - SRO Organization
-    - Details (description text)
-    """
-    soup = BeautifulSoup(html, "lxml")
-    filings = []
+        # Determine SRO source from title
+        source = "national-securities-exchanges"
+        if "FINRA" in title or "Financial Industry Regulatory Authority" in title:
+            source = "finra"
 
-    # Find the main data table
-    for row in soup.select("table tbody tr"):
-        try:
-            cells = row.select("td")
-            if len(cells) < 5:
-                continue
-
-            # Column 0: Release Number with PDF link
-            release_link = cells[0].select_one("a[href]")
-            if not release_link:
-                continue
-
-            release_number = release_link.get_text(strip=True)
-            # Clean up "External." prefix
-            release_number = release_number.replace("External.", "").strip()
-
-            pdf_href = release_link.get("href", "")
-            if not pdf_href.startswith("http"):
-                pdf_href = SEC_BASE_URL + pdf_href
-
-            # Column 1: SEC Issue Date (e.g., "Dec 18, 2025")
-            date_str = cells[1].get_text(strip=True)
-
-            # Column 2: File Number (e.g., "SR-NASDAQ-2025-080")
-            file_number = cells[2].get_text(strip=True)
-
-            # Column 3: SRO Organization
-            sro_org = cells[3].get_text(strip=True)
-
-            # Column 4: Details - the main description text
-            # Get only direct text, not nested link text
-            details_cell = cells[4]
-            # Get text before "Comments Due:" or "See Also"
-            details_text = ""
-            for child in details_cell.children:
-                if hasattr(child, 'name'):
-                    if child.name == 'strong':
-                        break  # Stop at "Comments Due:"
-                    if child.name == 'a' and 'Submit a Comment' in child.get_text():
-                        continue  # Skip comment links
-                else:
-                    details_text += str(child)
-            details_text = details_text.strip()
-
-            # Build a descriptive title
-            title = f"[{release_number}] {details_text[:200]}"
-            if len(details_text) > 200:
-                title += "..."
-
-            # Store full details for filtering (will check against details_text)
-            full_description = f"{sro_org} | {file_number} | {details_text}"
-
-            filing = SROFiling(
-                title=title,
-                url=pdf_href,
-                date=date_str,
-                description=full_description,
-                source=source,
-            )
-            filings.append(filing)
-
-        except Exception as e:
-            print(f"Error parsing row: {e}")
-            continue
+        filing = SROFiling(
+            title=title,
+            url=html_url or pdf_url,
+            date=pub_date,
+            description=abstract,
+            source=source,
+        )
+        filings.append(filing)
 
     return filings
 
 
 def scrape_all_pages(max_pages: int = 3) -> list[SROFiling]:
-    """Scrape all configured SRO pages."""
-    all_filings = []
-    session = requests.Session()
-
-    for source, base_url in SRO_PAGES.items():
-        print(f"Scraping {source}...")
-
-        for page_num in range(max_pages):
-            url = base_url if page_num == 0 else f"{base_url}?page={page_num}"
-            print(f"  Fetching page {page_num + 1}: {url}")
-
-            html = fetch_page(url, session)
-            if not html:
-                break
-
-            # Check for rate limiting
-            if "Request Rate Threshold Exceeded" in html:
-                print("  Rate limited, waiting...")
-                time.sleep(10)
-                html = fetch_page(url, session)
-                if not html or "Request Rate Threshold Exceeded" in html:
-                    print("  Still rate limited, skipping...")
-                    break
-
-            filings = parse_sro_page(html, source)
-            if not filings:
-                print(f"  No filings found on page {page_num + 1}, stopping pagination")
-                break
-
-            all_filings.extend(filings)
-            print(f"  Found {len(filings)} filings")
-
-            time.sleep(REQUEST_DELAY)
-
-    return all_filings
+    """Fetch filings from Federal Register API."""
+    return fetch_federal_register_documents()
 
 
 def filter_filings(filings: list[SROFiling]) -> list[SROFiling]:
@@ -338,10 +275,10 @@ def main():
     print("SEC SRO Rulemaking RSS Feed Generator")
     print("=" * 60)
 
-    # Scrape pages
-    print("\n1. Scraping SEC SRO pages...")
+    # Fetch from Federal Register API
+    print("\n1. Fetching from Federal Register API...")
     filings = scrape_all_pages(max_pages=3)
-    print(f"   Total filings scraped: {len(filings)}")
+    print(f"   Total filings fetched: {len(filings)}")
 
     # Deduplicate
     print("\n2. Removing duplicates...")

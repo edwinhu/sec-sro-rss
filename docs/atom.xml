@@ -2,9 +2,180 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://github.com/edwinhu/sec-sro-rss</id>
   <title>SEC Self-Regulatory Organization Rulemaking</title>
-  <updated>2025-12-18T17:16:37.679255+00:00</updated>
+  <updated>2025-12-18T17:20:42.161336+00:00</updated>
   <link href="https://www.sec.gov/rules-regulations/self-regulatory-organization-rulemaking" rel="alternate"/>
   <link href="https://edwinhu.github.io/sec-sro-rss/feed.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Filtered SEC SRO filings (excludes immediate effectiveness notices and crypto)</subtitle>
+  <entry>
+    <id>https://www.federalregister.gov/documents/2025/12/04/2025-21908/cme-securities-clearing-inc-order-granting-an-application-for-registration-as-a-clearing-agency</id>
+    <title>CME Securities Clearing, Inc.; Order Granting an Application for Registration as a Clearing Agency Under Section 17A of the Securities Exchange Act of 1934</title>
+    <updated>2025-12-04T00:00:00+00:00</updated>
+    <content>Source: National Securities Exchanges
+Date: 2025-12-04</content>
+    <link href="https://www.federalregister.gov/documents/2025/12/04/2025-21908/cme-securities-clearing-inc-order-granting-an-application-for-registration-as-a-clearing-agency"/>
+    <published>2025-12-04T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.federalregister.gov/documents/2025/12/05/2025-21982/self-regulatory-organizations-cboe-bzx-exchange-inc-notice-of-designation-of-a-longer-period-for</id>
+    <title>Self-Regulatory Organizations; Cboe BZX Exchange, Inc.; Notice of Designation of a Longer Period for Commission Action on Proceedings To Determine Whether To Approve or Disapprove a Proposed Rule Change To Exempt Closed-End Management Investment Companies Registered Under the Investment Company Act of 1940 That Are Listed as of or After May 20, 2025 From the Annual Meeting of Shareholders Requirement Set Forth in Exchange Rule 14.10(f)</title>
+    <updated>2025-12-05T00:00:00+00:00</updated>
+    <content>Source: National Securities Exchanges
+Date: 2025-12-05</content>
+    <link href="https://www.federalregister.gov/documents/2025/12/05/2025-21982/self-regulatory-organizations-cboe-bzx-exchange-inc-notice-of-designation-of-a-longer-period-for"/>
+    <published>2025-12-05T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.federalregister.gov/documents/2025/12/05/2025-21983/self-regulatory-organizations-new-york-stock-exchange-llc-notice-of-designation-of-a-longer-period</id>
+    <title>Self-Regulatory Organizations; New York Stock Exchange LLC; Notice of Designation of a Longer Period for Commission Action on Proceedings To Determine Whether To Approve or Disapprove a Proposed Rule Change Amending Section 302.00 of the NYSE Listed Company Manual To Exempt Closed-End Funds Registered Under the Investment Company Act of 1940 From the Requirement To Hold Annual Shareholder Meetings</title>
+    <updated>2025-12-05T00:00:00+00:00</updated>
+    <content>Source: National Securities Exchanges
+Date: 2025-12-05</content>
+    <link href="https://www.federalregister.gov/documents/2025/12/05/2025-21983/self-regulatory-organizations-new-york-stock-exchange-llc-notice-of-designation-of-a-longer-period"/>
+    <published>2025-12-05T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.federalregister.gov/documents/2025/12/05/2025-21990/self-regulatory-organizations-miax-sapphire-llc-notice-of-filing-of-amendment-no-1-and-order</id>
+    <title>Self-Regulatory Organizations; MIAX Sapphire, LLC; Notice of Filing of Amendment No. 1 and Order Instituting Proceedings To Determine Whether To Approve or Disapprove a Proposed Rule Change, as Modified by Amendment No. 1, To Amend Exchange Rule 527</title>
+    <updated>2025-12-05T00:00:00+00:00</updated>
+    <content>Source: National Securities Exchanges
+Date: 2025-12-05</content>
+    <link href="https://www.federalregister.gov/documents/2025/12/05/2025-21990/self-regulatory-organizations-miax-sapphire-llc-notice-of-filing-of-amendment-no-1-and-order"/>
+    <published>2025-12-05T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.federalregister.gov/documents/2025/12/08/2025-22144/self-regulatory-organizations-cboe-edgx-exchange-inc-notice-of-designation-of-a-longer-period-for</id>
+    <title>Self-Regulatory Organizations; Cboe EDGX Exchange, Inc.; Notice of Designation of a Longer Period for Commission Action on Proceedings To Determine Whether To Approve or Disapprove a Proposed Rule Change, as Modified by Amendment No. 1, To Amend Rule 11.21 To Allow a Retail Member Organization To Enter a Retail Order Onto the Exchange in a Principal Capacity</title>
+    <updated>2025-12-08T00:00:00+00:00</updated>
+    <content>Source: National Securities Exchanges
+Date: 2025-12-08</content>
+    <link href="https://www.federalregister.gov/documents/2025/12/08/2025-22144/self-regulatory-organizations-cboe-edgx-exchange-inc-notice-of-designation-of-a-longer-period-for"/>
+    <published>2025-12-08T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.federalregister.gov/documents/2025/12/09/2025-22303/self-regulatory-organizations-cboe-bzx-exchange-inc-order-instituting-proceedings-to-determine</id>
+    <title>Self-Regulatory Organizations; Cboe BZX Exchange, Inc.; Order Instituting Proceedings To Determine Whether To Approve or Disapprove a Proposed Rule Change To List and Trade Shares of the Canary Staked SEI ETF Under BZX Rule 14.11(e)(4), Commodity-Based Trust Shares</title>
+    <updated>2025-12-09T00:00:00+00:00</updated>
+    <content>Source: National Securities Exchanges
+Date: 2025-12-09</content>
+    <link href="https://www.federalregister.gov/documents/2025/12/09/2025-22303/self-regulatory-organizations-cboe-bzx-exchange-inc-order-instituting-proceedings-to-determine"/>
+    <published>2025-12-09T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.federalregister.gov/documents/2025/12/10/2025-22398/self-regulatory-organizations-the-nasdaq-stock-market-llc-notice-of-filing-of-amendment-no-1-and</id>
+    <title>Self-Regulatory Organizations; The Nasdaq Stock Market LLC; Notice of Filing of Amendment No. 1 and Order Granting Accelerated Approval of a Proposed Rule Change, as Modified by Amendment No. 1, To Amend the Application of the Minimum Bid Price Rule in Situations Where a Security Does Not Maintain a Closing Bid Price of Greater Than $0.10 for Ten Consecutive Business Days</title>
+    <updated>2025-12-10T00:00:00+00:00</updated>
+    <content>Source: National Securities Exchanges
+Date: 2025-12-10</content>
+    <link href="https://www.federalregister.gov/documents/2025/12/10/2025-22398/self-regulatory-organizations-the-nasdaq-stock-market-llc-notice-of-filing-of-amendment-no-1-and"/>
+    <published>2025-12-10T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.federalregister.gov/documents/2025/12/11/2025-22469/self-regulatory-organizations-the-nasdaq-stock-market-llc-notice-of-filing-of-amendment-no-1-and</id>
+    <title>Self-Regulatory Organizations; The Nasdaq Stock Market LLC; Notice of Filing of Amendment No. 1 and Order Granting Accelerated Approval of a Proposed Rule Change, as Modified by Amendment No. 1, To Amend Certain Initial Listing Requirements for de-SPAC Transactions</title>
+    <updated>2025-12-11T00:00:00+00:00</updated>
+    <content>Source: National Securities Exchanges
+Date: 2025-12-11</content>
+    <link href="https://www.federalregister.gov/documents/2025/12/11/2025-22469/self-regulatory-organizations-the-nasdaq-stock-market-llc-notice-of-filing-of-amendment-no-1-and"/>
+    <published>2025-12-11T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.federalregister.gov/documents/2025/12/12/2025-22614/self-regulatory-organizations-the-options-clearing-corporation-order-granting-approval-of-proposed</id>
+    <title>Self-Regulatory Organizations; The Options Clearing Corporation; Order Granting Approval of Proposed Rule Change by The Options Clearing Corporation Concerning Certain Revisions in Connection With Proposed Modifications to the Manner in Which OCC Accounts for the Guaranty Substitution Payment in OCC's Liquidity Risk Management Processes</title>
+    <updated>2025-12-12T00:00:00+00:00</updated>
+    <content>Source: National Securities Exchanges
+Date: 2025-12-12</content>
+    <link href="https://www.federalregister.gov/documents/2025/12/12/2025-22614/self-regulatory-organizations-the-options-clearing-corporation-order-granting-approval-of-proposed"/>
+    <published>2025-12-12T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.federalregister.gov/documents/2025/12/12/2025-22615/self-regulatory-organizations-nyse-arca-inc-notice-of-designation-of-a-longer-period-for-commission</id>
+    <title>Self-Regulatory Organizations; NYSE Arca, Inc.; Notice of Designation of a Longer Period for Commission Action on Proceedings To Determine Whether To Approve or Disapprove a Proposed Rule Change To List and Trade Units of the Sprott Physical Copper Trust</title>
+    <updated>2025-12-12T00:00:00+00:00</updated>
+    <content>Source: National Securities Exchanges
+Date: 2025-12-12</content>
+    <link href="https://www.federalregister.gov/documents/2025/12/12/2025-22615/self-regulatory-organizations-nyse-arca-inc-notice-of-designation-of-a-longer-period-for-commission"/>
+    <published>2025-12-12T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.federalregister.gov/documents/2025/12/16/2025-22855/self-regulatory-organizations-the-options-clearing-corporation-notice-of-filing-of-partial-amendment</id>
+    <title>Self-Regulatory Organizations; The Options Clearing Corporation; Notice of Filing of Partial Amendment No. 1 and Order Granting Accelerated Approval of Proposed Rule Change, as Modified by Partial Amendment No. 1, by The Options Clearing Corporation Concerning Methodology To Allocate Clearing Fund Deposit Requirements Among Its Clearing Members To Better Align the Allocation With the Sizing of the Clearing Fund so Stress Based Risk Is Fairly Allotted to Market Participants That Expose OCC to Such Stress Risk</title>
+    <updated>2025-12-16T00:00:00+00:00</updated>
+    <content>Source: National Securities Exchanges
+Date: 2025-12-16</content>
+    <link href="https://www.federalregister.gov/documents/2025/12/16/2025-22855/self-regulatory-organizations-the-options-clearing-corporation-notice-of-filing-of-partial-amendment"/>
+    <published>2025-12-16T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.federalregister.gov/documents/2025/12/17/2025-23067/self-regulatory-organizations-lch-sa-order-approving-proposed-rule-change-relating-to-revisions-to</id>
+    <title>Self-Regulatory Organizations; LCH SA; Order Approving Proposed Rule Change Relating to Revisions to Terms of Reference of the Nomination Committee and Board of Directors</title>
+    <updated>2025-12-17T00:00:00+00:00</updated>
+    <content>Source: National Securities Exchanges
+Date: 2025-12-17</content>
+    <link href="https://www.federalregister.gov/documents/2025/12/17/2025-23067/self-regulatory-organizations-lch-sa-order-approving-proposed-rule-change-relating-to-revisions-to"/>
+    <published>2025-12-17T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.federalregister.gov/documents/2025/12/17/2025-23073/self-regulatory-organizations-the-nasdaq-stock-market-llc-order-instituting-proceedings-to-determine</id>
+    <title>Self-Regulatory Organizations; The Nasdaq Stock Market LLC; Order Instituting Proceedings To Determine Whether To Approve or Disapprove a Proposed Rule Change To Amend the Exchange's Rules To Enable the Trading of Securities on the Exchange in Tokenized Form</title>
+    <updated>2025-12-17T00:00:00+00:00</updated>
+    <content>Source: National Securities Exchanges
+Date: 2025-12-17</content>
+    <link href="https://www.federalregister.gov/documents/2025/12/17/2025-23073/self-regulatory-organizations-the-nasdaq-stock-market-llc-order-instituting-proceedings-to-determine"/>
+    <published>2025-12-17T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.federalregister.gov/documents/2025/12/17/2025-23074/self-regulatory-organizations-new-york-stock-exchange-llc-notice-of-filing-of-proposed-rule-change</id>
+    <title>Self-Regulatory Organizations; New York Stock Exchange LLC; Notice of Filing of Proposed Rule Change To Amend Section 802.01C of the NYSE Listed Company Manual</title>
+    <updated>2025-12-17T00:00:00+00:00</updated>
+    <content>Source: National Securities Exchanges
+Date: 2025-12-17</content>
+    <link href="https://www.federalregister.gov/documents/2025/12/17/2025-23074/self-regulatory-organizations-new-york-stock-exchange-llc-notice-of-filing-of-proposed-rule-change"/>
+    <published>2025-12-17T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.federalregister.gov/documents/2025/12/17/2025-23075/self-regulatory-organizations-nyse-american-llc-notice-of-filing-of-proposed-rule-change-to-amend</id>
+    <title>Self-Regulatory Organizations; NYSE American LLC; Notice of Filing of Proposed Rule Change To Amend Section 1003 of the NYSE American Company Guide</title>
+    <updated>2025-12-17T00:00:00+00:00</updated>
+    <content>Source: National Securities Exchanges
+Date: 2025-12-17</content>
+    <link href="https://www.federalregister.gov/documents/2025/12/17/2025-23075/self-regulatory-organizations-nyse-american-llc-notice-of-filing-of-proposed-rule-change-to-amend"/>
+    <published>2025-12-17T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.federalregister.gov/documents/2025/12/17/2025-23077/self-regulatory-organizations-the-options-clearing-corporation-notice-of-filing-of-partial-amendment</id>
+    <title>Self-Regulatory Organizations; the Options Clearing Corporation; Notice of Filing of Partial Amendment No. 1 and Order Granting Accelerated Approval of Proposed Rule Change, as Modified by Partial Amendment No. 1, by the Options Clearing Corporation Concerning Adjustments to Cleared Contracts</title>
+    <updated>2025-12-17T00:00:00+00:00</updated>
+    <content>Source: National Securities Exchanges
+Date: 2025-12-17</content>
+    <link href="https://www.federalregister.gov/documents/2025/12/17/2025-23077/self-regulatory-organizations-the-options-clearing-corporation-notice-of-filing-of-partial-amendment"/>
+    <published>2025-12-17T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.federalregister.gov/documents/2025/12/18/2025-23233/self-regulatory-organizations-ice-clear-credit-llc-notice-of-filing-of-proposed-rule-change-relating</id>
+    <title>Self-Regulatory Organizations; ICE Clear Credit LLC; Notice of Filing of Proposed Rule Change Relating to the ICC Stress Testing Framework and the ICC Liquidity Risk Management Framework</title>
+    <updated>2025-12-18T00:00:00+00:00</updated>
+    <content>Source: National Securities Exchanges
+Date: 2025-12-18</content>
+    <link href="https://www.federalregister.gov/documents/2025/12/18/2025-23233/self-regulatory-organizations-ice-clear-credit-llc-notice-of-filing-of-proposed-rule-change-relating"/>
+    <published>2025-12-18T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.federalregister.gov/documents/2025/12/18/2025-23244/self-regulatory-organizations-ice-clear-credit-llc-notice-of-filing-of-proposed-rule-change-relating</id>
+    <title>Self-Regulatory Organizations; ICE Clear Credit LLC; Notice of Filing of Proposed Rule Change Relating to the ICC Risk Management Framework, ICC Risk Management Model Description, and ICC End-of-Day Price Discovery Policies and Procedures</title>
+    <updated>2025-12-18T00:00:00+00:00</updated>
+    <content>Source: National Securities Exchanges
+Date: 2025-12-18</content>
+    <link href="https://www.federalregister.gov/documents/2025/12/18/2025-23244/self-regulatory-organizations-ice-clear-credit-llc-notice-of-filing-of-proposed-rule-change-relating"/>
+    <published>2025-12-18T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.federalregister.gov/documents/2025/12/18/2025-23285/self-regulatory-organizations-fixed-income-clearing-corporation-order-approving-proposed-rule-change</id>
+    <title>Self-Regulatory Organizations; Fixed Income Clearing Corporation; Order Approving Proposed Rule Change, as Modified by Partial Amendment No. 1, To Establish a New Collateral-in-Lieu Offering Within the Sponsored GC Service, and Expand the Sponsored GC Service To Allow a Sponsoring Member To Submit for Clearing a “Done-Away” Sponsored GC Trade</title>
+    <updated>2025-12-18T00:00:00+00:00</updated>
+    <content>Source: National Securities Exchanges
+Date: 2025-12-18</content>
+    <link href="https://www.federalregister.gov/documents/2025/12/18/2025-23285/self-regulatory-organizations-fixed-income-clearing-corporation-order-approving-proposed-rule-change"/>
+    <published>2025-12-18T00:00:00+00:00</published>
+  </entry>
 </feed>
