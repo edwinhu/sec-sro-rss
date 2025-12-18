@@ -2,12 +2,12 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
   <channel>
     <title>SEC Self-Regulatory Organization Rulemaking</title>
-    <link>https://YOUR_USERNAME.github.io/sec-sro-rss/feed.xml</link>
+    <link>https://edwinhu.github.io/sec-sro-rss/feed.xml</link>
     <description>Filtered SEC SRO filings (excludes immediate effectiveness notices and crypto)</description>
-    <atom:link href="https://YOUR_USERNAME.github.io/sec-sro-rss/feed.xml" rel="self"/>
+    <atom:link href="https://edwinhu.github.io/sec-sro-rss/feed.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 18 Dec 2025 17:10:13 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 18 Dec 2025 17:13:34 +0000</lastBuildDate>
   </channel>
 </rss>
