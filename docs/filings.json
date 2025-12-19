@@ -1,7 +1,15 @@
 {
-  "updated": "2025-12-19T06:21:07.385083+00:00",
-  "count": 19,
+  "updated": "2025-12-19T12:25:24.533697+00:00",
+  "count": 17,
   "filings": [
+    {
+      "id": "62ac3fcdc9e7",
+      "title": "Self-Regulatory Organizations; Fixed Income Clearing Corporation; Order Approving a Proposed Rule Change, as Modified by Amendment No. 1, To Modify the GSD Rulebook Relating to Default Management and Porting With Respect to Indirect Participant Activity",
+      "url": "https://www.federalregister.gov/documents/2025/12/19/2025-23333/self-regulatory-organizations-fixed-income-clearing-corporation-order-approving-a-proposed-rule",
+      "date": "2025-12-19",
+      "description": "",
+      "source": "national-securities-exchanges"
+    },
     {
       "id": "299722d51f5c",
       "title": "Self-Regulatory Organizations; Fixed Income Clearing Corporation; Order Approving Proposed Rule Change, as Modified by Partial Amendment No. 1, To Establish a New Collateral-in-Lieu Offering Within the Sponsored GC Service, and Expand the Sponsored GC Service To Allow a Sponsoring Member To Submit for Clearing a \u201cDone-Away\u201d Sponsored GC Trade",
@@ -127,30 +135,6 @@
       "title": "Self-Regulatory Organizations; MIAX Sapphire, LLC; Notice of Filing of Amendment No. 1 and Order Instituting Proceedings To Determine Whether To Approve or Disapprove a Proposed Rule Change, as Modified by Amendment No. 1, To Amend Exchange Rule 527",
       "url": "https://www.federalregister.gov/documents/2025/12/05/2025-21990/self-regulatory-organizations-miax-sapphire-llc-notice-of-filing-of-amendment-no-1-and-order",
       "date": "2025-12-05",
-      "description": "",
-      "source": "national-securities-exchanges"
-    },
-    {
-      "id": "1d8ae985b437",
-      "title": "Self-Regulatory Organizations; New York Stock Exchange LLC; Notice of Designation of a Longer Period for Commission Action on Proceedings To Determine Whether To Approve or Disapprove a Proposed Rule Change Amending Section 302.00 of the NYSE Listed Company Manual To Exempt Closed-End Funds Registered Under the Investment Company Act of 1940 From the Requirement To Hold Annual Shareholder Meetings",
-      "url": "https://www.federalregister.gov/documents/2025/12/05/2025-21983/self-regulatory-organizations-new-york-stock-exchange-llc-notice-of-designation-of-a-longer-period",
-      "date": "2025-12-05",
-      "description": "",
-      "source": "national-securities-exchanges"
-    },
-    {
-      "id": "d3fecdc00831",
-      "title": "Self-Regulatory Organizations; Cboe BZX Exchange, Inc.; Notice of Designation of a Longer Period for Commission Action on Proceedings To Determine Whether To Approve or Disapprove a Proposed Rule Change To Exempt Closed-End Management Investment Companies Registered Under the Investment Company Act of 1940 That Are Listed as of or After May 20, 2025 From the Annual Meeting of Shareholders Requirement Set Forth in Exchange Rule 14.10(f)",
-      "url": "https://www.federalregister.gov/documents/2025/12/05/2025-21982/self-regulatory-organizations-cboe-bzx-exchange-inc-notice-of-designation-of-a-longer-period-for",
-      "date": "2025-12-05",
-      "description": "",
-      "source": "national-securities-exchanges"
-    },
-    {
-      "id": "99ff8f0cf1c7",
-      "title": "CME Securities Clearing, Inc.; Order Granting an Application for Registration as a Clearing Agency Under Section 17A of the Securities Exchange Act of 1934",
-      "url": "https://www.federalregister.gov/documents/2025/12/04/2025-21908/cme-securities-clearing-inc-order-granting-an-application-for-registration-as-a-clearing-agency",
-      "date": "2025-12-04",
       "description": "",
       "source": "national-securities-exchanges"
     }
