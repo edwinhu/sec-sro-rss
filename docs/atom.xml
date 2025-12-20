@@ -2,38 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://github.com/edwinhu/sec-sro-rss</id>
   <title>SEC Self-Regulatory Organization Rulemaking</title>
-  <updated>2025-12-20T06:19:30.078408+00:00</updated>
+  <updated>2025-12-20T12:22:56.881429+00:00</updated>
   <link href="https://www.sec.gov/rules-regulations/self-regulatory-organization-rulemaking" rel="alternate"/>
   <link href="https://edwinhu.github.io/sec-sro-rss/feed.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Filtered SEC SRO filings (excludes immediate effectiveness notices and crypto)</subtitle>
-  <entry>
-    <id>https://www.federalregister.gov/documents/2025/12/05/2025-21990/self-regulatory-organizations-miax-sapphire-llc-notice-of-filing-of-amendment-no-1-and-order</id>
-    <title>Self-Regulatory Organizations; MIAX Sapphire, LLC; Notice of Filing of Amendment No. 1 and Order Instituting Proceedings To Determine Whether To Approve or Disapprove a Proposed Rule Change, as Modified by Amendment No. 1, To Amend Exchange Rule 527</title>
-    <updated>2025-12-05T00:00:00+00:00</updated>
-    <content>Source: National Securities Exchanges
-Date: 2025-12-05</content>
-    <link href="https://www.federalregister.gov/documents/2025/12/05/2025-21990/self-regulatory-organizations-miax-sapphire-llc-notice-of-filing-of-amendment-no-1-and-order"/>
-    <published>2025-12-05T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.federalregister.gov/documents/2025/12/08/2025-22144/self-regulatory-organizations-cboe-edgx-exchange-inc-notice-of-designation-of-a-longer-period-for</id>
-    <title>Self-Regulatory Organizations; Cboe EDGX Exchange, Inc.; Notice of Designation of a Longer Period for Commission Action on Proceedings To Determine Whether To Approve or Disapprove a Proposed Rule Change, as Modified by Amendment No. 1, To Amend Rule 11.21 To Allow a Retail Member Organization To Enter a Retail Order Onto the Exchange in a Principal Capacity</title>
-    <updated>2025-12-08T00:00:00+00:00</updated>
-    <content>Source: National Securities Exchanges
-Date: 2025-12-08</content>
-    <link href="https://www.federalregister.gov/documents/2025/12/08/2025-22144/self-regulatory-organizations-cboe-edgx-exchange-inc-notice-of-designation-of-a-longer-period-for"/>
-    <published>2025-12-08T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.federalregister.gov/documents/2025/12/09/2025-22303/self-regulatory-organizations-cboe-bzx-exchange-inc-order-instituting-proceedings-to-determine</id>
-    <title>Self-Regulatory Organizations; Cboe BZX Exchange, Inc.; Order Instituting Proceedings To Determine Whether To Approve or Disapprove a Proposed Rule Change To List and Trade Shares of the Canary Staked SEI ETF Under BZX Rule 14.11(e)(4), Commodity-Based Trust Shares</title>
-    <updated>2025-12-09T00:00:00+00:00</updated>
-    <content>Source: National Securities Exchanges
-Date: 2025-12-09</content>
-    <link href="https://www.federalregister.gov/documents/2025/12/09/2025-22303/self-regulatory-organizations-cboe-bzx-exchange-inc-order-instituting-proceedings-to-determine"/>
-    <published>2025-12-09T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>https://www.federalregister.gov/documents/2025/12/10/2025-22398/self-regulatory-organizations-the-nasdaq-stock-market-llc-notice-of-filing-of-amendment-no-1-and</id>
     <title>Self-Regulatory Organizations; The Nasdaq Stock Market LLC; Notice of Filing of Amendment No. 1 and Order Granting Accelerated Approval of a Proposed Rule Change, as Modified by Amendment No. 1, To Amend the Application of the Minimum Bid Price Rule in Situations Where a Security Does Not Maintain a Closing Bid Price of Greater Than $0.10 for Ten Consecutive Business Days</title>
@@ -159,5 +132,32 @@ Date: 2025-12-18</content>
 Date: 2025-12-19</content>
     <link href="https://www.federalregister.gov/documents/2025/12/19/2025-23333/self-regulatory-organizations-fixed-income-clearing-corporation-order-approving-a-proposed-rule"/>
     <published>2025-12-19T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.federalregister.gov/documents/2025/12/22/2025-23531/self-regulatory-organizations-cboe-exchange-inc-notice-of-filing-of-a-proposed-rule-change-to</id>
+    <title>Self-Regulatory Organizations; Cboe Exchange, Inc.; Notice of Filing of a Proposed Rule Change To Proposes To Amend Rules 5.37, 5.39, 5.73, and 5.74 To Permit Orders for the Accounts of Market-Makers With an Appointment in the Applicable Class on the Exchange, in all Classes, To Be Solicited for the Initiating Order Submitted for Execution Against an Agency Order Into a Simple AIM, Simple SAM, FLEX AIM or FLEX SAM Auction</title>
+    <updated>2025-12-22T00:00:00+00:00</updated>
+    <content>Source: National Securities Exchanges
+Date: 2025-12-22</content>
+    <link href="https://www.federalregister.gov/documents/2025/12/22/2025-23531/self-regulatory-organizations-cboe-exchange-inc-notice-of-filing-of-a-proposed-rule-change-to"/>
+    <published>2025-12-22T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.federalregister.gov/documents/2025/12/22/2025-23533/self-regulatory-organizations-cboe-exchange-inc-order-instituting-proceedings-to-determine-whether</id>
+    <title>Self-Regulatory Organizations; Cboe Exchange, Inc.; Order Instituting Proceedings To Determine Whether To Approve or Disapprove a Proposed Rule Change To Amend Rule 5.4 to Change the Minimum Increment for Options on the Cboe Magnificent 10 Index</title>
+    <updated>2025-12-22T00:00:00+00:00</updated>
+    <content>Source: National Securities Exchanges
+Date: 2025-12-22</content>
+    <link href="https://www.federalregister.gov/documents/2025/12/22/2025-23533/self-regulatory-organizations-cboe-exchange-inc-order-instituting-proceedings-to-determine-whether"/>
+    <published>2025-12-22T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.federalregister.gov/documents/2025/12/22/2025-23534/self-regulatory-organizations-cboe-exchange-inc-order-instituting-proceedings-to-determine-whether</id>
+    <title>Self-Regulatory Organizations; Cboe Exchange, Inc.; Order Instituting Proceedings To Determine Whether To Approve or Disapprove a Proposed Rule Change To Amend Functionality Relating to the Processing of Auction Responses</title>
+    <updated>2025-12-22T00:00:00+00:00</updated>
+    <content>Source: National Securities Exchanges
+Date: 2025-12-22</content>
+    <link href="https://www.federalregister.gov/documents/2025/12/22/2025-23534/self-regulatory-organizations-cboe-exchange-inc-order-instituting-proceedings-to-determine-whether"/>
+    <published>2025-12-22T00:00:00+00:00</published>
   </entry>
 </feed>
