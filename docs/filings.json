@@ -1,7 +1,103 @@
 {
-  "updated": "2025-12-23T06:21:47.436742+00:00",
-  "count": 17,
+  "updated": "2025-12-23T12:27:12.374724+00:00",
+  "count": 27,
   "filings": [
+    {
+      "id": "115fefb7e88c",
+      "title": "Privacy Act of 1974; System of Records",
+      "url": "https://www.federalregister.gov/documents/2025/12/23/2025-23771/privacy-act-of-1974-system-of-records",
+      "date": "2025-12-23",
+      "description": "In accordance with the Privacy Act of 1974 and Office of Management and Budget (\"OMB\") Circular A-108, the Securities and Exchange Commission (\"Commission\" or \"SEC\") is proposing a modification to its system of records notice (SORN), SEC-06, SEC's Financial and Acquisition Management System (\"SEC-06\"). This proposed update introduces a new routine use to comply with Executive Order (E.O.) 14249, Protecting America's Bank Account Against Fraud, Waste, and Abuse. The change supports enhanced efforts to safeguard federal financial systems and ensure responsible stewardship of public funds. The modified SORN does not change the categories of individuals, the record collection process, the authorities, or the purpose of collection. It also does not affect individuals' rights to access or amend their records under the Privacy Act.",
+      "source": "national-securities-exchanges"
+    },
+    {
+      "id": "af403e6062eb",
+      "title": "Agency Information Collection Activities; Proposed Collection; Comment Request; Extension: Rule 19b-5 and Form PILOT",
+      "url": "https://www.federalregister.gov/documents/2025/12/23/2025-23736/agency-information-collection-activities-proposed-collection-comment-request-extension-rule-19b-5",
+      "date": "2025-12-23",
+      "description": "",
+      "source": "national-securities-exchanges"
+    },
+    {
+      "id": "39a98538507c",
+      "title": "Agency Information Collection Activities; Proposed Collection; Comment Request; Extension: Rule 302",
+      "url": "https://www.federalregister.gov/documents/2025/12/23/2025-23686/agency-information-collection-activities-proposed-collection-comment-request-extension-rule-302",
+      "date": "2025-12-23",
+      "description": "",
+      "source": "national-securities-exchanges"
+    },
+    {
+      "id": "af69fce49b33",
+      "title": "Self-Regulatory Organizations; Cboe BZX Exchange, Inc.; Notice of Withdrawal of a Proposed Rule Change To Exempt Closed-End Management Investment Companies Registered Under the Investment Company Act of 1940 That are Listed as of or After May 20, 2025 From the Annual Meeting of Shareholders Requirement Set Forth in Exchange Rule 14.10(f)",
+      "url": "https://www.federalregister.gov/documents/2025/12/23/2025-23672/self-regulatory-organizations-cboe-bzx-exchange-inc-notice-of-withdrawal-of-a-proposed-rule-change",
+      "date": "2025-12-23",
+      "description": "",
+      "source": "national-securities-exchanges"
+    },
+    {
+      "id": "9030ace6cc0a",
+      "title": "Self-Regulatory Organizations; The Nasdaq Stock Market LLC; Nasdaq BX, Inc.; Nasdaq GEMX, LLC; Nasdaq MRX, LLC; Nasdaq PHLX LLC; Nasdaq ISE, LLC; Order Approving Proposed Rule Change To Amend the Amended and Restated Certificate of Incorporation and By-Laws of Parent Corporation, Nasdaq, Inc.",
+      "url": "https://www.federalregister.gov/documents/2025/12/23/2025-23668/self-regulatory-organizations-the-nasdaq-stock-market-llc-nasdaq-bx-inc-nasdaq-gemx-llc-nasdaq-mrx",
+      "date": "2025-12-23",
+      "description": "",
+      "source": "national-securities-exchanges"
+    },
+    {
+      "id": "e6e3b3271fa2",
+      "title": "Self-Regulatory Organizations; MIAX PEARL, LLC; Notice of Filing of a Proposed Rule Change To Amend Exchange Rule 402, Criteria for Underlying Securities, To List and Trade Options on Commodity-Based Trust Shares",
+      "url": "https://www.federalregister.gov/documents/2025/12/23/2025-23665/self-regulatory-organizations-miax-pearl-llc-notice-of-filing-of-a-proposed-rule-change-to-amend",
+      "date": "2025-12-23",
+      "description": "",
+      "source": "national-securities-exchanges"
+    },
+    {
+      "id": "b08a3417a8f5",
+      "title": "Self-Regulatory Organizations; Miami International Securities Exchange, LLC; Notice of Filing of a Proposed Rule Change To Amend Exchange Rule 402, Criteria for Underlying Securities, To Permit Options on Commodity-Based Trust Shares",
+      "url": "https://www.federalregister.gov/documents/2025/12/23/2025-23664/self-regulatory-organizations-miami-international-securities-exchange-llc-notice-of-filing-of-a",
+      "date": "2025-12-23",
+      "description": "",
+      "source": "national-securities-exchanges"
+    },
+    {
+      "id": "4d8f3e3482a4",
+      "title": "Self-Regulatory Organizations; Cboe Exchange, Inc.; Notice of Filing of Amendment No. 1 and Order Granting Accelerated Approval of a Proposed Rule Change, as Modified by Amendment No. 1, To Add P.M.-Settled Options on the Cboe Magnificent 10 Index With Third Friday Expirations, Nonstandard Expirations, and Quarterly Index Expirations",
+      "url": "https://www.federalregister.gov/documents/2025/12/23/2025-23662/self-regulatory-organizations-cboe-exchange-inc-notice-of-filing-of-amendment-no-1-and-order",
+      "date": "2025-12-23",
+      "description": "",
+      "source": "national-securities-exchanges"
+    },
+    {
+      "id": "8d972f81aef4",
+      "title": "Self-Regulatory Organizations; The Nasdaq Stock Market LLC; Order Instituting Proceedings To Determine Whether To Approve or Disapprove a Proposed Rule Change, as Modified by Amendment No. 1, To Adopt Additional Initial Listing Criteria for Companies Primarily Operating in China",
+      "url": "https://www.federalregister.gov/documents/2025/12/23/2025-23660/self-regulatory-organizations-the-nasdaq-stock-market-llc-order-instituting-proceedings-to-determine",
+      "date": "2025-12-23",
+      "description": "",
+      "source": "national-securities-exchanges"
+    },
+    {
+      "id": "32849881581b",
+      "title": "Self-Regulatory Organizations; MIAX Sapphire, LLC; Notice of Filing of a Proposed Rule Change To Amend Exchange Rule 516, Order Types, To Remove the Definition of a Route to Floor Order",
+      "url": "https://www.federalregister.gov/documents/2025/12/23/2025-23656/self-regulatory-organizations-miax-sapphire-llc-notice-of-filing-of-a-proposed-rule-change-to-amend",
+      "date": "2025-12-23",
+      "description": "",
+      "source": "national-securities-exchanges"
+    },
+    {
+      "id": "1481e6a10d2c",
+      "title": "Self-Regulatory Organizations; The Nasdaq Stock Market LLC; Notice of Filing of Amendment No. 1 and Order Granting Accelerated Approval of a Proposed Rule Change, as Modified by Amendment No. 1, To Modify Certain Initial Listing Requirements",
+      "url": "https://www.federalregister.gov/documents/2025/12/23/2025-23655/self-regulatory-organizations-the-nasdaq-stock-market-llc-notice-of-filing-of-amendment-no-1-and",
+      "date": "2025-12-23",
+      "description": "",
+      "source": "national-securities-exchanges"
+    },
+    {
+      "id": "ea94c7415451",
+      "title": "Self-Regulatory Organizations; MIAX Sapphire, LLC; Notice of Filing of a Proposed Rule Change To Amend Exchange Rule 402, Criteria for Underlying Securities, To List and Trade Options on Commodity-Based Trust Shares",
+      "url": "https://www.federalregister.gov/documents/2025/12/23/2025-23654/self-regulatory-organizations-miax-sapphire-llc-notice-of-filing-of-a-proposed-rule-change-to-amend",
+      "date": "2025-12-23",
+      "description": "",
+      "source": "national-securities-exchanges"
+    },
     {
       "id": "54d3a8ef8e21",
       "title": "Self-Regulatory Organizations; Cboe Exchange, Inc.; Order Instituting Proceedings To Determine Whether To Approve or Disapprove a Proposed Rule Change To Amend Functionality Relating to the Processing of Auction Responses",
@@ -119,22 +215,6 @@
       "title": "Self-Regulatory Organizations; The Options Clearing Corporation; Order Granting Approval of Proposed Rule Change by The Options Clearing Corporation Concerning Certain Revisions in Connection With Proposed Modifications to the Manner in Which OCC Accounts for the Guaranty Substitution Payment in OCC's Liquidity Risk Management Processes",
       "url": "https://www.federalregister.gov/documents/2025/12/12/2025-22614/self-regulatory-organizations-the-options-clearing-corporation-order-granting-approval-of-proposed",
       "date": "2025-12-12",
-      "description": "",
-      "source": "national-securities-exchanges"
-    },
-    {
-      "id": "e8ea30a4f014",
-      "title": "Self-Regulatory Organizations; The Nasdaq Stock Market LLC; Notice of Filing of Amendment No. 1 and Order Granting Accelerated Approval of a Proposed Rule Change, as Modified by Amendment No. 1, To Amend Certain Initial Listing Requirements for de-SPAC Transactions",
-      "url": "https://www.federalregister.gov/documents/2025/12/11/2025-22469/self-regulatory-organizations-the-nasdaq-stock-market-llc-notice-of-filing-of-amendment-no-1-and",
-      "date": "2025-12-11",
-      "description": "",
-      "source": "national-securities-exchanges"
-    },
-    {
-      "id": "0805d2ac68a2",
-      "title": "Self-Regulatory Organizations; The Nasdaq Stock Market LLC; Notice of Filing of Amendment No. 1 and Order Granting Accelerated Approval of a Proposed Rule Change, as Modified by Amendment No. 1, To Amend the Application of the Minimum Bid Price Rule in Situations Where a Security Does Not Maintain a Closing Bid Price of Greater Than $0.10 for Ten Consecutive Business Days",
-      "url": "https://www.federalregister.gov/documents/2025/12/10/2025-22398/self-regulatory-organizations-the-nasdaq-stock-market-llc-notice-of-filing-of-amendment-no-1-and",
-      "date": "2025-12-10",
       "description": "",
       "source": "national-securities-exchanges"
     }
