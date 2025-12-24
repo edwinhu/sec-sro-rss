@@ -1,7 +1,55 @@
 {
-  "updated": "2025-12-24T06:21:51.914095+00:00",
-  "count": 27,
+  "updated": "2025-12-24T12:26:16.926482+00:00",
+  "count": 30,
   "filings": [
+    {
+      "id": "7aee3647e3f3",
+      "title": "Self-Regulatory Organizations; Fixed Income Clearing Corporation; Notice of Filing and Extension of Review Period of Advance Notice To Amend and Restate the Second Amended and Restated Cross-Margining Agreement Between FICC and CME and Amend Related GSD Rules",
+      "url": "https://www.federalregister.gov/documents/2025/12/29/2025-23886/self-regulatory-organizations-fixed-income-clearing-corporation-notice-of-filing-and-extension-of",
+      "date": "2025-12-29",
+      "description": "",
+      "source": "national-securities-exchanges"
+    },
+    {
+      "id": "afd785eab503",
+      "title": "Self-Regulatory Organizations; Fixed Income Clearing Corporation; Notice of Filing of Proposed Rule Change To Amend and Restate the Second Amended and Restated Cross-Margining Agreement Between FICC and CME and Amend Related GSD Rules",
+      "url": "https://www.federalregister.gov/documents/2025/12/29/2025-23885/self-regulatory-organizations-fixed-income-clearing-corporation-notice-of-filing-of-proposed-rule",
+      "date": "2025-12-29",
+      "description": "",
+      "source": "national-securities-exchanges"
+    },
+    {
+      "id": "5f38f1707e45",
+      "title": "Self-Regulatory Organizations; Municipal Securities Rulemaking Board; Order Granting Approval of a Proposed Rule Change To Amend MSRB Rules A-11 and A-13 Pursuant to a Multi-Year Rate Card and To Make Related Technical Amendments",
+      "url": "https://www.federalregister.gov/documents/2025/12/29/2025-23821/self-regulatory-organizations-municipal-securities-rulemaking-board-order-granting-approval-of-a",
+      "date": "2025-12-29",
+      "description": "",
+      "source": "national-securities-exchanges"
+    },
+    {
+      "id": "85dc3f85df15",
+      "title": "Self-Regulatory Organizations; Cboe BZX Exchange, Inc.; Order Instituting Proceedings To Determine Whether To Approve or Disapprove a Proposed Rule Change To List and Trade Shares of the GraniteShares 4x Long Russell 1000 Daily ETF and the GraniteShares 4x Short Russell 1000 Daily ETF Under Rule 14.11(f)(4) (Trust Issued Receipts)",
+      "url": "https://www.federalregister.gov/documents/2025/12/29/2025-23820/self-regulatory-organizations-cboe-bzx-exchange-inc-order-instituting-proceedings-to-determine",
+      "date": "2025-12-29",
+      "description": "",
+      "source": "national-securities-exchanges"
+    },
+    {
+      "id": "be81928037a1",
+      "title": "Self-Regulatory Organizations; Cboe EDGX Exchange, Inc.; Order Instituting Proceedings To Determine Whether To Approve or Disapprove a Proposed Rule Change To Modify Rule 11.21 To Adopt a Retail Price Improvement Program and Modify Rule 11.6(e)(2) and Rule 11.10(a)(4)(C)-(D) in Order To Describe the Behavior of Orders Containing a Non-Displayed Instruction",
+      "url": "https://www.federalregister.gov/documents/2025/12/29/2025-23814/self-regulatory-organizations-cboe-edgx-exchange-inc-order-instituting-proceedings-to-determine",
+      "date": "2025-12-29",
+      "description": "",
+      "source": "national-securities-exchanges"
+    },
+    {
+      "id": "ed2844edf07b",
+      "title": "Self-Regulatory Organizations; MIAX PEARL, LLC; Notice of Filing of a Proposed Rule Change To Allow Post-Only Orders in Sub-Dollar Securities",
+      "url": "https://www.federalregister.gov/documents/2025/12/29/2025-23809/self-regulatory-organizations-miax-pearl-llc-notice-of-filing-of-a-proposed-rule-change-to-allow",
+      "date": "2025-12-29",
+      "description": "",
+      "source": "national-securities-exchanges"
+    },
     {
       "id": "115fefb7e88c",
       "title": "Privacy Act of 1974; System of Records",
@@ -191,30 +239,6 @@
       "title": "Self-Regulatory Organizations; LCH SA; Order Approving Proposed Rule Change Relating to Revisions to Terms of Reference of the Nomination Committee and Board of Directors",
       "url": "https://www.federalregister.gov/documents/2025/12/17/2025-23067/self-regulatory-organizations-lch-sa-order-approving-proposed-rule-change-relating-to-revisions-to",
       "date": "2025-12-17",
-      "description": "",
-      "source": "national-securities-exchanges"
-    },
-    {
-      "id": "da110f2cbf09",
-      "title": "Self-Regulatory Organizations; The Options Clearing Corporation; Notice of Filing of Partial Amendment No. 1 and Order Granting Accelerated Approval of Proposed Rule Change, as Modified by Partial Amendment No. 1, by The Options Clearing Corporation Concerning Methodology To Allocate Clearing Fund Deposit Requirements Among Its Clearing Members To Better Align the Allocation With the Sizing of the Clearing Fund so Stress Based Risk Is Fairly Allotted to Market Participants That Expose OCC to Such Stress Risk",
-      "url": "https://www.federalregister.gov/documents/2025/12/16/2025-22855/self-regulatory-organizations-the-options-clearing-corporation-notice-of-filing-of-partial-amendment",
-      "date": "2025-12-16",
-      "description": "",
-      "source": "national-securities-exchanges"
-    },
-    {
-      "id": "c379f9bc78e3",
-      "title": "Self-Regulatory Organizations; NYSE Arca, Inc.; Notice of Designation of a Longer Period for Commission Action on Proceedings To Determine Whether To Approve or Disapprove a Proposed Rule Change To List and Trade Units of the Sprott Physical Copper Trust",
-      "url": "https://www.federalregister.gov/documents/2025/12/12/2025-22615/self-regulatory-organizations-nyse-arca-inc-notice-of-designation-of-a-longer-period-for-commission",
-      "date": "2025-12-12",
-      "description": "",
-      "source": "national-securities-exchanges"
-    },
-    {
-      "id": "fea8fdadf453",
-      "title": "Self-Regulatory Organizations; The Options Clearing Corporation; Order Granting Approval of Proposed Rule Change by The Options Clearing Corporation Concerning Certain Revisions in Connection With Proposed Modifications to the Manner in Which OCC Accounts for the Guaranty Substitution Payment in OCC's Liquidity Risk Management Processes",
-      "url": "https://www.federalregister.gov/documents/2025/12/12/2025-22614/self-regulatory-organizations-the-options-clearing-corporation-order-granting-approval-of-proposed",
-      "date": "2025-12-12",
       "description": "",
       "source": "national-securities-exchanges"
     }
