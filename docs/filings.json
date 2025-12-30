@@ -1,7 +1,39 @@
 {
-  "updated": "2025-12-30T06:21:18.182226+00:00",
-  "count": 30,
+  "updated": "2025-12-30T12:27:31.882968+00:00",
+  "count": 33,
   "filings": [
+    {
+      "id": "d6a2c16583d2",
+      "title": "Self-Regulatory Organizations; Fixed Income Clearing Corporation; Order Approving Proposed Rule Change To Modify the GSD Rulebook Relating to a New Service Offering Called the ACS Triparty Service",
+      "url": "https://www.federalregister.gov/documents/2025/12/30/2025-23938/self-regulatory-organizations-fixed-income-clearing-corporation-order-approving-proposed-rule-change",
+      "date": "2025-12-30",
+      "description": "",
+      "source": "national-securities-exchanges"
+    },
+    {
+      "id": "cda3cc6938b7",
+      "title": "Self-Regulatory Organizations; New York Stock Exchange LLC; Notice of Filing of Proposed Rule Change To Adopt New Rule 8.201 (Generic)",
+      "url": "https://www.federalregister.gov/documents/2025/12/30/2025-23937/self-regulatory-organizations-new-york-stock-exchange-llc-notice-of-filing-of-proposed-rule-change",
+      "date": "2025-12-30",
+      "description": "",
+      "source": "national-securities-exchanges"
+    },
+    {
+      "id": "77a8dd44f8ca",
+      "title": "Self-Regulatory Organizations; NYSE Texas, Inc.; Notice of Filing of Proposed Rule Change To Adopt New Rule 8.201 (Generic)",
+      "url": "https://www.federalregister.gov/documents/2025/12/30/2025-23936/self-regulatory-organizations-nyse-texas-inc-notice-of-filing-of-proposed-rule-change-to-adopt-new",
+      "date": "2025-12-30",
+      "description": "",
+      "source": "national-securities-exchanges"
+    },
+    {
+      "id": "a335fb7bcdc6",
+      "title": "Self-Regulatory Organizations; The Depository Trust Company; Notice of Filing of Proposed Rule Change To Modify the DTC Settlement Service Guide and DTC Rules as They Relate to the DTC Net Debit Cap",
+      "url": "https://www.federalregister.gov/documents/2025/12/30/2025-23932/self-regulatory-organizations-the-depository-trust-company-notice-of-filing-of-proposed-rule-change",
+      "date": "2025-12-30",
+      "description": "",
+      "source": "national-securities-exchanges"
+    },
     {
       "id": "7aee3647e3f3",
       "title": "Self-Regulatory Organizations; Fixed Income Clearing Corporation; Notice of Filing and Extension of Review Period of Advance Notice To Amend and Restate the Second Amended and Restated Cross-Margining Agreement Between FICC and CME and Amend Related GSD Rules",
@@ -230,14 +262,6 @@
       "id": "b41c311c4d5d",
       "title": "Self-Regulatory Organizations; The Nasdaq Stock Market LLC; Order Instituting Proceedings To Determine Whether To Approve or Disapprove a Proposed Rule Change To Amend the Exchange's Rules To Enable the Trading of Securities on the Exchange in Tokenized Form",
       "url": "https://www.federalregister.gov/documents/2025/12/17/2025-23073/self-regulatory-organizations-the-nasdaq-stock-market-llc-order-instituting-proceedings-to-determine",
-      "date": "2025-12-17",
-      "description": "",
-      "source": "national-securities-exchanges"
-    },
-    {
-      "id": "bdfc3ef3d937",
-      "title": "Self-Regulatory Organizations; LCH SA; Order Approving Proposed Rule Change Relating to Revisions to Terms of Reference of the Nomination Committee and Board of Directors",
-      "url": "https://www.federalregister.gov/documents/2025/12/17/2025-23067/self-regulatory-organizations-lch-sa-order-approving-proposed-rule-change-relating-to-revisions-to",
       "date": "2025-12-17",
       "description": "",
       "source": "national-securities-exchanges"

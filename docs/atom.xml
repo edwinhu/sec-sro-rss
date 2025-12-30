@@ -2,20 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://github.com/edwinhu/sec-sro-rss</id>
   <title>SEC Self-Regulatory Organization Rulemaking</title>
-  <updated>2025-12-30T06:21:18.011103+00:00</updated>
+  <updated>2025-12-30T12:27:31.873591+00:00</updated>
   <link href="https://www.sec.gov/rules-regulations/self-regulatory-organization-rulemaking" rel="alternate"/>
   <link href="https://edwinhu.github.io/sec-sro-rss/feed.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Filtered SEC SRO filings (excludes immediate effectiveness notices and crypto)</subtitle>
-  <entry>
-    <id>https://www.federalregister.gov/documents/2025/12/17/2025-23067/self-regulatory-organizations-lch-sa-order-approving-proposed-rule-change-relating-to-revisions-to</id>
-    <title>Self-Regulatory Organizations; LCH SA; Order Approving Proposed Rule Change Relating to Revisions to Terms of Reference of the Nomination Committee and Board of Directors</title>
-    <updated>2025-12-17T00:00:00+00:00</updated>
-    <content>Source: National Securities Exchanges
-Date: 2025-12-17</content>
-    <link href="https://www.federalregister.gov/documents/2025/12/17/2025-23067/self-regulatory-organizations-lch-sa-order-approving-proposed-rule-change-relating-to-revisions-to"/>
-    <published>2025-12-17T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>https://www.federalregister.gov/documents/2025/12/17/2025-23073/self-regulatory-organizations-the-nasdaq-stock-market-llc-order-instituting-proceedings-to-determine</id>
     <title>Self-Regulatory Organizations; The Nasdaq Stock Market LLC; Order Instituting Proceedings To Determine Whether To Approve or Disapprove a Proposed Rule Change To Amend the Exchange's Rules To Enable the Trading of Securities on the Exchange in Tokenized Form</title>
@@ -277,5 +268,41 @@ Date: 2025-12-29</content>
 Date: 2025-12-29</content>
     <link href="https://www.federalregister.gov/documents/2025/12/29/2025-23886/self-regulatory-organizations-fixed-income-clearing-corporation-notice-of-filing-and-extension-of"/>
     <published>2025-12-29T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.federalregister.gov/documents/2025/12/30/2025-23932/self-regulatory-organizations-the-depository-trust-company-notice-of-filing-of-proposed-rule-change</id>
+    <title>Self-Regulatory Organizations; The Depository Trust Company; Notice of Filing of Proposed Rule Change To Modify the DTC Settlement Service Guide and DTC Rules as They Relate to the DTC Net Debit Cap</title>
+    <updated>2025-12-30T00:00:00+00:00</updated>
+    <content>Source: National Securities Exchanges
+Date: 2025-12-30</content>
+    <link href="https://www.federalregister.gov/documents/2025/12/30/2025-23932/self-regulatory-organizations-the-depository-trust-company-notice-of-filing-of-proposed-rule-change"/>
+    <published>2025-12-30T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.federalregister.gov/documents/2025/12/30/2025-23936/self-regulatory-organizations-nyse-texas-inc-notice-of-filing-of-proposed-rule-change-to-adopt-new</id>
+    <title>Self-Regulatory Organizations; NYSE Texas, Inc.; Notice of Filing of Proposed Rule Change To Adopt New Rule 8.201 (Generic)</title>
+    <updated>2025-12-30T00:00:00+00:00</updated>
+    <content>Source: National Securities Exchanges
+Date: 2025-12-30</content>
+    <link href="https://www.federalregister.gov/documents/2025/12/30/2025-23936/self-regulatory-organizations-nyse-texas-inc-notice-of-filing-of-proposed-rule-change-to-adopt-new"/>
+    <published>2025-12-30T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.federalregister.gov/documents/2025/12/30/2025-23937/self-regulatory-organizations-new-york-stock-exchange-llc-notice-of-filing-of-proposed-rule-change</id>
+    <title>Self-Regulatory Organizations; New York Stock Exchange LLC; Notice of Filing of Proposed Rule Change To Adopt New Rule 8.201 (Generic)</title>
+    <updated>2025-12-30T00:00:00+00:00</updated>
+    <content>Source: National Securities Exchanges
+Date: 2025-12-30</content>
+    <link href="https://www.federalregister.gov/documents/2025/12/30/2025-23937/self-regulatory-organizations-new-york-stock-exchange-llc-notice-of-filing-of-proposed-rule-change"/>
+    <published>2025-12-30T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.federalregister.gov/documents/2025/12/30/2025-23938/self-regulatory-organizations-fixed-income-clearing-corporation-order-approving-proposed-rule-change</id>
+    <title>Self-Regulatory Organizations; Fixed Income Clearing Corporation; Order Approving Proposed Rule Change To Modify the GSD Rulebook Relating to a New Service Offering Called the ACS Triparty Service</title>
+    <updated>2025-12-30T00:00:00+00:00</updated>
+    <content>Source: National Securities Exchanges
+Date: 2025-12-30</content>
+    <link href="https://www.federalregister.gov/documents/2025/12/30/2025-23938/self-regulatory-organizations-fixed-income-clearing-corporation-order-approving-proposed-rule-change"/>
+    <published>2025-12-30T00:00:00+00:00</published>
   </entry>
 </feed>
