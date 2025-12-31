@@ -1,7 +1,47 @@
 {
-  "updated": "2025-12-31T06:21:57.802330+00:00",
+  "updated": "2025-12-31T12:26:27.988336+00:00",
   "count": 33,
   "filings": [
+    {
+      "id": "d80b2231b098",
+      "title": "Self-Regulatory Organizations; Boston Stock Exchange Clearing Corporation; Stock Clearing Corporation of Philadelphia; Notice of Filing of Amendment No. 1 and Order Granting Accelerated Approval of Proposed Rule Change, as Modified by Amendment No. 1, by Boston Stock Exchange Clearing Corporation and Stock Clearing Corporation of Philadelphia To Amend the Amended and Restated Certificate of Incorporation and By-Laws of Parent Corporation, Nasdaq, Inc.",
+      "url": "https://www.federalregister.gov/documents/2025/12/31/2025-24057/self-regulatory-organizations-boston-stock-exchange-clearing-corporation-stock-clearing-corporation",
+      "date": "2025-12-31",
+      "description": "",
+      "source": "national-securities-exchanges"
+    },
+    {
+      "id": "2631dbd5d988",
+      "title": "Self-Regulatory Organizations; Cboe Exchange, Inc.; Order Instituting Proceedings To Determine Whether To Approve or Disapprove a Proposed Rule Change To Allow for Extended Trading of Multi-Listed Equity Options",
+      "url": "https://www.federalregister.gov/documents/2025/12/31/2025-24055/self-regulatory-organizations-cboe-exchange-inc-order-instituting-proceedings-to-determine-whether",
+      "date": "2025-12-31",
+      "description": "",
+      "source": "national-securities-exchanges"
+    },
+    {
+      "id": "e758bf0dec6a",
+      "title": "Self-Regulatory Organizations; Cboe Exchange, Inc.; Order Instituting Proceedings To Determine Whether To Approve or Disapprove a Proposed Rule Change To Amend Exchange Rule 5.4",
+      "url": "https://www.federalregister.gov/documents/2025/12/31/2025-24054/self-regulatory-organizations-cboe-exchange-inc-order-instituting-proceedings-to-determine-whether",
+      "date": "2025-12-31",
+      "description": "",
+      "source": "national-securities-exchanges"
+    },
+    {
+      "id": "77c77e7b88ce",
+      "title": "Joint Industry Plan; Notice of Filing of Amendment to the National Market System Plan Governing the Consolidated Audit Trail To Further Reduce the Costs of the Consolidated Audit Trail",
+      "url": "https://www.federalregister.gov/documents/2025/12/31/2025-24050/joint-industry-plan-notice-of-filing-of-amendment-to-the-national-market-system-plan-governing-the",
+      "date": "2025-12-31",
+      "description": "",
+      "source": "national-securities-exchanges"
+    },
+    {
+      "id": "db82679af336",
+      "title": "Self-Regulatory Organizations; Cboe BZX Exchange, Inc.; Notice of Filing of a Proposed Rule Change To Amend Exchange Rule 11.23(d)(2)(B) (Extending the Quote-Only Period for Initial Public Offering (\u201cIPO\u201d) Auctions)",
+      "url": "https://www.federalregister.gov/documents/2025/12/31/2025-24047/self-regulatory-organizations-cboe-bzx-exchange-inc-notice-of-filing-of-a-proposed-rule-change-to",
+      "date": "2025-12-31",
+      "description": "",
+      "source": "national-securities-exchanges"
+    },
     {
       "id": "d6a2c16583d2",
       "title": "Self-Regulatory Organizations; Fixed Income Clearing Corporation; Order Approving Proposed Rule Change To Modify the GSD Rulebook Relating to a New Service Offering Called the ACS Triparty Service",
@@ -223,46 +263,6 @@
       "title": "Self-Regulatory Organizations; ICE Clear Credit LLC; Notice of Filing of Proposed Rule Change Relating to the ICC Risk Management Framework, ICC Risk Management Model Description, and ICC End-of-Day Price Discovery Policies and Procedures",
       "url": "https://www.federalregister.gov/documents/2025/12/18/2025-23244/self-regulatory-organizations-ice-clear-credit-llc-notice-of-filing-of-proposed-rule-change-relating",
       "date": "2025-12-18",
-      "description": "",
-      "source": "national-securities-exchanges"
-    },
-    {
-      "id": "1adc1b099307",
-      "title": "Self-Regulatory Organizations; ICE Clear Credit LLC; Notice of Filing of Proposed Rule Change Relating to the ICC Stress Testing Framework and the ICC Liquidity Risk Management Framework",
-      "url": "https://www.federalregister.gov/documents/2025/12/18/2025-23233/self-regulatory-organizations-ice-clear-credit-llc-notice-of-filing-of-proposed-rule-change-relating",
-      "date": "2025-12-18",
-      "description": "",
-      "source": "national-securities-exchanges"
-    },
-    {
-      "id": "d18ee8b2a2f9",
-      "title": "Self-Regulatory Organizations; the Options Clearing Corporation; Notice of Filing of Partial Amendment No. 1 and Order Granting Accelerated Approval of Proposed Rule Change, as Modified by Partial Amendment No. 1, by the Options Clearing Corporation Concerning Adjustments to Cleared Contracts",
-      "url": "https://www.federalregister.gov/documents/2025/12/17/2025-23077/self-regulatory-organizations-the-options-clearing-corporation-notice-of-filing-of-partial-amendment",
-      "date": "2025-12-17",
-      "description": "",
-      "source": "national-securities-exchanges"
-    },
-    {
-      "id": "45db2af1dc87",
-      "title": "Self-Regulatory Organizations; NYSE American LLC; Notice of Filing of Proposed Rule Change To Amend Section 1003 of the NYSE American Company Guide",
-      "url": "https://www.federalregister.gov/documents/2025/12/17/2025-23075/self-regulatory-organizations-nyse-american-llc-notice-of-filing-of-proposed-rule-change-to-amend",
-      "date": "2025-12-17",
-      "description": "",
-      "source": "national-securities-exchanges"
-    },
-    {
-      "id": "f39f1cde0766",
-      "title": "Self-Regulatory Organizations; New York Stock Exchange LLC; Notice of Filing of Proposed Rule Change To Amend Section 802.01C of the NYSE Listed Company Manual",
-      "url": "https://www.federalregister.gov/documents/2025/12/17/2025-23074/self-regulatory-organizations-new-york-stock-exchange-llc-notice-of-filing-of-proposed-rule-change",
-      "date": "2025-12-17",
-      "description": "",
-      "source": "national-securities-exchanges"
-    },
-    {
-      "id": "b41c311c4d5d",
-      "title": "Self-Regulatory Organizations; The Nasdaq Stock Market LLC; Order Instituting Proceedings To Determine Whether To Approve or Disapprove a Proposed Rule Change To Amend the Exchange's Rules To Enable the Trading of Securities on the Exchange in Tokenized Form",
-      "url": "https://www.federalregister.gov/documents/2025/12/17/2025-23073/self-regulatory-organizations-the-nasdaq-stock-market-llc-order-instituting-proceedings-to-determine",
-      "date": "2025-12-17",
       "description": "",
       "source": "national-securities-exchanges"
     }
