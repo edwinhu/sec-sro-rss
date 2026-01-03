@@ -1,7 +1,15 @@
 {
-  "updated": "2026-01-03T06:20:21.344692+00:00",
-  "count": 33,
+  "updated": "2026-01-03T12:23:46.439066+00:00",
+  "count": 32,
   "filings": [
+    {
+      "id": "8d8e9fe0c27d",
+      "title": "Self-Regulatory Organizations; LCH SA; Notice of Filing of Proposed Rule Change Relating to LCH SA's Default Management Policy, Investment Risk Policy, Liquidity Risk Policy, Settlement, Payment and Custody Risk Policy, Model Governance, Validation and Review Policy and Contract and Market Acceptability Policy",
+      "url": "https://www.federalregister.gov/documents/2026/01/05/2025-24228/self-regulatory-organizations-lch-sa-notice-of-filing-of-proposed-rule-change-relating-to-lch-sas",
+      "date": "2026-01-05",
+      "description": "",
+      "source": "national-securities-exchanges"
+    },
     {
       "id": "d80b2231b098",
       "title": "Self-Regulatory Organizations; Boston Stock Exchange Clearing Corporation; Stock Clearing Corporation of Philadelphia; Notice of Filing of Amendment No. 1 and Order Granting Accelerated Approval of Proposed Rule Change, as Modified by Amendment No. 1, by Boston Stock Exchange Clearing Corporation and Stock Clearing Corporation of Philadelphia To Amend the Amended and Restated Certificate of Incorporation and By-Laws of Parent Corporation, Nasdaq, Inc.",
@@ -247,22 +255,6 @@
       "title": "Self-Regulatory Organizations; Fixed Income Clearing Corporation; Order Approving a Proposed Rule Change, as Modified by Amendment No. 1, To Modify the GSD Rulebook Relating to Default Management and Porting With Respect to Indirect Participant Activity",
       "url": "https://www.federalregister.gov/documents/2025/12/19/2025-23333/self-regulatory-organizations-fixed-income-clearing-corporation-order-approving-a-proposed-rule",
       "date": "2025-12-19",
-      "description": "",
-      "source": "national-securities-exchanges"
-    },
-    {
-      "id": "299722d51f5c",
-      "title": "Self-Regulatory Organizations; Fixed Income Clearing Corporation; Order Approving Proposed Rule Change, as Modified by Partial Amendment No. 1, To Establish a New Collateral-in-Lieu Offering Within the Sponsored GC Service, and Expand the Sponsored GC Service To Allow a Sponsoring Member To Submit for Clearing a \u201cDone-Away\u201d Sponsored GC Trade",
-      "url": "https://www.federalregister.gov/documents/2025/12/18/2025-23285/self-regulatory-organizations-fixed-income-clearing-corporation-order-approving-proposed-rule-change",
-      "date": "2025-12-18",
-      "description": "",
-      "source": "national-securities-exchanges"
-    },
-    {
-      "id": "95e1bd2960c1",
-      "title": "Self-Regulatory Organizations; ICE Clear Credit LLC; Notice of Filing of Proposed Rule Change Relating to the ICC Risk Management Framework, ICC Risk Management Model Description, and ICC End-of-Day Price Discovery Policies and Procedures",
-      "url": "https://www.federalregister.gov/documents/2025/12/18/2025-23244/self-regulatory-organizations-ice-clear-credit-llc-notice-of-filing-of-proposed-rule-change-relating",
-      "date": "2025-12-18",
       "description": "",
       "source": "national-securities-exchanges"
     }

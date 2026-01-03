@@ -8,23 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 03 Jan 2026 06:20:21 +0000</lastBuildDate>
-    <item>
-      <title>Self-Regulatory Organizations; ICE Clear Credit LLC; Notice of Filing of Proposed Rule Change Relating to the ICC Risk Management Framework, ICC Risk Management Model Description, and ICC End-of-Day Price Discovery Policies and Procedures</title>
-      <link>https://www.federalregister.gov/documents/2025/12/18/2025-23244/self-regulatory-organizations-ice-clear-credit-llc-notice-of-filing-of-proposed-rule-change-relating</link>
-      <description>Source: National Securities Exchanges
-Date: 2025-12-18</description>
-      <guid isPermaLink="false">https://www.federalregister.gov/documents/2025/12/18/2025-23244/self-regulatory-organizations-ice-clear-credit-llc-notice-of-filing-of-proposed-rule-change-relating</guid>
-      <pubDate>Thu, 18 Dec 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Self-Regulatory Organizations; Fixed Income Clearing Corporation; Order Approving Proposed Rule Change, as Modified by Partial Amendment No. 1, To Establish a New Collateral-in-Lieu Offering Within the Sponsored GC Service, and Expand the Sponsored GC Service To Allow a Sponsoring Member To Submit for Clearing a “Done-Away” Sponsored GC Trade</title>
-      <link>https://www.federalregister.gov/documents/2025/12/18/2025-23285/self-regulatory-organizations-fixed-income-clearing-corporation-order-approving-proposed-rule-change</link>
-      <description>Source: National Securities Exchanges
-Date: 2025-12-18</description>
-      <guid isPermaLink="false">https://www.federalregister.gov/documents/2025/12/18/2025-23285/self-regulatory-organizations-fixed-income-clearing-corporation-order-approving-proposed-rule-change</guid>
-      <pubDate>Thu, 18 Dec 2025 00:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 03 Jan 2026 12:23:46 +0000</lastBuildDate>
     <item>
       <title>Self-Regulatory Organizations; Fixed Income Clearing Corporation; Order Approving a Proposed Rule Change, as Modified by Amendment No. 1, To Modify the GSD Rulebook Relating to Default Management and Porting With Respect to Indirect Participant Activity</title>
       <link>https://www.federalregister.gov/documents/2025/12/19/2025-23333/self-regulatory-organizations-fixed-income-clearing-corporation-order-approving-a-proposed-rule</link>
@@ -273,6 +257,14 @@ Date: 2025-12-31</description>
 Date: 2025-12-31</description>
       <guid isPermaLink="false">https://www.federalregister.gov/documents/2025/12/31/2025-24057/self-regulatory-organizations-boston-stock-exchange-clearing-corporation-stock-clearing-corporation</guid>
       <pubDate>Wed, 31 Dec 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Self-Regulatory Organizations; LCH SA; Notice of Filing of Proposed Rule Change Relating to LCH SA's Default Management Policy, Investment Risk Policy, Liquidity Risk Policy, Settlement, Payment and Custody Risk Policy, Model Governance, Validation and Review Policy and Contract and Market Acceptability Policy</title>
+      <link>https://www.federalregister.gov/documents/2026/01/05/2025-24228/self-regulatory-organizations-lch-sa-notice-of-filing-of-proposed-rule-change-relating-to-lch-sas</link>
+      <description>Source: National Securities Exchanges
+Date: 2026-01-05</description>
+      <guid isPermaLink="false">https://www.federalregister.gov/documents/2026/01/05/2025-24228/self-regulatory-organizations-lch-sa-notice-of-filing-of-proposed-rule-change-relating-to-lch-sas</guid>
+      <pubDate>Mon, 05 Jan 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
