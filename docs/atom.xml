@@ -2,20 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://github.com/edwinhu/sec-sro-rss</id>
   <title>SEC Self-Regulatory Organization Rulemaking</title>
-  <updated>2026-01-07T06:21:57.861424+00:00</updated>
+  <updated>2026-01-07T12:28:44.294057+00:00</updated>
   <link href="https://www.sec.gov/rules-regulations/self-regulatory-organization-rulemaking" rel="alternate"/>
   <link href="https://edwinhu.github.io/sec-sro-rss/feed.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Filtered SEC SRO filings (excludes immediate effectiveness notices and crypto)</subtitle>
-  <entry>
-    <id>https://www.federalregister.gov/documents/2025/12/19/2025-23333/self-regulatory-organizations-fixed-income-clearing-corporation-order-approving-a-proposed-rule</id>
-    <title>Self-Regulatory Organizations; Fixed Income Clearing Corporation; Order Approving a Proposed Rule Change, as Modified by Amendment No. 1, To Modify the GSD Rulebook Relating to Default Management and Porting With Respect to Indirect Participant Activity</title>
-    <updated>2025-12-19T00:00:00+00:00</updated>
-    <content>Source: National Securities Exchanges
-Date: 2025-12-19</content>
-    <link href="https://www.federalregister.gov/documents/2025/12/19/2025-23333/self-regulatory-organizations-fixed-income-clearing-corporation-order-approving-a-proposed-rule"/>
-    <published>2025-12-19T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>https://www.federalregister.gov/documents/2025/12/22/2025-23531/self-regulatory-organizations-cboe-exchange-inc-notice-of-filing-of-a-proposed-rule-change-to</id>
     <title>Self-Regulatory Organizations; Cboe Exchange, Inc.; Notice of Filing of a Proposed Rule Change To Proposes To Amend Rules 5.37, 5.39, 5.73, and 5.74 To Permit Orders for the Accounts of Market-Makers With an Appointment in the Applicable Class on the Exchange, in all Classes, To Be Solicited for the Initiating Order Submitted for Execution Against an Agency Order Into a Simple AIM, Simple SAM, FLEX AIM or FLEX SAM Auction</title>
