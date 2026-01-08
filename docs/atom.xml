@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://github.com/edwinhu/sec-sro-rss</id>
   <title>SEC Self-Regulatory Organization Rulemaking</title>
-  <updated>2026-01-08T06:22:10.010389+00:00</updated>
+  <updated>2026-01-08T12:29:05.836937+00:00</updated>
   <link href="https://www.sec.gov/rules-regulations/self-regulatory-organization-rulemaking" rel="alternate"/>
   <link href="https://edwinhu.github.io/sec-sro-rss/feed.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -286,5 +286,23 @@ Date: 2025-12-31</content>
 Date: 2026-01-05</content>
     <link href="https://www.federalregister.gov/documents/2026/01/05/2025-24228/self-regulatory-organizations-lch-sa-notice-of-filing-of-proposed-rule-change-relating-to-lch-sas"/>
     <published>2026-01-05T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.federalregister.gov/documents/2026/01/08/2026-00116/self-regulatory-organizations-nasdaq-ise-llc-notice-of-designation-of-a-longer-period-for-commission</id>
+    <title>Self-Regulatory Organizations; Nasdaq ISE, LLC; Notice of Designation of a Longer Period for Commission Action on a Proposed Rule Change To Amend the Position and Exercise Limits for IBIT Options and FLEX Trading</title>
+    <updated>2026-01-08T00:00:00+00:00</updated>
+    <content>Source: National Securities Exchanges
+Date: 2026-01-08</content>
+    <link href="https://www.federalregister.gov/documents/2026/01/08/2026-00116/self-regulatory-organizations-nasdaq-ise-llc-notice-of-designation-of-a-longer-period-for-commission"/>
+    <published>2026-01-08T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.federalregister.gov/documents/2026/01/08/2026-00142/self-regulatory-organizations-24x-national-exchange-llc-notice-of-filing-of-a-proposed-rule-change</id>
+    <title>Self-Regulatory Organizations; 24X National Exchange LLC; Notice of Filing of a Proposed Rule Change To Further Extend the Temporary Exemption From the Ownership and Voting Limitations in the Limited Liability Agreement of 24X Bermuda Holdings LLC</title>
+    <updated>2026-01-08T00:00:00+00:00</updated>
+    <content>Source: National Securities Exchanges
+Date: 2026-01-08</content>
+    <link href="https://www.federalregister.gov/documents/2026/01/08/2026-00142/self-regulatory-organizations-24x-national-exchange-llc-notice-of-filing-of-a-proposed-rule-change"/>
+    <published>2026-01-08T00:00:00+00:00</published>
   </entry>
 </feed>

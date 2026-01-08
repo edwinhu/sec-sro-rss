@@ -1,7 +1,23 @@
 {
-  "updated": "2026-01-08T06:22:10.031422+00:00",
-  "count": 31,
+  "updated": "2026-01-08T12:29:05.905285+00:00",
+  "count": 33,
   "filings": [
+    {
+      "id": "18d80ccca600",
+      "title": "Self-Regulatory Organizations; 24X National Exchange LLC; Notice of Filing of a Proposed Rule Change To Further Extend the Temporary Exemption From the Ownership and Voting Limitations in the Limited Liability Agreement of 24X Bermuda Holdings LLC",
+      "url": "https://www.federalregister.gov/documents/2026/01/08/2026-00142/self-regulatory-organizations-24x-national-exchange-llc-notice-of-filing-of-a-proposed-rule-change",
+      "date": "2026-01-08",
+      "description": "",
+      "source": "national-securities-exchanges"
+    },
+    {
+      "id": "8a50a5da5979",
+      "title": "Self-Regulatory Organizations; Nasdaq ISE, LLC; Notice of Designation of a Longer Period for Commission Action on a Proposed Rule Change To Amend the Position and Exercise Limits for IBIT Options and FLEX Trading",
+      "url": "https://www.federalregister.gov/documents/2026/01/08/2026-00116/self-regulatory-organizations-nasdaq-ise-llc-notice-of-designation-of-a-longer-period-for-commission",
+      "date": "2026-01-08",
+      "description": "",
+      "source": "national-securities-exchanges"
+    },
     {
       "id": "8d8e9fe0c27d",
       "title": "Self-Regulatory Organizations; LCH SA; Notice of Filing of Proposed Rule Change Relating to LCH SA's Default Management Policy, Investment Risk Policy, Liquidity Risk Policy, Settlement, Payment and Custody Risk Policy, Model Governance, Validation and Review Policy and Contract and Market Acceptability Policy",
