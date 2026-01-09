@@ -1,7 +1,31 @@
 {
-  "updated": "2026-01-09T06:22:04.345563+00:00",
-  "count": 33,
+  "updated": "2026-01-09T12:27:44.942067+00:00",
+  "count": 36,
   "filings": [
+    {
+      "id": "a14fd564d559",
+      "title": "Agency Information Collection Activities; Proposed Collection; Comment Request; Extension: Rule 19b-4 and Form 19b-4",
+      "url": "https://www.federalregister.gov/documents/2026/01/09/2026-00276/agency-information-collection-activities-proposed-collection-comment-request-extension-rule-19b-4",
+      "date": "2026-01-09",
+      "description": "",
+      "source": "national-securities-exchanges"
+    },
+    {
+      "id": "53e331803b31",
+      "title": "Self-Regulatory Organizations; Cboe BZX Exchange, Inc.; Notice of Filing of Designation of a Longer Period for Commission Action on Proceedings To Determine Whether To Approve or Disapprove a Proposed Rule Change To Amend Rule 11.9(d) To Permit an Intermarket Sweep Order Containing a Time-in-Force Other Than IOC To Be Entered as a Non-Displayed Order",
+      "url": "https://www.federalregister.gov/documents/2026/01/09/2026-00218/self-regulatory-organizations-cboe-bzx-exchange-inc-notice-of-filing-of-designation-of-a-longer",
+      "date": "2026-01-09",
+      "description": "",
+      "source": "national-securities-exchanges"
+    },
+    {
+      "id": "ba152b544c51",
+      "title": "Self-Regulatory Organizations; New York Stock Exchange LLC; Notice of Withdrawal of a Proposed Rule Change Amending Section 302.00 of the NYSE Listed Company Manual To Exempt Closed-End Funds Registered Under the Investment Company Act of 1940 From the Requirement To Hold Annual Shareholder Meetings",
+      "url": "https://www.federalregister.gov/documents/2026/01/09/2026-00217/self-regulatory-organizations-new-york-stock-exchange-llc-notice-of-withdrawal-of-a-proposed-rule",
+      "date": "2026-01-09",
+      "description": "",
+      "source": "national-securities-exchanges"
+    },
     {
       "id": "18d80ccca600",
       "title": "Self-Regulatory Organizations; 24X National Exchange LLC; Notice of Filing of a Proposed Rule Change To Further Extend the Temporary Exemption From the Ownership and Voting Limitations in the Limited Liability Agreement of 24X Bermuda Holdings LLC",
