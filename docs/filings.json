@@ -1,7 +1,15 @@
 {
-  "updated": "2026-01-10T06:19:23.753191+00:00",
-  "count": 36,
+  "updated": "2026-01-10T12:24:19.588147+00:00",
+  "count": 37,
   "filings": [
+    {
+      "id": "f838f2985610",
+      "title": "Self-Regulatory Organizations; Cboe BZX Exchange, Inc.; Notice of Designation of a Longer Period for Commission Action on Proceedings To Determine Whether To Approve or Disapprove a Proposed Rule Change, as Modified by Amendment No. 2, To List and Trade Shares of the Canary PENGU ETF Under BZX Rule 14.11(e)(4), Commodity-Based Trust Shares",
+      "url": "https://www.federalregister.gov/documents/2026/01/12/2026-00294/self-regulatory-organizations-cboe-bzx-exchange-inc-notice-of-designation-of-a-longer-period-for",
+      "date": "2026-01-12",
+      "description": "",
+      "source": "national-securities-exchanges"
+    },
     {
       "id": "a14fd564d559",
       "title": "Agency Information Collection Activities; Proposed Collection; Comment Request; Extension: Rule 19b-4 and Form 19b-4",

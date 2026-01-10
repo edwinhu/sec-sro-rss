@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://github.com/edwinhu/sec-sro-rss</id>
   <title>SEC Self-Regulatory Organization Rulemaking</title>
-  <updated>2026-01-10T06:19:23.734959+00:00</updated>
+  <updated>2026-01-10T12:24:19.567890+00:00</updated>
   <link href="https://www.sec.gov/rules-regulations/self-regulatory-organization-rulemaking" rel="alternate"/>
   <link href="https://edwinhu.github.io/sec-sro-rss/feed.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -331,5 +331,14 @@ Date: 2026-01-09</content>
 Date: 2026-01-09</content>
     <link href="https://www.federalregister.gov/documents/2026/01/09/2026-00276/agency-information-collection-activities-proposed-collection-comment-request-extension-rule-19b-4"/>
     <published>2026-01-09T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.federalregister.gov/documents/2026/01/12/2026-00294/self-regulatory-organizations-cboe-bzx-exchange-inc-notice-of-designation-of-a-longer-period-for</id>
+    <title>Self-Regulatory Organizations; Cboe BZX Exchange, Inc.; Notice of Designation of a Longer Period for Commission Action on Proceedings To Determine Whether To Approve or Disapprove a Proposed Rule Change, as Modified by Amendment No. 2, To List and Trade Shares of the Canary PENGU ETF Under BZX Rule 14.11(e)(4), Commodity-Based Trust Shares</title>
+    <updated>2026-01-12T00:00:00+00:00</updated>
+    <content>Source: National Securities Exchanges
+Date: 2026-01-12</content>
+    <link href="https://www.federalregister.gov/documents/2026/01/12/2026-00294/self-regulatory-organizations-cboe-bzx-exchange-inc-notice-of-designation-of-a-longer-period-for"/>
+    <published>2026-01-12T00:00:00+00:00</published>
   </entry>
 </feed>
