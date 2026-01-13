@@ -1,7 +1,23 @@
 {
-  "updated": "2026-01-13T06:21:56.599678+00:00",
-  "count": 37,
+  "updated": "2026-01-13T12:29:15.658994+00:00",
+  "count": 34,
   "filings": [
+    {
+      "id": "a946fcf0d798",
+      "title": "Self-Regulatory Organizations; ICE Clear Credit LLC; Notice of Filing of Proposed Rule Change Relating to the ICC Collateral Risk Management Framework",
+      "url": "https://www.federalregister.gov/documents/2026/01/13/2026-00427/self-regulatory-organizations-ice-clear-credit-llc-notice-of-filing-of-proposed-rule-change-relating",
+      "date": "2026-01-13",
+      "description": "",
+      "source": "national-securities-exchanges"
+    },
+    {
+      "id": "28cdb5e73a3c",
+      "title": "Self-Regulatory Organizations; The Nasdaq Stock Market LLC; Notice of Filing of Proposed Rule Change To Extend the Exchange's U.S. Equities Trading Hours to 23 Hours a Day, Five Days a Week",
+      "url": "https://www.federalregister.gov/documents/2026/01/13/2026-00416/self-regulatory-organizations-the-nasdaq-stock-market-llc-notice-of-filing-of-proposed-rule-change",
+      "date": "2026-01-13",
+      "description": "",
+      "source": "national-securities-exchanges"
+    },
     {
       "id": "f838f2985610",
       "title": "Self-Regulatory Organizations; Cboe BZX Exchange, Inc.; Notice of Designation of a Longer Period for Commission Action on Proceedings To Determine Whether To Approve or Disapprove a Proposed Rule Change, as Modified by Amendment No. 2, To List and Trade Shares of the Canary PENGU ETF Under BZX Rule 14.11(e)(4), Commodity-Based Trust Shares",
@@ -255,46 +271,6 @@
       "title": "Self-Regulatory Organizations; MIAX Sapphire, LLC; Notice of Filing of a Proposed Rule Change To Amend Exchange Rule 516, Order Types, To Remove the Definition of a Route to Floor Order",
       "url": "https://www.federalregister.gov/documents/2025/12/23/2025-23656/self-regulatory-organizations-miax-sapphire-llc-notice-of-filing-of-a-proposed-rule-change-to-amend",
       "date": "2025-12-23",
-      "description": "",
-      "source": "national-securities-exchanges"
-    },
-    {
-      "id": "1481e6a10d2c",
-      "title": "Self-Regulatory Organizations; The Nasdaq Stock Market LLC; Notice of Filing of Amendment No. 1 and Order Granting Accelerated Approval of a Proposed Rule Change, as Modified by Amendment No. 1, To Modify Certain Initial Listing Requirements",
-      "url": "https://www.federalregister.gov/documents/2025/12/23/2025-23655/self-regulatory-organizations-the-nasdaq-stock-market-llc-notice-of-filing-of-amendment-no-1-and",
-      "date": "2025-12-23",
-      "description": "",
-      "source": "national-securities-exchanges"
-    },
-    {
-      "id": "ea94c7415451",
-      "title": "Self-Regulatory Organizations; MIAX Sapphire, LLC; Notice of Filing of a Proposed Rule Change To Amend Exchange Rule 402, Criteria for Underlying Securities, To List and Trade Options on Commodity-Based Trust Shares",
-      "url": "https://www.federalregister.gov/documents/2025/12/23/2025-23654/self-regulatory-organizations-miax-sapphire-llc-notice-of-filing-of-a-proposed-rule-change-to-amend",
-      "date": "2025-12-23",
-      "description": "",
-      "source": "national-securities-exchanges"
-    },
-    {
-      "id": "54d3a8ef8e21",
-      "title": "Self-Regulatory Organizations; Cboe Exchange, Inc.; Order Instituting Proceedings To Determine Whether To Approve or Disapprove a Proposed Rule Change To Amend Functionality Relating to the Processing of Auction Responses",
-      "url": "https://www.federalregister.gov/documents/2025/12/22/2025-23534/self-regulatory-organizations-cboe-exchange-inc-order-instituting-proceedings-to-determine-whether",
-      "date": "2025-12-22",
-      "description": "",
-      "source": "national-securities-exchanges"
-    },
-    {
-      "id": "455fde1a189d",
-      "title": "Self-Regulatory Organizations; Cboe Exchange, Inc.; Order Instituting Proceedings To Determine Whether To Approve or Disapprove a Proposed Rule Change To Amend Rule 5.4 to Change the Minimum Increment for Options on the Cboe Magnificent 10 Index",
-      "url": "https://www.federalregister.gov/documents/2025/12/22/2025-23533/self-regulatory-organizations-cboe-exchange-inc-order-instituting-proceedings-to-determine-whether",
-      "date": "2025-12-22",
-      "description": "",
-      "source": "national-securities-exchanges"
-    },
-    {
-      "id": "3e44393dcb87",
-      "title": "Self-Regulatory Organizations; Cboe Exchange, Inc.; Notice of Filing of a Proposed Rule Change To Proposes To Amend Rules 5.37, 5.39, 5.73, and 5.74 To Permit Orders for the Accounts of Market-Makers With an Appointment in the Applicable Class on the Exchange, in all Classes, To Be Solicited for the Initiating Order Submitted for Execution Against an Agency Order Into a Simple AIM, Simple SAM, FLEX AIM or FLEX SAM Auction",
-      "url": "https://www.federalregister.gov/documents/2025/12/22/2025-23531/self-regulatory-organizations-cboe-exchange-inc-notice-of-filing-of-a-proposed-rule-change-to",
-      "date": "2025-12-22",
       "description": "",
       "source": "national-securities-exchanges"
     }

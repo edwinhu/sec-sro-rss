@@ -2,56 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://github.com/edwinhu/sec-sro-rss</id>
   <title>SEC Self-Regulatory Organization Rulemaking</title>
-  <updated>2026-01-13T06:21:56.574143+00:00</updated>
+  <updated>2026-01-13T12:29:15.641484+00:00</updated>
   <link href="https://www.sec.gov/rules-regulations/self-regulatory-organization-rulemaking" rel="alternate"/>
   <link href="https://edwinhu.github.io/sec-sro-rss/feed.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Filtered SEC SRO filings (excludes immediate effectiveness notices and crypto)</subtitle>
-  <entry>
-    <id>https://www.federalregister.gov/documents/2025/12/22/2025-23531/self-regulatory-organizations-cboe-exchange-inc-notice-of-filing-of-a-proposed-rule-change-to</id>
-    <title>Self-Regulatory Organizations; Cboe Exchange, Inc.; Notice of Filing of a Proposed Rule Change To Proposes To Amend Rules 5.37, 5.39, 5.73, and 5.74 To Permit Orders for the Accounts of Market-Makers With an Appointment in the Applicable Class on the Exchange, in all Classes, To Be Solicited for the Initiating Order Submitted for Execution Against an Agency Order Into a Simple AIM, Simple SAM, FLEX AIM or FLEX SAM Auction</title>
-    <updated>2025-12-22T00:00:00+00:00</updated>
-    <content>Source: National Securities Exchanges
-Date: 2025-12-22</content>
-    <link href="https://www.federalregister.gov/documents/2025/12/22/2025-23531/self-regulatory-organizations-cboe-exchange-inc-notice-of-filing-of-a-proposed-rule-change-to"/>
-    <published>2025-12-22T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.federalregister.gov/documents/2025/12/22/2025-23533/self-regulatory-organizations-cboe-exchange-inc-order-instituting-proceedings-to-determine-whether</id>
-    <title>Self-Regulatory Organizations; Cboe Exchange, Inc.; Order Instituting Proceedings To Determine Whether To Approve or Disapprove a Proposed Rule Change To Amend Rule 5.4 to Change the Minimum Increment for Options on the Cboe Magnificent 10 Index</title>
-    <updated>2025-12-22T00:00:00+00:00</updated>
-    <content>Source: National Securities Exchanges
-Date: 2025-12-22</content>
-    <link href="https://www.federalregister.gov/documents/2025/12/22/2025-23533/self-regulatory-organizations-cboe-exchange-inc-order-instituting-proceedings-to-determine-whether"/>
-    <published>2025-12-22T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.federalregister.gov/documents/2025/12/22/2025-23534/self-regulatory-organizations-cboe-exchange-inc-order-instituting-proceedings-to-determine-whether</id>
-    <title>Self-Regulatory Organizations; Cboe Exchange, Inc.; Order Instituting Proceedings To Determine Whether To Approve or Disapprove a Proposed Rule Change To Amend Functionality Relating to the Processing of Auction Responses</title>
-    <updated>2025-12-22T00:00:00+00:00</updated>
-    <content>Source: National Securities Exchanges
-Date: 2025-12-22</content>
-    <link href="https://www.federalregister.gov/documents/2025/12/22/2025-23534/self-regulatory-organizations-cboe-exchange-inc-order-instituting-proceedings-to-determine-whether"/>
-    <published>2025-12-22T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.federalregister.gov/documents/2025/12/23/2025-23654/self-regulatory-organizations-miax-sapphire-llc-notice-of-filing-of-a-proposed-rule-change-to-amend</id>
-    <title>Self-Regulatory Organizations; MIAX Sapphire, LLC; Notice of Filing of a Proposed Rule Change To Amend Exchange Rule 402, Criteria for Underlying Securities, To List and Trade Options on Commodity-Based Trust Shares</title>
-    <updated>2025-12-23T00:00:00+00:00</updated>
-    <content>Source: National Securities Exchanges
-Date: 2025-12-23</content>
-    <link href="https://www.federalregister.gov/documents/2025/12/23/2025-23654/self-regulatory-organizations-miax-sapphire-llc-notice-of-filing-of-a-proposed-rule-change-to-amend"/>
-    <published>2025-12-23T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.federalregister.gov/documents/2025/12/23/2025-23655/self-regulatory-organizations-the-nasdaq-stock-market-llc-notice-of-filing-of-amendment-no-1-and</id>
-    <title>Self-Regulatory Organizations; The Nasdaq Stock Market LLC; Notice of Filing of Amendment No. 1 and Order Granting Accelerated Approval of a Proposed Rule Change, as Modified by Amendment No. 1, To Modify Certain Initial Listing Requirements</title>
-    <updated>2025-12-23T00:00:00+00:00</updated>
-    <content>Source: National Securities Exchanges
-Date: 2025-12-23</content>
-    <link href="https://www.federalregister.gov/documents/2025/12/23/2025-23655/self-regulatory-organizations-the-nasdaq-stock-market-llc-notice-of-filing-of-amendment-no-1-and"/>
-    <published>2025-12-23T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>https://www.federalregister.gov/documents/2025/12/23/2025-23656/self-regulatory-organizations-miax-sapphire-llc-notice-of-filing-of-a-proposed-rule-change-to-amend</id>
     <title>Self-Regulatory Organizations; MIAX Sapphire, LLC; Notice of Filing of a Proposed Rule Change To Amend Exchange Rule 516, Order Types, To Remove the Definition of a Route to Floor Order</title>
@@ -340,5 +295,23 @@ Date: 2026-01-09</content>
 Date: 2026-01-12</content>
     <link href="https://www.federalregister.gov/documents/2026/01/12/2026-00294/self-regulatory-organizations-cboe-bzx-exchange-inc-notice-of-designation-of-a-longer-period-for"/>
     <published>2026-01-12T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.federalregister.gov/documents/2026/01/13/2026-00416/self-regulatory-organizations-the-nasdaq-stock-market-llc-notice-of-filing-of-proposed-rule-change</id>
+    <title>Self-Regulatory Organizations; The Nasdaq Stock Market LLC; Notice of Filing of Proposed Rule Change To Extend the Exchange's U.S. Equities Trading Hours to 23 Hours a Day, Five Days a Week</title>
+    <updated>2026-01-13T00:00:00+00:00</updated>
+    <content>Source: National Securities Exchanges
+Date: 2026-01-13</content>
+    <link href="https://www.federalregister.gov/documents/2026/01/13/2026-00416/self-regulatory-organizations-the-nasdaq-stock-market-llc-notice-of-filing-of-proposed-rule-change"/>
+    <published>2026-01-13T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.federalregister.gov/documents/2026/01/13/2026-00427/self-regulatory-organizations-ice-clear-credit-llc-notice-of-filing-of-proposed-rule-change-relating</id>
+    <title>Self-Regulatory Organizations; ICE Clear Credit LLC; Notice of Filing of Proposed Rule Change Relating to the ICC Collateral Risk Management Framework</title>
+    <updated>2026-01-13T00:00:00+00:00</updated>
+    <content>Source: National Securities Exchanges
+Date: 2026-01-13</content>
+    <link href="https://www.federalregister.gov/documents/2026/01/13/2026-00427/self-regulatory-organizations-ice-clear-credit-llc-notice-of-filing-of-proposed-rule-change-relating"/>
+    <published>2026-01-13T00:00:00+00:00</published>
   </entry>
 </feed>
