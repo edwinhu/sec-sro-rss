@@ -24,6 +24,8 @@ concurrency:
 jobs:
   update-feed:
     runs-on: ubuntu-latest
+    # Skip if triggered by bot's own commits
+    if: github.actor != 'github-actions[bot]'
 
     steps:
       - name: Checkout repository
