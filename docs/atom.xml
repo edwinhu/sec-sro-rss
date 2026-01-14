@@ -2,29 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://github.com/edwinhu/sec-sro-rss</id>
   <title>SEC Self-Regulatory Organization Rulemaking</title>
-  <updated>2026-01-14T06:22:19.807521+00:00</updated>
+  <updated>2026-01-14T12:28:11.624534+00:00</updated>
   <link href="https://www.sec.gov/rules-regulations/self-regulatory-organization-rulemaking" rel="alternate"/>
   <link href="https://edwinhu.github.io/sec-sro-rss/feed.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Filtered SEC SRO filings (excludes immediate effectiveness notices and crypto)</subtitle>
-  <entry>
-    <id>https://www.federalregister.gov/documents/2025/12/23/2025-23656/self-regulatory-organizations-miax-sapphire-llc-notice-of-filing-of-a-proposed-rule-change-to-amend</id>
-    <title>Self-Regulatory Organizations; MIAX Sapphire, LLC; Notice of Filing of a Proposed Rule Change To Amend Exchange Rule 516, Order Types, To Remove the Definition of a Route to Floor Order</title>
-    <updated>2025-12-23T00:00:00+00:00</updated>
-    <content>Source: National Securities Exchanges
-Date: 2025-12-23</content>
-    <link href="https://www.federalregister.gov/documents/2025/12/23/2025-23656/self-regulatory-organizations-miax-sapphire-llc-notice-of-filing-of-a-proposed-rule-change-to-amend"/>
-    <published>2025-12-23T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.federalregister.gov/documents/2025/12/23/2025-23660/self-regulatory-organizations-the-nasdaq-stock-market-llc-order-instituting-proceedings-to-determine</id>
-    <title>Self-Regulatory Organizations; The Nasdaq Stock Market LLC; Order Instituting Proceedings To Determine Whether To Approve or Disapprove a Proposed Rule Change, as Modified by Amendment No. 1, To Adopt Additional Initial Listing Criteria for Companies Primarily Operating in China</title>
-    <updated>2025-12-23T00:00:00+00:00</updated>
-    <content>Source: National Securities Exchanges
-Date: 2025-12-23</content>
-    <link href="https://www.federalregister.gov/documents/2025/12/23/2025-23660/self-regulatory-organizations-the-nasdaq-stock-market-llc-order-instituting-proceedings-to-determine"/>
-    <published>2025-12-23T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>https://www.federalregister.gov/documents/2025/12/23/2025-23662/self-regulatory-organizations-cboe-exchange-inc-notice-of-filing-of-amendment-no-1-and-order</id>
     <title>Self-Regulatory Organizations; Cboe Exchange, Inc.; Notice of Filing of Amendment No. 1 and Order Granting Accelerated Approval of a Proposed Rule Change, as Modified by Amendment No. 1, To Add P.M.-Settled Options on the Cboe Magnificent 10 Index With Third Friday Expirations, Nonstandard Expirations, and Quarterly Index Expirations</title>
@@ -313,5 +295,14 @@ Date: 2026-01-13</content>
 Date: 2026-01-13</content>
     <link href="https://www.federalregister.gov/documents/2026/01/13/2026-00427/self-regulatory-organizations-ice-clear-credit-llc-notice-of-filing-of-proposed-rule-change-relating"/>
     <published>2026-01-13T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.federalregister.gov/documents/2026/01/14/2026-00519/self-regulatory-organizations-financial-industry-regulatory-authority-inc-notice-of-filing-of-a</id>
+    <title>Self-Regulatory Organizations; Financial Industry Regulatory Authority, Inc.; Notice of Filing of a Proposed Rule Change To Amend FINRA Rule 4210 (Margin Requirements) To Replace the Day Trading Margin Provisions With Intraday Margin Standards</title>
+    <updated>2026-01-14T00:00:00+00:00</updated>
+    <content>Source: Finra
+Date: 2026-01-14</content>
+    <link href="https://www.federalregister.gov/documents/2026/01/14/2026-00519/self-regulatory-organizations-financial-industry-regulatory-authority-inc-notice-of-filing-of-a"/>
+    <published>2026-01-14T00:00:00+00:00</published>
   </entry>
 </feed>

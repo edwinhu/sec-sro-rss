@@ -1,7 +1,15 @@
 {
-  "updated": "2026-01-14T06:22:19.824742+00:00",
-  "count": 34,
+  "updated": "2026-01-14T12:28:11.703669+00:00",
+  "count": 33,
   "filings": [
+    {
+      "id": "1fbe2ccb20fe",
+      "title": "Self-Regulatory Organizations; Financial Industry Regulatory Authority, Inc.; Notice of Filing of a Proposed Rule Change To Amend FINRA Rule 4210 (Margin Requirements) To Replace the Day Trading Margin Provisions With Intraday Margin Standards",
+      "url": "https://www.federalregister.gov/documents/2026/01/14/2026-00519/self-regulatory-organizations-financial-industry-regulatory-authority-inc-notice-of-filing-of-a",
+      "date": "2026-01-14",
+      "description": "",
+      "source": "finra"
+    },
     {
       "id": "a946fcf0d798",
       "title": "Self-Regulatory Organizations; ICE Clear Credit LLC; Notice of Filing of Proposed Rule Change Relating to the ICC Collateral Risk Management Framework",
@@ -254,22 +262,6 @@
       "id": "4d8f3e3482a4",
       "title": "Self-Regulatory Organizations; Cboe Exchange, Inc.; Notice of Filing of Amendment No. 1 and Order Granting Accelerated Approval of a Proposed Rule Change, as Modified by Amendment No. 1, To Add P.M.-Settled Options on the Cboe Magnificent 10 Index With Third Friday Expirations, Nonstandard Expirations, and Quarterly Index Expirations",
       "url": "https://www.federalregister.gov/documents/2025/12/23/2025-23662/self-regulatory-organizations-cboe-exchange-inc-notice-of-filing-of-amendment-no-1-and-order",
-      "date": "2025-12-23",
-      "description": "",
-      "source": "national-securities-exchanges"
-    },
-    {
-      "id": "8d972f81aef4",
-      "title": "Self-Regulatory Organizations; The Nasdaq Stock Market LLC; Order Instituting Proceedings To Determine Whether To Approve or Disapprove a Proposed Rule Change, as Modified by Amendment No. 1, To Adopt Additional Initial Listing Criteria for Companies Primarily Operating in China",
-      "url": "https://www.federalregister.gov/documents/2025/12/23/2025-23660/self-regulatory-organizations-the-nasdaq-stock-market-llc-order-instituting-proceedings-to-determine",
-      "date": "2025-12-23",
-      "description": "",
-      "source": "national-securities-exchanges"
-    },
-    {
-      "id": "32849881581b",
-      "title": "Self-Regulatory Organizations; MIAX Sapphire, LLC; Notice of Filing of a Proposed Rule Change To Amend Exchange Rule 516, Order Types, To Remove the Definition of a Route to Floor Order",
-      "url": "https://www.federalregister.gov/documents/2025/12/23/2025-23656/self-regulatory-organizations-miax-sapphire-llc-notice-of-filing-of-a-proposed-rule-change-to-amend",
       "date": "2025-12-23",
       "description": "",
       "source": "national-securities-exchanges"
