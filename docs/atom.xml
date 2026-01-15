@@ -2,38 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://github.com/edwinhu/sec-sro-rss</id>
   <title>SEC Self-Regulatory Organization Rulemaking</title>
-  <updated>2026-01-15T06:21:44.630323+00:00</updated>
+  <updated>2026-01-15T12:27:43.180275+00:00</updated>
   <link href="https://www.sec.gov/rules-regulations/self-regulatory-organization-rulemaking" rel="alternate"/>
   <link href="https://edwinhu.github.io/sec-sro-rss/feed.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Filtered SEC SRO filings (excludes immediate effectiveness notices and crypto)</subtitle>
-  <entry>
-    <id>https://www.federalregister.gov/documents/2025/12/23/2025-23662/self-regulatory-organizations-cboe-exchange-inc-notice-of-filing-of-amendment-no-1-and-order</id>
-    <title>Self-Regulatory Organizations; Cboe Exchange, Inc.; Notice of Filing of Amendment No. 1 and Order Granting Accelerated Approval of a Proposed Rule Change, as Modified by Amendment No. 1, To Add P.M.-Settled Options on the Cboe Magnificent 10 Index With Third Friday Expirations, Nonstandard Expirations, and Quarterly Index Expirations</title>
-    <updated>2025-12-23T00:00:00+00:00</updated>
-    <content>Source: National Securities Exchanges
-Date: 2025-12-23</content>
-    <link href="https://www.federalregister.gov/documents/2025/12/23/2025-23662/self-regulatory-organizations-cboe-exchange-inc-notice-of-filing-of-amendment-no-1-and-order"/>
-    <published>2025-12-23T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.federalregister.gov/documents/2025/12/23/2025-23664/self-regulatory-organizations-miami-international-securities-exchange-llc-notice-of-filing-of-a</id>
-    <title>Self-Regulatory Organizations; Miami International Securities Exchange, LLC; Notice of Filing of a Proposed Rule Change To Amend Exchange Rule 402, Criteria for Underlying Securities, To Permit Options on Commodity-Based Trust Shares</title>
-    <updated>2025-12-23T00:00:00+00:00</updated>
-    <content>Source: National Securities Exchanges
-Date: 2025-12-23</content>
-    <link href="https://www.federalregister.gov/documents/2025/12/23/2025-23664/self-regulatory-organizations-miami-international-securities-exchange-llc-notice-of-filing-of-a"/>
-    <published>2025-12-23T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.federalregister.gov/documents/2025/12/23/2025-23665/self-regulatory-organizations-miax-pearl-llc-notice-of-filing-of-a-proposed-rule-change-to-amend</id>
-    <title>Self-Regulatory Organizations; MIAX PEARL, LLC; Notice of Filing of a Proposed Rule Change To Amend Exchange Rule 402, Criteria for Underlying Securities, To List and Trade Options on Commodity-Based Trust Shares</title>
-    <updated>2025-12-23T00:00:00+00:00</updated>
-    <content>Source: National Securities Exchanges
-Date: 2025-12-23</content>
-    <link href="https://www.federalregister.gov/documents/2025/12/23/2025-23665/self-regulatory-organizations-miax-pearl-llc-notice-of-filing-of-a-proposed-rule-change-to-amend"/>
-    <published>2025-12-23T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>https://www.federalregister.gov/documents/2025/12/23/2025-23668/self-regulatory-organizations-the-nasdaq-stock-market-llc-nasdaq-bx-inc-nasdaq-gemx-llc-nasdaq-mrx</id>
     <title>Self-Regulatory Organizations; The Nasdaq Stock Market LLC; Nasdaq BX, Inc.; Nasdaq GEMX, LLC; Nasdaq MRX, LLC; Nasdaq PHLX LLC; Nasdaq ISE, LLC; Order Approving Proposed Rule Change To Amend the Amended and Restated Certificate of Incorporation and By-Laws of Parent Corporation, Nasdaq, Inc.</title>
