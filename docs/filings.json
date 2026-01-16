@@ -1,7 +1,31 @@
 {
-  "updated": "2026-01-16T06:22:06.737839+00:00",
-  "count": 30,
+  "updated": "2026-01-16T12:26:59.258686+00:00",
+  "count": 27,
   "filings": [
+    {
+      "id": "a3adfa28a8f4",
+      "title": "Self-Regulatory Organizations; Cboe Exchange, Inc.; Notice of Filing of a Proposed Rule Change To Adopt Future-Option Orders",
+      "url": "https://www.federalregister.gov/documents/2026/01/16/2026-00801/self-regulatory-organizations-cboe-exchange-inc-notice-of-filing-of-a-proposed-rule-change-to-adopt",
+      "date": "2026-01-16",
+      "description": "",
+      "source": "national-securities-exchanges"
+    },
+    {
+      "id": "586b22e6798f",
+      "title": "Agency Information Collection Activities; Proposed Collection; Comment Request; Extension: Rule 15c2-5",
+      "url": "https://www.federalregister.gov/documents/2026/01/16/2026-00791/agency-information-collection-activities-proposed-collection-comment-request-extension-rule-15c2-5",
+      "date": "2026-01-16",
+      "description": "",
+      "source": "national-securities-exchanges"
+    },
+    {
+      "id": "f53164994bf6",
+      "title": "Joint Industry Plan; Order Approving an Amendment to the National Market System Plan Governing the Consolidated Audit Trail, as Modified by Amendment Nos. 1 and 2 and by the Commission, Regarding the Customer and Account Information System",
+      "url": "https://www.federalregister.gov/documents/2026/01/16/2026-00762/joint-industry-plan-order-approving-an-amendment-to-the-national-market-system-plan-governing-the",
+      "date": "2026-01-16",
+      "description": "",
+      "source": "national-securities-exchanges"
+    },
     {
       "id": "1fbe2ccb20fe",
       "title": "Self-Regulatory Organizations; Financial Industry Regulatory Authority, Inc.; Notice of Filing of a Proposed Rule Change To Amend FINRA Rule 4210 (Margin Requirements) To Replace the Day Trading Margin Provisions With Intraday Margin Standards",
@@ -191,54 +215,6 @@
       "title": "Self-Regulatory Organizations; Cboe EDGX Exchange, Inc.; Order Instituting Proceedings To Determine Whether To Approve or Disapprove a Proposed Rule Change To Modify Rule 11.21 To Adopt a Retail Price Improvement Program and Modify Rule 11.6(e)(2) and Rule 11.10(a)(4)(C)-(D) in Order To Describe the Behavior of Orders Containing a Non-Displayed Instruction",
       "url": "https://www.federalregister.gov/documents/2025/12/29/2025-23814/self-regulatory-organizations-cboe-edgx-exchange-inc-order-instituting-proceedings-to-determine",
       "date": "2025-12-29",
-      "description": "",
-      "source": "national-securities-exchanges"
-    },
-    {
-      "id": "ed2844edf07b",
-      "title": "Self-Regulatory Organizations; MIAX PEARL, LLC; Notice of Filing of a Proposed Rule Change To Allow Post-Only Orders in Sub-Dollar Securities",
-      "url": "https://www.federalregister.gov/documents/2025/12/29/2025-23809/self-regulatory-organizations-miax-pearl-llc-notice-of-filing-of-a-proposed-rule-change-to-allow",
-      "date": "2025-12-29",
-      "description": "",
-      "source": "national-securities-exchanges"
-    },
-    {
-      "id": "115fefb7e88c",
-      "title": "Privacy Act of 1974; System of Records",
-      "url": "https://www.federalregister.gov/documents/2025/12/23/2025-23771/privacy-act-of-1974-system-of-records",
-      "date": "2025-12-23",
-      "description": "In accordance with the Privacy Act of 1974 and Office of Management and Budget (\"OMB\") Circular A-108, the Securities and Exchange Commission (\"Commission\" or \"SEC\") is proposing a modification to its system of records notice (SORN), SEC-06, SEC's Financial and Acquisition Management System (\"SEC-06\"). This proposed update introduces a new routine use to comply with Executive Order (E.O.) 14249, Protecting America's Bank Account Against Fraud, Waste, and Abuse. The change supports enhanced efforts to safeguard federal financial systems and ensure responsible stewardship of public funds. The modified SORN does not change the categories of individuals, the record collection process, the authorities, or the purpose of collection. It also does not affect individuals' rights to access or amend their records under the Privacy Act.",
-      "source": "national-securities-exchanges"
-    },
-    {
-      "id": "af403e6062eb",
-      "title": "Agency Information Collection Activities; Proposed Collection; Comment Request; Extension: Rule 19b-5 and Form PILOT",
-      "url": "https://www.federalregister.gov/documents/2025/12/23/2025-23736/agency-information-collection-activities-proposed-collection-comment-request-extension-rule-19b-5",
-      "date": "2025-12-23",
-      "description": "",
-      "source": "national-securities-exchanges"
-    },
-    {
-      "id": "39a98538507c",
-      "title": "Agency Information Collection Activities; Proposed Collection; Comment Request; Extension: Rule 302",
-      "url": "https://www.federalregister.gov/documents/2025/12/23/2025-23686/agency-information-collection-activities-proposed-collection-comment-request-extension-rule-302",
-      "date": "2025-12-23",
-      "description": "",
-      "source": "national-securities-exchanges"
-    },
-    {
-      "id": "af69fce49b33",
-      "title": "Self-Regulatory Organizations; Cboe BZX Exchange, Inc.; Notice of Withdrawal of a Proposed Rule Change To Exempt Closed-End Management Investment Companies Registered Under the Investment Company Act of 1940 That are Listed as of or After May 20, 2025 From the Annual Meeting of Shareholders Requirement Set Forth in Exchange Rule 14.10(f)",
-      "url": "https://www.federalregister.gov/documents/2025/12/23/2025-23672/self-regulatory-organizations-cboe-bzx-exchange-inc-notice-of-withdrawal-of-a-proposed-rule-change",
-      "date": "2025-12-23",
-      "description": "",
-      "source": "national-securities-exchanges"
-    },
-    {
-      "id": "9030ace6cc0a",
-      "title": "Self-Regulatory Organizations; The Nasdaq Stock Market LLC; Nasdaq BX, Inc.; Nasdaq GEMX, LLC; Nasdaq MRX, LLC; Nasdaq PHLX LLC; Nasdaq ISE, LLC; Order Approving Proposed Rule Change To Amend the Amended and Restated Certificate of Incorporation and By-Laws of Parent Corporation, Nasdaq, Inc.",
-      "url": "https://www.federalregister.gov/documents/2025/12/23/2025-23668/self-regulatory-organizations-the-nasdaq-stock-market-llc-nasdaq-bx-inc-nasdaq-gemx-llc-nasdaq-mrx",
-      "date": "2025-12-23",
       "description": "",
       "source": "national-securities-exchanges"
     }
