@@ -2,56 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://github.com/edwinhu/sec-sro-rss</id>
   <title>SEC Self-Regulatory Organization Rulemaking</title>
-  <updated>2026-01-17T06:19:47.741789+00:00</updated>
+  <updated>2026-01-17T12:23:57.674216+00:00</updated>
   <link href="https://www.sec.gov/rules-regulations/self-regulatory-organization-rulemaking" rel="alternate"/>
   <link href="https://edwinhu.github.io/sec-sro-rss/feed.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Filtered SEC SRO filings (excludes immediate effectiveness notices and crypto)</subtitle>
-  <entry>
-    <id>https://www.federalregister.gov/documents/2025/12/29/2025-23814/self-regulatory-organizations-cboe-edgx-exchange-inc-order-instituting-proceedings-to-determine</id>
-    <title>Self-Regulatory Organizations; Cboe EDGX Exchange, Inc.; Order Instituting Proceedings To Determine Whether To Approve or Disapprove a Proposed Rule Change To Modify Rule 11.21 To Adopt a Retail Price Improvement Program and Modify Rule 11.6(e)(2) and Rule 11.10(a)(4)(C)-(D) in Order To Describe the Behavior of Orders Containing a Non-Displayed Instruction</title>
-    <updated>2025-12-29T00:00:00+00:00</updated>
-    <content>Source: National Securities Exchanges
-Date: 2025-12-29</content>
-    <link href="https://www.federalregister.gov/documents/2025/12/29/2025-23814/self-regulatory-organizations-cboe-edgx-exchange-inc-order-instituting-proceedings-to-determine"/>
-    <published>2025-12-29T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.federalregister.gov/documents/2025/12/29/2025-23820/self-regulatory-organizations-cboe-bzx-exchange-inc-order-instituting-proceedings-to-determine</id>
-    <title>Self-Regulatory Organizations; Cboe BZX Exchange, Inc.; Order Instituting Proceedings To Determine Whether To Approve or Disapprove a Proposed Rule Change To List and Trade Shares of the GraniteShares 4x Long Russell 1000 Daily ETF and the GraniteShares 4x Short Russell 1000 Daily ETF Under Rule 14.11(f)(4) (Trust Issued Receipts)</title>
-    <updated>2025-12-29T00:00:00+00:00</updated>
-    <content>Source: National Securities Exchanges
-Date: 2025-12-29</content>
-    <link href="https://www.federalregister.gov/documents/2025/12/29/2025-23820/self-regulatory-organizations-cboe-bzx-exchange-inc-order-instituting-proceedings-to-determine"/>
-    <published>2025-12-29T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.federalregister.gov/documents/2025/12/29/2025-23821/self-regulatory-organizations-municipal-securities-rulemaking-board-order-granting-approval-of-a</id>
-    <title>Self-Regulatory Organizations; Municipal Securities Rulemaking Board; Order Granting Approval of a Proposed Rule Change To Amend MSRB Rules A-11 and A-13 Pursuant to a Multi-Year Rate Card and To Make Related Technical Amendments</title>
-    <updated>2025-12-29T00:00:00+00:00</updated>
-    <content>Source: National Securities Exchanges
-Date: 2025-12-29</content>
-    <link href="https://www.federalregister.gov/documents/2025/12/29/2025-23821/self-regulatory-organizations-municipal-securities-rulemaking-board-order-granting-approval-of-a"/>
-    <published>2025-12-29T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.federalregister.gov/documents/2025/12/29/2025-23885/self-regulatory-organizations-fixed-income-clearing-corporation-notice-of-filing-of-proposed-rule</id>
-    <title>Self-Regulatory Organizations; Fixed Income Clearing Corporation; Notice of Filing of Proposed Rule Change To Amend and Restate the Second Amended and Restated Cross-Margining Agreement Between FICC and CME and Amend Related GSD Rules</title>
-    <updated>2025-12-29T00:00:00+00:00</updated>
-    <content>Source: National Securities Exchanges
-Date: 2025-12-29</content>
-    <link href="https://www.federalregister.gov/documents/2025/12/29/2025-23885/self-regulatory-organizations-fixed-income-clearing-corporation-notice-of-filing-of-proposed-rule"/>
-    <published>2025-12-29T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.federalregister.gov/documents/2025/12/29/2025-23886/self-regulatory-organizations-fixed-income-clearing-corporation-notice-of-filing-and-extension-of</id>
-    <title>Self-Regulatory Organizations; Fixed Income Clearing Corporation; Notice of Filing and Extension of Review Period of Advance Notice To Amend and Restate the Second Amended and Restated Cross-Margining Agreement Between FICC and CME and Amend Related GSD Rules</title>
-    <updated>2025-12-29T00:00:00+00:00</updated>
-    <content>Source: National Securities Exchanges
-Date: 2025-12-29</content>
-    <link href="https://www.federalregister.gov/documents/2025/12/29/2025-23886/self-regulatory-organizations-fixed-income-clearing-corporation-notice-of-filing-and-extension-of"/>
-    <published>2025-12-29T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>https://www.federalregister.gov/documents/2025/12/30/2025-23932/self-regulatory-organizations-the-depository-trust-company-notice-of-filing-of-proposed-rule-change</id>
     <title>Self-Regulatory Organizations; The Depository Trust Company; Notice of Filing of Proposed Rule Change To Modify the DTC Settlement Service Guide and DTC Rules as They Relate to the DTC Net Debit Cap</title>
