@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://github.com/edwinhu/sec-sro-rss</id>
   <title>SEC Self-Regulatory Organization Rulemaking</title>
-  <updated>2026-01-21T06:24:00.615169+00:00</updated>
+  <updated>2026-01-21T12:31:00.949690+00:00</updated>
   <link href="https://www.sec.gov/rules-regulations/self-regulatory-organization-rulemaking" rel="alternate"/>
   <link href="https://edwinhu.github.io/sec-sro-rss/feed.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -204,5 +204,23 @@ Date: 2026-01-16</content>
 Date: 2026-01-16</content>
     <link href="https://www.federalregister.gov/documents/2026/01/16/2026-00801/self-regulatory-organizations-cboe-exchange-inc-notice-of-filing-of-a-proposed-rule-change-to-adopt"/>
     <published>2026-01-16T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.federalregister.gov/documents/2026/01/21/2026-01013/order-granting-temporary-exemptive-relief-pursuant-to-section-36a1-of-the-securities-exchange-act-of</id>
+    <title>Order Granting Temporary Exemptive Relief, Pursuant to Section 36(a)(1) of the Securities Exchange Act of 1934 From Compliance With Rule 600(b)(69)(ii) of Regulation NMS</title>
+    <updated>2026-01-21T00:00:00+00:00</updated>
+    <content>Source: National Securities Exchanges
+Date: 2026-01-21</content>
+    <link href="https://www.federalregister.gov/documents/2026/01/21/2026-01013/order-granting-temporary-exemptive-relief-pursuant-to-section-36a1-of-the-securities-exchange-act-of"/>
+    <published>2026-01-21T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.federalregister.gov/documents/2026/01/21/2026-01016/self-regulatory-organizations-cboe-edgx-exchange-inc-notice-of-filing-of-a-proposed-rule-change-to</id>
+    <title>Self-Regulatory Organizations; Cboe EDGX Exchange, Inc.; Notice of Filing of a Proposed Rule Change To Modify Rule 11.21 To Adopt a Retail Price Improvement Program and Modify Rule 11.6(e)(2) and Rule 11.10(a)(4)(C)-(D) in Order To Describe the Behavior of Orders Containing a Non-Displayed Instruction</title>
+    <updated>2026-01-21T00:00:00+00:00</updated>
+    <content>Source: National Securities Exchanges
+Date: 2026-01-21</content>
+    <link href="https://www.federalregister.gov/documents/2026/01/21/2026-01016/self-regulatory-organizations-cboe-edgx-exchange-inc-notice-of-filing-of-a-proposed-rule-change-to"/>
+    <published>2026-01-21T00:00:00+00:00</published>
   </entry>
 </feed>
