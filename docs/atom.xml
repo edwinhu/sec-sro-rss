@@ -2,20 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://github.com/edwinhu/sec-sro-rss</id>
   <title>SEC Self-Regulatory Organization Rulemaking</title>
-  <updated>2026-01-22T06:22:42.520153+00:00</updated>
+  <updated>2026-01-22T12:30:35.655596+00:00</updated>
   <link href="https://www.sec.gov/rules-regulations/self-regulatory-organization-rulemaking" rel="alternate"/>
   <link href="https://edwinhu.github.io/sec-sro-rss/feed.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Filtered SEC SRO filings (excludes immediate effectiveness notices and crypto)</subtitle>
-  <entry>
-    <id>https://www.federalregister.gov/documents/2025/12/30/2025-23932/self-regulatory-organizations-the-depository-trust-company-notice-of-filing-of-proposed-rule-change</id>
-    <title>Self-Regulatory Organizations; The Depository Trust Company; Notice of Filing of Proposed Rule Change To Modify the DTC Settlement Service Guide and DTC Rules as They Relate to the DTC Net Debit Cap</title>
-    <updated>2025-12-30T00:00:00+00:00</updated>
-    <content>Source: National Securities Exchanges
-Date: 2025-12-30</content>
-    <link href="https://www.federalregister.gov/documents/2025/12/30/2025-23932/self-regulatory-organizations-the-depository-trust-company-notice-of-filing-of-proposed-rule-change"/>
-    <published>2025-12-30T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>https://www.federalregister.gov/documents/2025/12/30/2025-23936/self-regulatory-organizations-nyse-texas-inc-notice-of-filing-of-proposed-rule-change-to-adopt-new</id>
     <title>Self-Regulatory Organizations; NYSE Texas, Inc.; Notice of Filing of Proposed Rule Change To Adopt New Rule 8.201 (Generic)</title>
@@ -222,5 +213,14 @@ Date: 2026-01-21</content>
 Date: 2026-01-21</content>
     <link href="https://www.federalregister.gov/documents/2026/01/21/2026-01016/self-regulatory-organizations-cboe-edgx-exchange-inc-notice-of-filing-of-a-proposed-rule-change-to"/>
     <published>2026-01-21T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.federalregister.gov/documents/2026/01/22/2026-01118/self-regulatory-organizations-nasdaq-ise-llc-order-approving-a-proposed-rule-change-as-modified-by</id>
+    <title>Self-Regulatory Organizations; Nasdaq ISE, LLC; Order Approving a Proposed Rule Change, as Modified by Amendment No. 1, To Amend the Short Term Option Series Program To List Qualifying Securities</title>
+    <updated>2026-01-22T00:00:00+00:00</updated>
+    <content>Source: National Securities Exchanges
+Date: 2026-01-22</content>
+    <link href="https://www.federalregister.gov/documents/2026/01/22/2026-01118/self-regulatory-organizations-nasdaq-ise-llc-order-approving-a-proposed-rule-change-as-modified-by"/>
+    <published>2026-01-22T00:00:00+00:00</published>
   </entry>
 </feed>
