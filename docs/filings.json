@@ -1,7 +1,31 @@
 {
-  "updated": "2026-01-23T06:22:08.354746+00:00",
+  "updated": "2026-01-23T12:29:20.454375+00:00",
   "count": 24,
   "filings": [
+    {
+      "id": "4e470a65a150",
+      "title": "Agency Information Collection Activities; Proposed Collection; Comment Request; Extension: Ombudsman Matter Management System (OMMS) Submission Form",
+      "url": "https://www.federalregister.gov/documents/2026/01/23/2026-01213/agency-information-collection-activities-proposed-collection-comment-request-extension-ombudsman",
+      "date": "2026-01-23",
+      "description": "",
+      "source": "national-securities-exchanges"
+    },
+    {
+      "id": "8e3ded4ff7a1",
+      "title": "Agency Information Collection Activities; Proposed Collection; Comment Request; Extension: Rule 201 and Rule 200(g) of Regulation SHO",
+      "url": "https://www.federalregister.gov/documents/2026/01/23/2026-01211/agency-information-collection-activities-proposed-collection-comment-request-extension-rule-201-and",
+      "date": "2026-01-23",
+      "description": "",
+      "source": "national-securities-exchanges"
+    },
+    {
+      "id": "c09501677e04",
+      "title": "Self-Regulatory Organizations; New York Stock Exchange LLC; Notice of Filing of Proposed Rule Change To Streamline and Modernize Rule 76",
+      "url": "https://www.federalregister.gov/documents/2026/01/23/2026-01209/self-regulatory-organizations-new-york-stock-exchange-llc-notice-of-filing-of-proposed-rule-change",
+      "date": "2026-01-23",
+      "description": "",
+      "source": "national-securities-exchanges"
+    },
     {
       "id": "c875a5659223",
       "title": "Self-Regulatory Organizations; Nasdaq ISE, LLC; Order Approving a Proposed Rule Change, as Modified by Amendment No. 1, To Amend the Short Term Option Series Program To List Qualifying Securities",
@@ -167,30 +191,6 @@
       "title": "Self-Regulatory Organizations; Cboe BZX Exchange, Inc.; Notice of Filing of a Proposed Rule Change To Amend Exchange Rule 11.23(d)(2)(B) (Extending the Quote-Only Period for Initial Public Offering (\u201cIPO\u201d) Auctions)",
       "url": "https://www.federalregister.gov/documents/2025/12/31/2025-24047/self-regulatory-organizations-cboe-bzx-exchange-inc-notice-of-filing-of-a-proposed-rule-change-to",
       "date": "2025-12-31",
-      "description": "",
-      "source": "national-securities-exchanges"
-    },
-    {
-      "id": "d6a2c16583d2",
-      "title": "Self-Regulatory Organizations; Fixed Income Clearing Corporation; Order Approving Proposed Rule Change To Modify the GSD Rulebook Relating to a New Service Offering Called the ACS Triparty Service",
-      "url": "https://www.federalregister.gov/documents/2025/12/30/2025-23938/self-regulatory-organizations-fixed-income-clearing-corporation-order-approving-proposed-rule-change",
-      "date": "2025-12-30",
-      "description": "",
-      "source": "national-securities-exchanges"
-    },
-    {
-      "id": "cda3cc6938b7",
-      "title": "Self-Regulatory Organizations; New York Stock Exchange LLC; Notice of Filing of Proposed Rule Change To Adopt New Rule 8.201 (Generic)",
-      "url": "https://www.federalregister.gov/documents/2025/12/30/2025-23937/self-regulatory-organizations-new-york-stock-exchange-llc-notice-of-filing-of-proposed-rule-change",
-      "date": "2025-12-30",
-      "description": "",
-      "source": "national-securities-exchanges"
-    },
-    {
-      "id": "77a8dd44f8ca",
-      "title": "Self-Regulatory Organizations; NYSE Texas, Inc.; Notice of Filing of Proposed Rule Change To Adopt New Rule 8.201 (Generic)",
-      "url": "https://www.federalregister.gov/documents/2025/12/30/2025-23936/self-regulatory-organizations-nyse-texas-inc-notice-of-filing-of-proposed-rule-change-to-adopt-new",
-      "date": "2025-12-30",
       "description": "",
       "source": "national-securities-exchanges"
     }

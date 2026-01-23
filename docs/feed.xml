@@ -8,31 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 23 Jan 2026 06:22:08 +0000</lastBuildDate>
-    <item>
-      <title>Self-Regulatory Organizations; NYSE Texas, Inc.; Notice of Filing of Proposed Rule Change To Adopt New Rule 8.201 (Generic)</title>
-      <link>https://www.federalregister.gov/documents/2025/12/30/2025-23936/self-regulatory-organizations-nyse-texas-inc-notice-of-filing-of-proposed-rule-change-to-adopt-new</link>
-      <description>Source: National Securities Exchanges
-Date: 2025-12-30</description>
-      <guid isPermaLink="false">https://www.federalregister.gov/documents/2025/12/30/2025-23936/self-regulatory-organizations-nyse-texas-inc-notice-of-filing-of-proposed-rule-change-to-adopt-new</guid>
-      <pubDate>Tue, 30 Dec 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Self-Regulatory Organizations; New York Stock Exchange LLC; Notice of Filing of Proposed Rule Change To Adopt New Rule 8.201 (Generic)</title>
-      <link>https://www.federalregister.gov/documents/2025/12/30/2025-23937/self-regulatory-organizations-new-york-stock-exchange-llc-notice-of-filing-of-proposed-rule-change</link>
-      <description>Source: National Securities Exchanges
-Date: 2025-12-30</description>
-      <guid isPermaLink="false">https://www.federalregister.gov/documents/2025/12/30/2025-23937/self-regulatory-organizations-new-york-stock-exchange-llc-notice-of-filing-of-proposed-rule-change</guid>
-      <pubDate>Tue, 30 Dec 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Self-Regulatory Organizations; Fixed Income Clearing Corporation; Order Approving Proposed Rule Change To Modify the GSD Rulebook Relating to a New Service Offering Called the ACS Triparty Service</title>
-      <link>https://www.federalregister.gov/documents/2025/12/30/2025-23938/self-regulatory-organizations-fixed-income-clearing-corporation-order-approving-proposed-rule-change</link>
-      <description>Source: National Securities Exchanges
-Date: 2025-12-30</description>
-      <guid isPermaLink="false">https://www.federalregister.gov/documents/2025/12/30/2025-23938/self-regulatory-organizations-fixed-income-clearing-corporation-order-approving-proposed-rule-change</guid>
-      <pubDate>Tue, 30 Dec 2025 00:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 23 Jan 2026 12:29:20 +0000</lastBuildDate>
     <item>
       <title>Self-Regulatory Organizations; Cboe BZX Exchange, Inc.; Notice of Filing of a Proposed Rule Change To Amend Exchange Rule 11.23(d)(2)(B) (Extending the Quote-Only Period for Initial Public Offering (“IPO”) Auctions)</title>
       <link>https://www.federalregister.gov/documents/2025/12/31/2025-24047/self-regulatory-organizations-cboe-bzx-exchange-inc-notice-of-filing-of-a-proposed-rule-change-to</link>
@@ -200,6 +176,30 @@ Date: 2026-01-21</description>
 Date: 2026-01-22</description>
       <guid isPermaLink="false">https://www.federalregister.gov/documents/2026/01/22/2026-01118/self-regulatory-organizations-nasdaq-ise-llc-order-approving-a-proposed-rule-change-as-modified-by</guid>
       <pubDate>Thu, 22 Jan 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Self-Regulatory Organizations; New York Stock Exchange LLC; Notice of Filing of Proposed Rule Change To Streamline and Modernize Rule 76</title>
+      <link>https://www.federalregister.gov/documents/2026/01/23/2026-01209/self-regulatory-organizations-new-york-stock-exchange-llc-notice-of-filing-of-proposed-rule-change</link>
+      <description>Source: National Securities Exchanges
+Date: 2026-01-23</description>
+      <guid isPermaLink="false">https://www.federalregister.gov/documents/2026/01/23/2026-01209/self-regulatory-organizations-new-york-stock-exchange-llc-notice-of-filing-of-proposed-rule-change</guid>
+      <pubDate>Fri, 23 Jan 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Agency Information Collection Activities; Proposed Collection; Comment Request; Extension: Rule 201 and Rule 200(g) of Regulation SHO</title>
+      <link>https://www.federalregister.gov/documents/2026/01/23/2026-01211/agency-information-collection-activities-proposed-collection-comment-request-extension-rule-201-and</link>
+      <description>Source: National Securities Exchanges
+Date: 2026-01-23</description>
+      <guid isPermaLink="false">https://www.federalregister.gov/documents/2026/01/23/2026-01211/agency-information-collection-activities-proposed-collection-comment-request-extension-rule-201-and</guid>
+      <pubDate>Fri, 23 Jan 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Agency Information Collection Activities; Proposed Collection; Comment Request; Extension: Ombudsman Matter Management System (OMMS) Submission Form</title>
+      <link>https://www.federalregister.gov/documents/2026/01/23/2026-01213/agency-information-collection-activities-proposed-collection-comment-request-extension-ombudsman</link>
+      <description>Source: National Securities Exchanges
+Date: 2026-01-23</description>
+      <guid isPermaLink="false">https://www.federalregister.gov/documents/2026/01/23/2026-01213/agency-information-collection-activities-proposed-collection-comment-request-extension-ombudsman</guid>
+      <pubDate>Fri, 23 Jan 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
