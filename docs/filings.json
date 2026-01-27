@@ -1,7 +1,63 @@
 {
-  "updated": "2026-01-27T06:23:12.198922+00:00",
-  "count": 20,
+  "updated": "2026-01-27T12:30:12.973432+00:00",
+  "count": 26,
   "filings": [
+    {
+      "id": "d14b83067d3a",
+      "title": "Order Granting Exemptive Relief, Pursuant to Section 36(a)(1) of the Securities Exchange Act of 1934 (\u201cExchange Act\u201d) and Rule 608(e) of Regulation NMS Thereunder, From Certain Requirements of the National Market System Plan Governing the Consolidated Audit Trail Related to Port-Level Settings",
+      "url": "https://www.federalregister.gov/documents/2026/01/27/2026-01611/order-granting-exemptive-relief-pursuant-to-section-36a1-of-the-securities-exchange-act-of-1934",
+      "date": "2026-01-27",
+      "description": "",
+      "source": "national-securities-exchanges"
+    },
+    {
+      "id": "d1b892b4542e",
+      "title": "Order Granting Exemptive Relief, Pursuant to Section 36(a)(1) of the Securities Exchange Act of 1934 (\u201cExchange Act\u201d) and Rule 608(e) of Regulation NMS Thereunder, Relating to the Reporting of Responses to Requests for Quotes and Other Solicitation Responses Provided in a Standard Electronic Format, as Required by Section 6.4(d) of the National Market System Plan Governing the Consolidated Audit Trail",
+      "url": "https://www.federalregister.gov/documents/2026/01/27/2026-01610/order-granting-exemptive-relief-pursuant-to-section-36a1-of-the-securities-exchange-act-of-1934",
+      "date": "2026-01-27",
+      "description": "",
+      "source": "national-securities-exchanges"
+    },
+    {
+      "id": "99462c0b5dee",
+      "title": "Order Extending Temporary Conditional Exemptive Relief, Pursuant to Section 36(a)(1) of the Securities Exchange Act of 1934 (\u201cExchange Act\u201d) and Rule 608(e) of Regulation NMS Thereunder, From Certain Requirements of Appendix D, Section 3 of the National Market System Plan Governing the Consolidated Audit Trail Related to Representative Orders",
+      "url": "https://www.federalregister.gov/documents/2026/01/27/2026-01609/order-extending-temporary-conditional-exemptive-relief-pursuant-to-section-36a1-of-the-securities",
+      "date": "2026-01-27",
+      "description": "",
+      "source": "national-securities-exchanges"
+    },
+    {
+      "id": "7df1226f849d",
+      "title": "Joint Industry Plan; Notice of Filing of the Fifty-Fifth Amendment to the Joint Self-Regulatory Organization Plan Governing the Collection, Consolidation and Dissemination of Quotation and Transaction Information for Nasdaq-Listed Securities Traded on Exchanges on an Unlisted Trading Privileges Basis",
+      "url": "https://www.federalregister.gov/documents/2026/01/27/2026-01532/joint-industry-plan-notice-of-filing-of-the-fifty-fifth-amendment-to-the-joint-self-regulatory",
+      "date": "2026-01-27",
+      "description": "",
+      "source": "national-securities-exchanges"
+    },
+    {
+      "id": "374ddc651f69",
+      "title": "Consolidated Tape Association; Notice of Filing of Fortieth Substantive Amendment to the Second Restatement of the CTA Plan and Thirty-First Substantive Amendment to the Restated CQ Plan",
+      "url": "https://www.federalregister.gov/documents/2026/01/27/2026-01528/consolidated-tape-association-notice-of-filing-of-fortieth-substantive-amendment-to-the-second",
+      "date": "2026-01-27",
+      "description": "",
+      "source": "national-securities-exchanges"
+    },
+    {
+      "id": "33a5b6361b33",
+      "title": "Self-Regulatory Organizations; Cboe BZX Exchange, Inc.; Notice of Filing of a Proposed Rule Change To Amend Rule 14.11(j) To Eliminate the Requirement That the Exchange Distribute an Information Circular Prior to the Commencement of Trading in Each UTP Derivative Security",
+      "url": "https://www.federalregister.gov/documents/2026/01/27/2026-01521/self-regulatory-organizations-cboe-bzx-exchange-inc-notice-of-filing-of-a-proposed-rule-change-to",
+      "date": "2026-01-27",
+      "description": "",
+      "source": "national-securities-exchanges"
+    },
+    {
+      "id": "b8f1f20f03e4",
+      "title": "Self-Regulatory Organizations; Cboe BZX Exchange, Inc.; Notice of Filing of a Proposed Rule Change To Amend the Opening Auction Process Provided Under Rule 11.23(b)(2)(B) To Delay the Opening Auction Under Certain Market Conditions in Order To Improve Price Discovery and Allow Executions To Occur at Prices That Better Reflect Current Market Conditions",
+      "url": "https://www.federalregister.gov/documents/2026/01/27/2026-01520/self-regulatory-organizations-cboe-bzx-exchange-inc-notice-of-filing-of-a-proposed-rule-change-to",
+      "date": "2026-01-27",
+      "description": "",
+      "source": "national-securities-exchanges"
+    },
     {
       "id": "a963d7d3dc9d",
       "title": "Self-Regulatory Organizations; Cboe Exchange, Inc.; Notice of Filing of a Proposed Rule Change To Amend Rules 4.13 and 5.1 To Permit Options on the Dow Jones Industrial Average To Be P.M.-Settled",
@@ -151,14 +207,6 @@
       "title": "Self-Regulatory Organizations; Nasdaq ISE, LLC; Notice of Designation of a Longer Period for Commission Action on a Proposed Rule Change To Amend the Position and Exercise Limits for IBIT Options and FLEX Trading",
       "url": "https://www.federalregister.gov/documents/2026/01/08/2026-00116/self-regulatory-organizations-nasdaq-ise-llc-notice-of-designation-of-a-longer-period-for-commission",
       "date": "2026-01-08",
-      "description": "",
-      "source": "national-securities-exchanges"
-    },
-    {
-      "id": "8d8e9fe0c27d",
-      "title": "Self-Regulatory Organizations; LCH SA; Notice of Filing of Proposed Rule Change Relating to LCH SA's Default Management Policy, Investment Risk Policy, Liquidity Risk Policy, Settlement, Payment and Custody Risk Policy, Model Governance, Validation and Review Policy and Contract and Market Acceptability Policy",
-      "url": "https://www.federalregister.gov/documents/2026/01/05/2025-24228/self-regulatory-organizations-lch-sa-notice-of-filing-of-proposed-rule-change-relating-to-lch-sas",
-      "date": "2026-01-05",
       "description": "",
       "source": "national-securities-exchanges"
     }
