@@ -1,7 +1,39 @@
 {
-  "updated": "2026-01-29T06:36:00.527937+00:00",
-  "count": 24,
+  "updated": "2026-01-29T12:36:36.771418+00:00",
+  "count": 26,
   "filings": [
+    {
+      "id": "def76f5d679b",
+      "title": "Self-Regulatory Organizations; Fixed Income Clearing Corporation; Notice of Filing of Proposed Rule Change To Amend and Restate the Second Amended and Restated Cross-Margining Agreement Between FICC and CME and Amend Related GSD Rules",
+      "url": "https://www.federalregister.gov/documents/2026/01/29/2026-01742/self-regulatory-organizations-fixed-income-clearing-corporation-notice-of-filing-of-proposed-rule",
+      "date": "2026-01-29",
+      "description": "",
+      "source": "national-securities-exchanges"
+    },
+    {
+      "id": "d6cb978343e6",
+      "title": "Self-Regulatory Organizations; ICE Clear Credit LLC; Order Approving Proposed Rule Change Relating to the ICC Stress Testing Framework and the ICC Liquidity Risk Management Framework",
+      "url": "https://www.federalregister.gov/documents/2026/01/29/2026-01741/self-regulatory-organizations-ice-clear-credit-llc-order-approving-proposed-rule-change-relating-to",
+      "date": "2026-01-29",
+      "description": "",
+      "source": "national-securities-exchanges"
+    },
+    {
+      "id": "ca19317882c6",
+      "title": "Self-Regulatory Organizations; The Nasdaq Stock Market LLC; Notice of Filing of Proposed Rule Change To Adopt a New Continued Listing Requirement",
+      "url": "https://www.federalregister.gov/documents/2026/01/29/2026-01740/self-regulatory-organizations-the-nasdaq-stock-market-llc-notice-of-filing-of-proposed-rule-change",
+      "date": "2026-01-29",
+      "description": "",
+      "source": "national-securities-exchanges"
+    },
+    {
+      "id": "5fafb1274286",
+      "title": "Self-Regulatory Organizations; National Securities Clearing Corporation; Notice of Filing of Proposed Rule Change Concerning the Clearing of Exchange-Trade Funds With Options as Underlying Components",
+      "url": "https://www.federalregister.gov/documents/2026/01/29/2026-01739/self-regulatory-organizations-national-securities-clearing-corporation-notice-of-filing-of-proposed",
+      "date": "2026-01-29",
+      "description": "",
+      "source": "national-securities-exchanges"
+    },
     {
       "id": "d14b83067d3a",
       "title": "Order Granting Exemptive Relief, Pursuant to Section 36(a)(1) of the Securities Exchange Act of 1934 (\u201cExchange Act\u201d) and Rule 608(e) of Regulation NMS Thereunder, From Certain Requirements of the National Market System Plan Governing the Consolidated Audit Trail Related to Port-Level Settings",
@@ -174,22 +206,6 @@
       "id": "a14fd564d559",
       "title": "Agency Information Collection Activities; Proposed Collection; Comment Request; Extension: Rule 19b-4 and Form 19b-4",
       "url": "https://www.federalregister.gov/documents/2026/01/09/2026-00276/agency-information-collection-activities-proposed-collection-comment-request-extension-rule-19b-4",
-      "date": "2026-01-09",
-      "description": "",
-      "source": "national-securities-exchanges"
-    },
-    {
-      "id": "53e331803b31",
-      "title": "Self-Regulatory Organizations; Cboe BZX Exchange, Inc.; Notice of Filing of Designation of a Longer Period for Commission Action on Proceedings To Determine Whether To Approve or Disapprove a Proposed Rule Change To Amend Rule 11.9(d) To Permit an Intermarket Sweep Order Containing a Time-in-Force Other Than IOC To Be Entered as a Non-Displayed Order",
-      "url": "https://www.federalregister.gov/documents/2026/01/09/2026-00218/self-regulatory-organizations-cboe-bzx-exchange-inc-notice-of-filing-of-designation-of-a-longer",
-      "date": "2026-01-09",
-      "description": "",
-      "source": "national-securities-exchanges"
-    },
-    {
-      "id": "ba152b544c51",
-      "title": "Self-Regulatory Organizations; New York Stock Exchange LLC; Notice of Withdrawal of a Proposed Rule Change Amending Section 302.00 of the NYSE Listed Company Manual To Exempt Closed-End Funds Registered Under the Investment Company Act of 1940 From the Requirement To Hold Annual Shareholder Meetings",
-      "url": "https://www.federalregister.gov/documents/2026/01/09/2026-00217/self-regulatory-organizations-new-york-stock-exchange-llc-notice-of-withdrawal-of-a-proposed-rule",
       "date": "2026-01-09",
       "description": "",
       "source": "national-securities-exchanges"

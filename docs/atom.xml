@@ -2,29 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://github.com/edwinhu/sec-sro-rss</id>
   <title>SEC Self-Regulatory Organization Rulemaking</title>
-  <updated>2026-01-29T06:36:00.511112+00:00</updated>
+  <updated>2026-01-29T12:36:36.737348+00:00</updated>
   <link href="https://www.sec.gov/rules-regulations/self-regulatory-organization-rulemaking" rel="alternate"/>
   <link href="https://edwinhu.github.io/sec-sro-rss/feed.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Filtered SEC SRO filings (excludes immediate effectiveness notices and crypto)</subtitle>
-  <entry>
-    <id>https://www.federalregister.gov/documents/2026/01/09/2026-00217/self-regulatory-organizations-new-york-stock-exchange-llc-notice-of-withdrawal-of-a-proposed-rule</id>
-    <title>Self-Regulatory Organizations; New York Stock Exchange LLC; Notice of Withdrawal of a Proposed Rule Change Amending Section 302.00 of the NYSE Listed Company Manual To Exempt Closed-End Funds Registered Under the Investment Company Act of 1940 From the Requirement To Hold Annual Shareholder Meetings</title>
-    <updated>2026-01-09T00:00:00+00:00</updated>
-    <content>Source: National Securities Exchanges
-Date: 2026-01-09</content>
-    <link href="https://www.federalregister.gov/documents/2026/01/09/2026-00217/self-regulatory-organizations-new-york-stock-exchange-llc-notice-of-withdrawal-of-a-proposed-rule"/>
-    <published>2026-01-09T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.federalregister.gov/documents/2026/01/09/2026-00218/self-regulatory-organizations-cboe-bzx-exchange-inc-notice-of-filing-of-designation-of-a-longer</id>
-    <title>Self-Regulatory Organizations; Cboe BZX Exchange, Inc.; Notice of Filing of Designation of a Longer Period for Commission Action on Proceedings To Determine Whether To Approve or Disapprove a Proposed Rule Change To Amend Rule 11.9(d) To Permit an Intermarket Sweep Order Containing a Time-in-Force Other Than IOC To Be Entered as a Non-Displayed Order</title>
-    <updated>2026-01-09T00:00:00+00:00</updated>
-    <content>Source: National Securities Exchanges
-Date: 2026-01-09</content>
-    <link href="https://www.federalregister.gov/documents/2026/01/09/2026-00218/self-regulatory-organizations-cboe-bzx-exchange-inc-notice-of-filing-of-designation-of-a-longer"/>
-    <published>2026-01-09T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>https://www.federalregister.gov/documents/2026/01/09/2026-00276/agency-information-collection-activities-proposed-collection-comment-request-extension-rule-19b-4</id>
     <title>Agency Information Collection Activities; Proposed Collection; Comment Request; Extension: Rule 19b-4 and Form 19b-4</title>
@@ -222,5 +204,41 @@ Date: 2026-01-27</content>
 Date: 2026-01-27</content>
     <link href="https://www.federalregister.gov/documents/2026/01/27/2026-01611/order-granting-exemptive-relief-pursuant-to-section-36a1-of-the-securities-exchange-act-of-1934"/>
     <published>2026-01-27T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.federalregister.gov/documents/2026/01/29/2026-01739/self-regulatory-organizations-national-securities-clearing-corporation-notice-of-filing-of-proposed</id>
+    <title>Self-Regulatory Organizations; National Securities Clearing Corporation; Notice of Filing of Proposed Rule Change Concerning the Clearing of Exchange-Trade Funds With Options as Underlying Components</title>
+    <updated>2026-01-29T00:00:00+00:00</updated>
+    <content>Source: National Securities Exchanges
+Date: 2026-01-29</content>
+    <link href="https://www.federalregister.gov/documents/2026/01/29/2026-01739/self-regulatory-organizations-national-securities-clearing-corporation-notice-of-filing-of-proposed"/>
+    <published>2026-01-29T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.federalregister.gov/documents/2026/01/29/2026-01740/self-regulatory-organizations-the-nasdaq-stock-market-llc-notice-of-filing-of-proposed-rule-change</id>
+    <title>Self-Regulatory Organizations; The Nasdaq Stock Market LLC; Notice of Filing of Proposed Rule Change To Adopt a New Continued Listing Requirement</title>
+    <updated>2026-01-29T00:00:00+00:00</updated>
+    <content>Source: National Securities Exchanges
+Date: 2026-01-29</content>
+    <link href="https://www.federalregister.gov/documents/2026/01/29/2026-01740/self-regulatory-organizations-the-nasdaq-stock-market-llc-notice-of-filing-of-proposed-rule-change"/>
+    <published>2026-01-29T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.federalregister.gov/documents/2026/01/29/2026-01741/self-regulatory-organizations-ice-clear-credit-llc-order-approving-proposed-rule-change-relating-to</id>
+    <title>Self-Regulatory Organizations; ICE Clear Credit LLC; Order Approving Proposed Rule Change Relating to the ICC Stress Testing Framework and the ICC Liquidity Risk Management Framework</title>
+    <updated>2026-01-29T00:00:00+00:00</updated>
+    <content>Source: National Securities Exchanges
+Date: 2026-01-29</content>
+    <link href="https://www.federalregister.gov/documents/2026/01/29/2026-01741/self-regulatory-organizations-ice-clear-credit-llc-order-approving-proposed-rule-change-relating-to"/>
+    <published>2026-01-29T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.federalregister.gov/documents/2026/01/29/2026-01742/self-regulatory-organizations-fixed-income-clearing-corporation-notice-of-filing-of-proposed-rule</id>
+    <title>Self-Regulatory Organizations; Fixed Income Clearing Corporation; Notice of Filing of Proposed Rule Change To Amend and Restate the Second Amended and Restated Cross-Margining Agreement Between FICC and CME and Amend Related GSD Rules</title>
+    <updated>2026-01-29T00:00:00+00:00</updated>
+    <content>Source: National Securities Exchanges
+Date: 2026-01-29</content>
+    <link href="https://www.federalregister.gov/documents/2026/01/29/2026-01742/self-regulatory-organizations-fixed-income-clearing-corporation-notice-of-filing-of-proposed-rule"/>
+    <published>2026-01-29T00:00:00+00:00</published>
   </entry>
 </feed>
