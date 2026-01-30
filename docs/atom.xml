@@ -2,29 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://github.com/edwinhu/sec-sro-rss</id>
   <title>SEC Self-Regulatory Organization Rulemaking</title>
-  <updated>2026-01-30T12:34:48.788015+00:00</updated>
+  <updated>2026-01-30T18:30:06.596629+00:00</updated>
   <link href="https://www.sec.gov/rules-regulations/self-regulatory-organization-rulemaking" rel="alternate"/>
   <link href="https://edwinhu.github.io/sec-sro-rss/feed.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Filtered SEC SRO filings (excludes immediate effectiveness notices and crypto)</subtitle>
-  <entry>
-    <id>https://www.federalregister.gov/documents/2026/01/09/2026-00276/agency-information-collection-activities-proposed-collection-comment-request-extension-rule-19b-4</id>
-    <title>Agency Information Collection Activities; Proposed Collection; Comment Request; Extension: Rule 19b-4 and Form 19b-4</title>
-    <updated>2026-01-09T00:00:00+00:00</updated>
-    <content>Source: National Securities Exchanges
-Date: 2026-01-09</content>
-    <link href="https://www.federalregister.gov/documents/2026/01/09/2026-00276/agency-information-collection-activities-proposed-collection-comment-request-extension-rule-19b-4"/>
-    <published>2026-01-09T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.federalregister.gov/documents/2026/01/12/2026-00294/self-regulatory-organizations-cboe-bzx-exchange-inc-notice-of-designation-of-a-longer-period-for</id>
-    <title>Self-Regulatory Organizations; Cboe BZX Exchange, Inc.; Notice of Designation of a Longer Period for Commission Action on Proceedings To Determine Whether To Approve or Disapprove a Proposed Rule Change, as Modified by Amendment No. 2, To List and Trade Shares of the Canary PENGU ETF Under BZX Rule 14.11(e)(4), Commodity-Based Trust Shares</title>
-    <updated>2026-01-12T00:00:00+00:00</updated>
-    <content>Source: National Securities Exchanges
-Date: 2026-01-12</content>
-    <link href="https://www.federalregister.gov/documents/2026/01/12/2026-00294/self-regulatory-organizations-cboe-bzx-exchange-inc-notice-of-designation-of-a-longer-period-for"/>
-    <published>2026-01-12T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>https://www.federalregister.gov/documents/2026/01/13/2026-00416/self-regulatory-organizations-the-nasdaq-stock-market-llc-notice-of-filing-of-proposed-rule-change</id>
     <title>Self-Regulatory Organizations; The Nasdaq Stock Market LLC; Notice of Filing of Proposed Rule Change To Extend the Exchange's U.S. Equities Trading Hours to 23 Hours a Day, Five Days a Week</title>
@@ -240,5 +222,23 @@ Date: 2026-01-29</content>
 Date: 2026-01-29</content>
     <link href="https://www.federalregister.gov/documents/2026/01/29/2026-01742/self-regulatory-organizations-fixed-income-clearing-corporation-notice-of-filing-of-proposed-rule"/>
     <published>2026-01-29T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.federalregister.gov/documents/2026/01/30/2026-01823/self-regulatory-organizations-the-nasdaq-stock-market-llc-notice-of-filing-of-a-proposed-rule-change</id>
+    <title>Self-Regulatory Organizations; The Nasdaq Stock Market LLC; Notice of Filing of a Proposed Rule Change, as Modified by Amendment No. 2, To Amend the Exchange's Rules To Enable the Trading of Securities on the Exchange in Tokenized Form</title>
+    <updated>2026-01-30T00:00:00+00:00</updated>
+    <content>Source: National Securities Exchanges
+Date: 2026-01-30</content>
+    <link href="https://www.federalregister.gov/documents/2026/01/30/2026-01823/self-regulatory-organizations-the-nasdaq-stock-market-llc-notice-of-filing-of-a-proposed-rule-change"/>
+    <published>2026-01-30T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.federalregister.gov/documents/2026/01/30/2026-01825/self-regulatory-organizations-financial-industry-regulatory-authority-inc-notice-of-filing-of-a</id>
+    <title>Self-Regulatory Organizations; Financial Industry Regulatory Authority, Inc.; Notice of Filing of a Proposed Rule Change To Amend FINRA Rules 5110 (Corporate Financing Rule-Underwriting Terms and Arrangements) and 5123 (Private Placements of Securities)</title>
+    <updated>2026-01-30T00:00:00+00:00</updated>
+    <content>Source: Finra
+Date: 2026-01-30</content>
+    <link href="https://www.federalregister.gov/documents/2026/01/30/2026-01825/self-regulatory-organizations-financial-industry-regulatory-authority-inc-notice-of-filing-of-a"/>
+    <published>2026-01-30T00:00:00+00:00</published>
   </entry>
 </feed>

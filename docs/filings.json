@@ -1,7 +1,23 @@
 {
-  "updated": "2026-01-30T12:34:48.835568+00:00",
+  "updated": "2026-01-30T18:30:06.616760+00:00",
   "count": 26,
   "filings": [
+    {
+      "id": "b6b42d97f347",
+      "title": "Self-Regulatory Organizations; Financial Industry Regulatory Authority, Inc.; Notice of Filing of a Proposed Rule Change To Amend FINRA Rules 5110 (Corporate Financing Rule-Underwriting Terms and Arrangements) and 5123 (Private Placements of Securities)",
+      "url": "https://www.federalregister.gov/documents/2026/01/30/2026-01825/self-regulatory-organizations-financial-industry-regulatory-authority-inc-notice-of-filing-of-a",
+      "date": "2026-01-30",
+      "description": "",
+      "source": "finra"
+    },
+    {
+      "id": "eedcac78566a",
+      "title": "Self-Regulatory Organizations; The Nasdaq Stock Market LLC; Notice of Filing of a Proposed Rule Change, as Modified by Amendment No. 2, To Amend the Exchange's Rules To Enable the Trading of Securities on the Exchange in Tokenized Form",
+      "url": "https://www.federalregister.gov/documents/2026/01/30/2026-01823/self-regulatory-organizations-the-nasdaq-stock-market-llc-notice-of-filing-of-a-proposed-rule-change",
+      "date": "2026-01-30",
+      "description": "",
+      "source": "national-securities-exchanges"
+    },
     {
       "id": "def76f5d679b",
       "title": "Self-Regulatory Organizations; Fixed Income Clearing Corporation; Notice of Filing of Proposed Rule Change To Amend and Restate the Second Amended and Restated Cross-Margining Agreement Between FICC and CME and Amend Related GSD Rules",
@@ -191,22 +207,6 @@
       "title": "Self-Regulatory Organizations; The Nasdaq Stock Market LLC; Notice of Filing of Proposed Rule Change To Extend the Exchange's U.S. Equities Trading Hours to 23 Hours a Day, Five Days a Week",
       "url": "https://www.federalregister.gov/documents/2026/01/13/2026-00416/self-regulatory-organizations-the-nasdaq-stock-market-llc-notice-of-filing-of-proposed-rule-change",
       "date": "2026-01-13",
-      "description": "",
-      "source": "national-securities-exchanges"
-    },
-    {
-      "id": "f838f2985610",
-      "title": "Self-Regulatory Organizations; Cboe BZX Exchange, Inc.; Notice of Designation of a Longer Period for Commission Action on Proceedings To Determine Whether To Approve or Disapprove a Proposed Rule Change, as Modified by Amendment No. 2, To List and Trade Shares of the Canary PENGU ETF Under BZX Rule 14.11(e)(4), Commodity-Based Trust Shares",
-      "url": "https://www.federalregister.gov/documents/2026/01/12/2026-00294/self-regulatory-organizations-cboe-bzx-exchange-inc-notice-of-designation-of-a-longer-period-for",
-      "date": "2026-01-12",
-      "description": "",
-      "source": "national-securities-exchanges"
-    },
-    {
-      "id": "a14fd564d559",
-      "title": "Agency Information Collection Activities; Proposed Collection; Comment Request; Extension: Rule 19b-4 and Form 19b-4",
-      "url": "https://www.federalregister.gov/documents/2026/01/09/2026-00276/agency-information-collection-activities-proposed-collection-comment-request-extension-rule-19b-4",
-      "date": "2026-01-09",
       "description": "",
       "source": "national-securities-exchanges"
     }
