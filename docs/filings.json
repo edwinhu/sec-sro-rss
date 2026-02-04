@@ -1,7 +1,23 @@
 {
-  "updated": "2026-02-04T06:39:31.075503+00:00",
-  "count": 39,
+  "updated": "2026-02-04T12:38:47.861720+00:00",
+  "count": 37,
   "filings": [
+    {
+      "id": "cb386d5804db",
+      "title": "Self-Regulatory Organizations; Fixed Income Clearing Corporation; Notice of Filing of Proposed Rule Change To Remove the Activity Limit From the GSD Rules",
+      "url": "https://www.federalregister.gov/documents/2026/02/04/2026-02228/self-regulatory-organizations-fixed-income-clearing-corporation-notice-of-filing-of-proposed-rule",
+      "date": "2026-02-04",
+      "description": "",
+      "source": "national-securities-exchanges"
+    },
+    {
+      "id": "547f0c771284",
+      "title": "Self-Regulatory Organizations; NYSE American LLC; Notice of Filing of a Proposed Rule Change To Amend the Initial Listing Standards Set Forth in Sections 101 and 102 of the NYSE American Company Guide",
+      "url": "https://www.federalregister.gov/documents/2026/02/04/2026-02221/self-regulatory-organizations-nyse-american-llc-notice-of-filing-of-a-proposed-rule-change-to-amend",
+      "date": "2026-02-04",
+      "description": "",
+      "source": "national-securities-exchanges"
+    },
     {
       "id": "dbe9a478104f",
       "title": "[Self-Regulatory Organizations; Financial Industry Regulatory Authority, Inc.; Notice of Filing of a Proposed Rule Change To Adopt FINRA Rule 3290 (Outside Activities Requirements)",
@@ -279,38 +295,6 @@
       "title": "Agency Information Collection Activities; Proposed Collection; Comment Request; Extension: Ombudsman Matter Management System (OMMS) Submission Form",
       "url": "https://www.federalregister.gov/documents/2026/01/23/2026-01213/agency-information-collection-activities-proposed-collection-comment-request-extension-ombudsman",
       "date": "2026-01-23",
-      "description": "",
-      "source": "national-securities-exchanges"
-    },
-    {
-      "id": "8e3ded4ff7a1",
-      "title": "Agency Information Collection Activities; Proposed Collection; Comment Request; Extension: Rule 201 and Rule 200(g) of Regulation SHO",
-      "url": "https://www.federalregister.gov/documents/2026/01/23/2026-01211/agency-information-collection-activities-proposed-collection-comment-request-extension-rule-201-and",
-      "date": "2026-01-23",
-      "description": "",
-      "source": "national-securities-exchanges"
-    },
-    {
-      "id": "c09501677e04",
-      "title": "Self-Regulatory Organizations; New York Stock Exchange LLC; Notice of Filing of Proposed Rule Change To Streamline and Modernize Rule 76",
-      "url": "https://www.federalregister.gov/documents/2026/01/23/2026-01209/self-regulatory-organizations-new-york-stock-exchange-llc-notice-of-filing-of-proposed-rule-change",
-      "date": "2026-01-23",
-      "description": "",
-      "source": "national-securities-exchanges"
-    },
-    {
-      "id": "c875a5659223",
-      "title": "Self-Regulatory Organizations; Nasdaq ISE, LLC; Order Approving a Proposed Rule Change, as Modified by Amendment No. 1, To Amend the Short Term Option Series Program To List Qualifying Securities",
-      "url": "https://www.federalregister.gov/documents/2026/01/22/2026-01118/self-regulatory-organizations-nasdaq-ise-llc-order-approving-a-proposed-rule-change-as-modified-by",
-      "date": "2026-01-22",
-      "description": "",
-      "source": "national-securities-exchanges"
-    },
-    {
-      "id": "6869c092b24d",
-      "title": "Self-Regulatory Organizations; Cboe EDGX Exchange, Inc.; Notice of Filing of a Proposed Rule Change To Modify Rule 11.21 To Adopt a Retail Price Improvement Program and Modify Rule 11.6(e)(2) and Rule 11.10(a)(4)(C)-(D) in Order To Describe the Behavior of Orders Containing a Non-Displayed Instruction",
-      "url": "https://www.federalregister.gov/documents/2026/01/21/2026-01016/self-regulatory-organizations-cboe-edgx-exchange-inc-notice-of-filing-of-a-proposed-rule-change-to",
-      "date": "2026-01-21",
       "description": "",
       "source": "national-securities-exchanges"
     }

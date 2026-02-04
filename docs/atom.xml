@@ -2,47 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://github.com/edwinhu/sec-sro-rss</id>
   <title>SEC Self-Regulatory Organization Rulemaking</title>
-  <updated>2026-02-04T06:39:31.052988+00:00</updated>
+  <updated>2026-02-04T12:38:47.838283+00:00</updated>
   <link href="https://www.sec.gov/rules-regulations/self-regulatory-organization-rulemaking" rel="alternate"/>
   <link href="https://edwinhu.github.io/sec-sro-rss/feed.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Filtered SEC SRO filings (excludes immediate effectiveness notices and crypto)</subtitle>
-  <entry>
-    <id>https://www.federalregister.gov/documents/2026/01/21/2026-01016/self-regulatory-organizations-cboe-edgx-exchange-inc-notice-of-filing-of-a-proposed-rule-change-to</id>
-    <title>Self-Regulatory Organizations; Cboe EDGX Exchange, Inc.; Notice of Filing of a Proposed Rule Change To Modify Rule 11.21 To Adopt a Retail Price Improvement Program and Modify Rule 11.6(e)(2) and Rule 11.10(a)(4)(C)-(D) in Order To Describe the Behavior of Orders Containing a Non-Displayed Instruction</title>
-    <updated>2026-01-21T00:00:00+00:00</updated>
-    <content>Source: National Securities Exchanges
-Date: 2026-01-21</content>
-    <link href="https://www.federalregister.gov/documents/2026/01/21/2026-01016/self-regulatory-organizations-cboe-edgx-exchange-inc-notice-of-filing-of-a-proposed-rule-change-to"/>
-    <published>2026-01-21T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.federalregister.gov/documents/2026/01/22/2026-01118/self-regulatory-organizations-nasdaq-ise-llc-order-approving-a-proposed-rule-change-as-modified-by</id>
-    <title>Self-Regulatory Organizations; Nasdaq ISE, LLC; Order Approving a Proposed Rule Change, as Modified by Amendment No. 1, To Amend the Short Term Option Series Program To List Qualifying Securities</title>
-    <updated>2026-01-22T00:00:00+00:00</updated>
-    <content>Source: National Securities Exchanges
-Date: 2026-01-22</content>
-    <link href="https://www.federalregister.gov/documents/2026/01/22/2026-01118/self-regulatory-organizations-nasdaq-ise-llc-order-approving-a-proposed-rule-change-as-modified-by"/>
-    <published>2026-01-22T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.federalregister.gov/documents/2026/01/23/2026-01209/self-regulatory-organizations-new-york-stock-exchange-llc-notice-of-filing-of-proposed-rule-change</id>
-    <title>Self-Regulatory Organizations; New York Stock Exchange LLC; Notice of Filing of Proposed Rule Change To Streamline and Modernize Rule 76</title>
-    <updated>2026-01-23T00:00:00+00:00</updated>
-    <content>Source: National Securities Exchanges
-Date: 2026-01-23</content>
-    <link href="https://www.federalregister.gov/documents/2026/01/23/2026-01209/self-regulatory-organizations-new-york-stock-exchange-llc-notice-of-filing-of-proposed-rule-change"/>
-    <published>2026-01-23T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.federalregister.gov/documents/2026/01/23/2026-01211/agency-information-collection-activities-proposed-collection-comment-request-extension-rule-201-and</id>
-    <title>Agency Information Collection Activities; Proposed Collection; Comment Request; Extension: Rule 201 and Rule 200(g) of Regulation SHO</title>
-    <updated>2026-01-23T00:00:00+00:00</updated>
-    <content>Source: National Securities Exchanges
-Date: 2026-01-23</content>
-    <link href="https://www.federalregister.gov/documents/2026/01/23/2026-01211/agency-information-collection-activities-proposed-collection-comment-request-extension-rule-201-and"/>
-    <published>2026-01-23T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>https://www.federalregister.gov/documents/2026/01/23/2026-01213/agency-information-collection-activities-proposed-collection-comment-request-extension-ombudsman</id>
     <title>Agency Information Collection Activities; Proposed Collection; Comment Request; Extension: Ombudsman Matter Management System (OMMS) Submission Form</title>
@@ -357,5 +321,23 @@ Date: 2026-02-03</content>
 Date: 2026-02-03</content>
     <link href="https://www.federalregister.gov/documents/2026/02/03/2026-02122/self-regulatory-organizations-financial-industry-regulatory-authority-inc-notice-of-filing-of-a"/>
     <published>2026-02-03T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.federalregister.gov/documents/2026/02/04/2026-02221/self-regulatory-organizations-nyse-american-llc-notice-of-filing-of-a-proposed-rule-change-to-amend</id>
+    <title>Self-Regulatory Organizations; NYSE American LLC; Notice of Filing of a Proposed Rule Change To Amend the Initial Listing Standards Set Forth in Sections 101 and 102 of the NYSE American Company Guide</title>
+    <updated>2026-02-04T00:00:00+00:00</updated>
+    <content>Source: National Securities Exchanges
+Date: 2026-02-04</content>
+    <link href="https://www.federalregister.gov/documents/2026/02/04/2026-02221/self-regulatory-organizations-nyse-american-llc-notice-of-filing-of-a-proposed-rule-change-to-amend"/>
+    <published>2026-02-04T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.federalregister.gov/documents/2026/02/04/2026-02228/self-regulatory-organizations-fixed-income-clearing-corporation-notice-of-filing-of-proposed-rule</id>
+    <title>Self-Regulatory Organizations; Fixed Income Clearing Corporation; Notice of Filing of Proposed Rule Change To Remove the Activity Limit From the GSD Rules</title>
+    <updated>2026-02-04T00:00:00+00:00</updated>
+    <content>Source: National Securities Exchanges
+Date: 2026-02-04</content>
+    <link href="https://www.federalregister.gov/documents/2026/02/04/2026-02228/self-regulatory-organizations-fixed-income-clearing-corporation-notice-of-filing-of-proposed-rule"/>
+    <published>2026-02-04T00:00:00+00:00</published>
   </entry>
 </feed>
