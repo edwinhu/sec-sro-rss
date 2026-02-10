@@ -8,15 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 10 Feb 2026 06:55:31 +0000</lastBuildDate>
-    <item>
-      <title>Self-Regulatory Organizations; Cboe Exchange, Inc.; Notice of Filing of a Proposed Rule Change To Amend Rules 4.13 and 5.1 To Permit Options on the Dow Jones Industrial Average To Be P.M.-Settled</title>
-      <link>https://www.federalregister.gov/documents/2026/01/26/2026-01375/self-regulatory-organizations-cboe-exchange-inc-notice-of-filing-of-a-proposed-rule-change-to-amend</link>
-      <description>Source: National Securities Exchanges
-Date: 2026-01-26</description>
-      <guid isPermaLink="false">https://www.federalregister.gov/documents/2026/01/26/2026-01375/self-regulatory-organizations-cboe-exchange-inc-notice-of-filing-of-a-proposed-rule-change-to-amend</guid>
-      <pubDate>Mon, 26 Jan 2026 00:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 10 Feb 2026 12:53:00 +0000</lastBuildDate>
     <item>
       <title>Self-Regulatory Organizations; Cboe BZX Exchange, Inc.; Notice of Filing of a Proposed Rule Change To Amend the Opening Auction Process Provided Under Rule 11.23(b)(2)(B) To Delay the Opening Auction Under Certain Market Conditions in Order To Improve Price Discovery and Allow Executions To Occur at Prices That Better Reflect Current Market Conditions</title>
       <link>https://www.federalregister.gov/documents/2026/01/27/2026-01520/self-regulatory-organizations-cboe-bzx-exchange-inc-notice-of-filing-of-a-proposed-rule-change-to</link>
@@ -304,6 +296,14 @@ Date: 2026-02-04</description>
 Date: 2026-02-06</description>
       <guid isPermaLink="false">https://www.federalregister.gov/documents/2026/02/06/2026-02333/ice-clear-credit-llc-order-granting-an-application-for-registration-as-a-clearing-agency-under</guid>
       <pubDate>Fri, 06 Feb 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Self-Regulatory Organizations; Cboe Exchange, Inc.; Notice of Designation of a Longer Period for Commission Action on a Proposed Rule Change To Permit Orders for the Accounts of Market-Makers With an Appointment in the Applicable Class To Be Solicited as the Contra-Side Order Submitted Into Certain Exchange Auctions</title>
+      <link>https://www.federalregister.gov/documents/2026/02/10/2026-02579/self-regulatory-organizations-cboe-exchange-inc-notice-of-designation-of-a-longer-period-for</link>
+      <description>Source: National Securities Exchanges
+Date: 2026-02-10</description>
+      <guid isPermaLink="false">https://www.federalregister.gov/documents/2026/02/10/2026-02579/self-regulatory-organizations-cboe-exchange-inc-notice-of-designation-of-a-longer-period-for</guid>
+      <pubDate>Tue, 10 Feb 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
