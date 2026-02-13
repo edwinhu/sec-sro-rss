@@ -1,7 +1,23 @@
 {
-  "updated": "2026-02-13T06:49:10.279715+00:00",
-  "count": 34,
+  "updated": "2026-02-13T12:37:45.801242+00:00",
+  "count": 27,
   "filings": [
+    {
+      "id": "6d184216ed70",
+      "title": "Self-Regulatory Organizations; Financial Industry Regulatory Authority, Inc.; Order Approving a Proposed Rule Change, as Modified by Partial Amendment No. 1, To Amend the FINRA Capital Acquisition Broker (\u201cCAB\u201d) Rules",
+      "url": "https://www.federalregister.gov/documents/2026/02/13/2026-02899/self-regulatory-organizations-financial-industry-regulatory-authority-inc-order-approving-a-proposed",
+      "date": "2026-02-13",
+      "description": "",
+      "source": "finra"
+    },
+    {
+      "id": "efd339d1b09c",
+      "title": "Self-Regulatory Organizations; Cboe Exchange, Inc.; Notice of Filing of a Proposed Rule Change To Amend Its Rules Relating to Designated Primary Market-Makers (\u201cDPMs\u201d) and DPM Appointments in Global Trading Hours and Curb Sessions",
+      "url": "https://www.federalregister.gov/documents/2026/02/13/2026-02883/self-regulatory-organizations-cboe-exchange-inc-notice-of-filing-of-a-proposed-rule-change-to-amend",
+      "date": "2026-02-13",
+      "description": "",
+      "source": "national-securities-exchanges"
+    },
     {
       "id": "336932b2fd20",
       "title": "Self-Regulatory Organizations; Cboe Exchange, Inc.; Notice of Designation of a Longer Period for Commission Action on a Proposed Rule Change To Permit Orders for the Accounts of Market-Makers With an Appointment in the Applicable Class To Be Solicited as the Contra-Side Order Submitted Into Certain Exchange Auctions",
@@ -201,78 +217,6 @@
       "date": "2026-01-30",
       "description": "",
       "source": "finra"
-    },
-    {
-      "id": "eedcac78566a",
-      "title": "Self-Regulatory Organizations; The Nasdaq Stock Market LLC; Notice of Filing of a Proposed Rule Change, as Modified by Amendment No. 2, To Amend the Exchange's Rules To Enable the Trading of Securities on the Exchange in Tokenized Form",
-      "url": "https://www.federalregister.gov/documents/2026/01/30/2026-01823/self-regulatory-organizations-the-nasdaq-stock-market-llc-notice-of-filing-of-a-proposed-rule-change",
-      "date": "2026-01-30",
-      "description": "",
-      "source": "national-securities-exchanges"
-    },
-    {
-      "id": "def76f5d679b",
-      "title": "Self-Regulatory Organizations; Fixed Income Clearing Corporation; Notice of Filing of Proposed Rule Change To Amend and Restate the Second Amended and Restated Cross-Margining Agreement Between FICC and CME and Amend Related GSD Rules",
-      "url": "https://www.federalregister.gov/documents/2026/01/29/2026-01742/self-regulatory-organizations-fixed-income-clearing-corporation-notice-of-filing-of-proposed-rule",
-      "date": "2026-01-29",
-      "description": "",
-      "source": "national-securities-exchanges"
-    },
-    {
-      "id": "d6cb978343e6",
-      "title": "Self-Regulatory Organizations; ICE Clear Credit LLC; Order Approving Proposed Rule Change Relating to the ICC Stress Testing Framework and the ICC Liquidity Risk Management Framework",
-      "url": "https://www.federalregister.gov/documents/2026/01/29/2026-01741/self-regulatory-organizations-ice-clear-credit-llc-order-approving-proposed-rule-change-relating-to",
-      "date": "2026-01-29",
-      "description": "",
-      "source": "national-securities-exchanges"
-    },
-    {
-      "id": "ca19317882c6",
-      "title": "Self-Regulatory Organizations; The Nasdaq Stock Market LLC; Notice of Filing of Proposed Rule Change To Adopt a New Continued Listing Requirement",
-      "url": "https://www.federalregister.gov/documents/2026/01/29/2026-01740/self-regulatory-organizations-the-nasdaq-stock-market-llc-notice-of-filing-of-proposed-rule-change",
-      "date": "2026-01-29",
-      "description": "",
-      "source": "national-securities-exchanges"
-    },
-    {
-      "id": "5fafb1274286",
-      "title": "Self-Regulatory Organizations; National Securities Clearing Corporation; Notice of Filing of Proposed Rule Change Concerning the Clearing of Exchange-Trade Funds With Options as Underlying Components",
-      "url": "https://www.federalregister.gov/documents/2026/01/29/2026-01739/self-regulatory-organizations-national-securities-clearing-corporation-notice-of-filing-of-proposed",
-      "date": "2026-01-29",
-      "description": "",
-      "source": "national-securities-exchanges"
-    },
-    {
-      "id": "d14b83067d3a",
-      "title": "Order Granting Exemptive Relief, Pursuant to Section 36(a)(1) of the Securities Exchange Act of 1934 (\u201cExchange Act\u201d) and Rule 608(e) of Regulation NMS Thereunder, From Certain Requirements of the National Market System Plan Governing the Consolidated Audit Trail Related to Port-Level Settings",
-      "url": "https://www.federalregister.gov/documents/2026/01/27/2026-01611/order-granting-exemptive-relief-pursuant-to-section-36a1-of-the-securities-exchange-act-of-1934",
-      "date": "2026-01-27",
-      "description": "",
-      "source": "national-securities-exchanges"
-    },
-    {
-      "id": "d1b892b4542e",
-      "title": "Order Granting Exemptive Relief, Pursuant to Section 36(a)(1) of the Securities Exchange Act of 1934 (\u201cExchange Act\u201d) and Rule 608(e) of Regulation NMS Thereunder, Relating to the Reporting of Responses to Requests for Quotes and Other Solicitation Responses Provided in a Standard Electronic Format, as Required by Section 6.4(d) of the National Market System Plan Governing the Consolidated Audit Trail",
-      "url": "https://www.federalregister.gov/documents/2026/01/27/2026-01610/order-granting-exemptive-relief-pursuant-to-section-36a1-of-the-securities-exchange-act-of-1934",
-      "date": "2026-01-27",
-      "description": "",
-      "source": "national-securities-exchanges"
-    },
-    {
-      "id": "99462c0b5dee",
-      "title": "Order Extending Temporary Conditional Exemptive Relief, Pursuant to Section 36(a)(1) of the Securities Exchange Act of 1934 (\u201cExchange Act\u201d) and Rule 608(e) of Regulation NMS Thereunder, From Certain Requirements of Appendix D, Section 3 of the National Market System Plan Governing the Consolidated Audit Trail Related to Representative Orders",
-      "url": "https://www.federalregister.gov/documents/2026/01/27/2026-01609/order-extending-temporary-conditional-exemptive-relief-pursuant-to-section-36a1-of-the-securities",
-      "date": "2026-01-27",
-      "description": "",
-      "source": "national-securities-exchanges"
-    },
-    {
-      "id": "7df1226f849d",
-      "title": "Joint Industry Plan; Notice of Filing of the Fifty-Fifth Amendment to the Joint Self-Regulatory Organization Plan Governing the Collection, Consolidation and Dissemination of Quotation and Transaction Information for Nasdaq-Listed Securities Traded on Exchanges on an Unlisted Trading Privileges Basis",
-      "url": "https://www.federalregister.gov/documents/2026/01/27/2026-01532/joint-industry-plan-notice-of-filing-of-the-fifty-fifth-amendment-to-the-joint-self-regulatory",
-      "date": "2026-01-27",
-      "description": "",
-      "source": "national-securities-exchanges"
     }
   ]
 }
