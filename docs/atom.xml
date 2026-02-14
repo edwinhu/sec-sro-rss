@@ -2,56 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://github.com/edwinhu/sec-sro-rss</id>
   <title>SEC Self-Regulatory Organization Rulemaking</title>
-  <updated>2026-02-14T06:34:11.947178+00:00</updated>
+  <updated>2026-02-14T12:28:35.619938+00:00</updated>
   <link href="https://www.sec.gov/rules-regulations/self-regulatory-organization-rulemaking" rel="alternate"/>
   <link href="https://edwinhu.github.io/sec-sro-rss/feed.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Filtered SEC SRO filings (excludes immediate effectiveness notices and crypto)</subtitle>
-  <entry>
-    <id>https://www.federalregister.gov/documents/2026/01/30/2026-01825/self-regulatory-organizations-financial-industry-regulatory-authority-inc-notice-of-filing-of-a</id>
-    <title>Self-Regulatory Organizations; Financial Industry Regulatory Authority, Inc.; Notice of Filing of a Proposed Rule Change To Amend FINRA Rules 5110 (Corporate Financing Rule-Underwriting Terms and Arrangements) and 5123 (Private Placements of Securities)</title>
-    <updated>2026-01-30T00:00:00+00:00</updated>
-    <content>Source: Finra
-Date: 2026-01-30</content>
-    <link href="https://www.federalregister.gov/documents/2026/01/30/2026-01825/self-regulatory-organizations-financial-industry-regulatory-authority-inc-notice-of-filing-of-a"/>
-    <published>2026-01-30T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.federalregister.gov/documents/2026/02/02/2026-01969/self-regulatory-organizations-nyse-arca-inc-notice-of-filing-of-amendment-no-1-and-order-granting</id>
-    <title>Self-Regulatory Organizations; NYSE Arca, Inc.; Notice of Filing of Amendment No. 1 and Order Granting Accelerated Approval of a Proposed Rule Change, as Modified by Amendment No. 1, To List and Trade Units of the Sprott Physical Copper Trust</title>
-    <updated>2026-02-02T00:00:00+00:00</updated>
-    <content>Source: National Securities Exchanges
-Date: 2026-02-02</content>
-    <link href="https://www.federalregister.gov/documents/2026/02/02/2026-01969/self-regulatory-organizations-nyse-arca-inc-notice-of-filing-of-amendment-no-1-and-order-granting"/>
-    <published>2026-02-02T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.federalregister.gov/documents/2026/02/02/2026-01971/self-regulatory-organizations-cboe-bzx-exchange-inc-notice-of-designation-of-a-longer-period-for</id>
-    <title>Self-Regulatory Organizations; Cboe BZX Exchange, Inc.; Notice of Designation of a Longer Period for Commission Action on Proceedings To Determine Whether To Approve or Disapprove a Proposed Rule Change To List and Trade Shares of the BondBloxx Private Credit Trust</title>
-    <updated>2026-02-02T00:00:00+00:00</updated>
-    <content>Source: National Securities Exchanges
-Date: 2026-02-02</content>
-    <link href="https://www.federalregister.gov/documents/2026/02/02/2026-01971/self-regulatory-organizations-cboe-bzx-exchange-inc-notice-of-designation-of-a-longer-period-for"/>
-    <published>2026-02-02T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.federalregister.gov/documents/2026/02/02/2026-01973/self-regulatory-organizations-nyse-american-llc-notice-of-designation-of-a-longer-period-for</id>
-    <title>Self-Regulatory Organizations; NYSE American LLC; Notice of Designation of a Longer Period for Commission Action on a Proposed Rule Change, as Modified by Amendment No. 1, To Amend Section 1003 of the NYSE American Company Guide</title>
-    <updated>2026-02-02T00:00:00+00:00</updated>
-    <content>Source: National Securities Exchanges
-Date: 2026-02-02</content>
-    <link href="https://www.federalregister.gov/documents/2026/02/02/2026-01973/self-regulatory-organizations-nyse-american-llc-notice-of-designation-of-a-longer-period-for"/>
-    <published>2026-02-02T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.federalregister.gov/documents/2026/02/02/2026-01974/self-regulatory-organizations-cboe-edgx-exchange-inc-order-granting-approval-of-a-proposed-rule</id>
-    <title>Self-Regulatory Organizations; Cboe EDGX Exchange, Inc.; Order Granting Approval of a Proposed Rule Change, as Modified by Amendment No. 1, To Amend Exchange Rule 11.21 To Allow a Retail Member Organization To Enter a Retail Order Onto the Exchange in a Principal Capacity</title>
-    <updated>2026-02-02T00:00:00+00:00</updated>
-    <content>Source: National Securities Exchanges
-Date: 2026-02-02</content>
-    <link href="https://www.federalregister.gov/documents/2026/02/02/2026-01974/self-regulatory-organizations-cboe-edgx-exchange-inc-order-granting-approval-of-a-proposed-rule"/>
-    <published>2026-02-02T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>https://www.federalregister.gov/documents/2026/02/02/2026-01977/self-regulatory-organizations-new-york-stock-exchange-llc-notice-of-designation-of-a-longer-period</id>
     <title>Self-Regulatory Organizations; New York Stock Exchange LLC; Notice of Designation of a Longer Period for Commission Action on a Proposed Rule Change, as Modified by Amendment No. 1, To Amend Section 802.01C of the NYSE Listed Company Manual</title>
@@ -249,5 +204,14 @@ Date: 2026-02-13</content>
 Date: 2026-02-13</content>
     <link href="https://www.federalregister.gov/documents/2026/02/13/2026-02899/self-regulatory-organizations-financial-industry-regulatory-authority-inc-order-approving-a-proposed"/>
     <published>2026-02-13T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.federalregister.gov/documents/2026/02/17/2026-03016/self-regulatory-organizations-new-york-stock-exchange-llc-notice-of-filing-of-proposed-rule-change</id>
+    <title>Self-Regulatory Organizations; New York Stock Exchange LLC; Notice of Filing of Proposed Rule Change Amending Section 703.12(II) of the NYSE Listed Company Manual To Expand the Circumstances Under Which Rights May Be Listed on the NYSE</title>
+    <updated>2026-02-17T00:00:00+00:00</updated>
+    <content>Source: National Securities Exchanges
+Date: 2026-02-17</content>
+    <link href="https://www.federalregister.gov/documents/2026/02/17/2026-03016/self-regulatory-organizations-new-york-stock-exchange-llc-notice-of-filing-of-proposed-rule-change"/>
+    <published>2026-02-17T00:00:00+00:00</published>
   </entry>
 </feed>
