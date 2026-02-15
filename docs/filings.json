@@ -1,15 +1,7 @@
 {
-  "updated": "2026-02-14T18:22:13.707397+00:00",
-  "count": 23,
+  "updated": "2026-02-15T01:22:48.043176+00:00",
+  "count": 27,
   "filings": [
-    {
-      "id": "d83ac84dee5f",
-      "title": "Self-Regulatory Organizations; New York Stock Exchange LLC; Notice of Filing of Proposed Rule Change Amending Section 703.12(II) of the NYSE Listed Company Manual To Expand the Circumstances Under Which Rights May Be Listed on the NYSE",
-      "url": "https://www.federalregister.gov/documents/2026/02/17/2026-03016/self-regulatory-organizations-new-york-stock-exchange-llc-notice-of-filing-of-proposed-rule-change",
-      "date": "2026-02-17",
-      "description": "",
-      "source": "national-securities-exchanges"
-    },
     {
       "id": "6d184216ed70",
       "title": "Self-Regulatory Organizations; Financial Industry Regulatory Authority, Inc.; Order Approving a Proposed Rule Change, as Modified by Partial Amendment No. 1, To Amend the FINRA Capital Acquisition Broker (\u201cCAB\u201d) Rules",
@@ -185,6 +177,46 @@
       "date": "2026-02-02",
       "description": "",
       "source": "national-securities-exchanges"
+    },
+    {
+      "id": "f26069a0118c",
+      "title": "Self-Regulatory Organizations; Cboe EDGX Exchange, Inc.; Order Granting Approval of a Proposed Rule Change, as Modified by Amendment No. 1, To Amend Exchange Rule 11.21 To Allow a Retail Member Organization To Enter a Retail Order Onto the Exchange in a Principal Capacity",
+      "url": "https://www.federalregister.gov/documents/2026/02/02/2026-01974/self-regulatory-organizations-cboe-edgx-exchange-inc-order-granting-approval-of-a-proposed-rule",
+      "date": "2026-02-02",
+      "description": "",
+      "source": "national-securities-exchanges"
+    },
+    {
+      "id": "cfd44ac2b0a2",
+      "title": "Self-Regulatory Organizations; NYSE American LLC; Notice of Designation of a Longer Period for Commission Action on a Proposed Rule Change, as Modified by Amendment No. 1, To Amend Section 1003 of the NYSE American Company Guide",
+      "url": "https://www.federalregister.gov/documents/2026/02/02/2026-01973/self-regulatory-organizations-nyse-american-llc-notice-of-designation-of-a-longer-period-for",
+      "date": "2026-02-02",
+      "description": "",
+      "source": "national-securities-exchanges"
+    },
+    {
+      "id": "edf386283a5b",
+      "title": "Self-Regulatory Organizations; Cboe BZX Exchange, Inc.; Notice of Designation of a Longer Period for Commission Action on Proceedings To Determine Whether To Approve or Disapprove a Proposed Rule Change To List and Trade Shares of the BondBloxx Private Credit Trust",
+      "url": "https://www.federalregister.gov/documents/2026/02/02/2026-01971/self-regulatory-organizations-cboe-bzx-exchange-inc-notice-of-designation-of-a-longer-period-for",
+      "date": "2026-02-02",
+      "description": "",
+      "source": "national-securities-exchanges"
+    },
+    {
+      "id": "01be96433d72",
+      "title": "Self-Regulatory Organizations; NYSE Arca, Inc.; Notice of Filing of Amendment No. 1 and Order Granting Accelerated Approval of a Proposed Rule Change, as Modified by Amendment No. 1, To List and Trade Units of the Sprott Physical Copper Trust",
+      "url": "https://www.federalregister.gov/documents/2026/02/02/2026-01969/self-regulatory-organizations-nyse-arca-inc-notice-of-filing-of-amendment-no-1-and-order-granting",
+      "date": "2026-02-02",
+      "description": "",
+      "source": "national-securities-exchanges"
+    },
+    {
+      "id": "b6b42d97f347",
+      "title": "Self-Regulatory Organizations; Financial Industry Regulatory Authority, Inc.; Notice of Filing of a Proposed Rule Change To Amend FINRA Rules 5110 (Corporate Financing Rule-Underwriting Terms and Arrangements) and 5123 (Private Placements of Securities)",
+      "url": "https://www.federalregister.gov/documents/2026/01/30/2026-01825/self-regulatory-organizations-financial-industry-regulatory-authority-inc-notice-of-filing-of-a",
+      "date": "2026-01-30",
+      "description": "",
+      "source": "finra"
     }
   ]
 }
