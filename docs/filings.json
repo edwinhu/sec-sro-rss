@@ -1,7 +1,15 @@
 {
-  "updated": "2026-02-18T06:52:14.032087+00:00",
-  "count": 23,
+  "updated": "2026-02-18T12:40:49.515354+00:00",
+  "count": 20,
   "filings": [
+    {
+      "id": "cd72ada2879d",
+      "title": "Self-Regulatory Organizations; Financial Industry Regulatory Authority, Inc.; Order Approving a Proposed Rule Change, as Modified by Amendment No. 1, To Amend FINRA Rule 3220 (Influencing or Rewarding Employees of Others)",
+      "url": "https://www.federalregister.gov/documents/2026/02/18/2026-03127/self-regulatory-organizations-financial-industry-regulatory-authority-inc-order-approving-a-proposed",
+      "date": "2026-02-18",
+      "description": "",
+      "source": "finra"
+    },
     {
       "id": "d83ac84dee5f",
       "title": "Self-Regulatory Organizations; New York Stock Exchange LLC; Notice of Filing of Proposed Rule Change Amending Section 703.12(II) of the NYSE Listed Company Manual To Expand the Circumstances Under Which Rights May Be Listed on the NYSE",
@@ -153,38 +161,6 @@
       "date": "2026-02-02",
       "description": "",
       "source": "finra"
-    },
-    {
-      "id": "bb53b223bae0",
-      "title": "Self-Regulatory Organizations; LCH SA; Notice of Designation of a Longer Period for Commission Action on Proposed Rule Change Relating to LCH SA's Default Management Policy, Investment Risk Policy, Liquidity Risk Policy, Settlement, Payment and Custody Risk Policy, Model Governance, Validation and Review Policy and Contract and Market Acceptability Policy",
-      "url": "https://www.federalregister.gov/documents/2026/02/02/2026-01984/self-regulatory-organizations-lch-sa-notice-of-designation-of-a-longer-period-for-commission-action",
-      "date": "2026-02-02",
-      "description": "",
-      "source": "national-securities-exchanges"
-    },
-    {
-      "id": "7ed50dc80f6c",
-      "title": "Self-Regulatory Organizations; ICE Clear Credit LLC; Order Approving Proposed Rule Change Relating to the ICC Risk Management Framework, ICC Risk Management Model Description, and ICC End-of-Day Price Discovery Policies and Procedures",
-      "url": "https://www.federalregister.gov/documents/2026/02/02/2026-01983/self-regulatory-organizations-ice-clear-credit-llc-order-approving-proposed-rule-change-relating-to",
-      "date": "2026-02-02",
-      "description": "",
-      "source": "national-securities-exchanges"
-    },
-    {
-      "id": "befc2dfb25df",
-      "title": "Self-Regulatory Organizations; Nasdaq BX, Inc.; Notice of Filing of Proposed Rule Change To Remove Existing Listing Rules and Establish New Listing Standards",
-      "url": "https://www.federalregister.gov/documents/2026/02/02/2026-01980/self-regulatory-organizations-nasdaq-bx-inc-notice-of-filing-of-proposed-rule-change-to-remove",
-      "date": "2026-02-02",
-      "description": "",
-      "source": "national-securities-exchanges"
-    },
-    {
-      "id": "4addea540ba0",
-      "title": "Self-Regulatory Organizations; New York Stock Exchange LLC; Notice of Designation of a Longer Period for Commission Action on a Proposed Rule Change, as Modified by Amendment No. 1, To Amend Section 802.01C of the NYSE Listed Company Manual",
-      "url": "https://www.federalregister.gov/documents/2026/02/02/2026-01977/self-regulatory-organizations-new-york-stock-exchange-llc-notice-of-designation-of-a-longer-period",
-      "date": "2026-02-02",
-      "description": "",
-      "source": "national-securities-exchanges"
     }
   ]
 }
