@@ -1,7 +1,31 @@
 {
-  "updated": "2026-02-19T06:49:54.251741+00:00",
-  "count": 20,
+  "updated": "2026-02-19T12:42:30.228480+00:00",
+  "count": 21,
   "filings": [
+    {
+      "id": "17b93d6d187d",
+      "title": "Self-Regulatory Organizations; NYSE American LLC; Notice of Filing of a Proposed Rule Change To Amend Rule 915",
+      "url": "https://www.federalregister.gov/documents/2026/02/19/2026-03239/self-regulatory-organizations-nyse-american-llc-notice-of-filing-of-a-proposed-rule-change-to-amend",
+      "date": "2026-02-19",
+      "description": "",
+      "source": "national-securities-exchanges"
+    },
+    {
+      "id": "59962b0aab80",
+      "title": "Self-Regulatory Organizations; NYSE Arca, Inc.; Notice of Filing of a Proposed Rule Change To Amend Rule 5.3-O",
+      "url": "https://www.federalregister.gov/documents/2026/02/19/2026-03238/self-regulatory-organizations-nyse-arca-inc-notice-of-filing-of-a-proposed-rule-change-to-amend-rule",
+      "date": "2026-02-19",
+      "description": "",
+      "source": "national-securities-exchanges"
+    },
+    {
+      "id": "c6ccf63fd5eb",
+      "title": "Self-Regulatory Organizations; the Options Clearing Corporation; Order Granting Petition for Review and Scheduling Filing of Statements Concerning Order Granting Accelerated Approval of Proposed Rule Change, as Modified by Partial Amendment No. 1, by the Options Clearing Corporation Concerning Methodology To Allocate Clearing Fund Deposit Requirements Among Its Clearing Members To Better Align the Allocation With the Sizing of the Clearing Fund so Stress Based Risk Is Fairly Allotted to Market Participants That Expose OCC to Such Stress Risk",
+      "url": "https://www.federalregister.gov/documents/2026/02/19/2026-03232/self-regulatory-organizations-the-options-clearing-corporation-order-granting-petition-for-review",
+      "date": "2026-02-19",
+      "description": "",
+      "source": "national-securities-exchanges"
+    },
     {
       "id": "cd72ada2879d",
       "title": "Self-Regulatory Organizations; Financial Industry Regulatory Authority, Inc.; Order Approving a Proposed Rule Change, as Modified by Amendment No. 1, To Amend FINRA Rule 3220 (Influencing or Rewarding Employees of Others)",
@@ -145,22 +169,6 @@
       "date": "2026-02-02",
       "description": "",
       "source": "national-securities-exchanges"
-    },
-    {
-      "id": "bd216eea7bce",
-      "title": "Self-Regulatory Organizations; New York Stock Exchange LLC; NYSE Texas, Inc.; Order Granting Approval of Proposed Rule Changes, as Modified by Amendments Thereto, To Adopt Generic Listing Standards for Commodity-Based Trust Shares (Rule 8.201 (Generic))",
-      "url": "https://www.federalregister.gov/documents/2026/02/02/2026-01994/self-regulatory-organizations-new-york-stock-exchange-llc-nyse-texas-inc-order-granting-approval-of",
-      "date": "2026-02-02",
-      "description": "",
-      "source": "national-securities-exchanges"
-    },
-    {
-      "id": "09528b59add1",
-      "title": "Program for Allocation of Regulatory Responsibilities Pursuant to Rule 17d-2; Notice of Filing of Proposed Plan for the Allocation of Regulatory Responsibilities Between the Financial Industry Regulatory Authority, Inc. and Texas Stock Exchange LLC",
-      "url": "https://www.federalregister.gov/documents/2026/02/02/2026-01986/program-for-allocation-of-regulatory-responsibilities-pursuant-to-rule-17d-2-notice-of-filing-of",
-      "date": "2026-02-02",
-      "description": "",
-      "source": "finra"
     }
   ]
 }
