@@ -2,56 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://github.com/edwinhu/sec-sro-rss</id>
   <title>SEC Self-Regulatory Organization Rulemaking</title>
-  <updated>2026-02-21T06:31:13.684737+00:00</updated>
+  <updated>2026-02-21T12:28:34.255941+00:00</updated>
   <link href="https://www.sec.gov/rules-regulations/self-regulatory-organization-rulemaking" rel="alternate"/>
   <link href="https://edwinhu.github.io/sec-sro-rss/feed.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Filtered SEC SRO filings (excludes immediate effectiveness notices and crypto)</subtitle>
-  <entry>
-    <id>https://www.federalregister.gov/documents/2026/02/02/2026-02000/self-regulatory-organizations-cboe-bzx-exchange-inc-notice-of-designation-of-a-longer-period-for</id>
-    <title>Self-Regulatory Organizations; Cboe BZX Exchange, Inc.; Notice of Designation of a Longer Period for Commission Action on Proceedings To Determine Whether To Approve or Disapprove a Proposed Rule Change To List and Trade Shares of the Canary Staked SEI ETF Under BZX Rule 14.11(e)(4), Commodity-Based Trust Shares</title>
-    <updated>2026-02-02T00:00:00+00:00</updated>
-    <content>Source: National Securities Exchanges
-Date: 2026-02-02</content>
-    <link href="https://www.federalregister.gov/documents/2026/02/02/2026-02000/self-regulatory-organizations-cboe-bzx-exchange-inc-notice-of-designation-of-a-longer-period-for"/>
-    <published>2026-02-02T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.federalregister.gov/documents/2026/02/02/2026-02001/self-regulatory-organizations-cboe-bzx-exchange-inc-notice-of-designation-of-a-longer-period-for</id>
-    <title>Self-Regulatory Organizations; Cboe BZX Exchange, Inc.; Notice of Designation of a Longer Period for Commission Action on Proceedings To Determine Whether To Approve or Disapprove a Proposed Rule Change To List and Trade Shares of the Canary Staked INJ ETF Under BZX Rule 14.11(e)(4), Commodity-Based Trust Shares</title>
-    <updated>2026-02-02T00:00:00+00:00</updated>
-    <content>Source: National Securities Exchanges
-Date: 2026-02-02</content>
-    <link href="https://www.federalregister.gov/documents/2026/02/02/2026-02001/self-regulatory-organizations-cboe-bzx-exchange-inc-notice-of-designation-of-a-longer-period-for"/>
-    <published>2026-02-02T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.federalregister.gov/documents/2026/02/02/2026-02002/self-regulatory-organizations-miax-pearl-llc-notice-of-designation-of-a-longer-period-for-commission</id>
-    <title>Self-Regulatory Organizations; MIAX PEARL, LLC; Notice of Designation of a Longer Period for Commission Action on a Proposed Rule Change To Allow Post-Only Orders in Sub-Dollar Securities</title>
-    <updated>2026-02-02T00:00:00+00:00</updated>
-    <content>Source: National Securities Exchanges
-Date: 2026-02-02</content>
-    <link href="https://www.federalregister.gov/documents/2026/02/02/2026-02002/self-regulatory-organizations-miax-pearl-llc-notice-of-designation-of-a-longer-period-for-commission"/>
-    <published>2026-02-02T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.federalregister.gov/documents/2026/02/02/2026-02003/self-regulatory-organizations-financial-industry-regulatory-authority-inc-notice-of-designation-of-a</id>
-    <title>Self-Regulatory Organizations; Financial Industry Regulatory Authority, Inc.; Notice of Designation of a Longer Time for Commission Action on a Proposed Rule Change To Amend FINRA Rule 4210 (Margin Requirements) To Replace the Day Trading Margin Provisions With Intraday Margin Standards</title>
-    <updated>2026-02-02T00:00:00+00:00</updated>
-    <content>Source: Finra
-Date: 2026-02-02</content>
-    <link href="https://www.federalregister.gov/documents/2026/02/02/2026-02003/self-regulatory-organizations-financial-industry-regulatory-authority-inc-notice-of-designation-of-a"/>
-    <published>2026-02-02T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.federalregister.gov/documents/2026/02/03/2026-02112/self-regulatory-organizations-fixed-income-clearing-corporation-notice-of-filing-of-proposed-rule</id>
-    <title>Self-Regulatory Organizations; Fixed Income Clearing Corporation; Notice of Filing of Proposed Rule Change To Enhance the Correlation Calculation for Bond Haircut Models and Make Other Changes</title>
-    <updated>2026-02-03T00:00:00+00:00</updated>
-    <content>Source: National Securities Exchanges
-Date: 2026-02-03</content>
-    <link href="https://www.federalregister.gov/documents/2026/02/03/2026-02112/self-regulatory-organizations-fixed-income-clearing-corporation-notice-of-filing-of-proposed-rule"/>
-    <published>2026-02-03T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>https://www.federalregister.gov/documents/2026/02/03/2026-02114/self-regulatory-organizations-cboe-bzx-exchange-inc-notice-of-designation-of-a-longer-period-for</id>
     <title>Self-Regulatory Organizations; Cboe BZX Exchange, Inc.; Notice of Designation of a Longer Period for Commission Action on a Proposed Rule Change To Amend Exchange Rule 11.23(d)(2)(B) (Extending the Quote-Only Period for Initial Public Offering (“IPO”) Auctions)</title>

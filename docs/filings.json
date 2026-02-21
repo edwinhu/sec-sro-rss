@@ -1,6 +1,6 @@
 {
-  "updated": "2026-02-21T06:31:13.693042+00:00",
-  "count": 21,
+  "updated": "2026-02-21T12:28:34.276732+00:00",
+  "count": 16,
   "filings": [
     {
       "id": "17b93d6d187d",
@@ -127,46 +127,6 @@
       "title": "Self-Regulatory Organizations; Cboe BZX Exchange, Inc.; Notice of Designation of a Longer Period for Commission Action on a Proposed Rule Change To Amend Exchange Rule 11.23(d)(2)(B) (Extending the Quote-Only Period for Initial Public Offering (\u201cIPO\u201d) Auctions)",
       "url": "https://www.federalregister.gov/documents/2026/02/03/2026-02114/self-regulatory-organizations-cboe-bzx-exchange-inc-notice-of-designation-of-a-longer-period-for",
       "date": "2026-02-03",
-      "description": "",
-      "source": "national-securities-exchanges"
-    },
-    {
-      "id": "731f50b8caaf",
-      "title": "Self-Regulatory Organizations; Fixed Income Clearing Corporation; Notice of Filing of Proposed Rule Change To Enhance the Correlation Calculation for Bond Haircut Models and Make Other Changes",
-      "url": "https://www.federalregister.gov/documents/2026/02/03/2026-02112/self-regulatory-organizations-fixed-income-clearing-corporation-notice-of-filing-of-proposed-rule",
-      "date": "2026-02-03",
-      "description": "",
-      "source": "national-securities-exchanges"
-    },
-    {
-      "id": "cafae03dc05d",
-      "title": "Self-Regulatory Organizations; Financial Industry Regulatory Authority, Inc.; Notice of Designation of a Longer Time for Commission Action on a Proposed Rule Change To Amend FINRA Rule 4210 (Margin Requirements) To Replace the Day Trading Margin Provisions With Intraday Margin Standards",
-      "url": "https://www.federalregister.gov/documents/2026/02/02/2026-02003/self-regulatory-organizations-financial-industry-regulatory-authority-inc-notice-of-designation-of-a",
-      "date": "2026-02-02",
-      "description": "",
-      "source": "finra"
-    },
-    {
-      "id": "c83ba25e6411",
-      "title": "Self-Regulatory Organizations; MIAX PEARL, LLC; Notice of Designation of a Longer Period for Commission Action on a Proposed Rule Change To Allow Post-Only Orders in Sub-Dollar Securities",
-      "url": "https://www.federalregister.gov/documents/2026/02/02/2026-02002/self-regulatory-organizations-miax-pearl-llc-notice-of-designation-of-a-longer-period-for-commission",
-      "date": "2026-02-02",
-      "description": "",
-      "source": "national-securities-exchanges"
-    },
-    {
-      "id": "d6ebbf3a9ef7",
-      "title": "Self-Regulatory Organizations; Cboe BZX Exchange, Inc.; Notice of Designation of a Longer Period for Commission Action on Proceedings To Determine Whether To Approve or Disapprove a Proposed Rule Change To List and Trade Shares of the Canary Staked INJ ETF Under BZX Rule 14.11(e)(4), Commodity-Based Trust Shares",
-      "url": "https://www.federalregister.gov/documents/2026/02/02/2026-02001/self-regulatory-organizations-cboe-bzx-exchange-inc-notice-of-designation-of-a-longer-period-for",
-      "date": "2026-02-02",
-      "description": "",
-      "source": "national-securities-exchanges"
-    },
-    {
-      "id": "2aa18756ea7d",
-      "title": "Self-Regulatory Organizations; Cboe BZX Exchange, Inc.; Notice of Designation of a Longer Period for Commission Action on Proceedings To Determine Whether To Approve or Disapprove a Proposed Rule Change To List and Trade Shares of the Canary Staked SEI ETF Under BZX Rule 14.11(e)(4), Commodity-Based Trust Shares",
-      "url": "https://www.federalregister.gov/documents/2026/02/02/2026-02000/self-regulatory-organizations-cboe-bzx-exchange-inc-notice-of-designation-of-a-longer-period-for",
-      "date": "2026-02-02",
       "description": "",
       "source": "national-securities-exchanges"
     }
