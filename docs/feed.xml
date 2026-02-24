@@ -8,39 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 24 Feb 2026 06:49:45 +0000</lastBuildDate>
-    <item>
-      <title>Self-Regulatory Organizations; Cboe BZX Exchange, Inc.; Notice of Designation of a Longer Period for Commission Action on a Proposed Rule Change To Amend Exchange Rule 11.23(d)(2)(B) (Extending the Quote-Only Period for Initial Public Offering (“IPO”) Auctions)</title>
-      <link>https://www.federalregister.gov/documents/2026/02/03/2026-02114/self-regulatory-organizations-cboe-bzx-exchange-inc-notice-of-designation-of-a-longer-period-for</link>
-      <description>Source: National Securities Exchanges
-Date: 2026-02-03</description>
-      <guid isPermaLink="false">https://www.federalregister.gov/documents/2026/02/03/2026-02114/self-regulatory-organizations-cboe-bzx-exchange-inc-notice-of-designation-of-a-longer-period-for</guid>
-      <pubDate>Tue, 03 Feb 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Self-Regulatory Organizations; The Depository Trust Company; Order Approving Proposed Rule Change To Modify the DTC Settlement Service Guide and DTC Rules as They Relate to the DTC Net Debit Cap</title>
-      <link>https://www.federalregister.gov/documents/2026/02/03/2026-02117/self-regulatory-organizations-the-depository-trust-company-order-approving-proposed-rule-change-to</link>
-      <description>Source: National Securities Exchanges
-Date: 2026-02-03</description>
-      <guid isPermaLink="false">https://www.federalregister.gov/documents/2026/02/03/2026-02117/self-regulatory-organizations-the-depository-trust-company-order-approving-proposed-rule-change-to</guid>
-      <pubDate>Tue, 03 Feb 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Self-Regulatory Organizations; ICE Clear Credit LLC; Notice of Designation of Longer Period for Commission Action on Proposed Rule Change Relating to the ICC Collateral Risk Management Framework</title>
-      <link>https://www.federalregister.gov/documents/2026/02/03/2026-02118/self-regulatory-organizations-ice-clear-credit-llc-notice-of-designation-of-longer-period-for</link>
-      <description>Source: National Securities Exchanges
-Date: 2026-02-03</description>
-      <guid isPermaLink="false">https://www.federalregister.gov/documents/2026/02/03/2026-02118/self-regulatory-organizations-ice-clear-credit-llc-notice-of-designation-of-longer-period-for</guid>
-      <pubDate>Tue, 03 Feb 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Self-Regulatory Organizations; Cboe BZX Exchange, Inc.; Notice of Filing of a Proposed Rule Change To Amend Exchange Rule 14.12</title>
-      <link>https://www.federalregister.gov/documents/2026/02/03/2026-02120/self-regulatory-organizations-cboe-bzx-exchange-inc-notice-of-filing-of-a-proposed-rule-change-to</link>
-      <description>Source: National Securities Exchanges
-Date: 2026-02-03</description>
-      <guid isPermaLink="false">https://www.federalregister.gov/documents/2026/02/03/2026-02120/self-regulatory-organizations-cboe-bzx-exchange-inc-notice-of-filing-of-a-proposed-rule-change-to</guid>
-      <pubDate>Tue, 03 Feb 2026 00:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 24 Feb 2026 12:42:47 +0000</lastBuildDate>
     <item>
       <title>[Self-Regulatory Organizations; Financial Industry Regulatory Authority, Inc.; Notice of Filing of a Proposed Rule Change To Adopt FINRA Rule 3290 (Outside Activities Requirements)</title>
       <link>https://www.federalregister.gov/documents/2026/02/03/2026-02122/self-regulatory-organizations-financial-industry-regulatory-authority-inc-notice-of-filing-of-a</link>
@@ -136,6 +104,22 @@ Date: 2026-02-19</description>
 Date: 2026-02-19</description>
       <guid isPermaLink="false">https://www.federalregister.gov/documents/2026/02/19/2026-03239/self-regulatory-organizations-nyse-american-llc-notice-of-filing-of-a-proposed-rule-change-to-amend</guid>
       <pubDate>Thu, 19 Feb 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Self-Regulatory Organizations; Cboe Exchange, Inc.; Notice of Designation of a Longer Period for Commission Action on a Proposed Rule Change To Adopt Future-Option Orders</title>
+      <link>https://www.federalregister.gov/documents/2026/02/24/2026-03601/self-regulatory-organizations-cboe-exchange-inc-notice-of-designation-of-a-longer-period-for</link>
+      <description>Source: National Securities Exchanges
+Date: 2026-02-24</description>
+      <guid isPermaLink="false">https://www.federalregister.gov/documents/2026/02/24/2026-03601/self-regulatory-organizations-cboe-exchange-inc-notice-of-designation-of-a-longer-period-for</guid>
+      <pubDate>Tue, 24 Feb 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Self-Regulatory Organizations; ICE Clear Credit LLC; Order Approving Proposed Rule Change Relating to the ICC Collateral Risk Management Framework</title>
+      <link>https://www.federalregister.gov/documents/2026/02/24/2026-03603/self-regulatory-organizations-ice-clear-credit-llc-order-approving-proposed-rule-change-relating-to</link>
+      <description>Source: National Securities Exchanges
+Date: 2026-02-24</description>
+      <guid isPermaLink="false">https://www.federalregister.gov/documents/2026/02/24/2026-03603/self-regulatory-organizations-ice-clear-credit-llc-order-approving-proposed-rule-change-relating-to</guid>
+      <pubDate>Tue, 24 Feb 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
