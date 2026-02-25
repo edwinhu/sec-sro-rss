@@ -8,15 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 25 Feb 2026 06:53:06 +0000</lastBuildDate>
-    <item>
-      <title>[Self-Regulatory Organizations; Financial Industry Regulatory Authority, Inc.; Notice of Filing of a Proposed Rule Change To Adopt FINRA Rule 3290 (Outside Activities Requirements)</title>
-      <link>https://www.federalregister.gov/documents/2026/02/03/2026-02122/self-regulatory-organizations-financial-industry-regulatory-authority-inc-notice-of-filing-of-a</link>
-      <description>Source: Finra
-Date: 2026-02-03</description>
-      <guid isPermaLink="false">https://www.federalregister.gov/documents/2026/02/03/2026-02122/self-regulatory-organizations-financial-industry-regulatory-authority-inc-notice-of-filing-of-a</guid>
-      <pubDate>Tue, 03 Feb 2026 00:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 25 Feb 2026 12:42:10 +0000</lastBuildDate>
     <item>
       <title>Self-Regulatory Organizations; NYSE American LLC; Notice of Filing of a Proposed Rule Change To Amend the Initial Listing Standards Set Forth in Sections 101 and 102 of the NYSE American Company Guide</title>
       <link>https://www.federalregister.gov/documents/2026/02/04/2026-02221/self-regulatory-organizations-nyse-american-llc-notice-of-filing-of-a-proposed-rule-change-to-amend</link>
@@ -120,6 +112,14 @@ Date: 2026-02-24</description>
 Date: 2026-02-24</description>
       <guid isPermaLink="false">https://www.federalregister.gov/documents/2026/02/24/2026-03603/self-regulatory-organizations-ice-clear-credit-llc-order-approving-proposed-rule-change-relating-to</guid>
       <pubDate>Tue, 24 Feb 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Self-Regulatory Organizations; Financial Industry Regulatory Authority, Inc.; Notice of Filing of a Proposed Rule Change To Amend FINRA Rule 2210 (Communications With the Public)</title>
+      <link>https://www.federalregister.gov/documents/2026/02/25/2026-03705/self-regulatory-organizations-financial-industry-regulatory-authority-inc-notice-of-filing-of-a</link>
+      <description>Source: Finra
+Date: 2026-02-25</description>
+      <guid isPermaLink="false">https://www.federalregister.gov/documents/2026/02/25/2026-03705/self-regulatory-organizations-financial-industry-regulatory-authority-inc-notice-of-filing-of-a</guid>
+      <pubDate>Wed, 25 Feb 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
