@@ -1,7 +1,15 @@
 {
-  "updated": "2026-02-26T06:49:56.829257+00:00",
+  "updated": "2026-02-26T12:42:39.117164+00:00",
   "count": 14,
   "filings": [
+    {
+      "id": "fa1a34bbf9d0",
+      "title": "Program for Allocation of Regulatory Responsibilities Pursuant to Rule 17d-2; Notice of Filing of Proposed Amended Plan for the Allocation of Regulatory Responsibilities Between the Financial Industry Regulatory Authority, Inc., MEMX LLC, and MX2 LLC",
+      "url": "https://www.federalregister.gov/documents/2026/02/26/2026-03918/program-for-allocation-of-regulatory-responsibilities-pursuant-to-rule-17d-2-notice-of-filing-of",
+      "date": "2026-02-26",
+      "description": "",
+      "source": "finra"
+    },
     {
       "id": "ec5fb5cd4cde",
       "title": "Self-Regulatory Organizations; Financial Industry Regulatory Authority, Inc.; Notice of Filing of a Proposed Rule Change To Amend FINRA Rule 2210 (Communications With the Public)",
@@ -102,14 +110,6 @@
       "id": "cb386d5804db",
       "title": "Self-Regulatory Organizations; Fixed Income Clearing Corporation; Notice of Filing of Proposed Rule Change To Remove the Activity Limit From the GSD Rules",
       "url": "https://www.federalregister.gov/documents/2026/02/04/2026-02228/self-regulatory-organizations-fixed-income-clearing-corporation-notice-of-filing-of-proposed-rule",
-      "date": "2026-02-04",
-      "description": "",
-      "source": "national-securities-exchanges"
-    },
-    {
-      "id": "547f0c771284",
-      "title": "Self-Regulatory Organizations; NYSE American LLC; Notice of Filing of a Proposed Rule Change To Amend the Initial Listing Standards Set Forth in Sections 101 and 102 of the NYSE American Company Guide",
-      "url": "https://www.federalregister.gov/documents/2026/02/04/2026-02221/self-regulatory-organizations-nyse-american-llc-notice-of-filing-of-a-proposed-rule-change-to-amend",
       "date": "2026-02-04",
       "description": "",
       "source": "national-securities-exchanges"

@@ -2,20 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://github.com/edwinhu/sec-sro-rss</id>
   <title>SEC Self-Regulatory Organization Rulemaking</title>
-  <updated>2026-02-26T06:49:56.811772+00:00</updated>
+  <updated>2026-02-26T12:42:39.108175+00:00</updated>
   <link href="https://www.sec.gov/rules-regulations/self-regulatory-organization-rulemaking" rel="alternate"/>
   <link href="https://edwinhu.github.io/sec-sro-rss/feed.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Filtered SEC SRO filings (excludes immediate effectiveness notices and crypto)</subtitle>
-  <entry>
-    <id>https://www.federalregister.gov/documents/2026/02/04/2026-02221/self-regulatory-organizations-nyse-american-llc-notice-of-filing-of-a-proposed-rule-change-to-amend</id>
-    <title>Self-Regulatory Organizations; NYSE American LLC; Notice of Filing of a Proposed Rule Change To Amend the Initial Listing Standards Set Forth in Sections 101 and 102 of the NYSE American Company Guide</title>
-    <updated>2026-02-04T00:00:00+00:00</updated>
-    <content>Source: National Securities Exchanges
-Date: 2026-02-04</content>
-    <link href="https://www.federalregister.gov/documents/2026/02/04/2026-02221/self-regulatory-organizations-nyse-american-llc-notice-of-filing-of-a-proposed-rule-change-to-amend"/>
-    <published>2026-02-04T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>https://www.federalregister.gov/documents/2026/02/04/2026-02228/self-regulatory-organizations-fixed-income-clearing-corporation-notice-of-filing-of-proposed-rule</id>
     <title>Self-Regulatory Organizations; Fixed Income Clearing Corporation; Notice of Filing of Proposed Rule Change To Remove the Activity Limit From the GSD Rules</title>
@@ -132,5 +123,14 @@ Date: 2026-02-24</content>
 Date: 2026-02-25</content>
     <link href="https://www.federalregister.gov/documents/2026/02/25/2026-03705/self-regulatory-organizations-financial-industry-regulatory-authority-inc-notice-of-filing-of-a"/>
     <published>2026-02-25T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.federalregister.gov/documents/2026/02/26/2026-03918/program-for-allocation-of-regulatory-responsibilities-pursuant-to-rule-17d-2-notice-of-filing-of</id>
+    <title>Program for Allocation of Regulatory Responsibilities Pursuant to Rule 17d-2; Notice of Filing of Proposed Amended Plan for the Allocation of Regulatory Responsibilities Between the Financial Industry Regulatory Authority, Inc., MEMX LLC, and MX2 LLC</title>
+    <updated>2026-02-26T00:00:00+00:00</updated>
+    <content>Source: Finra
+Date: 2026-02-26</content>
+    <link href="https://www.federalregister.gov/documents/2026/02/26/2026-03918/program-for-allocation-of-regulatory-responsibilities-pursuant-to-rule-17d-2-notice-of-filing-of"/>
+    <published>2026-02-26T00:00:00+00:00</published>
   </entry>
 </feed>
