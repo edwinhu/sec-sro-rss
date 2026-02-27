@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://github.com/edwinhu/sec-sro-rss</id>
   <title>SEC Self-Regulatory Organization Rulemaking</title>
-  <updated>2026-02-27T06:41:13.554740+00:00</updated>
+  <updated>2026-02-27T12:37:23.807854+00:00</updated>
   <link href="https://www.sec.gov/rules-regulations/self-regulatory-organization-rulemaking" rel="alternate"/>
   <link href="https://edwinhu.github.io/sec-sro-rss/feed.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -132,5 +132,23 @@ Date: 2026-02-25</content>
 Date: 2026-02-26</content>
     <link href="https://www.federalregister.gov/documents/2026/02/26/2026-03918/program-for-allocation-of-regulatory-responsibilities-pursuant-to-rule-17d-2-notice-of-filing-of"/>
     <published>2026-02-26T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.federalregister.gov/documents/2026/02/27/2026-03915/self-regulatory-organizations-the-options-clearing-corporation-notice-of-filing-of-proposed-rule</id>
+    <title>Self-Regulatory Organizations; The Options Clearing Corporation; Notice of Filing of Proposed Rule Change by The Options Clearing Corporation Concerning a Change in Types of Acceptable Collateral and an Update To Mitigate Wrong-Way Risk</title>
+    <updated>2026-02-27T00:00:00+00:00</updated>
+    <content>Source: National Securities Exchanges
+Date: 2026-02-27</content>
+    <link href="https://www.federalregister.gov/documents/2026/02/27/2026-03915/self-regulatory-organizations-the-options-clearing-corporation-notice-of-filing-of-proposed-rule"/>
+    <published>2026-02-27T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.federalregister.gov/documents/2026/02/27/2026-03917/self-regulatory-organizations-nasdaq-ise-llc-notice-of-filing-of-amendment-no-5-and-order</id>
+    <title>Self-Regulatory Organizations; Nasdaq ISE, LLC; Notice of Filing of Amendment No. 5 and Order Instituting Proceedings To Determine Whether To Approve or Disapprove a Proposed Rule Change, as Modified by Amendment No. 5, To Amend the Position and Exercise Limits for IBIT Options</title>
+    <updated>2026-02-27T00:00:00+00:00</updated>
+    <content>Source: National Securities Exchanges
+Date: 2026-02-27</content>
+    <link href="https://www.federalregister.gov/documents/2026/02/27/2026-03917/self-regulatory-organizations-nasdaq-ise-llc-notice-of-filing-of-amendment-no-5-and-order"/>
+    <published>2026-02-27T00:00:00+00:00</published>
   </entry>
 </feed>

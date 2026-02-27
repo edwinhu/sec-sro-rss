@@ -1,7 +1,23 @@
 {
-  "updated": "2026-02-27T06:41:13.572707+00:00",
-  "count": 14,
+  "updated": "2026-02-27T12:37:23.827666+00:00",
+  "count": 16,
   "filings": [
+    {
+      "id": "dc04b8b7cc8c",
+      "title": "Self-Regulatory Organizations; Nasdaq ISE, LLC; Notice of Filing of Amendment No. 5 and Order Instituting Proceedings To Determine Whether To Approve or Disapprove a Proposed Rule Change, as Modified by Amendment No. 5, To Amend the Position and Exercise Limits for IBIT Options",
+      "url": "https://www.federalregister.gov/documents/2026/02/27/2026-03917/self-regulatory-organizations-nasdaq-ise-llc-notice-of-filing-of-amendment-no-5-and-order",
+      "date": "2026-02-27",
+      "description": "",
+      "source": "national-securities-exchanges"
+    },
+    {
+      "id": "0a4b24bb0c02",
+      "title": "Self-Regulatory Organizations; The Options Clearing Corporation; Notice of Filing of Proposed Rule Change by The Options Clearing Corporation Concerning a Change in Types of Acceptable Collateral and an Update To Mitigate Wrong-Way Risk",
+      "url": "https://www.federalregister.gov/documents/2026/02/27/2026-03915/self-regulatory-organizations-the-options-clearing-corporation-notice-of-filing-of-proposed-rule",
+      "date": "2026-02-27",
+      "description": "",
+      "source": "national-securities-exchanges"
+    },
     {
       "id": "fa1a34bbf9d0",
       "title": "Program for Allocation of Regulatory Responsibilities Pursuant to Rule 17d-2; Notice of Filing of Proposed Amended Plan for the Allocation of Regulatory Responsibilities Between the Financial Industry Regulatory Authority, Inc., MEMX LLC, and MX2 LLC",
