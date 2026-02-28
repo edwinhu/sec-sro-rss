@@ -2,38 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://github.com/edwinhu/sec-sro-rss</id>
   <title>SEC Self-Regulatory Organization Rulemaking</title>
-  <updated>2026-02-28T06:26:40.408595+00:00</updated>
+  <updated>2026-02-28T12:27:40.693958+00:00</updated>
   <link href="https://www.sec.gov/rules-regulations/self-regulatory-organization-rulemaking" rel="alternate"/>
   <link href="https://edwinhu.github.io/sec-sro-rss/feed.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Filtered SEC SRO filings (excludes immediate effectiveness notices and crypto)</subtitle>
-  <entry>
-    <id>https://www.federalregister.gov/documents/2026/02/04/2026-02228/self-regulatory-organizations-fixed-income-clearing-corporation-notice-of-filing-of-proposed-rule</id>
-    <title>Self-Regulatory Organizations; Fixed Income Clearing Corporation; Notice of Filing of Proposed Rule Change To Remove the Activity Limit From the GSD Rules</title>
-    <updated>2026-02-04T00:00:00+00:00</updated>
-    <content>Source: National Securities Exchanges
-Date: 2026-02-04</content>
-    <link href="https://www.federalregister.gov/documents/2026/02/04/2026-02228/self-regulatory-organizations-fixed-income-clearing-corporation-notice-of-filing-of-proposed-rule"/>
-    <published>2026-02-04T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.federalregister.gov/documents/2026/02/06/2026-02333/ice-clear-credit-llc-order-granting-an-application-for-registration-as-a-clearing-agency-under</id>
-    <title>ICE Clear Credit LLC; Order Granting an Application for Registration as a Clearing Agency Under Section 17A of the Securities Exchange Act of 1934</title>
-    <updated>2026-02-06T00:00:00+00:00</updated>
-    <content>Source: National Securities Exchanges
-Date: 2026-02-06</content>
-    <link href="https://www.federalregister.gov/documents/2026/02/06/2026-02333/ice-clear-credit-llc-order-granting-an-application-for-registration-as-a-clearing-agency-under"/>
-    <published>2026-02-06T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.federalregister.gov/documents/2026/02/10/2026-02579/self-regulatory-organizations-cboe-exchange-inc-notice-of-designation-of-a-longer-period-for</id>
-    <title>Self-Regulatory Organizations; Cboe Exchange, Inc.; Notice of Designation of a Longer Period for Commission Action on a Proposed Rule Change To Permit Orders for the Accounts of Market-Makers With an Appointment in the Applicable Class To Be Solicited as the Contra-Side Order Submitted Into Certain Exchange Auctions</title>
-    <updated>2026-02-10T00:00:00+00:00</updated>
-    <content>Source: National Securities Exchanges
-Date: 2026-02-10</content>
-    <link href="https://www.federalregister.gov/documents/2026/02/10/2026-02579/self-regulatory-organizations-cboe-exchange-inc-notice-of-designation-of-a-longer-period-for"/>
-    <published>2026-02-10T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>https://www.federalregister.gov/documents/2026/02/13/2026-02883/self-regulatory-organizations-cboe-exchange-inc-notice-of-filing-of-a-proposed-rule-change-to-amend</id>
     <title>Self-Regulatory Organizations; Cboe Exchange, Inc.; Notice of Filing of a Proposed Rule Change To Amend Its Rules Relating to Designated Primary Market-Makers (“DPMs”) and DPM Appointments in Global Trading Hours and Curb Sessions</title>
@@ -150,5 +123,59 @@ Date: 2026-02-27</content>
 Date: 2026-02-27</content>
     <link href="https://www.federalregister.gov/documents/2026/02/27/2026-03917/self-regulatory-organizations-nasdaq-ise-llc-notice-of-filing-of-amendment-no-5-and-order"/>
     <published>2026-02-27T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.federalregister.gov/documents/2026/03/02/2026-04015/self-regulatory-organizations-the-nasdaq-stock-market-llc-notice-of-designation-of-a-longer-period</id>
+    <title>Self-Regulatory Organizations; The Nasdaq Stock Market LLC; Notice of Designation of a Longer Period for Commission Action on a Proposed Rule Change To Extend the Exchange's U.S. Equities Trading Hours to 23 Hours a Day, Five Days a Week</title>
+    <updated>2026-03-02T00:00:00+00:00</updated>
+    <content>Source: National Securities Exchanges
+Date: 2026-03-02</content>
+    <link href="https://www.federalregister.gov/documents/2026/03/02/2026-04015/self-regulatory-organizations-the-nasdaq-stock-market-llc-notice-of-designation-of-a-longer-period"/>
+    <published>2026-03-02T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.federalregister.gov/documents/2026/03/02/2026-04017/self-regulatory-organizations-new-york-stock-exchange-llc-notice-of-filing-of-proposed-rule-change</id>
+    <title>Self-Regulatory Organizations; New York Stock Exchange LLC; Notice of Filing of Proposed Rule Change, As Modified by Amendment No. 1, To Adopt New Rule 5.2(j)(9) Relating to the Listing and Trading of Class Exchange-Traded Fund Shares</title>
+    <updated>2026-03-02T00:00:00+00:00</updated>
+    <content>Source: National Securities Exchanges
+Date: 2026-03-02</content>
+    <link href="https://www.federalregister.gov/documents/2026/03/02/2026-04017/self-regulatory-organizations-new-york-stock-exchange-llc-notice-of-filing-of-proposed-rule-change"/>
+    <published>2026-03-02T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.federalregister.gov/documents/2026/03/02/2026-04018/self-regulatory-organizations-nyse-texas-inc-notice-of-filing-of-proposed-rule-change-as-modified-by</id>
+    <title>Self-Regulatory Organizations; NYSE Texas, Inc.; Notice of Filing of Proposed Rule Change, As Modified by Amendment No. 1, To Adopt New Rule 5.2(j)(9) Relating to the Listing and Trading of Class Exchange-Traded Fund Shares</title>
+    <updated>2026-03-02T00:00:00+00:00</updated>
+    <content>Source: National Securities Exchanges
+Date: 2026-03-02</content>
+    <link href="https://www.federalregister.gov/documents/2026/03/02/2026-04018/self-regulatory-organizations-nyse-texas-inc-notice-of-filing-of-proposed-rule-change-as-modified-by"/>
+    <published>2026-03-02T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.federalregister.gov/documents/2026/03/02/2026-04060/joint-industry-plan-order-approving-amendment-to-add-paragraph-c-to-section-6-of-the-plan-for-the</id>
+    <title>Joint Industry Plan; Order Approving Amendment To Add Paragraph (c) to Section 6 of the Plan for the Purpose of Developing and Implementing Procedures Designed To Facilitate the Listing and Trading of Standardized Options (OLPP) To Create a Forum for Discussion Concerning Plan Matters</title>
+    <updated>2026-03-02T00:00:00+00:00</updated>
+    <content>Source: National Securities Exchanges
+Date: 2026-03-02</content>
+    <link href="https://www.federalregister.gov/documents/2026/03/02/2026-04060/joint-industry-plan-order-approving-amendment-to-add-paragraph-c-to-section-6-of-the-plan-for-the"/>
+    <published>2026-03-02T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.federalregister.gov/documents/2026/03/02/2026-04062/options-price-reporting-authority-order-approving-amendment-as-modified-by-amendment-no-1-thereto-to</id>
+    <title>Options Price Reporting Authority; Order Approving Amendment, as Modified by Amendment No. 1 Thereto, To Modify the OPRA Fee Schedule Regarding Certain Direct Access Connectivity Fees</title>
+    <updated>2026-03-02T00:00:00+00:00</updated>
+    <content>Source: National Securities Exchanges
+Date: 2026-03-02</content>
+    <link href="https://www.federalregister.gov/documents/2026/03/02/2026-04062/options-price-reporting-authority-order-approving-amendment-as-modified-by-amendment-no-1-thereto-to"/>
+    <published>2026-03-02T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.federalregister.gov/documents/2026/03/02/2026-04081/notice-of-an-application-of-the-24x-national-exchange-llc-for-a-temporary-conditional-exemption-from</id>
+    <title>Notice of an Application of the 24X National Exchange LLC for a Temporary, Conditional Exemption From Certain Requirements of Rule 602 of Regulation NMS, Certain Requirements of Certain Equity Data Plans, and Section 19(g)(1) of the Securities Exchange Act of 1934, Pursuant to Section 36 of the Securities Exchange Act of 1934 and Rule 602 and 608 of Regulation NMS, To Permit Certain Overnight Trading, and Request for Comment</title>
+    <updated>2026-03-02T00:00:00+00:00</updated>
+    <content>Source: National Securities Exchanges
+Date: 2026-03-02</content>
+    <link href="https://www.federalregister.gov/documents/2026/03/02/2026-04081/notice-of-an-application-of-the-24x-national-exchange-llc-for-a-temporary-conditional-exemption-from"/>
+    <published>2026-03-02T00:00:00+00:00</published>
   </entry>
 </feed>
