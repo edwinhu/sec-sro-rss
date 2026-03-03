@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://github.com/edwinhu/sec-sro-rss</id>
   <title>SEC Self-Regulatory Organization Rulemaking</title>
-  <updated>2026-03-03T06:39:08.910739+00:00</updated>
+  <updated>2026-03-03T12:36:33.822526+00:00</updated>
   <link href="https://www.sec.gov/rules-regulations/self-regulatory-organization-rulemaking" rel="alternate"/>
   <link href="https://edwinhu.github.io/sec-sro-rss/feed.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -177,5 +177,23 @@ Date: 2026-03-02</content>
 Date: 2026-03-02</content>
     <link href="https://www.federalregister.gov/documents/2026/03/02/2026-04081/notice-of-an-application-of-the-24x-national-exchange-llc-for-a-temporary-conditional-exemption-from"/>
     <published>2026-03-02T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.federalregister.gov/documents/2026/03/03/2026-04145/self-regulatory-organizations-long-term-stock-exchange-inc-notice-of-designation-of-a-longer-period</id>
+    <title>Self-Regulatory Organizations; Long-Term Stock Exchange, Inc.; Notice of Designation of a Longer Period for Commission Action on a Proposed Rule Change Regarding Complimentary Products and Services Offered by the Exchange</title>
+    <updated>2026-03-03T00:00:00+00:00</updated>
+    <content>Source: National Securities Exchanges
+Date: 2026-03-03</content>
+    <link href="https://www.federalregister.gov/documents/2026/03/03/2026-04145/self-regulatory-organizations-long-term-stock-exchange-inc-notice-of-designation-of-a-longer-period"/>
+    <published>2026-03-03T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.federalregister.gov/documents/2026/03/03/2026-04149/agency-information-collection-activities-proposed-collection-comment-request-extension-rule-104</id>
+    <title>Agency Information Collection Activities; Proposed Collection; Comment Request; Extension: Rule 104</title>
+    <updated>2026-03-03T00:00:00+00:00</updated>
+    <content>Source: National Securities Exchanges
+Date: 2026-03-03</content>
+    <link href="https://www.federalregister.gov/documents/2026/03/03/2026-04149/agency-information-collection-activities-proposed-collection-comment-request-extension-rule-104"/>
+    <published>2026-03-03T00:00:00+00:00</published>
   </entry>
 </feed>
