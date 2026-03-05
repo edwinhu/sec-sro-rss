@@ -1,7 +1,15 @@
 {
-  "updated": "2026-03-05T06:39:33.248176+00:00",
-  "count": 25,
+  "updated": "2026-03-05T12:39:27.909167+00:00",
+  "count": 26,
   "filings": [
+    {
+      "id": "22ab0d3494df",
+      "title": "Self-Regulatory Organizations; New York Stock Exchange LLC; Order Granting Approval of a Proposed Rule Change To Streamline and Modernize Rule 76",
+      "url": "https://www.federalregister.gov/documents/2026/03/05/2026-04341/self-regulatory-organizations-new-york-stock-exchange-llc-order-granting-approval-of-a-proposed-rule",
+      "date": "2026-03-05",
+      "description": "",
+      "source": "national-securities-exchanges"
+    },
     {
       "id": "1ba40f811128",
       "title": "Agency Information Collection Activities; Submission for OMB Review; Comment Request; Extension: Rule 302",
