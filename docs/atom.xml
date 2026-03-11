@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://github.com/edwinhu/sec-sro-rss</id>
   <title>SEC Self-Regulatory Organization Rulemaking</title>
-  <updated>2026-03-11T06:40:34.755346+00:00</updated>
+  <updated>2026-03-11T12:38:45.640608+00:00</updated>
   <link href="https://www.sec.gov/rules-regulations/self-regulatory-organization-rulemaking" rel="alternate"/>
   <link href="https://edwinhu.github.io/sec-sro-rss/feed.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -258,5 +258,32 @@ Date: 2026-03-06</content>
 Date: 2026-03-06</content>
     <link href="https://www.federalregister.gov/documents/2026/03/06/2026-04413/self-regulatory-organizations-the-nasdaq-stock-market-llc-notice-of-filing-of-proposed-rule-change"/>
     <published>2026-03-06T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.federalregister.gov/documents/2026/03/11/2026-04706/self-regulatory-organizations-notice-of-filing-of-a-proposed-rule-change-by-miax-sapphire-llc-to</id>
+    <title>Self-Regulatory Organizations: Notice of Filing of a Proposed Rule Change by MIAX Sapphire, LLC To Amend the By-Laws To Establish the Role of Observers</title>
+    <updated>2026-03-11T00:00:00+00:00</updated>
+    <content>Source: National Securities Exchanges
+Date: 2026-03-11</content>
+    <link href="https://www.federalregister.gov/documents/2026/03/11/2026-04706/self-regulatory-organizations-notice-of-filing-of-a-proposed-rule-change-by-miax-sapphire-llc-to"/>
+    <published>2026-03-11T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.federalregister.gov/documents/2026/03/11/2026-04708/self-regulatory-organizations-notice-of-filing-of-a-proposed-rule-change-by-miax-emerald-llc-to</id>
+    <title>Self-Regulatory Organizations: Notice of Filing of a Proposed Rule Change by MIAX Emerald, LLC To Amend the By-Laws To Establish the Role of Observers</title>
+    <updated>2026-03-11T00:00:00+00:00</updated>
+    <content>Source: National Securities Exchanges
+Date: 2026-03-11</content>
+    <link href="https://www.federalregister.gov/documents/2026/03/11/2026-04708/self-regulatory-organizations-notice-of-filing-of-a-proposed-rule-change-by-miax-emerald-llc-to"/>
+    <published>2026-03-11T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.federalregister.gov/documents/2026/03/11/2026-04781/notice-of-request-for-exemptive-relief-pursuant-to-section-36a-of-the-securities-exchange-act-of</id>
+    <title>Notice of Request for Exemptive Relief, Pursuant to Section 36(a) of the Securities Exchange Act of 1934, From Certain Aspects of Rule 17ad-22(e)(18)(iv) of the Securities Exchange Act of 1934 and Request for Comment</title>
+    <updated>2026-03-11T00:00:00+00:00</updated>
+    <content>Source: National Securities Exchanges
+Date: 2026-03-11</content>
+    <link href="https://www.federalregister.gov/documents/2026/03/11/2026-04781/notice-of-request-for-exemptive-relief-pursuant-to-section-36a-of-the-securities-exchange-act-of"/>
+    <published>2026-03-11T00:00:00+00:00</published>
   </entry>
 </feed>

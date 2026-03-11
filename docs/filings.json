@@ -1,7 +1,31 @@
 {
-  "updated": "2026-03-11T06:40:34.777842+00:00",
-  "count": 28,
+  "updated": "2026-03-11T12:38:45.664685+00:00",
+  "count": 31,
   "filings": [
+    {
+      "id": "5b59618c9846",
+      "title": "Notice of Request for Exemptive Relief, Pursuant to Section 36(a) of the Securities Exchange Act of 1934, From Certain Aspects of Rule 17ad-22(e)(18)(iv) of the Securities Exchange Act of 1934 and Request for Comment",
+      "url": "https://www.federalregister.gov/documents/2026/03/11/2026-04781/notice-of-request-for-exemptive-relief-pursuant-to-section-36a-of-the-securities-exchange-act-of",
+      "date": "2026-03-11",
+      "description": "",
+      "source": "national-securities-exchanges"
+    },
+    {
+      "id": "41203dea761c",
+      "title": "Self-Regulatory Organizations: Notice of Filing of a Proposed Rule Change by MIAX Emerald, LLC To Amend the By-Laws To Establish the Role of Observers",
+      "url": "https://www.federalregister.gov/documents/2026/03/11/2026-04708/self-regulatory-organizations-notice-of-filing-of-a-proposed-rule-change-by-miax-emerald-llc-to",
+      "date": "2026-03-11",
+      "description": "",
+      "source": "national-securities-exchanges"
+    },
+    {
+      "id": "5e53692b37a5",
+      "title": "Self-Regulatory Organizations: Notice of Filing of a Proposed Rule Change by MIAX Sapphire, LLC To Amend the By-Laws To Establish the Role of Observers",
+      "url": "https://www.federalregister.gov/documents/2026/03/11/2026-04706/self-regulatory-organizations-notice-of-filing-of-a-proposed-rule-change-by-miax-sapphire-llc-to",
+      "date": "2026-03-11",
+      "description": "",
+      "source": "national-securities-exchanges"
+    },
     {
       "id": "3834c17ab222",
       "title": "Self-Regulatory Organizations; The Nasdaq Stock Market LLC; Notice of Filing of Proposed Rule Change To Adopt Listing Rule IM-5101-4",
