@@ -1,7 +1,39 @@
 {
-  "updated": "2026-03-12T06:42:21.145758+00:00",
-  "count": 31,
+  "updated": "2026-03-12T12:38:20.798724+00:00",
+  "count": 33,
   "filings": [
+    {
+      "id": "f0f8d3afb267",
+      "title": "Self-Regulatory Organizations; Fixed Income Clearing Corporation; Notice of Filing of Advance Notice To Raise Prefunded Default Liquidity Through the Commercial Paper Program",
+      "url": "https://www.federalregister.gov/documents/2026/03/12/2026-04810/self-regulatory-organizations-fixed-income-clearing-corporation-notice-of-filing-of-advance-notice",
+      "date": "2026-03-12",
+      "description": "",
+      "source": "national-securities-exchanges"
+    },
+    {
+      "id": "3e892660bb57",
+      "title": "Self-Regulatory Organizations; Cboe Exchange, Inc.; Notice of Designation of a Longer Period for Commission Action on a Proposed Rule Change To Amend Rules 4.13 and 5.1 To Permit Options on the Dow Jones Industrial Average Index To Be P.M.-Settled",
+      "url": "https://www.federalregister.gov/documents/2026/03/12/2026-04809/self-regulatory-organizations-cboe-exchange-inc-notice-of-designation-of-a-longer-period-for",
+      "date": "2026-03-12",
+      "description": "",
+      "source": "national-securities-exchanges"
+    },
+    {
+      "id": "57f279c4c6f2",
+      "title": "Self-Regulatory Organizations; Fixed Income Clearing Corporation; Order Approving Proposed Rule Change To Enhance the Correlation Calculation for Bond Haircut Models and Make Other Changes",
+      "url": "https://www.federalregister.gov/documents/2026/03/12/2026-04808/self-regulatory-organizations-fixed-income-clearing-corporation-order-approving-proposed-rule-change",
+      "date": "2026-03-12",
+      "description": "",
+      "source": "national-securities-exchanges"
+    },
+    {
+      "id": "ef73eb9003e5",
+      "title": "Self-Regulatory Organizations; CME Securities Clearing Inc.; Notice of Filing of Proposed Rule Change To Modify the CME Securities Clearing Inc. Amended and Restated By-Laws, Board of Directors Charter, Risk Management Committee Charter, Nominating Committee Charter, and Audit Committee Charter",
+      "url": "https://www.federalregister.gov/documents/2026/03/12/2026-04800/self-regulatory-organizations-cme-securities-clearing-inc-notice-of-filing-of-proposed-rule-change",
+      "date": "2026-03-12",
+      "description": "",
+      "source": "national-securities-exchanges"
+    },
     {
       "id": "5b59618c9846",
       "title": "Notice of Request for Exemptive Relief, Pursuant to Section 36(a) of the Securities Exchange Act of 1934, From Certain Aspects of Rule 17ad-22(e)(18)(iv) of the Securities Exchange Act of 1934 and Request for Comment",
@@ -231,22 +263,6 @@
       "title": "Self-Regulatory Organizations; Financial Industry Regulatory Authority, Inc.; Order Approving a Proposed Rule Change, as Modified by Amendment No. 1, To Amend FINRA Rule 3220 (Influencing or Rewarding Employees of Others)",
       "url": "https://www.federalregister.gov/documents/2026/02/18/2026-03127/self-regulatory-organizations-financial-industry-regulatory-authority-inc-order-approving-a-proposed",
       "date": "2026-02-18",
-      "description": "",
-      "source": "finra"
-    },
-    {
-      "id": "d83ac84dee5f",
-      "title": "Self-Regulatory Organizations; New York Stock Exchange LLC; Notice of Filing of Proposed Rule Change Amending Section 703.12(II) of the NYSE Listed Company Manual To Expand the Circumstances Under Which Rights May Be Listed on the NYSE",
-      "url": "https://www.federalregister.gov/documents/2026/02/17/2026-03016/self-regulatory-organizations-new-york-stock-exchange-llc-notice-of-filing-of-proposed-rule-change",
-      "date": "2026-02-17",
-      "description": "",
-      "source": "national-securities-exchanges"
-    },
-    {
-      "id": "6d184216ed70",
-      "title": "Self-Regulatory Organizations; Financial Industry Regulatory Authority, Inc.; Order Approving a Proposed Rule Change, as Modified by Partial Amendment No. 1, To Amend the FINRA Capital Acquisition Broker (\u201cCAB\u201d) Rules",
-      "url": "https://www.federalregister.gov/documents/2026/02/13/2026-02899/self-regulatory-organizations-financial-industry-regulatory-authority-inc-order-approving-a-proposed",
-      "date": "2026-02-13",
       "description": "",
       "source": "finra"
     }

@@ -8,23 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 12 Mar 2026 06:42:21 +0000</lastBuildDate>
-    <item>
-      <title>Self-Regulatory Organizations; Financial Industry Regulatory Authority, Inc.; Order Approving a Proposed Rule Change, as Modified by Partial Amendment No. 1, To Amend the FINRA Capital Acquisition Broker (“CAB”) Rules</title>
-      <link>https://www.federalregister.gov/documents/2026/02/13/2026-02899/self-regulatory-organizations-financial-industry-regulatory-authority-inc-order-approving-a-proposed</link>
-      <description>Source: Finra
-Date: 2026-02-13</description>
-      <guid isPermaLink="false">https://www.federalregister.gov/documents/2026/02/13/2026-02899/self-regulatory-organizations-financial-industry-regulatory-authority-inc-order-approving-a-proposed</guid>
-      <pubDate>Fri, 13 Feb 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Self-Regulatory Organizations; New York Stock Exchange LLC; Notice of Filing of Proposed Rule Change Amending Section 703.12(II) of the NYSE Listed Company Manual To Expand the Circumstances Under Which Rights May Be Listed on the NYSE</title>
-      <link>https://www.federalregister.gov/documents/2026/02/17/2026-03016/self-regulatory-organizations-new-york-stock-exchange-llc-notice-of-filing-of-proposed-rule-change</link>
-      <description>Source: National Securities Exchanges
-Date: 2026-02-17</description>
-      <guid isPermaLink="false">https://www.federalregister.gov/documents/2026/02/17/2026-03016/self-regulatory-organizations-new-york-stock-exchange-llc-notice-of-filing-of-proposed-rule-change</guid>
-      <pubDate>Tue, 17 Feb 2026 00:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 12 Mar 2026 12:38:20 +0000</lastBuildDate>
     <item>
       <title>Self-Regulatory Organizations; Financial Industry Regulatory Authority, Inc.; Order Approving a Proposed Rule Change, as Modified by Amendment No. 1, To Amend FINRA Rule 3220 (Influencing or Rewarding Employees of Others)</title>
       <link>https://www.federalregister.gov/documents/2026/02/18/2026-03127/self-regulatory-organizations-financial-industry-regulatory-authority-inc-order-approving-a-proposed</link>
@@ -256,6 +240,38 @@ Date: 2026-03-11</description>
 Date: 2026-03-11</description>
       <guid isPermaLink="false">https://www.federalregister.gov/documents/2026/03/11/2026-04781/notice-of-request-for-exemptive-relief-pursuant-to-section-36a-of-the-securities-exchange-act-of</guid>
       <pubDate>Wed, 11 Mar 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Self-Regulatory Organizations; CME Securities Clearing Inc.; Notice of Filing of Proposed Rule Change To Modify the CME Securities Clearing Inc. Amended and Restated By-Laws, Board of Directors Charter, Risk Management Committee Charter, Nominating Committee Charter, and Audit Committee Charter</title>
+      <link>https://www.federalregister.gov/documents/2026/03/12/2026-04800/self-regulatory-organizations-cme-securities-clearing-inc-notice-of-filing-of-proposed-rule-change</link>
+      <description>Source: National Securities Exchanges
+Date: 2026-03-12</description>
+      <guid isPermaLink="false">https://www.federalregister.gov/documents/2026/03/12/2026-04800/self-regulatory-organizations-cme-securities-clearing-inc-notice-of-filing-of-proposed-rule-change</guid>
+      <pubDate>Thu, 12 Mar 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Self-Regulatory Organizations; Fixed Income Clearing Corporation; Order Approving Proposed Rule Change To Enhance the Correlation Calculation for Bond Haircut Models and Make Other Changes</title>
+      <link>https://www.federalregister.gov/documents/2026/03/12/2026-04808/self-regulatory-organizations-fixed-income-clearing-corporation-order-approving-proposed-rule-change</link>
+      <description>Source: National Securities Exchanges
+Date: 2026-03-12</description>
+      <guid isPermaLink="false">https://www.federalregister.gov/documents/2026/03/12/2026-04808/self-regulatory-organizations-fixed-income-clearing-corporation-order-approving-proposed-rule-change</guid>
+      <pubDate>Thu, 12 Mar 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Self-Regulatory Organizations; Cboe Exchange, Inc.; Notice of Designation of a Longer Period for Commission Action on a Proposed Rule Change To Amend Rules 4.13 and 5.1 To Permit Options on the Dow Jones Industrial Average Index To Be P.M.-Settled</title>
+      <link>https://www.federalregister.gov/documents/2026/03/12/2026-04809/self-regulatory-organizations-cboe-exchange-inc-notice-of-designation-of-a-longer-period-for</link>
+      <description>Source: National Securities Exchanges
+Date: 2026-03-12</description>
+      <guid isPermaLink="false">https://www.federalregister.gov/documents/2026/03/12/2026-04809/self-regulatory-organizations-cboe-exchange-inc-notice-of-designation-of-a-longer-period-for</guid>
+      <pubDate>Thu, 12 Mar 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Self-Regulatory Organizations; Fixed Income Clearing Corporation; Notice of Filing of Advance Notice To Raise Prefunded Default Liquidity Through the Commercial Paper Program</title>
+      <link>https://www.federalregister.gov/documents/2026/03/12/2026-04810/self-regulatory-organizations-fixed-income-clearing-corporation-notice-of-filing-of-advance-notice</link>
+      <description>Source: National Securities Exchanges
+Date: 2026-03-12</description>
+      <guid isPermaLink="false">https://www.federalregister.gov/documents/2026/03/12/2026-04810/self-regulatory-organizations-fixed-income-clearing-corporation-notice-of-filing-of-advance-notice</guid>
+      <pubDate>Thu, 12 Mar 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
