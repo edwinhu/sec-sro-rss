@@ -1,7 +1,23 @@
 {
-  "updated": "2026-03-13T06:40:34.186054+00:00",
-  "count": 33,
+  "updated": "2026-03-13T12:37:32.292450+00:00",
+  "count": 35,
   "filings": [
+    {
+      "id": "6448216b5e6d",
+      "title": "Agency Information Collection Activities; Submission for OMB Review; Comment Request; Extension: Rule 19b-4 and Form 19b-4",
+      "url": "https://www.federalregister.gov/documents/2026/03/13/2026-04959/agency-information-collection-activities-submission-for-omb-review-comment-request-extension-rule",
+      "date": "2026-03-13",
+      "description": "",
+      "source": "national-securities-exchanges"
+    },
+    {
+      "id": "8988977650d8",
+      "title": "Self-Regulatory Organizations; Cboe BZX Exchange, Inc.; Notice of Designation of a Longer Period for Commission Action on a Proposed Rule Change To Amend Rule 14.11(j) Regarding Information Circular for UTP Derivative Security",
+      "url": "https://www.federalregister.gov/documents/2026/03/13/2026-04893/self-regulatory-organizations-cboe-bzx-exchange-inc-notice-of-designation-of-a-longer-period-for",
+      "date": "2026-03-13",
+      "description": "",
+      "source": "national-securities-exchanges"
+    },
     {
       "id": "f0f8d3afb267",
       "title": "Self-Regulatory Organizations; Fixed Income Clearing Corporation; Notice of Filing of Advance Notice To Raise Prefunded Default Liquidity Through the Commercial Paper Program",
