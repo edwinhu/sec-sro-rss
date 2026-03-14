@@ -2,29 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://github.com/edwinhu/sec-sro-rss</id>
   <title>SEC Self-Regulatory Organization Rulemaking</title>
-  <updated>2026-03-14T06:35:43.476957+00:00</updated>
+  <updated>2026-03-14T12:31:04.179210+00:00</updated>
   <link href="https://www.sec.gov/rules-regulations/self-regulatory-organization-rulemaking" rel="alternate"/>
   <link href="https://edwinhu.github.io/sec-sro-rss/feed.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Filtered SEC SRO filings (excludes immediate effectiveness notices and crypto)</subtitle>
-  <entry>
-    <id>https://www.federalregister.gov/documents/2026/02/18/2026-03127/self-regulatory-organizations-financial-industry-regulatory-authority-inc-order-approving-a-proposed</id>
-    <title>Self-Regulatory Organizations; Financial Industry Regulatory Authority, Inc.; Order Approving a Proposed Rule Change, as Modified by Amendment No. 1, To Amend FINRA Rule 3220 (Influencing or Rewarding Employees of Others)</title>
-    <updated>2026-02-18T00:00:00+00:00</updated>
-    <content>Source: Finra
-Date: 2026-02-18</content>
-    <link href="https://www.federalregister.gov/documents/2026/02/18/2026-03127/self-regulatory-organizations-financial-industry-regulatory-authority-inc-order-approving-a-proposed"/>
-    <published>2026-02-18T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.federalregister.gov/documents/2026/02/19/2026-03232/self-regulatory-organizations-the-options-clearing-corporation-order-granting-petition-for-review</id>
-    <title>Self-Regulatory Organizations; the Options Clearing Corporation; Order Granting Petition for Review and Scheduling Filing of Statements Concerning Order Granting Accelerated Approval of Proposed Rule Change, as Modified by Partial Amendment No. 1, by the Options Clearing Corporation Concerning Methodology To Allocate Clearing Fund Deposit Requirements Among Its Clearing Members To Better Align the Allocation With the Sizing of the Clearing Fund so Stress Based Risk Is Fairly Allotted to Market Participants That Expose OCC to Such Stress Risk</title>
-    <updated>2026-02-19T00:00:00+00:00</updated>
-    <content>Source: National Securities Exchanges
-Date: 2026-02-19</content>
-    <link href="https://www.federalregister.gov/documents/2026/02/19/2026-03232/self-regulatory-organizations-the-options-clearing-corporation-order-granting-petition-for-review"/>
-    <published>2026-02-19T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>https://www.federalregister.gov/documents/2026/02/19/2026-03238/self-regulatory-organizations-nyse-arca-inc-notice-of-filing-of-a-proposed-rule-change-to-amend-rule</id>
     <title>Self-Regulatory Organizations; NYSE Arca, Inc.; Notice of Filing of a Proposed Rule Change To Amend Rule 5.3-O</title>
@@ -321,5 +303,59 @@ Date: 2026-03-13</content>
 Date: 2026-03-13</content>
     <link href="https://www.federalregister.gov/documents/2026/03/13/2026-04959/agency-information-collection-activities-submission-for-omb-review-comment-request-extension-rule"/>
     <published>2026-03-13T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.federalregister.gov/documents/2026/03/16/2026-05016/self-regulatory-organizations-cboe-futures-exchange-llc-notice-of-a-filing-of-a-proposed-rule-change</id>
+    <title>Self-Regulatory Organizations; Cboe Futures Exchange, LLC; Notice of a Filing of a Proposed Rule Change Regarding Exchange of Contract for Related Position and Block Trade Order Recordkeeping Requirements</title>
+    <updated>2026-03-16T00:00:00+00:00</updated>
+    <content>Source: National Securities Exchanges
+Date: 2026-03-16</content>
+    <link href="https://www.federalregister.gov/documents/2026/03/16/2026-05016/self-regulatory-organizations-cboe-futures-exchange-llc-notice-of-a-filing-of-a-proposed-rule-change"/>
+    <published>2026-03-16T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.federalregister.gov/documents/2026/03/16/2026-05017/self-regulatory-organizations-the-nasdaq-stock-market-llc-notice-of-designation-of-a-longer-period</id>
+    <title>Self-Regulatory Organizations; The Nasdaq Stock Market LLC; Notice of Designation of a Longer Period for Commission Action on a Proposed Rule Change To Adopt a New Continued Listing Requirement</title>
+    <updated>2026-03-16T00:00:00+00:00</updated>
+    <content>Source: National Securities Exchanges
+Date: 2026-03-16</content>
+    <link href="https://www.federalregister.gov/documents/2026/03/16/2026-05017/self-regulatory-organizations-the-nasdaq-stock-market-llc-notice-of-designation-of-a-longer-period"/>
+    <published>2026-03-16T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.federalregister.gov/documents/2026/03/16/2026-05018/self-regulatory-organizations-the-nasdaq-stock-market-llc-notice-of-designation-of-a-longer-period</id>
+    <title>Self-Regulatory Organizations; The Nasdaq Stock Market LLC; Notice of Designation of a Longer Period for Commission Action on Proceedings To Determine Whether To Approve or Disapprove a Proposed Rule Change, as Modified by Amendment No. 1, To Adopt Additional Initial Listing Criteria for Companies Primarily Operating in China</title>
+    <updated>2026-03-16T00:00:00+00:00</updated>
+    <content>Source: National Securities Exchanges
+Date: 2026-03-16</content>
+    <link href="https://www.federalregister.gov/documents/2026/03/16/2026-05018/self-regulatory-organizations-the-nasdaq-stock-market-llc-notice-of-designation-of-a-longer-period"/>
+    <published>2026-03-16T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.federalregister.gov/documents/2026/03/16/2026-05019/self-regulatory-organizations-nasdaq-mrx-llc-notice-of-filing-of-a-proposed-rule-change-to-adopt-new</id>
+    <title>Self-Regulatory Organizations; Nasdaq MRX, LLC; Notice of Filing of a Proposed Rule Change To Adopt New Options Rule 3B To List and Trade Outcome-Related Options</title>
+    <updated>2026-03-16T00:00:00+00:00</updated>
+    <content>Source: National Securities Exchanges
+Date: 2026-03-16</content>
+    <link href="https://www.federalregister.gov/documents/2026/03/16/2026-05019/self-regulatory-organizations-nasdaq-mrx-llc-notice-of-filing-of-a-proposed-rule-change-to-adopt-new"/>
+    <published>2026-03-16T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.federalregister.gov/documents/2026/03/16/2026-05020/self-regulatory-organizations-cboe-bzx-exchange-inc-notice-of-designation-of-a-longer-period-for</id>
+    <title>Self-Regulatory Organizations; Cboe BZX Exchange, Inc.; Notice of Designation of a Longer Period for Commission Action on a Proposed Rule Change To Amend the Opening Auction Process Provided Under Rule 11.23(b)(2)(B) To Delay the Opening Auction Under Certain Market Conditions in Order To Improve Price Discovery and Allow Executions To Occur at Prices That Better Reflect Current Market Conditions</title>
+    <updated>2026-03-16T00:00:00+00:00</updated>
+    <content>Source: National Securities Exchanges
+Date: 2026-03-16</content>
+    <link href="https://www.federalregister.gov/documents/2026/03/16/2026-05020/self-regulatory-organizations-cboe-bzx-exchange-inc-notice-of-designation-of-a-longer-period-for"/>
+    <published>2026-03-16T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.federalregister.gov/documents/2026/03/16/2026-05022/self-regulatory-organizations-cboe-bzx-exchange-inc-order-granting-approval-of-a-proposed-rule</id>
+    <title>Self-Regulatory Organizations; Cboe BZX Exchange, Inc.; Order Granting Approval of a Proposed Rule Change To Amend Exchange Rule 14.12</title>
+    <updated>2026-03-16T00:00:00+00:00</updated>
+    <content>Source: National Securities Exchanges
+Date: 2026-03-16</content>
+    <link href="https://www.federalregister.gov/documents/2026/03/16/2026-05022/self-regulatory-organizations-cboe-bzx-exchange-inc-order-granting-approval-of-a-proposed-rule"/>
+    <published>2026-03-16T00:00:00+00:00</published>
   </entry>
 </feed>
