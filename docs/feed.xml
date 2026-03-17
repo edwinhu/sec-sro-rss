@@ -8,23 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 17 Mar 2026 06:53:46 +0000</lastBuildDate>
-    <item>
-      <title>Self-Regulatory Organizations; NYSE Arca, Inc.; Notice of Filing of a Proposed Rule Change To Amend Rule 5.3-O</title>
-      <link>https://www.federalregister.gov/documents/2026/02/19/2026-03238/self-regulatory-organizations-nyse-arca-inc-notice-of-filing-of-a-proposed-rule-change-to-amend-rule</link>
-      <description>Source: National Securities Exchanges
-Date: 2026-02-19</description>
-      <guid isPermaLink="false">https://www.federalregister.gov/documents/2026/02/19/2026-03238/self-regulatory-organizations-nyse-arca-inc-notice-of-filing-of-a-proposed-rule-change-to-amend-rule</guid>
-      <pubDate>Thu, 19 Feb 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Self-Regulatory Organizations; NYSE American LLC; Notice of Filing of a Proposed Rule Change To Amend Rule 915</title>
-      <link>https://www.federalregister.gov/documents/2026/02/19/2026-03239/self-regulatory-organizations-nyse-american-llc-notice-of-filing-of-a-proposed-rule-change-to-amend</link>
-      <description>Source: National Securities Exchanges
-Date: 2026-02-19</description>
-      <guid isPermaLink="false">https://www.federalregister.gov/documents/2026/02/19/2026-03239/self-regulatory-organizations-nyse-american-llc-notice-of-filing-of-a-proposed-rule-change-to-amend</guid>
-      <pubDate>Thu, 19 Feb 2026 00:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 17 Mar 2026 12:49:23 +0000</lastBuildDate>
     <item>
       <title>Self-Regulatory Organizations; Cboe Exchange, Inc.; Notice of Designation of a Longer Period for Commission Action on a Proposed Rule Change To Adopt Future-Option Orders</title>
       <link>https://www.federalregister.gov/documents/2026/02/24/2026-03601/self-regulatory-organizations-cboe-exchange-inc-notice-of-designation-of-a-longer-period-for</link>
@@ -320,6 +304,22 @@ Date: 2026-03-16</description>
 Date: 2026-03-16</description>
       <guid isPermaLink="false">https://www.federalregister.gov/documents/2026/03/16/2026-05022/self-regulatory-organizations-cboe-bzx-exchange-inc-order-granting-approval-of-a-proposed-rule</guid>
       <pubDate>Mon, 16 Mar 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Self-Regulatory Organizations; LCH SA; Order Approving Proposed Rule Change Relating to LCH SA's Default Management Policy, Investment Risk Policy, Liquidity Risk Policy, Settlement, Payment and Custody Risk Policy, Model Governance, Validation and Review Policy and Contract and Market Acceptability Policy</title>
+      <link>https://www.federalregister.gov/documents/2026/03/17/2026-05127/self-regulatory-organizations-lch-sa-order-approving-proposed-rule-change-relating-to-lch-sas</link>
+      <description>Source: National Securities Exchanges
+Date: 2026-03-17</description>
+      <guid isPermaLink="false">https://www.federalregister.gov/documents/2026/03/17/2026-05127/self-regulatory-organizations-lch-sa-order-approving-proposed-rule-change-relating-to-lch-sas</guid>
+      <pubDate>Tue, 17 Mar 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Self-Regulatory Organizations; National Securities Clearing Corporation; Order Approving Proposed Rule Change Concerning the Clearing of Exchange-Traded Funds With Options as Underlying Components</title>
+      <link>https://www.federalregister.gov/documents/2026/03/17/2026-05128/self-regulatory-organizations-national-securities-clearing-corporation-order-approving-proposed-rule</link>
+      <description>Source: National Securities Exchanges
+Date: 2026-03-17</description>
+      <guid isPermaLink="false">https://www.federalregister.gov/documents/2026/03/17/2026-05128/self-regulatory-organizations-national-securities-clearing-corporation-order-approving-proposed-rule</guid>
+      <pubDate>Tue, 17 Mar 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

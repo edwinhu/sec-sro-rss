@@ -2,29 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://github.com/edwinhu/sec-sro-rss</id>
   <title>SEC Self-Regulatory Organization Rulemaking</title>
-  <updated>2026-03-17T06:53:46.301966+00:00</updated>
+  <updated>2026-03-17T12:49:23.629750+00:00</updated>
   <link href="https://www.sec.gov/rules-regulations/self-regulatory-organization-rulemaking" rel="alternate"/>
   <link href="https://edwinhu.github.io/sec-sro-rss/feed.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Filtered SEC SRO filings (excludes immediate effectiveness notices and crypto)</subtitle>
-  <entry>
-    <id>https://www.federalregister.gov/documents/2026/02/19/2026-03238/self-regulatory-organizations-nyse-arca-inc-notice-of-filing-of-a-proposed-rule-change-to-amend-rule</id>
-    <title>Self-Regulatory Organizations; NYSE Arca, Inc.; Notice of Filing of a Proposed Rule Change To Amend Rule 5.3-O</title>
-    <updated>2026-02-19T00:00:00+00:00</updated>
-    <content>Source: National Securities Exchanges
-Date: 2026-02-19</content>
-    <link href="https://www.federalregister.gov/documents/2026/02/19/2026-03238/self-regulatory-organizations-nyse-arca-inc-notice-of-filing-of-a-proposed-rule-change-to-amend-rule"/>
-    <published>2026-02-19T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.federalregister.gov/documents/2026/02/19/2026-03239/self-regulatory-organizations-nyse-american-llc-notice-of-filing-of-a-proposed-rule-change-to-amend</id>
-    <title>Self-Regulatory Organizations; NYSE American LLC; Notice of Filing of a Proposed Rule Change To Amend Rule 915</title>
-    <updated>2026-02-19T00:00:00+00:00</updated>
-    <content>Source: National Securities Exchanges
-Date: 2026-02-19</content>
-    <link href="https://www.federalregister.gov/documents/2026/02/19/2026-03239/self-regulatory-organizations-nyse-american-llc-notice-of-filing-of-a-proposed-rule-change-to-amend"/>
-    <published>2026-02-19T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>https://www.federalregister.gov/documents/2026/02/24/2026-03601/self-regulatory-organizations-cboe-exchange-inc-notice-of-designation-of-a-longer-period-for</id>
     <title>Self-Regulatory Organizations; Cboe Exchange, Inc.; Notice of Designation of a Longer Period for Commission Action on a Proposed Rule Change To Adopt Future-Option Orders</title>
@@ -357,5 +339,23 @@ Date: 2026-03-16</content>
 Date: 2026-03-16</content>
     <link href="https://www.federalregister.gov/documents/2026/03/16/2026-05022/self-regulatory-organizations-cboe-bzx-exchange-inc-order-granting-approval-of-a-proposed-rule"/>
     <published>2026-03-16T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.federalregister.gov/documents/2026/03/17/2026-05127/self-regulatory-organizations-lch-sa-order-approving-proposed-rule-change-relating-to-lch-sas</id>
+    <title>Self-Regulatory Organizations; LCH SA; Order Approving Proposed Rule Change Relating to LCH SA's Default Management Policy, Investment Risk Policy, Liquidity Risk Policy, Settlement, Payment and Custody Risk Policy, Model Governance, Validation and Review Policy and Contract and Market Acceptability Policy</title>
+    <updated>2026-03-17T00:00:00+00:00</updated>
+    <content>Source: National Securities Exchanges
+Date: 2026-03-17</content>
+    <link href="https://www.federalregister.gov/documents/2026/03/17/2026-05127/self-regulatory-organizations-lch-sa-order-approving-proposed-rule-change-relating-to-lch-sas"/>
+    <published>2026-03-17T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.federalregister.gov/documents/2026/03/17/2026-05128/self-regulatory-organizations-national-securities-clearing-corporation-order-approving-proposed-rule</id>
+    <title>Self-Regulatory Organizations; National Securities Clearing Corporation; Order Approving Proposed Rule Change Concerning the Clearing of Exchange-Traded Funds With Options as Underlying Components</title>
+    <updated>2026-03-17T00:00:00+00:00</updated>
+    <content>Source: National Securities Exchanges
+Date: 2026-03-17</content>
+    <link href="https://www.federalregister.gov/documents/2026/03/17/2026-05128/self-regulatory-organizations-national-securities-clearing-corporation-order-approving-proposed-rule"/>
+    <published>2026-03-17T00:00:00+00:00</published>
   </entry>
 </feed>
