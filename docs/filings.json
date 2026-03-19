@@ -1,7 +1,15 @@
 {
-  "updated": "2026-03-19T06:46:52.577360+00:00",
-  "count": 39,
+  "updated": "2026-03-19T12:41:29.465713+00:00",
+  "count": 36,
   "filings": [
+    {
+      "id": "0f25749ab0a1",
+      "title": "Joint Industry Plan; Order Approving an Amendment to the National Market System Plan Governing the Consolidated Audit Trail, as Modified by the Commission, Regarding Implementation of a Revised Funding Model",
+      "url": "https://www.federalregister.gov/documents/2026/03/19/2026-05350/joint-industry-plan-order-approving-an-amendment-to-the-national-market-system-plan-governing-the",
+      "date": "2026-03-19",
+      "description": "",
+      "source": "national-securities-exchanges"
+    },
     {
       "id": "2c8ab365edcc",
       "title": "Self-Regulatory Organizations; National Securities Clearing Corporation; Order Approving Proposed Rule Change Concerning the Clearing of Exchange-Traded Funds With Options as Underlying Components",
@@ -279,38 +287,6 @@
       "title": "Self-Regulatory Organizations; The Options Clearing Corporation; Notice of Filing of Proposed Rule Change by The Options Clearing Corporation Concerning a Change in Types of Acceptable Collateral and an Update To Mitigate Wrong-Way Risk",
       "url": "https://www.federalregister.gov/documents/2026/02/27/2026-03915/self-regulatory-organizations-the-options-clearing-corporation-notice-of-filing-of-proposed-rule",
       "date": "2026-02-27",
-      "description": "",
-      "source": "national-securities-exchanges"
-    },
-    {
-      "id": "fa1a34bbf9d0",
-      "title": "Program for Allocation of Regulatory Responsibilities Pursuant to Rule 17d-2; Notice of Filing of Proposed Amended Plan for the Allocation of Regulatory Responsibilities Between the Financial Industry Regulatory Authority, Inc., MEMX LLC, and MX2 LLC",
-      "url": "https://www.federalregister.gov/documents/2026/02/26/2026-03918/program-for-allocation-of-regulatory-responsibilities-pursuant-to-rule-17d-2-notice-of-filing-of",
-      "date": "2026-02-26",
-      "description": "",
-      "source": "finra"
-    },
-    {
-      "id": "ec5fb5cd4cde",
-      "title": "Self-Regulatory Organizations; Financial Industry Regulatory Authority, Inc.; Notice of Filing of a Proposed Rule Change To Amend FINRA Rule 2210 (Communications With the Public)",
-      "url": "https://www.federalregister.gov/documents/2026/02/25/2026-03705/self-regulatory-organizations-financial-industry-regulatory-authority-inc-notice-of-filing-of-a",
-      "date": "2026-02-25",
-      "description": "",
-      "source": "finra"
-    },
-    {
-      "id": "1c9fffe0c6d2",
-      "title": "Self-Regulatory Organizations; ICE Clear Credit LLC; Order Approving Proposed Rule Change Relating to the ICC Collateral Risk Management Framework",
-      "url": "https://www.federalregister.gov/documents/2026/02/24/2026-03603/self-regulatory-organizations-ice-clear-credit-llc-order-approving-proposed-rule-change-relating-to",
-      "date": "2026-02-24",
-      "description": "",
-      "source": "national-securities-exchanges"
-    },
-    {
-      "id": "5ab634e7493c",
-      "title": "Self-Regulatory Organizations; Cboe Exchange, Inc.; Notice of Designation of a Longer Period for Commission Action on a Proposed Rule Change To Adopt Future-Option Orders",
-      "url": "https://www.federalregister.gov/documents/2026/02/24/2026-03601/self-regulatory-organizations-cboe-exchange-inc-notice-of-designation-of-a-longer-period-for",
-      "date": "2026-02-24",
       "description": "",
       "source": "national-securities-exchanges"
     }

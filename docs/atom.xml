@@ -2,47 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://github.com/edwinhu/sec-sro-rss</id>
   <title>SEC Self-Regulatory Organization Rulemaking</title>
-  <updated>2026-03-19T06:46:52.557443+00:00</updated>
+  <updated>2026-03-19T12:41:29.406583+00:00</updated>
   <link href="https://www.sec.gov/rules-regulations/self-regulatory-organization-rulemaking" rel="alternate"/>
   <link href="https://edwinhu.github.io/sec-sro-rss/feed.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Filtered SEC SRO filings (excludes immediate effectiveness notices and crypto)</subtitle>
-  <entry>
-    <id>https://www.federalregister.gov/documents/2026/02/24/2026-03601/self-regulatory-organizations-cboe-exchange-inc-notice-of-designation-of-a-longer-period-for</id>
-    <title>Self-Regulatory Organizations; Cboe Exchange, Inc.; Notice of Designation of a Longer Period for Commission Action on a Proposed Rule Change To Adopt Future-Option Orders</title>
-    <updated>2026-02-24T00:00:00+00:00</updated>
-    <content>Source: National Securities Exchanges
-Date: 2026-02-24</content>
-    <link href="https://www.federalregister.gov/documents/2026/02/24/2026-03601/self-regulatory-organizations-cboe-exchange-inc-notice-of-designation-of-a-longer-period-for"/>
-    <published>2026-02-24T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.federalregister.gov/documents/2026/02/24/2026-03603/self-regulatory-organizations-ice-clear-credit-llc-order-approving-proposed-rule-change-relating-to</id>
-    <title>Self-Regulatory Organizations; ICE Clear Credit LLC; Order Approving Proposed Rule Change Relating to the ICC Collateral Risk Management Framework</title>
-    <updated>2026-02-24T00:00:00+00:00</updated>
-    <content>Source: National Securities Exchanges
-Date: 2026-02-24</content>
-    <link href="https://www.federalregister.gov/documents/2026/02/24/2026-03603/self-regulatory-organizations-ice-clear-credit-llc-order-approving-proposed-rule-change-relating-to"/>
-    <published>2026-02-24T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.federalregister.gov/documents/2026/02/25/2026-03705/self-regulatory-organizations-financial-industry-regulatory-authority-inc-notice-of-filing-of-a</id>
-    <title>Self-Regulatory Organizations; Financial Industry Regulatory Authority, Inc.; Notice of Filing of a Proposed Rule Change To Amend FINRA Rule 2210 (Communications With the Public)</title>
-    <updated>2026-02-25T00:00:00+00:00</updated>
-    <content>Source: Finra
-Date: 2026-02-25</content>
-    <link href="https://www.federalregister.gov/documents/2026/02/25/2026-03705/self-regulatory-organizations-financial-industry-regulatory-authority-inc-notice-of-filing-of-a"/>
-    <published>2026-02-25T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.federalregister.gov/documents/2026/02/26/2026-03918/program-for-allocation-of-regulatory-responsibilities-pursuant-to-rule-17d-2-notice-of-filing-of</id>
-    <title>Program for Allocation of Regulatory Responsibilities Pursuant to Rule 17d-2; Notice of Filing of Proposed Amended Plan for the Allocation of Regulatory Responsibilities Between the Financial Industry Regulatory Authority, Inc., MEMX LLC, and MX2 LLC</title>
-    <updated>2026-02-26T00:00:00+00:00</updated>
-    <content>Source: Finra
-Date: 2026-02-26</content>
-    <link href="https://www.federalregister.gov/documents/2026/02/26/2026-03918/program-for-allocation-of-regulatory-responsibilities-pursuant-to-rule-17d-2-notice-of-filing-of"/>
-    <published>2026-02-26T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>https://www.federalregister.gov/documents/2026/02/27/2026-03915/self-regulatory-organizations-the-options-clearing-corporation-notice-of-filing-of-proposed-rule</id>
     <title>Self-Regulatory Organizations; The Options Clearing Corporation; Notice of Filing of Proposed Rule Change by The Options Clearing Corporation Concerning a Change in Types of Acceptable Collateral and an Update To Mitigate Wrong-Way Risk</title>
@@ -357,5 +321,14 @@ Date: 2026-03-17</content>
 Date: 2026-03-17</content>
     <link href="https://www.federalregister.gov/documents/2026/03/17/2026-05128/self-regulatory-organizations-national-securities-clearing-corporation-order-approving-proposed-rule"/>
     <published>2026-03-17T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.federalregister.gov/documents/2026/03/19/2026-05350/joint-industry-plan-order-approving-an-amendment-to-the-national-market-system-plan-governing-the</id>
+    <title>Joint Industry Plan; Order Approving an Amendment to the National Market System Plan Governing the Consolidated Audit Trail, as Modified by the Commission, Regarding Implementation of a Revised Funding Model</title>
+    <updated>2026-03-19T00:00:00+00:00</updated>
+    <content>Source: National Securities Exchanges
+Date: 2026-03-19</content>
+    <link href="https://www.federalregister.gov/documents/2026/03/19/2026-05350/joint-industry-plan-order-approving-an-amendment-to-the-national-market-system-plan-governing-the"/>
+    <published>2026-03-19T00:00:00+00:00</published>
   </entry>
 </feed>
