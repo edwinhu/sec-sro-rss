@@ -2,92 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://github.com/edwinhu/sec-sro-rss</id>
   <title>SEC Self-Regulatory Organization Rulemaking</title>
-  <updated>2026-03-20T06:42:42.109796+00:00</updated>
+  <updated>2026-03-20T12:38:05.861824+00:00</updated>
   <link href="https://www.sec.gov/rules-regulations/self-regulatory-organization-rulemaking" rel="alternate"/>
   <link href="https://edwinhu.github.io/sec-sro-rss/feed.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Filtered SEC SRO filings (excludes immediate effectiveness notices and crypto)</subtitle>
-  <entry>
-    <id>https://www.federalregister.gov/documents/2026/02/27/2026-03915/self-regulatory-organizations-the-options-clearing-corporation-notice-of-filing-of-proposed-rule</id>
-    <title>Self-Regulatory Organizations; The Options Clearing Corporation; Notice of Filing of Proposed Rule Change by The Options Clearing Corporation Concerning a Change in Types of Acceptable Collateral and an Update To Mitigate Wrong-Way Risk</title>
-    <updated>2026-02-27T00:00:00+00:00</updated>
-    <content>Source: National Securities Exchanges
-Date: 2026-02-27</content>
-    <link href="https://www.federalregister.gov/documents/2026/02/27/2026-03915/self-regulatory-organizations-the-options-clearing-corporation-notice-of-filing-of-proposed-rule"/>
-    <published>2026-02-27T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.federalregister.gov/documents/2026/02/27/2026-03917/self-regulatory-organizations-nasdaq-ise-llc-notice-of-filing-of-amendment-no-5-and-order</id>
-    <title>Self-Regulatory Organizations; Nasdaq ISE, LLC; Notice of Filing of Amendment No. 5 and Order Instituting Proceedings To Determine Whether To Approve or Disapprove a Proposed Rule Change, as Modified by Amendment No. 5, To Amend the Position and Exercise Limits for IBIT Options</title>
-    <updated>2026-02-27T00:00:00+00:00</updated>
-    <content>Source: National Securities Exchanges
-Date: 2026-02-27</content>
-    <link href="https://www.federalregister.gov/documents/2026/02/27/2026-03917/self-regulatory-organizations-nasdaq-ise-llc-notice-of-filing-of-amendment-no-5-and-order"/>
-    <published>2026-02-27T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.federalregister.gov/documents/2026/03/02/2026-04015/self-regulatory-organizations-the-nasdaq-stock-market-llc-notice-of-designation-of-a-longer-period</id>
-    <title>Self-Regulatory Organizations; The Nasdaq Stock Market LLC; Notice of Designation of a Longer Period for Commission Action on a Proposed Rule Change To Extend the Exchange's U.S. Equities Trading Hours to 23 Hours a Day, Five Days a Week</title>
-    <updated>2026-03-02T00:00:00+00:00</updated>
-    <content>Source: National Securities Exchanges
-Date: 2026-03-02</content>
-    <link href="https://www.federalregister.gov/documents/2026/03/02/2026-04015/self-regulatory-organizations-the-nasdaq-stock-market-llc-notice-of-designation-of-a-longer-period"/>
-    <published>2026-03-02T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.federalregister.gov/documents/2026/03/02/2026-04017/self-regulatory-organizations-new-york-stock-exchange-llc-notice-of-filing-of-proposed-rule-change</id>
-    <title>Self-Regulatory Organizations; New York Stock Exchange LLC; Notice of Filing of Proposed Rule Change, As Modified by Amendment No. 1, To Adopt New Rule 5.2(j)(9) Relating to the Listing and Trading of Class Exchange-Traded Fund Shares</title>
-    <updated>2026-03-02T00:00:00+00:00</updated>
-    <content>Source: National Securities Exchanges
-Date: 2026-03-02</content>
-    <link href="https://www.federalregister.gov/documents/2026/03/02/2026-04017/self-regulatory-organizations-new-york-stock-exchange-llc-notice-of-filing-of-proposed-rule-change"/>
-    <published>2026-03-02T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.federalregister.gov/documents/2026/03/02/2026-04018/self-regulatory-organizations-nyse-texas-inc-notice-of-filing-of-proposed-rule-change-as-modified-by</id>
-    <title>Self-Regulatory Organizations; NYSE Texas, Inc.; Notice of Filing of Proposed Rule Change, As Modified by Amendment No. 1, To Adopt New Rule 5.2(j)(9) Relating to the Listing and Trading of Class Exchange-Traded Fund Shares</title>
-    <updated>2026-03-02T00:00:00+00:00</updated>
-    <content>Source: National Securities Exchanges
-Date: 2026-03-02</content>
-    <link href="https://www.federalregister.gov/documents/2026/03/02/2026-04018/self-regulatory-organizations-nyse-texas-inc-notice-of-filing-of-proposed-rule-change-as-modified-by"/>
-    <published>2026-03-02T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.federalregister.gov/documents/2026/03/02/2026-04060/joint-industry-plan-order-approving-amendment-to-add-paragraph-c-to-section-6-of-the-plan-for-the</id>
-    <title>Joint Industry Plan; Order Approving Amendment To Add Paragraph (c) to Section 6 of the Plan for the Purpose of Developing and Implementing Procedures Designed To Facilitate the Listing and Trading of Standardized Options (OLPP) To Create a Forum for Discussion Concerning Plan Matters</title>
-    <updated>2026-03-02T00:00:00+00:00</updated>
-    <content>Source: National Securities Exchanges
-Date: 2026-03-02</content>
-    <link href="https://www.federalregister.gov/documents/2026/03/02/2026-04060/joint-industry-plan-order-approving-amendment-to-add-paragraph-c-to-section-6-of-the-plan-for-the"/>
-    <published>2026-03-02T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.federalregister.gov/documents/2026/03/02/2026-04062/options-price-reporting-authority-order-approving-amendment-as-modified-by-amendment-no-1-thereto-to</id>
-    <title>Options Price Reporting Authority; Order Approving Amendment, as Modified by Amendment No. 1 Thereto, To Modify the OPRA Fee Schedule Regarding Certain Direct Access Connectivity Fees</title>
-    <updated>2026-03-02T00:00:00+00:00</updated>
-    <content>Source: National Securities Exchanges
-Date: 2026-03-02</content>
-    <link href="https://www.federalregister.gov/documents/2026/03/02/2026-04062/options-price-reporting-authority-order-approving-amendment-as-modified-by-amendment-no-1-thereto-to"/>
-    <published>2026-03-02T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.federalregister.gov/documents/2026/03/02/2026-04081/notice-of-an-application-of-the-24x-national-exchange-llc-for-a-temporary-conditional-exemption-from</id>
-    <title>Notice of an Application of the 24X National Exchange LLC for a Temporary, Conditional Exemption From Certain Requirements of Rule 602 of Regulation NMS, Certain Requirements of Certain Equity Data Plans, and Section 19(g)(1) of the Securities Exchange Act of 1934, Pursuant to Section 36 of the Securities Exchange Act of 1934 and Rule 602 and 608 of Regulation NMS, To Permit Certain Overnight Trading, and Request for Comment</title>
-    <updated>2026-03-02T00:00:00+00:00</updated>
-    <content>Source: National Securities Exchanges
-Date: 2026-03-02</content>
-    <link href="https://www.federalregister.gov/documents/2026/03/02/2026-04081/notice-of-an-application-of-the-24x-national-exchange-llc-for-a-temporary-conditional-exemption-from"/>
-    <published>2026-03-02T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.federalregister.gov/documents/2026/03/03/2026-04145/self-regulatory-organizations-long-term-stock-exchange-inc-notice-of-designation-of-a-longer-period</id>
-    <title>Self-Regulatory Organizations; Long-Term Stock Exchange, Inc.; Notice of Designation of a Longer Period for Commission Action on a Proposed Rule Change Regarding Complimentary Products and Services Offered by the Exchange</title>
-    <updated>2026-03-03T00:00:00+00:00</updated>
-    <content>Source: National Securities Exchanges
-Date: 2026-03-03</content>
-    <link href="https://www.federalregister.gov/documents/2026/03/03/2026-04145/self-regulatory-organizations-long-term-stock-exchange-inc-notice-of-designation-of-a-longer-period"/>
-    <published>2026-03-03T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>https://www.federalregister.gov/documents/2026/03/03/2026-04149/agency-information-collection-activities-proposed-collection-comment-request-extension-rule-104</id>
     <title>Agency Information Collection Activities; Proposed Collection; Comment Request; Extension: Rule 104</title>
@@ -330,5 +249,41 @@ Date: 2026-03-17</content>
 Date: 2026-03-19</content>
     <link href="https://www.federalregister.gov/documents/2026/03/19/2026-05350/joint-industry-plan-order-approving-an-amendment-to-the-national-market-system-plan-governing-the"/>
     <published>2026-03-19T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.federalregister.gov/documents/2026/03/20/2026-05475/self-regulatory-organizations-the-nasdaq-stock-market-llc-notice-of-filing-of-proposed-rule-change</id>
+    <title>Self-Regulatory Organizations; The Nasdaq Stock Market LLC; Notice of Filing of Proposed Rule Change To List and Trade Shares of the VanEck JitoSOL ETF Under Nasdaq Rule 5711(d) (Commodity-Based Trust Shares)</title>
+    <updated>2026-03-20T00:00:00+00:00</updated>
+    <content>Source: National Securities Exchanges
+Date: 2026-03-20</content>
+    <link href="https://www.federalregister.gov/documents/2026/03/20/2026-05475/self-regulatory-organizations-the-nasdaq-stock-market-llc-notice-of-filing-of-proposed-rule-change"/>
+    <published>2026-03-20T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.federalregister.gov/documents/2026/03/20/2026-05479/self-regulatory-organizations-nyse-american-llc-notice-of-filing-of-amendment-nos-1-2-and-3-and</id>
+    <title>Self-Regulatory Organizations; NYSE American LLC; Notice of Filing of Amendment Nos. 1, 2 and 3 and Order Instituting Proceedings To Determine Whether To Approve or Disapprove a Proposed Rule Change, as Modified by Amendment Nos. 1, 2, and 3, To Amend Sections 1003 and 1009 of the NYSE American Company Guide</title>
+    <updated>2026-03-20T00:00:00+00:00</updated>
+    <content>Source: National Securities Exchanges
+Date: 2026-03-20</content>
+    <link href="https://www.federalregister.gov/documents/2026/03/20/2026-05479/self-regulatory-organizations-nyse-american-llc-notice-of-filing-of-amendment-nos-1-2-and-3-and"/>
+    <published>2026-03-20T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.federalregister.gov/documents/2026/03/20/2026-05480/self-regulatory-organizations-new-york-stock-exchange-llc-notice-of-filing-of-amendment-no-1-and</id>
+    <title>Self-Regulatory Organizations; New York Stock Exchange LLC; Notice of Filing of Amendment No. 1 and Order Instituting Proceedings To Determine Whether To Approve or Disapprove a Proposed Rule Change, as Modified by Amendment No. 1, To Amend Section 802.01C of the NYSE Listed Company Manual</title>
+    <updated>2026-03-20T00:00:00+00:00</updated>
+    <content>Source: National Securities Exchanges
+Date: 2026-03-20</content>
+    <link href="https://www.federalregister.gov/documents/2026/03/20/2026-05480/self-regulatory-organizations-new-york-stock-exchange-llc-notice-of-filing-of-amendment-no-1-and"/>
+    <published>2026-03-20T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.federalregister.gov/documents/2026/03/20/2026-05481/self-regulatory-organizations-nyse-american-llc-notice-of-filing-of-proposed-change-to-amend-section</id>
+    <title>Self-Regulatory Organizations; NYSE American LLC; Notice of Filing of Proposed Change To Amend Section 1003 of the NYSE American Company Guide</title>
+    <updated>2026-03-20T00:00:00+00:00</updated>
+    <content>Source: National Securities Exchanges
+Date: 2026-03-20</content>
+    <link href="https://www.federalregister.gov/documents/2026/03/20/2026-05481/self-regulatory-organizations-nyse-american-llc-notice-of-filing-of-proposed-change-to-amend-section"/>
+    <published>2026-03-20T00:00:00+00:00</published>
   </entry>
 </feed>
