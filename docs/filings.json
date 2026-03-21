@@ -1,7 +1,47 @@
 {
-  "updated": "2026-03-21T06:32:07.894486+00:00",
-  "count": 31,
+  "updated": "2026-03-21T12:29:35.987794+00:00",
+  "count": 29,
   "filings": [
+    {
+      "id": "50a2da379525",
+      "title": "Self-Regulatory Organizations; The Nasdaq Stock Market LLC; Order Approving a Proposed Rule Change, as Modified by Amendment No. 2, To Amend the Exchange's Rules To Enable the Trading of Securities on the Exchange in Tokenized Form",
+      "url": "https://www.federalregister.gov/documents/2026/03/23/2026-05563/self-regulatory-organizations-the-nasdaq-stock-market-llc-order-approving-a-proposed-rule-change-as",
+      "date": "2026-03-23",
+      "description": "",
+      "source": "national-securities-exchanges"
+    },
+    {
+      "id": "ae8150f2b602",
+      "title": "Self-Regulatory Organizations; Fixed Income Clearing Corporation; Order Approving Proposed Rule Change To Remove the Activity Limit From the GSD Rules",
+      "url": "https://www.federalregister.gov/documents/2026/03/23/2026-05562/self-regulatory-organizations-fixed-income-clearing-corporation-order-approving-proposed-rule-change",
+      "date": "2026-03-23",
+      "description": "",
+      "source": "national-securities-exchanges"
+    },
+    {
+      "id": "6dde87e0e9c5",
+      "title": "Self-Regulatory Organizations; Cboe Exchange, Inc.; Notice of Filing of Amendment Nos. 1 and 2 and Order Granting Accelerated Approval of a Proposed Rule Change, as Modified and Superseded by Amendment No. 2, To Amend Rule 5.4 To Change the Minimum Increment for Options on the Cboe Magnificent 10 Index",
+      "url": "https://www.federalregister.gov/documents/2026/03/23/2026-05561/self-regulatory-organizations-cboe-exchange-inc-notice-of-filing-of-amendment-nos-1-and-2-and-order",
+      "date": "2026-03-23",
+      "description": "",
+      "source": "national-securities-exchanges"
+    },
+    {
+      "id": "f22a0d2ef221",
+      "title": "Self-Regulatory Organizations; Fixed Income Clearing Corporation; Order Instituting Proceedings To Determine Whether To Approve or Disapprove a Proposed Rule Change To Amend and Restate the Second Amended and Restated Cross-Margining Agreement Between FICC and CME and Amend Related GSD Rules",
+      "url": "https://www.federalregister.gov/documents/2026/03/23/2026-05558/self-regulatory-organizations-fixed-income-clearing-corporation-order-instituting-proceedings-to",
+      "date": "2026-03-23",
+      "description": "",
+      "source": "national-securities-exchanges"
+    },
+    {
+      "id": "cc2e1207881a",
+      "title": "Agency Information Collection Activities; Submission for OMB Review; Comment Request; Extension: Rule 15c2-5",
+      "url": "https://www.federalregister.gov/documents/2026/03/23/2026-05552/agency-information-collection-activities-submission-for-omb-review-comment-request-extension-rule",
+      "date": "2026-03-23",
+      "description": "",
+      "source": "national-securities-exchanges"
+    },
     {
       "id": "d57f4e766dc3",
       "title": "Self-Regulatory Organizations; NYSE American LLC; Notice of Filing of Proposed Change To Amend Section 1003 of the NYSE American Company Guide",
@@ -191,62 +231,6 @@
       "title": "Self-Regulatory Organizations; National Securities Clearing Corporation; Notice of Filing of Proposed Rule Change Concerning New Transaction Reporting Capability for Members That Maintain Clearing Relationships With Another Member",
       "url": "https://www.federalregister.gov/documents/2026/03/06/2026-04411/self-regulatory-organizations-national-securities-clearing-corporation-notice-of-filing-of-proposed",
       "date": "2026-03-06",
-      "description": "",
-      "source": "national-securities-exchanges"
-    },
-    {
-      "id": "f8c7756acd40",
-      "title": "Program for Allocation of Regulatory Responsibilities Pursuant to Rule 17d-2; Order Approving and Declaring Effective a Proposed Plan for the Allocation of Regulatory Responsibilities Between the Financial Industry Regulatory Authority, Inc. and Texas Stock Exchange LLC",
-      "url": "https://www.federalregister.gov/documents/2026/03/06/2026-04410/program-for-allocation-of-regulatory-responsibilities-pursuant-to-rule-17d-2-order-approving-and",
-      "date": "2026-03-06",
-      "description": "",
-      "source": "finra"
-    },
-    {
-      "id": "22ab0d3494df",
-      "title": "Self-Regulatory Organizations; New York Stock Exchange LLC; Order Granting Approval of a Proposed Rule Change To Streamline and Modernize Rule 76",
-      "url": "https://www.federalregister.gov/documents/2026/03/05/2026-04341/self-regulatory-organizations-new-york-stock-exchange-llc-order-granting-approval-of-a-proposed-rule",
-      "date": "2026-03-05",
-      "description": "",
-      "source": "national-securities-exchanges"
-    },
-    {
-      "id": "1ba40f811128",
-      "title": "Agency Information Collection Activities; Submission for OMB Review; Comment Request; Extension: Rule 302",
-      "url": "https://www.federalregister.gov/documents/2026/03/04/2026-04234/agency-information-collection-activities-submission-for-omb-review-comment-request-extension-rule",
-      "date": "2026-03-04",
-      "description": "",
-      "source": "national-securities-exchanges"
-    },
-    {
-      "id": "9362ab5de44b",
-      "title": "Agency Information Collection Activities; Submission for OMB Review; Comment Request; Extension: Rule 19b-5 and Form PILOT",
-      "url": "https://www.federalregister.gov/documents/2026/03/04/2026-04228/agency-information-collection-activities-submission-for-omb-review-comment-request-extension-rule",
-      "date": "2026-03-04",
-      "description": "",
-      "source": "national-securities-exchanges"
-    },
-    {
-      "id": "287a79adba3a",
-      "title": "Self-Regulatory Organizations; Nasdaq BX, Inc.; Notice of Filing of Amendment Nos. 1 and 2 and Order Granting Accelerated Approval of a Proposed Rule Change, as Modified by Amendment Nos. 1 and 2, To Remove Existing Listing Rules and Establish New Listing Standards",
-      "url": "https://www.federalregister.gov/documents/2026/03/04/2026-04224/self-regulatory-organizations-nasdaq-bx-inc-notice-of-filing-of-amendment-nos-1-and-2-and-order",
-      "date": "2026-03-04",
-      "description": "",
-      "source": "national-securities-exchanges"
-    },
-    {
-      "id": "9fcea3b33b51",
-      "title": "Self-Regulatory Organizations; MIAX Sapphire, LLC; Order Approving Proposed Rule Change, as Modified by Amendment No. 1, To Amend Exchange Rule 527 (Exchange Liability)",
-      "url": "https://www.federalregister.gov/documents/2026/03/04/2026-04219/self-regulatory-organizations-miax-sapphire-llc-order-approving-proposed-rule-change-as-modified-by",
-      "date": "2026-03-04",
-      "description": "",
-      "source": "national-securities-exchanges"
-    },
-    {
-      "id": "3c885458d2dd",
-      "title": "Agency Information Collection Activities; Proposed Collection; Comment Request; Extension: Rule 104",
-      "url": "https://www.federalregister.gov/documents/2026/03/03/2026-04149/agency-information-collection-activities-proposed-collection-comment-request-extension-rule-104",
-      "date": "2026-03-03",
       "description": "",
       "source": "national-securities-exchanges"
     }
