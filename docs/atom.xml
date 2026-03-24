@@ -2,29 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://github.com/edwinhu/sec-sro-rss</id>
   <title>SEC Self-Regulatory Organization Rulemaking</title>
-  <updated>2026-03-24T06:54:08.398538+00:00</updated>
+  <updated>2026-03-24T12:51:12.252988+00:00</updated>
   <link href="https://www.sec.gov/rules-regulations/self-regulatory-organization-rulemaking" rel="alternate"/>
   <link href="https://edwinhu.github.io/sec-sro-rss/feed.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Filtered SEC SRO filings (excludes immediate effectiveness notices and crypto)</subtitle>
-  <entry>
-    <id>https://www.federalregister.gov/documents/2026/03/06/2026-04411/self-regulatory-organizations-national-securities-clearing-corporation-notice-of-filing-of-proposed</id>
-    <title>Self-Regulatory Organizations; National Securities Clearing Corporation; Notice of Filing of Proposed Rule Change Concerning New Transaction Reporting Capability for Members That Maintain Clearing Relationships With Another Member</title>
-    <updated>2026-03-06T00:00:00+00:00</updated>
-    <content>Source: National Securities Exchanges
-Date: 2026-03-06</content>
-    <link href="https://www.federalregister.gov/documents/2026/03/06/2026-04411/self-regulatory-organizations-national-securities-clearing-corporation-notice-of-filing-of-proposed"/>
-    <published>2026-03-06T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.federalregister.gov/documents/2026/03/06/2026-04413/self-regulatory-organizations-the-nasdaq-stock-market-llc-notice-of-filing-of-proposed-rule-change</id>
-    <title>Self-Regulatory Organizations; The Nasdaq Stock Market LLC; Notice of Filing of Proposed Rule Change To Adopt Listing Rule IM-5101-4</title>
-    <updated>2026-03-06T00:00:00+00:00</updated>
-    <content>Source: National Securities Exchanges
-Date: 2026-03-06</content>
-    <link href="https://www.federalregister.gov/documents/2026/03/06/2026-04413/self-regulatory-organizations-the-nasdaq-stock-market-llc-notice-of-filing-of-proposed-rule-change"/>
-    <published>2026-03-06T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>https://www.federalregister.gov/documents/2026/03/11/2026-04706/self-regulatory-organizations-notice-of-filing-of-a-proposed-rule-change-by-miax-sapphire-llc-to</id>
     <title>Self-Regulatory Organizations: Notice of Filing of a Proposed Rule Change by MIAX Sapphire, LLC To Amend the By-Laws To Establish the Role of Observers</title>
@@ -267,5 +249,32 @@ Date: 2026-03-23</content>
 Date: 2026-03-23</content>
     <link href="https://www.federalregister.gov/documents/2026/03/23/2026-05563/self-regulatory-organizations-the-nasdaq-stock-market-llc-order-approving-a-proposed-rule-change-as"/>
     <published>2026-03-23T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.federalregister.gov/documents/2026/03/24/2026-05659/self-regulatory-organizations-cboe-exchange-inc-order-approving-a-proposed-rule-change-to-permit</id>
+    <title>Self-Regulatory Organizations; Cboe Exchange, Inc.; Order Approving a Proposed Rule Change To Permit Orders for the Accounts of Market-Makers With an Appointment in the Applicable Class To Be Solicited as the Contra-Side Order Submitted Into Certain Exchange Auctions</title>
+    <updated>2026-03-24T00:00:00+00:00</updated>
+    <content>Source: National Securities Exchanges
+Date: 2026-03-24</content>
+    <link href="https://www.federalregister.gov/documents/2026/03/24/2026-05659/self-regulatory-organizations-cboe-exchange-inc-order-approving-a-proposed-rule-change-to-permit"/>
+    <published>2026-03-24T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.federalregister.gov/documents/2026/03/24/2026-05660/self-regulatory-organizations-cboe-edgx-exchange-inc-order-granting-accelerated-approval-of-a</id>
+    <title>Self-Regulatory Organizations; Cboe EDGX Exchange, Inc.; Order Granting Accelerated Approval of a Proposed Rule Change, as Modified by Amendment Nos. 3 and 4, To Modify EDGX Rule 11.21 To Adopt a Retail Price Improvement Program and Modify EDGX Rule 11.6(e)(2) and EDGX Rule 11.10(a)(4)(C)-(D) in Order To Describe the Behavior of Orders Containing a Non-Displayed Instruction; and Order Granting Limited Exemption Pursuant to Rule 612(d) of Regulation NMS</title>
+    <updated>2026-03-24T00:00:00+00:00</updated>
+    <content>Source: National Securities Exchanges
+Date: 2026-03-24</content>
+    <link href="https://www.federalregister.gov/documents/2026/03/24/2026-05660/self-regulatory-organizations-cboe-edgx-exchange-inc-order-granting-accelerated-approval-of-a"/>
+    <published>2026-03-24T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.federalregister.gov/documents/2026/03/24/2026-05661/self-regulatory-organizations-miax-pearl-llc-order-granting-approval-of-a-proposed-rule-change-to</id>
+    <title>Self-Regulatory Organizations; MIAX PEARL, LLC; Order Granting Approval of a Proposed Rule Change To Allow Post Only Orders in Sub-Dollar Securities</title>
+    <updated>2026-03-24T00:00:00+00:00</updated>
+    <content>Source: National Securities Exchanges
+Date: 2026-03-24</content>
+    <link href="https://www.federalregister.gov/documents/2026/03/24/2026-05661/self-regulatory-organizations-miax-pearl-llc-order-granting-approval-of-a-proposed-rule-change-to"/>
+    <published>2026-03-24T00:00:00+00:00</published>
   </entry>
 </feed>
