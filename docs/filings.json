@@ -1,7 +1,31 @@
 {
-  "updated": "2026-03-25T06:53:01.709054+00:00",
-  "count": 30,
+  "updated": "2026-03-25T12:45:41.346289+00:00",
+  "count": 33,
   "filings": [
+    {
+      "id": "817eae8532cb",
+      "title": "Self-Regulatory Organizations; Cboe Exchange, Inc.; Suspension of and Order Instituting Proceedings To Determine Whether To Approve or Disapprove a Proposed Rule Change To Adopt Rule 8.23",
+      "url": "https://www.federalregister.gov/documents/2026/03/25/2026-05762/self-regulatory-organizations-cboe-exchange-inc-suspension-of-and-order-instituting-proceedings-to",
+      "date": "2026-03-25",
+      "description": "",
+      "source": "national-securities-exchanges"
+    },
+    {
+      "id": "eaaf3ce40a5c",
+      "title": "Self-Regulatory Organizations; NYSE American LLC; Notice of Designation of a Longer Period for Commission Action on a Proposed Rule Change To Amend the Initial Listing Standards Set Forth in Sections 101 and 102 of the NYSE American Company Guide",
+      "url": "https://www.federalregister.gov/documents/2026/03/25/2026-05761/self-regulatory-organizations-nyse-american-llc-notice-of-designation-of-a-longer-period-for",
+      "date": "2026-03-25",
+      "description": "",
+      "source": "national-securities-exchanges"
+    },
+    {
+      "id": "2f8b3fe846fc",
+      "title": "Program for Allocation of Regulatory Responsibilities Pursuant to Rule 17d-2; Order Approving and Declaring Effective an Amended Plan for the Allocation of Regulatory Responsibilities Between the Financial Industry Regulatory Authority, Inc., MEMX LLC, and MX2 LLC",
+      "url": "https://www.federalregister.gov/documents/2026/03/25/2026-05757/program-for-allocation-of-regulatory-responsibilities-pursuant-to-rule-17d-2-order-approving-and",
+      "date": "2026-03-25",
+      "description": "",
+      "source": "finra"
+    },
     {
       "id": "1aad2c9cca6f",
       "title": "Self-Regulatory Organizations; MIAX PEARL, LLC; Order Granting Approval of a Proposed Rule Change To Allow Post Only Orders in Sub-Dollar Securities",

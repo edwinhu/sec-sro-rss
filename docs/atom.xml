@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://github.com/edwinhu/sec-sro-rss</id>
   <title>SEC Self-Regulatory Organization Rulemaking</title>
-  <updated>2026-03-25T06:53:01.691379+00:00</updated>
+  <updated>2026-03-25T12:45:41.335875+00:00</updated>
   <link href="https://www.sec.gov/rules-regulations/self-regulatory-organization-rulemaking" rel="alternate"/>
   <link href="https://edwinhu.github.io/sec-sro-rss/feed.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -276,5 +276,32 @@ Date: 2026-03-24</content>
 Date: 2026-03-24</content>
     <link href="https://www.federalregister.gov/documents/2026/03/24/2026-05661/self-regulatory-organizations-miax-pearl-llc-order-granting-approval-of-a-proposed-rule-change-to"/>
     <published>2026-03-24T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.federalregister.gov/documents/2026/03/25/2026-05757/program-for-allocation-of-regulatory-responsibilities-pursuant-to-rule-17d-2-order-approving-and</id>
+    <title>Program for Allocation of Regulatory Responsibilities Pursuant to Rule 17d-2; Order Approving and Declaring Effective an Amended Plan for the Allocation of Regulatory Responsibilities Between the Financial Industry Regulatory Authority, Inc., MEMX LLC, and MX2 LLC</title>
+    <updated>2026-03-25T00:00:00+00:00</updated>
+    <content>Source: Finra
+Date: 2026-03-25</content>
+    <link href="https://www.federalregister.gov/documents/2026/03/25/2026-05757/program-for-allocation-of-regulatory-responsibilities-pursuant-to-rule-17d-2-order-approving-and"/>
+    <published>2026-03-25T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.federalregister.gov/documents/2026/03/25/2026-05761/self-regulatory-organizations-nyse-american-llc-notice-of-designation-of-a-longer-period-for</id>
+    <title>Self-Regulatory Organizations; NYSE American LLC; Notice of Designation of a Longer Period for Commission Action on a Proposed Rule Change To Amend the Initial Listing Standards Set Forth in Sections 101 and 102 of the NYSE American Company Guide</title>
+    <updated>2026-03-25T00:00:00+00:00</updated>
+    <content>Source: National Securities Exchanges
+Date: 2026-03-25</content>
+    <link href="https://www.federalregister.gov/documents/2026/03/25/2026-05761/self-regulatory-organizations-nyse-american-llc-notice-of-designation-of-a-longer-period-for"/>
+    <published>2026-03-25T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.federalregister.gov/documents/2026/03/25/2026-05762/self-regulatory-organizations-cboe-exchange-inc-suspension-of-and-order-instituting-proceedings-to</id>
+    <title>Self-Regulatory Organizations; Cboe Exchange, Inc.; Suspension of and Order Instituting Proceedings To Determine Whether To Approve or Disapprove a Proposed Rule Change To Adopt Rule 8.23</title>
+    <updated>2026-03-25T00:00:00+00:00</updated>
+    <content>Source: National Securities Exchanges
+Date: 2026-03-25</content>
+    <link href="https://www.federalregister.gov/documents/2026/03/25/2026-05762/self-regulatory-organizations-cboe-exchange-inc-suspension-of-and-order-instituting-proceedings-to"/>
+    <published>2026-03-25T00:00:00+00:00</published>
   </entry>
 </feed>
