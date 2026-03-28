@@ -2,29 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://github.com/edwinhu/sec-sro-rss</id>
   <title>SEC Self-Regulatory Organization Rulemaking</title>
-  <updated>2026-03-27T18:44:08.342110+00:00</updated>
+  <updated>2026-03-28T01:19:30.121821+00:00</updated>
   <link href="https://www.sec.gov/rules-regulations/self-regulatory-organization-rulemaking" rel="alternate"/>
   <link href="https://edwinhu.github.io/sec-sro-rss/feed.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Filtered SEC SRO filings (excludes immediate effectiveness notices and crypto)</subtitle>
-  <entry>
-    <id>https://www.federalregister.gov/documents/2026/03/11/2026-04781/notice-of-request-for-exemptive-relief-pursuant-to-section-36a-of-the-securities-exchange-act-of</id>
-    <title>Notice of Request for Exemptive Relief, Pursuant to Section 36(a) of the Securities Exchange Act of 1934, From Certain Aspects of Rule 17ad-22(e)(18)(iv) of the Securities Exchange Act of 1934 and Request for Comment</title>
-    <updated>2026-03-11T00:00:00+00:00</updated>
-    <content>Source: National Securities Exchanges
-Date: 2026-03-11</content>
-    <link href="https://www.federalregister.gov/documents/2026/03/11/2026-04781/notice-of-request-for-exemptive-relief-pursuant-to-section-36a-of-the-securities-exchange-act-of"/>
-    <published>2026-03-11T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.federalregister.gov/documents/2026/03/12/2026-04800/self-regulatory-organizations-cme-securities-clearing-inc-notice-of-filing-of-proposed-rule-change</id>
-    <title>Self-Regulatory Organizations; CME Securities Clearing Inc.; Notice of Filing of Proposed Rule Change To Modify the CME Securities Clearing Inc. Amended and Restated By-Laws, Board of Directors Charter, Risk Management Committee Charter, Nominating Committee Charter, and Audit Committee Charter</title>
-    <updated>2026-03-12T00:00:00+00:00</updated>
-    <content>Source: National Securities Exchanges
-Date: 2026-03-12</content>
-    <link href="https://www.federalregister.gov/documents/2026/03/12/2026-04800/self-regulatory-organizations-cme-securities-clearing-inc-notice-of-filing-of-proposed-rule-change"/>
-    <published>2026-03-12T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>https://www.federalregister.gov/documents/2026/03/12/2026-04808/self-regulatory-organizations-fixed-income-clearing-corporation-order-approving-proposed-rule-change</id>
     <title>Self-Regulatory Organizations; Fixed Income Clearing Corporation; Order Approving Proposed Rule Change To Enhance the Correlation Calculation for Bond Haircut Models and Make Other Changes</title>
