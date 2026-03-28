@@ -2,47 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://github.com/edwinhu/sec-sro-rss</id>
   <title>SEC Self-Regulatory Organization Rulemaking</title>
-  <updated>2026-03-28T12:35:06.463105+00:00</updated>
+  <updated>2026-03-28T18:28:07.477741+00:00</updated>
   <link href="https://www.sec.gov/rules-regulations/self-regulatory-organization-rulemaking" rel="alternate"/>
   <link href="https://edwinhu.github.io/sec-sro-rss/feed.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Filtered SEC SRO filings (excludes immediate effectiveness notices and crypto)</subtitle>
-  <entry>
-    <id>https://www.federalregister.gov/documents/2026/03/12/2026-04808/self-regulatory-organizations-fixed-income-clearing-corporation-order-approving-proposed-rule-change</id>
-    <title>Self-Regulatory Organizations; Fixed Income Clearing Corporation; Order Approving Proposed Rule Change To Enhance the Correlation Calculation for Bond Haircut Models and Make Other Changes</title>
-    <updated>2026-03-12T00:00:00+00:00</updated>
-    <content>Source: National Securities Exchanges
-Date: 2026-03-12</content>
-    <link href="https://www.federalregister.gov/documents/2026/03/12/2026-04808/self-regulatory-organizations-fixed-income-clearing-corporation-order-approving-proposed-rule-change"/>
-    <published>2026-03-12T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.federalregister.gov/documents/2026/03/12/2026-04809/self-regulatory-organizations-cboe-exchange-inc-notice-of-designation-of-a-longer-period-for</id>
-    <title>Self-Regulatory Organizations; Cboe Exchange, Inc.; Notice of Designation of a Longer Period for Commission Action on a Proposed Rule Change To Amend Rules 4.13 and 5.1 To Permit Options on the Dow Jones Industrial Average Index To Be P.M.-Settled</title>
-    <updated>2026-03-12T00:00:00+00:00</updated>
-    <content>Source: National Securities Exchanges
-Date: 2026-03-12</content>
-    <link href="https://www.federalregister.gov/documents/2026/03/12/2026-04809/self-regulatory-organizations-cboe-exchange-inc-notice-of-designation-of-a-longer-period-for"/>
-    <published>2026-03-12T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.federalregister.gov/documents/2026/03/12/2026-04810/self-regulatory-organizations-fixed-income-clearing-corporation-notice-of-filing-of-advance-notice</id>
-    <title>Self-Regulatory Organizations; Fixed Income Clearing Corporation; Notice of Filing of Advance Notice To Raise Prefunded Default Liquidity Through the Commercial Paper Program</title>
-    <updated>2026-03-12T00:00:00+00:00</updated>
-    <content>Source: National Securities Exchanges
-Date: 2026-03-12</content>
-    <link href="https://www.federalregister.gov/documents/2026/03/12/2026-04810/self-regulatory-organizations-fixed-income-clearing-corporation-notice-of-filing-of-advance-notice"/>
-    <published>2026-03-12T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.federalregister.gov/documents/2026/03/13/2026-04893/self-regulatory-organizations-cboe-bzx-exchange-inc-notice-of-designation-of-a-longer-period-for</id>
-    <title>Self-Regulatory Organizations; Cboe BZX Exchange, Inc.; Notice of Designation of a Longer Period for Commission Action on a Proposed Rule Change To Amend Rule 14.11(j) Regarding Information Circular for UTP Derivative Security</title>
-    <updated>2026-03-13T00:00:00+00:00</updated>
-    <content>Source: National Securities Exchanges
-Date: 2026-03-13</content>
-    <link href="https://www.federalregister.gov/documents/2026/03/13/2026-04893/self-regulatory-organizations-cboe-bzx-exchange-inc-notice-of-designation-of-a-longer-period-for"/>
-    <published>2026-03-13T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>https://www.federalregister.gov/documents/2026/03/13/2026-04959/agency-information-collection-activities-submission-for-omb-review-comment-request-extension-rule</id>
     <title>Agency Information Collection Activities; Submission for OMB Review; Comment Request; Extension: Rule 19b-4 and Form 19b-4</title>
@@ -294,5 +258,50 @@ Date: 2026-03-26</content>
 Date: 2026-03-26</content>
     <link href="https://www.federalregister.gov/documents/2026/03/26/2026-05851/self-regulatory-organizations-lch-sa-notice-of-filing-of-proposed-rule-change-relating-to-the-cds"/>
     <published>2026-03-26T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.federalregister.gov/documents/2026/03/30/2026-06034/agency-information-collection-activities-submission-for-omb-review-comment-request-extension</id>
+    <title>Agency Information Collection Activities; Submission for OMB Review; Comment Request; Extension: Ombudsman Matter Management System (OMMS) Form</title>
+    <updated>2026-03-30T00:00:00+00:00</updated>
+    <content>Source: National Securities Exchanges
+Date: 2026-03-30</content>
+    <link href="https://www.federalregister.gov/documents/2026/03/30/2026-06034/agency-information-collection-activities-submission-for-omb-review-comment-request-extension"/>
+    <published>2026-03-30T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.federalregister.gov/documents/2026/03/30/2026-06035/agency-information-collection-activities-submission-for-omb-review-comment-request-extension-rule</id>
+    <title>Agency Information Collection Activities; Submission for OMB Review; Comment Request; Extension: Rule 201 and Rule 200(g) of Regulation SHO</title>
+    <updated>2026-03-30T00:00:00+00:00</updated>
+    <content>Source: National Securities Exchanges
+Date: 2026-03-30</content>
+    <link href="https://www.federalregister.gov/documents/2026/03/30/2026-06035/agency-information-collection-activities-submission-for-omb-review-comment-request-extension-rule"/>
+    <published>2026-03-30T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.federalregister.gov/documents/2026/03/30/2026-06041/self-regulatory-organizations-cboe-exchange-inc-notice-of-designation-of-a-longer-period-for</id>
+    <title>Self-Regulatory Organizations; Cboe Exchange, Inc.; Notice of Designation of a Longer Period for Commission Action on a Proposed Rule Change To Amend Its Rules Relating to Designated Primary Market-Makers (“DPMs”) and DPM Appointments in Global Trading Hours and Curb Sessions</title>
+    <updated>2026-03-30T00:00:00+00:00</updated>
+    <content>Source: National Securities Exchanges
+Date: 2026-03-30</content>
+    <link href="https://www.federalregister.gov/documents/2026/03/30/2026-06041/self-regulatory-organizations-cboe-exchange-inc-notice-of-designation-of-a-longer-period-for"/>
+    <published>2026-03-30T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.federalregister.gov/documents/2026/03/30/2026-06043/self-regulatory-organizations-national-securities-clearing-corporation-notice-of-filing-of-proposed</id>
+    <title>Self-Regulatory Organizations; National Securities Clearing Corporation; Notice of Filing of Proposed Rule Change Concerning a New Customer Net Margin Account Option for Agent Clearing Members in the Securities Financing Transaction Clearing Service</title>
+    <updated>2026-03-30T00:00:00+00:00</updated>
+    <content>Source: National Securities Exchanges
+Date: 2026-03-30</content>
+    <link href="https://www.federalregister.gov/documents/2026/03/30/2026-06043/self-regulatory-organizations-national-securities-clearing-corporation-notice-of-filing-of-proposed"/>
+    <published>2026-03-30T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.federalregister.gov/documents/2026/03/30/2026-06044/self-regulatory-organizations-cboe-exchange-inc-notice-of-filing-of-amendment-no-1-and-order</id>
+    <title>Self-Regulatory Organizations; Cboe Exchange, Inc.; Notice of Filing of Amendment No. 1 and Order Granting Accelerated Approval of a Proposed Rule Change, as Modified and Superseded by Amendment No. 1, To Amend Functionality Relating to the Processing of Auction Responses</title>
+    <updated>2026-03-30T00:00:00+00:00</updated>
+    <content>Source: National Securities Exchanges
+Date: 2026-03-30</content>
+    <link href="https://www.federalregister.gov/documents/2026/03/30/2026-06044/self-regulatory-organizations-cboe-exchange-inc-notice-of-filing-of-amendment-no-1-and-order"/>
+    <published>2026-03-30T00:00:00+00:00</published>
   </entry>
 </feed>
