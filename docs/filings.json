@@ -1,7 +1,15 @@
 {
-  "updated": "2026-03-31T07:02:45.209076+00:00",
+  "updated": "2026-03-31T12:56:17.697838+00:00",
   "count": 33,
   "filings": [
+    {
+      "id": "4975ef4bcfbe",
+      "title": "Self-Regulatory Organizations; Nasdaq MRX, LLC; Notice of Filing of a Proposed Rule Change To Adopt Extended Trading Hours for Eligible Equity and Index Options",
+      "url": "https://www.federalregister.gov/documents/2026/03/31/2026-06153/self-regulatory-organizations-nasdaq-mrx-llc-notice-of-filing-of-a-proposed-rule-change-to-adopt",
+      "date": "2026-03-31",
+      "description": "",
+      "source": "national-securities-exchanges"
+    },
     {
       "id": "58fba8484365",
       "title": "Self-Regulatory Organizations; Cboe Exchange, Inc.; Notice of Filing of Amendment No. 1 and Order Granting Accelerated Approval of a Proposed Rule Change, as Modified and Superseded by Amendment No. 1, To Amend Functionality Relating to the Processing of Auction Responses",
@@ -255,14 +263,6 @@
       "title": "Self-Regulatory Organizations; Cboe Futures Exchange, LLC; Notice of a Filing of a Proposed Rule Change Regarding Exchange of Contract for Related Position and Block Trade Order Recordkeeping Requirements",
       "url": "https://www.federalregister.gov/documents/2026/03/16/2026-05016/self-regulatory-organizations-cboe-futures-exchange-llc-notice-of-a-filing-of-a-proposed-rule-change",
       "date": "2026-03-16",
-      "description": "",
-      "source": "national-securities-exchanges"
-    },
-    {
-      "id": "6448216b5e6d",
-      "title": "Agency Information Collection Activities; Submission for OMB Review; Comment Request; Extension: Rule 19b-4 and Form 19b-4",
-      "url": "https://www.federalregister.gov/documents/2026/03/13/2026-04959/agency-information-collection-activities-submission-for-omb-review-comment-request-extension-rule",
-      "date": "2026-03-13",
       "description": "",
       "source": "national-securities-exchanges"
     }

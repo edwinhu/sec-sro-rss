@@ -2,20 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://github.com/edwinhu/sec-sro-rss</id>
   <title>SEC Self-Regulatory Organization Rulemaking</title>
-  <updated>2026-03-31T07:02:45.174184+00:00</updated>
+  <updated>2026-03-31T12:56:17.682667+00:00</updated>
   <link href="https://www.sec.gov/rules-regulations/self-regulatory-organization-rulemaking" rel="alternate"/>
   <link href="https://edwinhu.github.io/sec-sro-rss/feed.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Filtered SEC SRO filings (excludes immediate effectiveness notices and crypto)</subtitle>
-  <entry>
-    <id>https://www.federalregister.gov/documents/2026/03/13/2026-04959/agency-information-collection-activities-submission-for-omb-review-comment-request-extension-rule</id>
-    <title>Agency Information Collection Activities; Submission for OMB Review; Comment Request; Extension: Rule 19b-4 and Form 19b-4</title>
-    <updated>2026-03-13T00:00:00+00:00</updated>
-    <content>Source: National Securities Exchanges
-Date: 2026-03-13</content>
-    <link href="https://www.federalregister.gov/documents/2026/03/13/2026-04959/agency-information-collection-activities-submission-for-omb-review-comment-request-extension-rule"/>
-    <published>2026-03-13T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>https://www.federalregister.gov/documents/2026/03/16/2026-05016/self-regulatory-organizations-cboe-futures-exchange-llc-notice-of-a-filing-of-a-proposed-rule-change</id>
     <title>Self-Regulatory Organizations; Cboe Futures Exchange, LLC; Notice of a Filing of a Proposed Rule Change Regarding Exchange of Contract for Related Position and Block Trade Order Recordkeeping Requirements</title>
@@ -303,5 +294,14 @@ Date: 2026-03-30</content>
 Date: 2026-03-30</content>
     <link href="https://www.federalregister.gov/documents/2026/03/30/2026-06044/self-regulatory-organizations-cboe-exchange-inc-notice-of-filing-of-amendment-no-1-and-order"/>
     <published>2026-03-30T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.federalregister.gov/documents/2026/03/31/2026-06153/self-regulatory-organizations-nasdaq-mrx-llc-notice-of-filing-of-a-proposed-rule-change-to-adopt</id>
+    <title>Self-Regulatory Organizations; Nasdaq MRX, LLC; Notice of Filing of a Proposed Rule Change To Adopt Extended Trading Hours for Eligible Equity and Index Options</title>
+    <updated>2026-03-31T00:00:00+00:00</updated>
+    <content>Source: National Securities Exchanges
+Date: 2026-03-31</content>
+    <link href="https://www.federalregister.gov/documents/2026/03/31/2026-06153/self-regulatory-organizations-nasdaq-mrx-llc-notice-of-filing-of-a-proposed-rule-change-to-adopt"/>
+    <published>2026-03-31T00:00:00+00:00</published>
   </entry>
 </feed>
