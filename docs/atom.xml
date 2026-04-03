@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://github.com/edwinhu/sec-sro-rss</id>
   <title>SEC Self-Regulatory Organization Rulemaking</title>
-  <updated>2026-04-03T06:58:52.829381+00:00</updated>
+  <updated>2026-04-03T12:41:47.035038+00:00</updated>
   <link href="https://www.sec.gov/rules-regulations/self-regulatory-organization-rulemaking" rel="alternate"/>
   <link href="https://edwinhu.github.io/sec-sro-rss/feed.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -267,5 +267,41 @@ Date: 2026-04-01</content>
 Date: 2026-04-01</content>
     <link href="https://www.federalregister.gov/documents/2026/04/01/2026-06255/joint-industry-plan-order-approving-an-amendment-to-the-national-market-system-plan-governing-the"/>
     <published>2026-04-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.federalregister.gov/documents/2026/04/03/2026-06463/joint-industry-plan-notice-of-filing-of-amendment-no-1-and-order-instituting-proceedings-to</id>
+    <title>Joint Industry Plan; Notice of Filing of Amendment No. 1, and Order Instituting Proceedings To Determine Whether To Approve or Disapprove an Amendment to the National Market System Plan Regarding Consolidated Equity Market Data, as Modified by Amendment No. 1, To Adopt a Fee Schedule</title>
+    <updated>2026-04-03T00:00:00+00:00</updated>
+    <content>Source: National Securities Exchanges
+Date: 2026-04-03</content>
+    <link href="https://www.federalregister.gov/documents/2026/04/03/2026-06463/joint-industry-plan-notice-of-filing-of-amendment-no-1-and-order-instituting-proceedings-to"/>
+    <published>2026-04-03T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.federalregister.gov/documents/2026/04/03/2026-06469/self-regulatory-organizations-box-exchange-llc-notice-of-filing-of-proposed-rule-change-to-amend-box</id>
+    <title>Self-Regulatory Organizations; BOX Exchange LLC; Notice of Filing of Proposed Rule Change To Amend BOX Rules 5055 (FLEX Equity Options) and 3120 (Position Limits)</title>
+    <updated>2026-04-03T00:00:00+00:00</updated>
+    <content>Source: National Securities Exchanges
+Date: 2026-04-03</content>
+    <link href="https://www.federalregister.gov/documents/2026/04/03/2026-06469/self-regulatory-organizations-box-exchange-llc-notice-of-filing-of-proposed-rule-change-to-amend-box"/>
+    <published>2026-04-03T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.federalregister.gov/documents/2026/04/03/2026-06474/self-regulatory-organizations-cboe-bzx-exchange-inc-notice-of-filing-of-amendment-no-1-and-order</id>
+    <title>Self-Regulatory Organizations; Cboe BZX Exchange, Inc.; Notice of Filing of Amendment No. 1 and Order Granting Accelerated Approval of a Proposed Rule Change, as Modified by Amendment No. 1, To Amend the Definition of “Indicative Price” Under Exchange Rule 11.23(a)(10) and Amend Exchange Rule 11.23(d)(2)(B) (Extending the Quote-Only Period for Initial Public Offering (“IPO”) Auctions)</title>
+    <updated>2026-04-03T00:00:00+00:00</updated>
+    <content>Source: National Securities Exchanges
+Date: 2026-04-03</content>
+    <link href="https://www.federalregister.gov/documents/2026/04/03/2026-06474/self-regulatory-organizations-cboe-bzx-exchange-inc-notice-of-filing-of-amendment-no-1-and-order"/>
+    <published>2026-04-03T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.federalregister.gov/documents/2026/04/03/2026-06475/self-regulatory-organizations-cboe-exchange-inc-notice-of-filing-of-amendment-no-1-and-order</id>
+    <title>Self-Regulatory Organizations; Cboe Exchange, Inc.; Notice of Filing of Amendment No. 1 and Order Granting Accelerated Approval of a Proposed Rule Change, as Modified by Amendment No. 1, To Amend Cboe Rule 5.4</title>
+    <updated>2026-04-03T00:00:00+00:00</updated>
+    <content>Source: National Securities Exchanges
+Date: 2026-04-03</content>
+    <link href="https://www.federalregister.gov/documents/2026/04/03/2026-06475/self-regulatory-organizations-cboe-exchange-inc-notice-of-filing-of-amendment-no-1-and-order"/>
+    <published>2026-04-03T00:00:00+00:00</published>
   </entry>
 </feed>

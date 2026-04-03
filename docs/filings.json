@@ -1,7 +1,39 @@
 {
-  "updated": "2026-04-03T06:58:52.839451+00:00",
-  "count": 29,
+  "updated": "2026-04-03T12:41:47.047985+00:00",
+  "count": 33,
   "filings": [
+    {
+      "id": "fecf5e5aa3fa",
+      "title": "Self-Regulatory Organizations; Cboe Exchange, Inc.; Notice of Filing of Amendment No. 1 and Order Granting Accelerated Approval of a Proposed Rule Change, as Modified by Amendment No. 1, To Amend Cboe Rule 5.4",
+      "url": "https://www.federalregister.gov/documents/2026/04/03/2026-06475/self-regulatory-organizations-cboe-exchange-inc-notice-of-filing-of-amendment-no-1-and-order",
+      "date": "2026-04-03",
+      "description": "",
+      "source": "national-securities-exchanges"
+    },
+    {
+      "id": "8db16eaa4f15",
+      "title": "Self-Regulatory Organizations; Cboe BZX Exchange, Inc.; Notice of Filing of Amendment No. 1 and Order Granting Accelerated Approval of a Proposed Rule Change, as Modified by Amendment No. 1, To Amend the Definition of \u201cIndicative Price\u201d Under Exchange Rule 11.23(a)(10) and Amend Exchange Rule 11.23(d)(2)(B) (Extending the Quote-Only Period for Initial Public Offering (\u201cIPO\u201d) Auctions)",
+      "url": "https://www.federalregister.gov/documents/2026/04/03/2026-06474/self-regulatory-organizations-cboe-bzx-exchange-inc-notice-of-filing-of-amendment-no-1-and-order",
+      "date": "2026-04-03",
+      "description": "",
+      "source": "national-securities-exchanges"
+    },
+    {
+      "id": "8217a568b24b",
+      "title": "Self-Regulatory Organizations; BOX Exchange LLC; Notice of Filing of Proposed Rule Change To Amend BOX Rules 5055 (FLEX Equity Options) and 3120 (Position Limits)",
+      "url": "https://www.federalregister.gov/documents/2026/04/03/2026-06469/self-regulatory-organizations-box-exchange-llc-notice-of-filing-of-proposed-rule-change-to-amend-box",
+      "date": "2026-04-03",
+      "description": "",
+      "source": "national-securities-exchanges"
+    },
+    {
+      "id": "7ade7ccc6805",
+      "title": "Joint Industry Plan; Notice of Filing of Amendment No. 1, and Order Instituting Proceedings To Determine Whether To Approve or Disapprove an Amendment to the National Market System Plan Regarding Consolidated Equity Market Data, as Modified by Amendment No. 1, To Adopt a Fee Schedule",
+      "url": "https://www.federalregister.gov/documents/2026/04/03/2026-06463/joint-industry-plan-notice-of-filing-of-amendment-no-1-and-order-instituting-proceedings-to",
+      "date": "2026-04-03",
+      "description": "",
+      "source": "national-securities-exchanges"
+    },
     {
       "id": "a7bd809472d0",
       "title": "Joint Industry Plan; Order Approving an Amendment to the National Market System Plan Governing the Consolidated Audit Trail, as Modified by the Commission, To Further Reduce the Costs of the Consolidated Audit Trail",
