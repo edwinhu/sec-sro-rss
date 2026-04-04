@@ -8,15 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 04 Apr 2026 06:49:39 +0000</lastBuildDate>
-    <item>
-      <title>Joint Industry Plan; Order Approving an Amendment to the National Market System Plan Governing the Consolidated Audit Trail, as Modified by the Commission, Regarding Implementation of a Revised Funding Model</title>
-      <link>https://www.federalregister.gov/documents/2026/03/19/2026-05350/joint-industry-plan-order-approving-an-amendment-to-the-national-market-system-plan-governing-the</link>
-      <description>Source: National Securities Exchanges
-Date: 2026-03-19</description>
-      <guid isPermaLink="false">https://www.federalregister.gov/documents/2026/03/19/2026-05350/joint-industry-plan-order-approving-an-amendment-to-the-national-market-system-plan-governing-the</guid>
-      <pubDate>Thu, 19 Mar 2026 00:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 04 Apr 2026 12:34:49 +0000</lastBuildDate>
     <item>
       <title>Self-Regulatory Organizations; The Nasdaq Stock Market LLC; Notice of Filing of Proposed Rule Change To List and Trade Shares of the VanEck JitoSOL ETF Under Nasdaq Rule 5711(d) (Commodity-Based Trust Shares)</title>
       <link>https://www.federalregister.gov/documents/2026/03/20/2026-05475/self-regulatory-organizations-the-nasdaq-stock-market-llc-notice-of-filing-of-proposed-rule-change</link>
@@ -272,6 +264,22 @@ Date: 2026-04-03</description>
 Date: 2026-04-03</description>
       <guid isPermaLink="false">https://www.federalregister.gov/documents/2026/04/03/2026-06475/self-regulatory-organizations-cboe-exchange-inc-notice-of-filing-of-amendment-no-1-and-order</guid>
       <pubDate>Fri, 03 Apr 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Self-Regulatory Organizations; NYSE American LLC; Order Approving a Proposed Rule Change To Amend Exchange Rule 915</title>
+      <link>https://www.federalregister.gov/documents/2026/04/06/2026-06567/self-regulatory-organizations-nyse-american-llc-order-approving-a-proposed-rule-change-to-amend</link>
+      <description>Source: National Securities Exchanges
+Date: 2026-04-06</description>
+      <guid isPermaLink="false">https://www.federalregister.gov/documents/2026/04/06/2026-06567/self-regulatory-organizations-nyse-american-llc-order-approving-a-proposed-rule-change-to-amend</guid>
+      <pubDate>Mon, 06 Apr 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Self-Regulatory Organizations; NYSE Arca, Inc.; Order Approving a Proposed Rule Change To Amend Exchange Rule 5.3-O</title>
+      <link>https://www.federalregister.gov/documents/2026/04/06/2026-06568/self-regulatory-organizations-nyse-arca-inc-order-approving-a-proposed-rule-change-to-amend-exchange</link>
+      <description>Source: National Securities Exchanges
+Date: 2026-04-06</description>
+      <guid isPermaLink="false">https://www.federalregister.gov/documents/2026/04/06/2026-06568/self-regulatory-organizations-nyse-arca-inc-order-approving-a-proposed-rule-change-to-amend-exchange</guid>
+      <pubDate>Mon, 06 Apr 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

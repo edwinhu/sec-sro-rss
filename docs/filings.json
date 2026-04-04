@@ -1,7 +1,23 @@
 {
-  "updated": "2026-04-04T06:49:39.316540+00:00",
-  "count": 33,
+  "updated": "2026-04-04T12:34:49.612093+00:00",
+  "count": 34,
   "filings": [
+    {
+      "id": "7e5c6864b74e",
+      "title": "Self-Regulatory Organizations; NYSE Arca, Inc.; Order Approving a Proposed Rule Change To Amend Exchange Rule 5.3-O",
+      "url": "https://www.federalregister.gov/documents/2026/04/06/2026-06568/self-regulatory-organizations-nyse-arca-inc-order-approving-a-proposed-rule-change-to-amend-exchange",
+      "date": "2026-04-06",
+      "description": "",
+      "source": "national-securities-exchanges"
+    },
+    {
+      "id": "dc55baae8a5a",
+      "title": "Self-Regulatory Organizations; NYSE American LLC; Order Approving a Proposed Rule Change To Amend Exchange Rule 915",
+      "url": "https://www.federalregister.gov/documents/2026/04/06/2026-06567/self-regulatory-organizations-nyse-american-llc-order-approving-a-proposed-rule-change-to-amend",
+      "date": "2026-04-06",
+      "description": "",
+      "source": "national-securities-exchanges"
+    },
     {
       "id": "fecf5e5aa3fa",
       "title": "Self-Regulatory Organizations; Cboe Exchange, Inc.; Notice of Filing of Amendment No. 1 and Order Granting Accelerated Approval of a Proposed Rule Change, as Modified by Amendment No. 1, To Amend Cboe Rule 5.4",
@@ -255,14 +271,6 @@
       "title": "Self-Regulatory Organizations; The Nasdaq Stock Market LLC; Notice of Filing of Proposed Rule Change To List and Trade Shares of the VanEck JitoSOL ETF Under Nasdaq Rule 5711(d) (Commodity-Based Trust Shares)",
       "url": "https://www.federalregister.gov/documents/2026/03/20/2026-05475/self-regulatory-organizations-the-nasdaq-stock-market-llc-notice-of-filing-of-proposed-rule-change",
       "date": "2026-03-20",
-      "description": "",
-      "source": "national-securities-exchanges"
-    },
-    {
-      "id": "0f25749ab0a1",
-      "title": "Joint Industry Plan; Order Approving an Amendment to the National Market System Plan Governing the Consolidated Audit Trail, as Modified by the Commission, Regarding Implementation of a Revised Funding Model",
-      "url": "https://www.federalregister.gov/documents/2026/03/19/2026-05350/joint-industry-plan-order-approving-an-amendment-to-the-national-market-system-plan-governing-the",
-      "date": "2026-03-19",
       "description": "",
       "source": "national-securities-exchanges"
     }
