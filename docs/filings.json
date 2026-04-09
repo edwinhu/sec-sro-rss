@@ -1,7 +1,15 @@
 {
-  "updated": "2026-04-09T07:11:44.730852+00:00",
-  "count": 34,
+  "updated": "2026-04-09T13:02:31.805242+00:00",
+  "count": 35,
   "filings": [
+    {
+      "id": "09756e8e6397",
+      "title": "Self-Regulatory Organizations; Cboe Exchange, Inc.; Notice of Filing of Amendment No. 1 to a Proposed Rule Change To Allow for Extended Trading of Multi-Listed Equity Options",
+      "url": "https://www.federalregister.gov/documents/2026/04/09/2026-06799/self-regulatory-organizations-cboe-exchange-inc-notice-of-filing-of-amendment-no-1-to-a-proposed",
+      "date": "2026-04-09",
+      "description": "",
+      "source": "national-securities-exchanges"
+    },
     {
       "id": "7e5c6864b74e",
       "title": "Self-Regulatory Organizations; NYSE Arca, Inc.; Order Approving a Proposed Rule Change To Amend Exchange Rule 5.3-O",

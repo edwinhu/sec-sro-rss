@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://github.com/edwinhu/sec-sro-rss</id>
   <title>SEC Self-Regulatory Organization Rulemaking</title>
-  <updated>2026-04-09T07:11:44.710058+00:00</updated>
+  <updated>2026-04-09T13:02:31.776020+00:00</updated>
   <link href="https://www.sec.gov/rules-regulations/self-regulatory-organization-rulemaking" rel="alternate"/>
   <link href="https://edwinhu.github.io/sec-sro-rss/feed.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -312,5 +312,14 @@ Date: 2026-04-06</content>
 Date: 2026-04-06</content>
     <link href="https://www.federalregister.gov/documents/2026/04/06/2026-06568/self-regulatory-organizations-nyse-arca-inc-order-approving-a-proposed-rule-change-to-amend-exchange"/>
     <published>2026-04-06T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.federalregister.gov/documents/2026/04/09/2026-06799/self-regulatory-organizations-cboe-exchange-inc-notice-of-filing-of-amendment-no-1-to-a-proposed</id>
+    <title>Self-Regulatory Organizations; Cboe Exchange, Inc.; Notice of Filing of Amendment No. 1 to a Proposed Rule Change To Allow for Extended Trading of Multi-Listed Equity Options</title>
+    <updated>2026-04-09T00:00:00+00:00</updated>
+    <content>Source: National Securities Exchanges
+Date: 2026-04-09</content>
+    <link href="https://www.federalregister.gov/documents/2026/04/09/2026-06799/self-regulatory-organizations-cboe-exchange-inc-notice-of-filing-of-amendment-no-1-to-a-proposed"/>
+    <published>2026-04-09T00:00:00+00:00</published>
   </entry>
 </feed>

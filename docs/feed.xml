@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 09 Apr 2026 07:11:44 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 09 Apr 2026 13:02:31 +0000</lastBuildDate>
     <item>
       <title>Self-Regulatory Organizations; The Nasdaq Stock Market LLC; Notice of Filing of Proposed Rule Change To List and Trade Shares of the VanEck JitoSOL ETF Under Nasdaq Rule 5711(d) (Commodity-Based Trust Shares)</title>
       <link>https://www.federalregister.gov/documents/2026/03/20/2026-05475/self-regulatory-organizations-the-nasdaq-stock-market-llc-notice-of-filing-of-proposed-rule-change</link>
@@ -280,6 +280,14 @@ Date: 2026-04-06</description>
 Date: 2026-04-06</description>
       <guid isPermaLink="false">https://www.federalregister.gov/documents/2026/04/06/2026-06568/self-regulatory-organizations-nyse-arca-inc-order-approving-a-proposed-rule-change-to-amend-exchange</guid>
       <pubDate>Mon, 06 Apr 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Self-Regulatory Organizations; Cboe Exchange, Inc.; Notice of Filing of Amendment No. 1 to a Proposed Rule Change To Allow for Extended Trading of Multi-Listed Equity Options</title>
+      <link>https://www.federalregister.gov/documents/2026/04/09/2026-06799/self-regulatory-organizations-cboe-exchange-inc-notice-of-filing-of-amendment-no-1-to-a-proposed</link>
+      <description>Source: National Securities Exchanges
+Date: 2026-04-09</description>
+      <guid isPermaLink="false">https://www.federalregister.gov/documents/2026/04/09/2026-06799/self-regulatory-organizations-cboe-exchange-inc-notice-of-filing-of-amendment-no-1-to-a-proposed</guid>
+      <pubDate>Thu, 09 Apr 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
