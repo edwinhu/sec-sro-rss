@@ -1,7 +1,31 @@
 {
-  "updated": "2026-04-10T07:16:14.014302+00:00",
-  "count": 35,
+  "updated": "2026-04-10T12:49:43.460193+00:00",
+  "count": 36,
   "filings": [
+    {
+      "id": "ac355f4b6315",
+      "title": "Self-Regulatory Organizations; the Options Clearing Corporation; Order Approving Proposed Rule Change by the Options Clearing Corporation Concerning a Change in Types of Acceptable Collateral and an Update To Mitigate Wrong-Way Risk",
+      "url": "https://www.federalregister.gov/documents/2026/04/10/2026-06930/self-regulatory-organizations-the-options-clearing-corporation-order-approving-proposed-rule-change",
+      "date": "2026-04-10",
+      "description": "",
+      "source": "national-securities-exchanges"
+    },
+    {
+      "id": "4d47232d690a",
+      "title": "Self-Regulatory Organizations; Financial Industry Regulatory Authority, Inc.; Notice of Filing of a Proposed Rule Change To Amend FINRA Rules 5130 (Restrictions on the Purchase and Sale of Initial Equity Public Offerings) and 5131 (New Issue Allocations and Distributions)",
+      "url": "https://www.federalregister.gov/documents/2026/04/10/2026-06929/self-regulatory-organizations-financial-industry-regulatory-authority-inc-notice-of-filing-of-a",
+      "date": "2026-04-10",
+      "description": "",
+      "source": "finra"
+    },
+    {
+      "id": "bc576a7beaf7",
+      "title": "Self-Regulatory Organizations; New York Stock Exchange LLC; Notice of Filing of Amendment No. 2 and Order Granting Accelerated Approval of a Proposed Rule Change, as Modified by Amendment No. 2, To Adopt New Rule 5.2(j)(9) To Permit the Generic Listing and Trading of Class Exchange-Traded Fund Shares",
+      "url": "https://www.federalregister.gov/documents/2026/04/10/2026-06923/self-regulatory-organizations-new-york-stock-exchange-llc-notice-of-filing-of-amendment-no-2-and",
+      "date": "2026-04-10",
+      "description": "",
+      "source": "national-securities-exchanges"
+    },
     {
       "id": "09756e8e6397",
       "title": "Self-Regulatory Organizations; Cboe Exchange, Inc.; Notice of Filing of Amendment No. 1 to a Proposed Rule Change To Allow for Extended Trading of Multi-Listed Equity Options",
@@ -262,22 +286,6 @@
       "id": "bcb355169eca",
       "title": "Self-Regulatory Organizations; New York Stock Exchange LLC; Notice of Filing of Amendment No. 1 and Order Instituting Proceedings To Determine Whether To Approve or Disapprove a Proposed Rule Change, as Modified by Amendment No. 1, To Amend Section 802.01C of the NYSE Listed Company Manual",
       "url": "https://www.federalregister.gov/documents/2026/03/20/2026-05480/self-regulatory-organizations-new-york-stock-exchange-llc-notice-of-filing-of-amendment-no-1-and",
-      "date": "2026-03-20",
-      "description": "",
-      "source": "national-securities-exchanges"
-    },
-    {
-      "id": "714b25ad644d",
-      "title": "Self-Regulatory Organizations; NYSE American LLC; Notice of Filing of Amendment Nos. 1, 2 and 3 and Order Instituting Proceedings To Determine Whether To Approve or Disapprove a Proposed Rule Change, as Modified by Amendment Nos. 1, 2, and 3, To Amend Sections 1003 and 1009 of the NYSE American Company Guide",
-      "url": "https://www.federalregister.gov/documents/2026/03/20/2026-05479/self-regulatory-organizations-nyse-american-llc-notice-of-filing-of-amendment-nos-1-2-and-3-and",
-      "date": "2026-03-20",
-      "description": "",
-      "source": "national-securities-exchanges"
-    },
-    {
-      "id": "af21756fe59d",
-      "title": "Self-Regulatory Organizations; The Nasdaq Stock Market LLC; Notice of Filing of Proposed Rule Change To List and Trade Shares of the VanEck JitoSOL ETF Under Nasdaq Rule 5711(d) (Commodity-Based Trust Shares)",
-      "url": "https://www.federalregister.gov/documents/2026/03/20/2026-05475/self-regulatory-organizations-the-nasdaq-stock-market-llc-notice-of-filing-of-proposed-rule-change",
       "date": "2026-03-20",
       "description": "",
       "source": "national-securities-exchanges"
