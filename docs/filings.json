@@ -1,7 +1,15 @@
 {
-  "updated": "2026-04-11T06:51:13.381855+00:00",
-  "count": 36,
+  "updated": "2026-04-11T12:37:19.292311+00:00",
+  "count": 33,
   "filings": [
+    {
+      "id": "a84480b062f6",
+      "title": "Self-Regulatory Organizations; NYSE Texas, Inc.; Notice of Filing of Amendment No. 2 and Order Granting Accelerated Approval of a Proposed Rule Change, as Modified by Amendment No. 2, To Adopt New Rule 5.2(j)(9) To Permit the Generic Listing and Trading of Class Exchange-Traded Fund Shares",
+      "url": "https://www.federalregister.gov/documents/2026/04/13/2026-07036/self-regulatory-organizations-nyse-texas-inc-notice-of-filing-of-amendment-no-2-and-order-granting",
+      "date": "2026-04-13",
+      "description": "",
+      "source": "national-securities-exchanges"
+    },
     {
       "id": "ac355f4b6315",
       "title": "Self-Regulatory Organizations; the Options Clearing Corporation; Order Approving Proposed Rule Change by the Options Clearing Corporation Concerning a Change in Types of Acceptable Collateral and an Update To Mitigate Wrong-Way Risk",
@@ -255,38 +263,6 @@
       "title": "Self-Regulatory Organizations; Cboe Exchange, Inc.; Notice of Filing of Amendment Nos. 1 and 2 and Order Granting Accelerated Approval of a Proposed Rule Change, as Modified and Superseded by Amendment No. 2, To Amend Rule 5.4 To Change the Minimum Increment for Options on the Cboe Magnificent 10 Index",
       "url": "https://www.federalregister.gov/documents/2026/03/23/2026-05561/self-regulatory-organizations-cboe-exchange-inc-notice-of-filing-of-amendment-nos-1-and-2-and-order",
       "date": "2026-03-23",
-      "description": "",
-      "source": "national-securities-exchanges"
-    },
-    {
-      "id": "f22a0d2ef221",
-      "title": "Self-Regulatory Organizations; Fixed Income Clearing Corporation; Order Instituting Proceedings To Determine Whether To Approve or Disapprove a Proposed Rule Change To Amend and Restate the Second Amended and Restated Cross-Margining Agreement Between FICC and CME and Amend Related GSD Rules",
-      "url": "https://www.federalregister.gov/documents/2026/03/23/2026-05558/self-regulatory-organizations-fixed-income-clearing-corporation-order-instituting-proceedings-to",
-      "date": "2026-03-23",
-      "description": "",
-      "source": "national-securities-exchanges"
-    },
-    {
-      "id": "cc2e1207881a",
-      "title": "Agency Information Collection Activities; Submission for OMB Review; Comment Request; Extension: Rule 15c2-5",
-      "url": "https://www.federalregister.gov/documents/2026/03/23/2026-05552/agency-information-collection-activities-submission-for-omb-review-comment-request-extension-rule",
-      "date": "2026-03-23",
-      "description": "",
-      "source": "national-securities-exchanges"
-    },
-    {
-      "id": "d57f4e766dc3",
-      "title": "Self-Regulatory Organizations; NYSE American LLC; Notice of Filing of Proposed Change To Amend Section 1003 of the NYSE American Company Guide",
-      "url": "https://www.federalregister.gov/documents/2026/03/20/2026-05481/self-regulatory-organizations-nyse-american-llc-notice-of-filing-of-proposed-change-to-amend-section",
-      "date": "2026-03-20",
-      "description": "",
-      "source": "national-securities-exchanges"
-    },
-    {
-      "id": "bcb355169eca",
-      "title": "Self-Regulatory Organizations; New York Stock Exchange LLC; Notice of Filing of Amendment No. 1 and Order Instituting Proceedings To Determine Whether To Approve or Disapprove a Proposed Rule Change, as Modified by Amendment No. 1, To Amend Section 802.01C of the NYSE Listed Company Manual",
-      "url": "https://www.federalregister.gov/documents/2026/03/20/2026-05480/self-regulatory-organizations-new-york-stock-exchange-llc-notice-of-filing-of-amendment-no-1-and",
-      "date": "2026-03-20",
       "description": "",
       "source": "national-securities-exchanges"
     }
