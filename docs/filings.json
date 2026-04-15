@@ -1,7 +1,39 @@
 {
-  "updated": "2026-04-15T01:28:56.871489+00:00",
-  "count": 29,
+  "updated": "2026-04-15T07:19:37.123107+00:00",
+  "count": 28,
   "filings": [
+    {
+      "id": "fcc4b1bc86b0",
+      "title": "Self-Regulatory Organizations; the Options Clearing Corporation; Notice of Filing of Proposed Rule Change by the Options Clearing Corporation Concerning Amendments to OCC's STANS Methodology Description To Enable OCC To Accept Binary Options for Clearing and Appropriately Manage the Risk Created by Binary Options",
+      "url": "https://www.federalregister.gov/documents/2026/04/15/2026-07265/self-regulatory-organizations-the-options-clearing-corporation-notice-of-filing-of-proposed-rule",
+      "date": "2026-04-15",
+      "description": "",
+      "source": "national-securities-exchanges"
+    },
+    {
+      "id": "22431172f396",
+      "title": "Self-Regulatory Organizations; Cboe EDGX Exchange, Inc.; Notice of Filing of a Proposed Rule Change To Amend Its Rules To Enable the Exchange To Offer Trading in Equity Securities and Exchange Traded Products 23 Hours per Day, Five Days per Week",
+      "url": "https://www.federalregister.gov/documents/2026/04/15/2026-07263/self-regulatory-organizations-cboe-edgx-exchange-inc-notice-of-filing-of-a-proposed-rule-change-to",
+      "date": "2026-04-15",
+      "description": "",
+      "source": "national-securities-exchanges"
+    },
+    {
+      "id": "5031059f294a",
+      "title": "Self-Regulatory Organizations; The Nasdaq Stock Market LLC; Notice of Filing of Amendment Nos. 2 and 3 and Order Granting Accelerated Approval of a Proposed Rule Change, as Amended by Amendment Nos. 2 and 3, To Extend the Exchange's Trading Hours to 23 Hours a Day, Five Days a Week",
+      "url": "https://www.federalregister.gov/documents/2026/04/15/2026-07259/self-regulatory-organizations-the-nasdaq-stock-market-llc-notice-of-filing-of-amendment-nos-2-and-3",
+      "date": "2026-04-15",
+      "description": "",
+      "source": "national-securities-exchanges"
+    },
+    {
+      "id": "a90481ce2ead",
+      "title": "Self-Regulatory Organizations; Cboe Exchange, Inc.; Notice of Filing of Amendment No. 3 and Order Granting Accelerated Approval of a Proposed Rule Change, as Modified and Superseded by Amendment No. 3, To Amend Rules 4.13 and 5.1 To Permit Options on the Dow Jones Industrial Average Index To Be P.M.-Settled",
+      "url": "https://www.federalregister.gov/documents/2026/04/15/2026-07257/self-regulatory-organizations-cboe-exchange-inc-notice-of-filing-of-amendment-no-3-and-order",
+      "date": "2026-04-15",
+      "description": "",
+      "source": "national-securities-exchanges"
+    },
     {
       "id": "0e2565decbf9",
       "title": "Self-Regulatory Organizations; Fixed Income Clearing Corporation; Notice of Filing of Partial Amendment No. 2 and Notice of No Objection to Advance Notice, as Modified by Partial Amendment Nos. 1 and 2, To Amend and Restate the Second Amended and Restated Cross-Margining Agreement Between FICC and CME and Amend Related GSD Rules",
@@ -193,46 +225,6 @@
       "date": "2026-03-26",
       "description": "",
       "source": "national-securities-exchanges"
-    },
-    {
-      "id": "4cb1f6dd8b6b",
-      "title": "Self-Regulatory Organizations; Cboe Exchange, Inc.; Notice of Filing of Proposed Rule Change To Amend Certain of Its Rules Regarding Complex Orders and Complex Order Auctions To Accommodate Stop-Limit Complex Orders and Establish Stop Complex Order Auctions (\u201cSCOA\u201d) as a New Type of Auction Mechanism",
-      "url": "https://www.federalregister.gov/documents/2026/03/26/2026-05845/self-regulatory-organizations-cboe-exchange-inc-notice-of-filing-of-proposed-rule-change-to-amend",
-      "date": "2026-03-26",
-      "description": "",
-      "source": "national-securities-exchanges"
-    },
-    {
-      "id": "dd228154edc0",
-      "title": "Self-Regulatory Organizations; Cboe Exchange, Inc.; Notice of Designation of a Longer Period for Commission Action on a Proposed Rule Change To Allow for Extended Trading of Multi-Listed Equity Options",
-      "url": "https://www.federalregister.gov/documents/2026/03/26/2026-05844/self-regulatory-organizations-cboe-exchange-inc-notice-of-designation-of-a-longer-period-for",
-      "date": "2026-03-26",
-      "description": "",
-      "source": "national-securities-exchanges"
-    },
-    {
-      "id": "817eae8532cb",
-      "title": "Self-Regulatory Organizations; Cboe Exchange, Inc.; Suspension of and Order Instituting Proceedings To Determine Whether To Approve or Disapprove a Proposed Rule Change To Adopt Rule 8.23",
-      "url": "https://www.federalregister.gov/documents/2026/03/25/2026-05762/self-regulatory-organizations-cboe-exchange-inc-suspension-of-and-order-instituting-proceedings-to",
-      "date": "2026-03-25",
-      "description": "",
-      "source": "national-securities-exchanges"
-    },
-    {
-      "id": "eaaf3ce40a5c",
-      "title": "Self-Regulatory Organizations; NYSE American LLC; Notice of Designation of a Longer Period for Commission Action on a Proposed Rule Change To Amend the Initial Listing Standards Set Forth in Sections 101 and 102 of the NYSE American Company Guide",
-      "url": "https://www.federalregister.gov/documents/2026/03/25/2026-05761/self-regulatory-organizations-nyse-american-llc-notice-of-designation-of-a-longer-period-for",
-      "date": "2026-03-25",
-      "description": "",
-      "source": "national-securities-exchanges"
-    },
-    {
-      "id": "2f8b3fe846fc",
-      "title": "Program for Allocation of Regulatory Responsibilities Pursuant to Rule 17d-2; Order Approving and Declaring Effective an Amended Plan for the Allocation of Regulatory Responsibilities Between the Financial Industry Regulatory Authority, Inc., MEMX LLC, and MX2 LLC",
-      "url": "https://www.federalregister.gov/documents/2026/03/25/2026-05757/program-for-allocation-of-regulatory-responsibilities-pursuant-to-rule-17d-2-order-approving-and",
-      "date": "2026-03-25",
-      "description": "",
-      "source": "finra"
     }
   ]
 }
