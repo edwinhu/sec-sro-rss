@@ -1,7 +1,23 @@
 {
-  "updated": "2026-04-16T07:19:55.034934+00:00",
-  "count": 28,
+  "updated": "2026-04-16T13:09:49.115713+00:00",
+  "count": 26,
   "filings": [
+    {
+      "id": "0ad78d9f2caa",
+      "title": "Self-Regulatory Organizations; CME Securities Clearing Inc.; Order Approving Proposed Rule Change To Modify the CME Securities Clearing Inc. Amended and Restated By-Laws, Board of Directors Charter, Risk Management Committee Charter, Nominating Committee Charter, and Audit Committee Charter",
+      "url": "https://www.federalregister.gov/documents/2026/04/16/2026-07345/self-regulatory-organizations-cme-securities-clearing-inc-order-approving-proposed-rule-change-to",
+      "date": "2026-04-16",
+      "description": "",
+      "source": "national-securities-exchanges"
+    },
+    {
+      "id": "bec5d239524f",
+      "title": "Self-Regulatory Organizations; National Securities Clearing Corporation; Notice of Filing of Proposed Rule Change Concerning NSCC's Ability To Support Industry Efforts To Extend Trading Hours for the U.S. Equity Markets",
+      "url": "https://www.federalregister.gov/documents/2026/04/16/2026-07344/self-regulatory-organizations-national-securities-clearing-corporation-notice-of-filing-of-proposed",
+      "date": "2026-04-16",
+      "description": "",
+      "source": "national-securities-exchanges"
+    },
     {
       "id": "fcc4b1bc86b0",
       "title": "Self-Regulatory Organizations; the Options Clearing Corporation; Notice of Filing of Proposed Rule Change by the Options Clearing Corporation Concerning Amendments to OCC's STANS Methodology Description To Enable OCC To Accept Binary Options for Clearing and Appropriately Manage the Risk Created by Binary Options",
@@ -191,38 +207,6 @@
       "title": "Self-Regulatory Organizations; National Securities Clearing Corporation; Notice of Filing of Proposed Rule Change Concerning a New Customer Net Margin Account Option for Agent Clearing Members in the Securities Financing Transaction Clearing Service",
       "url": "https://www.federalregister.gov/documents/2026/03/30/2026-06043/self-regulatory-organizations-national-securities-clearing-corporation-notice-of-filing-of-proposed",
       "date": "2026-03-30",
-      "description": "",
-      "source": "national-securities-exchanges"
-    },
-    {
-      "id": "1b8eeafb0cd6",
-      "title": "Self-Regulatory Organizations; Cboe Exchange, Inc.; Notice of Designation of a Longer Period for Commission Action on a Proposed Rule Change To Amend Its Rules Relating to Designated Primary Market-Makers (\u201cDPMs\u201d) and DPM Appointments in Global Trading Hours and Curb Sessions",
-      "url": "https://www.federalregister.gov/documents/2026/03/30/2026-06041/self-regulatory-organizations-cboe-exchange-inc-notice-of-designation-of-a-longer-period-for",
-      "date": "2026-03-30",
-      "description": "",
-      "source": "national-securities-exchanges"
-    },
-    {
-      "id": "9af2ab8aae12",
-      "title": "Agency Information Collection Activities; Submission for OMB Review; Comment Request; Extension: Rule 201 and Rule 200(g) of Regulation SHO",
-      "url": "https://www.federalregister.gov/documents/2026/03/30/2026-06035/agency-information-collection-activities-submission-for-omb-review-comment-request-extension-rule",
-      "date": "2026-03-30",
-      "description": "",
-      "source": "national-securities-exchanges"
-    },
-    {
-      "id": "04695934181c",
-      "title": "Agency Information Collection Activities; Submission for OMB Review; Comment Request; Extension: Ombudsman Matter Management System (OMMS) Form",
-      "url": "https://www.federalregister.gov/documents/2026/03/30/2026-06034/agency-information-collection-activities-submission-for-omb-review-comment-request-extension",
-      "date": "2026-03-30",
-      "description": "",
-      "source": "national-securities-exchanges"
-    },
-    {
-      "id": "9d1c5f35764a",
-      "title": "Self-Regulatory Organizations; LCH SA; Notice of Filing of Proposed Rule Change Relating to the CDS Clearing Rules (AMF Outsourcing; EMIR SITG; EU CCPRR)",
-      "url": "https://www.federalregister.gov/documents/2026/03/26/2026-05851/self-regulatory-organizations-lch-sa-notice-of-filing-of-proposed-rule-change-relating-to-the-cds",
-      "date": "2026-03-26",
       "description": "",
       "source": "national-securities-exchanges"
     }

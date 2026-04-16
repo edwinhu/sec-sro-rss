@@ -2,47 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://github.com/edwinhu/sec-sro-rss</id>
   <title>SEC Self-Regulatory Organization Rulemaking</title>
-  <updated>2026-04-16T07:19:55.014108+00:00</updated>
+  <updated>2026-04-16T13:09:49.088039+00:00</updated>
   <link href="https://www.sec.gov/rules-regulations/self-regulatory-organization-rulemaking" rel="alternate"/>
   <link href="https://edwinhu.github.io/sec-sro-rss/feed.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Filtered SEC SRO filings (excludes immediate effectiveness notices and crypto)</subtitle>
-  <entry>
-    <id>https://www.federalregister.gov/documents/2026/03/26/2026-05851/self-regulatory-organizations-lch-sa-notice-of-filing-of-proposed-rule-change-relating-to-the-cds</id>
-    <title>Self-Regulatory Organizations; LCH SA; Notice of Filing of Proposed Rule Change Relating to the CDS Clearing Rules (AMF Outsourcing; EMIR SITG; EU CCPRR)</title>
-    <updated>2026-03-26T00:00:00+00:00</updated>
-    <content>Source: National Securities Exchanges
-Date: 2026-03-26</content>
-    <link href="https://www.federalregister.gov/documents/2026/03/26/2026-05851/self-regulatory-organizations-lch-sa-notice-of-filing-of-proposed-rule-change-relating-to-the-cds"/>
-    <published>2026-03-26T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.federalregister.gov/documents/2026/03/30/2026-06034/agency-information-collection-activities-submission-for-omb-review-comment-request-extension</id>
-    <title>Agency Information Collection Activities; Submission for OMB Review; Comment Request; Extension: Ombudsman Matter Management System (OMMS) Form</title>
-    <updated>2026-03-30T00:00:00+00:00</updated>
-    <content>Source: National Securities Exchanges
-Date: 2026-03-30</content>
-    <link href="https://www.federalregister.gov/documents/2026/03/30/2026-06034/agency-information-collection-activities-submission-for-omb-review-comment-request-extension"/>
-    <published>2026-03-30T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.federalregister.gov/documents/2026/03/30/2026-06035/agency-information-collection-activities-submission-for-omb-review-comment-request-extension-rule</id>
-    <title>Agency Information Collection Activities; Submission for OMB Review; Comment Request; Extension: Rule 201 and Rule 200(g) of Regulation SHO</title>
-    <updated>2026-03-30T00:00:00+00:00</updated>
-    <content>Source: National Securities Exchanges
-Date: 2026-03-30</content>
-    <link href="https://www.federalregister.gov/documents/2026/03/30/2026-06035/agency-information-collection-activities-submission-for-omb-review-comment-request-extension-rule"/>
-    <published>2026-03-30T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.federalregister.gov/documents/2026/03/30/2026-06041/self-regulatory-organizations-cboe-exchange-inc-notice-of-designation-of-a-longer-period-for</id>
-    <title>Self-Regulatory Organizations; Cboe Exchange, Inc.; Notice of Designation of a Longer Period for Commission Action on a Proposed Rule Change To Amend Its Rules Relating to Designated Primary Market-Makers (“DPMs”) and DPM Appointments in Global Trading Hours and Curb Sessions</title>
-    <updated>2026-03-30T00:00:00+00:00</updated>
-    <content>Source: National Securities Exchanges
-Date: 2026-03-30</content>
-    <link href="https://www.federalregister.gov/documents/2026/03/30/2026-06041/self-regulatory-organizations-cboe-exchange-inc-notice-of-designation-of-a-longer-period-for"/>
-    <published>2026-03-30T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>https://www.federalregister.gov/documents/2026/03/30/2026-06043/self-regulatory-organizations-national-securities-clearing-corporation-notice-of-filing-of-proposed</id>
     <title>Self-Regulatory Organizations; National Securities Clearing Corporation; Notice of Filing of Proposed Rule Change Concerning a New Customer Net Margin Account Option for Agent Clearing Members in the Securities Financing Transaction Clearing Service</title>
@@ -258,5 +222,23 @@ Date: 2026-04-15</content>
 Date: 2026-04-15</content>
     <link href="https://www.federalregister.gov/documents/2026/04/15/2026-07265/self-regulatory-organizations-the-options-clearing-corporation-notice-of-filing-of-proposed-rule"/>
     <published>2026-04-15T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.federalregister.gov/documents/2026/04/16/2026-07344/self-regulatory-organizations-national-securities-clearing-corporation-notice-of-filing-of-proposed</id>
+    <title>Self-Regulatory Organizations; National Securities Clearing Corporation; Notice of Filing of Proposed Rule Change Concerning NSCC's Ability To Support Industry Efforts To Extend Trading Hours for the U.S. Equity Markets</title>
+    <updated>2026-04-16T00:00:00+00:00</updated>
+    <content>Source: National Securities Exchanges
+Date: 2026-04-16</content>
+    <link href="https://www.federalregister.gov/documents/2026/04/16/2026-07344/self-regulatory-organizations-national-securities-clearing-corporation-notice-of-filing-of-proposed"/>
+    <published>2026-04-16T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.federalregister.gov/documents/2026/04/16/2026-07345/self-regulatory-organizations-cme-securities-clearing-inc-order-approving-proposed-rule-change-to</id>
+    <title>Self-Regulatory Organizations; CME Securities Clearing Inc.; Order Approving Proposed Rule Change To Modify the CME Securities Clearing Inc. Amended and Restated By-Laws, Board of Directors Charter, Risk Management Committee Charter, Nominating Committee Charter, and Audit Committee Charter</title>
+    <updated>2026-04-16T00:00:00+00:00</updated>
+    <content>Source: National Securities Exchanges
+Date: 2026-04-16</content>
+    <link href="https://www.federalregister.gov/documents/2026/04/16/2026-07345/self-regulatory-organizations-cme-securities-clearing-inc-order-approving-proposed-rule-change-to"/>
+    <published>2026-04-16T00:00:00+00:00</published>
   </entry>
 </feed>
