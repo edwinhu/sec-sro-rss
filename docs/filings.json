@@ -1,7 +1,31 @@
 {
-  "updated": "2026-04-17T01:47:53.827596+00:00",
+  "updated": "2026-04-17T07:20:17.226543+00:00",
   "count": 26,
   "filings": [
+    {
+      "id": "126d22207db8",
+      "title": "Self-Regulatory Organizations; LCH SA; Notice of Filing of Proposed Rule Change Relating to the CDSClear Risk Framework",
+      "url": "https://www.federalregister.gov/documents/2026/04/17/2026-07492/self-regulatory-organizations-lch-sa-notice-of-filing-of-proposed-rule-change-relating-to-the",
+      "date": "2026-04-17",
+      "description": "",
+      "source": "national-securities-exchanges"
+    },
+    {
+      "id": "bd6e66c40659",
+      "title": "Self-Regulatory Organizations; CME Securities Clearing Inc.; Notice of Filing of Proposed Rule Change To Establish the CME Securities Clearing Inc. Enterprise Risk Management Framework",
+      "url": "https://www.federalregister.gov/documents/2026/04/17/2026-07490/self-regulatory-organizations-cme-securities-clearing-inc-notice-of-filing-of-proposed-rule-change",
+      "date": "2026-04-17",
+      "description": "",
+      "source": "national-securities-exchanges"
+    },
+    {
+      "id": "cde164b9966d",
+      "title": "Self-Regulatory Organizations; Financial Industry Regulatory Authority, Inc.; Notice of Filing of Amendment No. 1 and Order Granting Accelerated Approval of a Proposed Rule Change, as Modified by Amendment No. 1, To Amend FINRA Rule 4210 (Margin Requirements) To Replace the Day Trading Margin Provisions With Intraday Margin Standards",
+      "url": "https://www.federalregister.gov/documents/2026/04/17/2026-07485/self-regulatory-organizations-financial-industry-regulatory-authority-inc-notice-of-filing-of",
+      "date": "2026-04-17",
+      "description": "",
+      "source": "finra"
+    },
     {
       "id": "0ad78d9f2caa",
       "title": "Self-Regulatory Organizations; CME Securities Clearing Inc.; Order Approving Proposed Rule Change To Modify the CME Securities Clearing Inc. Amended and Restated By-Laws, Board of Directors Charter, Risk Management Committee Charter, Nominating Committee Charter, and Audit Committee Charter",
@@ -183,30 +207,6 @@
       "title": "Agency Information Collection Activities; Proposed Collection; Comment Request; Extension: Rule 15c3-1",
       "url": "https://www.federalregister.gov/documents/2026/04/01/2026-06236/agency-information-collection-activities-proposed-collection-comment-request-extension-rule-15c3-1",
       "date": "2026-04-01",
-      "description": "",
-      "source": "national-securities-exchanges"
-    },
-    {
-      "id": "4975ef4bcfbe",
-      "title": "Self-Regulatory Organizations; Nasdaq MRX, LLC; Notice of Filing of a Proposed Rule Change To Adopt Extended Trading Hours for Eligible Equity and Index Options",
-      "url": "https://www.federalregister.gov/documents/2026/03/31/2026-06153/self-regulatory-organizations-nasdaq-mrx-llc-notice-of-filing-of-a-proposed-rule-change-to-adopt",
-      "date": "2026-03-31",
-      "description": "",
-      "source": "national-securities-exchanges"
-    },
-    {
-      "id": "58fba8484365",
-      "title": "Self-Regulatory Organizations; Cboe Exchange, Inc.; Notice of Filing of Amendment No. 1 and Order Granting Accelerated Approval of a Proposed Rule Change, as Modified and Superseded by Amendment No. 1, To Amend Functionality Relating to the Processing of Auction Responses",
-      "url": "https://www.federalregister.gov/documents/2026/03/30/2026-06044/self-regulatory-organizations-cboe-exchange-inc-notice-of-filing-of-amendment-no-1-and-order",
-      "date": "2026-03-30",
-      "description": "",
-      "source": "national-securities-exchanges"
-    },
-    {
-      "id": "7f3080d78ccf",
-      "title": "Self-Regulatory Organizations; National Securities Clearing Corporation; Notice of Filing of Proposed Rule Change Concerning a New Customer Net Margin Account Option for Agent Clearing Members in the Securities Financing Transaction Clearing Service",
-      "url": "https://www.federalregister.gov/documents/2026/03/30/2026-06043/self-regulatory-organizations-national-securities-clearing-corporation-notice-of-filing-of-proposed",
-      "date": "2026-03-30",
       "description": "",
       "source": "national-securities-exchanges"
     }

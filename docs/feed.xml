@@ -8,31 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 17 Apr 2026 01:47:53 +0000</lastBuildDate>
-    <item>
-      <title>Self-Regulatory Organizations; National Securities Clearing Corporation; Notice of Filing of Proposed Rule Change Concerning a New Customer Net Margin Account Option for Agent Clearing Members in the Securities Financing Transaction Clearing Service</title>
-      <link>https://www.federalregister.gov/documents/2026/03/30/2026-06043/self-regulatory-organizations-national-securities-clearing-corporation-notice-of-filing-of-proposed</link>
-      <description>Source: National Securities Exchanges
-Date: 2026-03-30</description>
-      <guid isPermaLink="false">https://www.federalregister.gov/documents/2026/03/30/2026-06043/self-regulatory-organizations-national-securities-clearing-corporation-notice-of-filing-of-proposed</guid>
-      <pubDate>Mon, 30 Mar 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Self-Regulatory Organizations; Cboe Exchange, Inc.; Notice of Filing of Amendment No. 1 and Order Granting Accelerated Approval of a Proposed Rule Change, as Modified and Superseded by Amendment No. 1, To Amend Functionality Relating to the Processing of Auction Responses</title>
-      <link>https://www.federalregister.gov/documents/2026/03/30/2026-06044/self-regulatory-organizations-cboe-exchange-inc-notice-of-filing-of-amendment-no-1-and-order</link>
-      <description>Source: National Securities Exchanges
-Date: 2026-03-30</description>
-      <guid isPermaLink="false">https://www.federalregister.gov/documents/2026/03/30/2026-06044/self-regulatory-organizations-cboe-exchange-inc-notice-of-filing-of-amendment-no-1-and-order</guid>
-      <pubDate>Mon, 30 Mar 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Self-Regulatory Organizations; Nasdaq MRX, LLC; Notice of Filing of a Proposed Rule Change To Adopt Extended Trading Hours for Eligible Equity and Index Options</title>
-      <link>https://www.federalregister.gov/documents/2026/03/31/2026-06153/self-regulatory-organizations-nasdaq-mrx-llc-notice-of-filing-of-a-proposed-rule-change-to-adopt</link>
-      <description>Source: National Securities Exchanges
-Date: 2026-03-31</description>
-      <guid isPermaLink="false">https://www.federalregister.gov/documents/2026/03/31/2026-06153/self-regulatory-organizations-nasdaq-mrx-llc-notice-of-filing-of-a-proposed-rule-change-to-adopt</guid>
-      <pubDate>Tue, 31 Mar 2026 00:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 17 Apr 2026 07:20:17 +0000</lastBuildDate>
     <item>
       <title>Agency Information Collection Activities; Proposed Collection; Comment Request; Extension: Rule 15c3-1</title>
       <link>https://www.federalregister.gov/documents/2026/04/01/2026-06236/agency-information-collection-activities-proposed-collection-comment-request-extension-rule-15c3-1</link>
@@ -216,6 +192,30 @@ Date: 2026-04-16</description>
 Date: 2026-04-16</description>
       <guid isPermaLink="false">https://www.federalregister.gov/documents/2026/04/16/2026-07345/self-regulatory-organizations-cme-securities-clearing-inc-order-approving-proposed-rule-change-to</guid>
       <pubDate>Thu, 16 Apr 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Self-Regulatory Organizations; Financial Industry Regulatory Authority, Inc.; Notice of Filing of Amendment No. 1 and Order Granting Accelerated Approval of a Proposed Rule Change, as Modified by Amendment No. 1, To Amend FINRA Rule 4210 (Margin Requirements) To Replace the Day Trading Margin Provisions With Intraday Margin Standards</title>
+      <link>https://www.federalregister.gov/documents/2026/04/17/2026-07485/self-regulatory-organizations-financial-industry-regulatory-authority-inc-notice-of-filing-of</link>
+      <description>Source: Finra
+Date: 2026-04-17</description>
+      <guid isPermaLink="false">https://www.federalregister.gov/documents/2026/04/17/2026-07485/self-regulatory-organizations-financial-industry-regulatory-authority-inc-notice-of-filing-of</guid>
+      <pubDate>Fri, 17 Apr 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Self-Regulatory Organizations; CME Securities Clearing Inc.; Notice of Filing of Proposed Rule Change To Establish the CME Securities Clearing Inc. Enterprise Risk Management Framework</title>
+      <link>https://www.federalregister.gov/documents/2026/04/17/2026-07490/self-regulatory-organizations-cme-securities-clearing-inc-notice-of-filing-of-proposed-rule-change</link>
+      <description>Source: National Securities Exchanges
+Date: 2026-04-17</description>
+      <guid isPermaLink="false">https://www.federalregister.gov/documents/2026/04/17/2026-07490/self-regulatory-organizations-cme-securities-clearing-inc-notice-of-filing-of-proposed-rule-change</guid>
+      <pubDate>Fri, 17 Apr 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Self-Regulatory Organizations; LCH SA; Notice of Filing of Proposed Rule Change Relating to the CDSClear Risk Framework</title>
+      <link>https://www.federalregister.gov/documents/2026/04/17/2026-07492/self-regulatory-organizations-lch-sa-notice-of-filing-of-proposed-rule-change-relating-to-the</link>
+      <description>Source: National Securities Exchanges
+Date: 2026-04-17</description>
+      <guid isPermaLink="false">https://www.federalregister.gov/documents/2026/04/17/2026-07492/self-regulatory-organizations-lch-sa-notice-of-filing-of-proposed-rule-change-relating-to-the</guid>
+      <pubDate>Fri, 17 Apr 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
