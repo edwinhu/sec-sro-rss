@@ -1,7 +1,39 @@
 {
-  "updated": "2026-04-18T01:26:32.260184+00:00",
-  "count": 26,
+  "updated": "2026-04-18T06:57:11.562858+00:00",
+  "count": 28,
   "filings": [
+    {
+      "id": "8aa91f4308d8",
+      "title": "Order Under Section 36 of the Securities Exchange Act of 1934 (the \u201cExchange Act\u201d) Granting Conditional Exemptive Relief from Section 15(c)(3) of and Rule 15c3-3 Under the Exchange Act for Cross-Margining of Cleared U.S. Treasury Securities and Related Futures",
+      "url": "https://www.federalregister.gov/documents/2026/04/20/2026-07636/order-under-section-36-of-the-securities-exchange-act-of-1934-the-exchange-act-granting-conditional",
+      "date": "2026-04-20",
+      "description": "",
+      "source": "national-securities-exchanges"
+    },
+    {
+      "id": "24438aaa8a08",
+      "title": "Self-Regulatory Organizations; Fixed Income Clearing Corporation; Notice of Filing of Partial Amendment No. 2 and Order Granting Accelerated Approval of Proposed Rule Change, as Modified by Partial Amendment Nos. 1 and 2, To Amend and Restate the Second Amended and Restated Cross-Margining Agreement Between FICC and CME and Amend Related GSD Rules",
+      "url": "https://www.federalregister.gov/documents/2026/04/20/2026-07635/self-regulatory-organizations-fixed-income-clearing-corporation-notice-of-filing-of-partial",
+      "date": "2026-04-20",
+      "description": "",
+      "source": "national-securities-exchanges"
+    },
+    {
+      "id": "30fa0ac26138",
+      "title": "Self-Regulatory Organizations; Cboe Exchange, Inc.; Notice of Filing of a Proposed Rule Change To Amend Its Rules Related to Binary Options",
+      "url": "https://www.federalregister.gov/documents/2026/04/20/2026-07596/self-regulatory-organizations-cboe-exchange-inc-notice-of-filing-of-a-proposed-rule-change-to-amend",
+      "date": "2026-04-20",
+      "description": "",
+      "source": "national-securities-exchanges"
+    },
+    {
+      "id": "f716dc9f2b0f",
+      "title": "Self-Regulatory Organizations; Long-Term Stock Exchange, Inc.; Notice of Filing of Amendment No. 1 and Order Granting Accelerated Approval of a Proposed Rule Change Regarding Complimentary Products and Services Offered by the Exchange",
+      "url": "https://www.federalregister.gov/documents/2026/04/20/2026-07592/self-regulatory-organizations-long-term-stock-exchange-inc-notice-of-filing-of-amendment-no-1-and",
+      "date": "2026-04-20",
+      "description": "",
+      "source": "national-securities-exchanges"
+    },
     {
       "id": "126d22207db8",
       "title": "Self-Regulatory Organizations; LCH SA; Notice of Filing of Proposed Rule Change Relating to the CDSClear Risk Framework",
@@ -190,22 +222,6 @@
       "id": "bf9e1ff52c27",
       "title": "Self-Regulatory Organizations; NYSE American LLC; Notice of Filing of Amendment No. 1 and Order Granting Accelerated Approval of a Proposed Rule Change, as Modified by Amendment No. 1, To Amend the Initial Listing Standards Set Forth in Sections 101 and 102 of the NYSE American Company Guide",
       "url": "https://www.federalregister.gov/documents/2026/04/01/2026-06251/self-regulatory-organizations-nyse-american-llc-notice-of-filing-of-amendment-no-1-and-order",
-      "date": "2026-04-01",
-      "description": "",
-      "source": "national-securities-exchanges"
-    },
-    {
-      "id": "29cfd9b7b144",
-      "title": "Self-Regulatory Organizations; New York Stock Exchange LLC; Notice of Designation of a Longer Period for Commission Action on a Proposed Rule Change Amending Section 703.12(II) of the NYSE Listed Company Manual To Expand the Circumstances Under Which Rights May Be Listed on the NYSE",
-      "url": "https://www.federalregister.gov/documents/2026/04/01/2026-06245/self-regulatory-organizations-new-york-stock-exchange-llc-notice-of-designation-of-a-longer-period",
-      "date": "2026-04-01",
-      "description": "",
-      "source": "national-securities-exchanges"
-    },
-    {
-      "id": "f5ccfe7117a5",
-      "title": "Agency Information Collection Activities; Proposed Collection; Comment Request; Extension: Rule 15c3-1",
-      "url": "https://www.federalregister.gov/documents/2026/04/01/2026-06236/agency-information-collection-activities-proposed-collection-comment-request-extension-rule-15c3-1",
       "date": "2026-04-01",
       "description": "",
       "source": "national-securities-exchanges"

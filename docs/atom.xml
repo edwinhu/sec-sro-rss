@@ -2,29 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://github.com/edwinhu/sec-sro-rss</id>
   <title>SEC Self-Regulatory Organization Rulemaking</title>
-  <updated>2026-04-18T01:26:32.242944+00:00</updated>
+  <updated>2026-04-18T06:57:11.545721+00:00</updated>
   <link href="https://www.sec.gov/rules-regulations/self-regulatory-organization-rulemaking" rel="alternate"/>
   <link href="https://edwinhu.github.io/sec-sro-rss/feed.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Filtered SEC SRO filings (excludes immediate effectiveness notices and crypto)</subtitle>
-  <entry>
-    <id>https://www.federalregister.gov/documents/2026/04/01/2026-06236/agency-information-collection-activities-proposed-collection-comment-request-extension-rule-15c3-1</id>
-    <title>Agency Information Collection Activities; Proposed Collection; Comment Request; Extension: Rule 15c3-1</title>
-    <updated>2026-04-01T00:00:00+00:00</updated>
-    <content>Source: National Securities Exchanges
-Date: 2026-04-01</content>
-    <link href="https://www.federalregister.gov/documents/2026/04/01/2026-06236/agency-information-collection-activities-proposed-collection-comment-request-extension-rule-15c3-1"/>
-    <published>2026-04-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.federalregister.gov/documents/2026/04/01/2026-06245/self-regulatory-organizations-new-york-stock-exchange-llc-notice-of-designation-of-a-longer-period</id>
-    <title>Self-Regulatory Organizations; New York Stock Exchange LLC; Notice of Designation of a Longer Period for Commission Action on a Proposed Rule Change Amending Section 703.12(II) of the NYSE Listed Company Manual To Expand the Circumstances Under Which Rights May Be Listed on the NYSE</title>
-    <updated>2026-04-01T00:00:00+00:00</updated>
-    <content>Source: National Securities Exchanges
-Date: 2026-04-01</content>
-    <link href="https://www.federalregister.gov/documents/2026/04/01/2026-06245/self-regulatory-organizations-new-york-stock-exchange-llc-notice-of-designation-of-a-longer-period"/>
-    <published>2026-04-01T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>https://www.federalregister.gov/documents/2026/04/01/2026-06251/self-regulatory-organizations-nyse-american-llc-notice-of-filing-of-amendment-no-1-and-order</id>
     <title>Self-Regulatory Organizations; NYSE American LLC; Notice of Filing of Amendment No. 1 and Order Granting Accelerated Approval of a Proposed Rule Change, as Modified by Amendment No. 1, To Amend the Initial Listing Standards Set Forth in Sections 101 and 102 of the NYSE American Company Guide</title>
@@ -240,5 +222,41 @@ Date: 2026-04-17</content>
 Date: 2026-04-17</content>
     <link href="https://www.federalregister.gov/documents/2026/04/17/2026-07492/self-regulatory-organizations-lch-sa-notice-of-filing-of-proposed-rule-change-relating-to-the"/>
     <published>2026-04-17T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.federalregister.gov/documents/2026/04/20/2026-07592/self-regulatory-organizations-long-term-stock-exchange-inc-notice-of-filing-of-amendment-no-1-and</id>
+    <title>Self-Regulatory Organizations; Long-Term Stock Exchange, Inc.; Notice of Filing of Amendment No. 1 and Order Granting Accelerated Approval of a Proposed Rule Change Regarding Complimentary Products and Services Offered by the Exchange</title>
+    <updated>2026-04-20T00:00:00+00:00</updated>
+    <content>Source: National Securities Exchanges
+Date: 2026-04-20</content>
+    <link href="https://www.federalregister.gov/documents/2026/04/20/2026-07592/self-regulatory-organizations-long-term-stock-exchange-inc-notice-of-filing-of-amendment-no-1-and"/>
+    <published>2026-04-20T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.federalregister.gov/documents/2026/04/20/2026-07596/self-regulatory-organizations-cboe-exchange-inc-notice-of-filing-of-a-proposed-rule-change-to-amend</id>
+    <title>Self-Regulatory Organizations; Cboe Exchange, Inc.; Notice of Filing of a Proposed Rule Change To Amend Its Rules Related to Binary Options</title>
+    <updated>2026-04-20T00:00:00+00:00</updated>
+    <content>Source: National Securities Exchanges
+Date: 2026-04-20</content>
+    <link href="https://www.federalregister.gov/documents/2026/04/20/2026-07596/self-regulatory-organizations-cboe-exchange-inc-notice-of-filing-of-a-proposed-rule-change-to-amend"/>
+    <published>2026-04-20T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.federalregister.gov/documents/2026/04/20/2026-07635/self-regulatory-organizations-fixed-income-clearing-corporation-notice-of-filing-of-partial</id>
+    <title>Self-Regulatory Organizations; Fixed Income Clearing Corporation; Notice of Filing of Partial Amendment No. 2 and Order Granting Accelerated Approval of Proposed Rule Change, as Modified by Partial Amendment Nos. 1 and 2, To Amend and Restate the Second Amended and Restated Cross-Margining Agreement Between FICC and CME and Amend Related GSD Rules</title>
+    <updated>2026-04-20T00:00:00+00:00</updated>
+    <content>Source: National Securities Exchanges
+Date: 2026-04-20</content>
+    <link href="https://www.federalregister.gov/documents/2026/04/20/2026-07635/self-regulatory-organizations-fixed-income-clearing-corporation-notice-of-filing-of-partial"/>
+    <published>2026-04-20T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.federalregister.gov/documents/2026/04/20/2026-07636/order-under-section-36-of-the-securities-exchange-act-of-1934-the-exchange-act-granting-conditional</id>
+    <title>Order Under Section 36 of the Securities Exchange Act of 1934 (the “Exchange Act”) Granting Conditional Exemptive Relief from Section 15(c)(3) of and Rule 15c3-3 Under the Exchange Act for Cross-Margining of Cleared U.S. Treasury Securities and Related Futures</title>
+    <updated>2026-04-20T00:00:00+00:00</updated>
+    <content>Source: National Securities Exchanges
+Date: 2026-04-20</content>
+    <link href="https://www.federalregister.gov/documents/2026/04/20/2026-07636/order-under-section-36-of-the-securities-exchange-act-of-1934-the-exchange-act-granting-conditional"/>
+    <published>2026-04-20T00:00:00+00:00</published>
   </entry>
 </feed>
