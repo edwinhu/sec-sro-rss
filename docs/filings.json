@@ -1,7 +1,15 @@
 {
-  "updated": "2026-04-21T01:48:22.260328+00:00",
-  "count": 28,
+  "updated": "2026-04-21T07:22:44.877497+00:00",
+  "count": 27,
   "filings": [
+    {
+      "id": "004a68c8c006",
+      "title": "Self-Regulatory Organizations; The Nasdaq Stock Market LLC; Notice of Designation of a Longer Period for Commission Action on a Proposed Rule Change To Adopt Listing Rule IM-5101-4",
+      "url": "https://www.federalregister.gov/documents/2026/04/21/2026-07686/self-regulatory-organizations-the-nasdaq-stock-market-llc-notice-of-designation-of-a-longer-period",
+      "date": "2026-04-21",
+      "description": "",
+      "source": "national-securities-exchanges"
+    },
     {
       "id": "8aa91f4308d8",
       "title": "Order Under Section 36 of the Securities Exchange Act of 1934 (the \u201cExchange Act\u201d) Granting Conditional Exemptive Relief from Section 15(c)(3) of and Rule 15c3-3 Under the Exchange Act for Cross-Margining of Cleared U.S. Treasury Securities and Related Futures",
@@ -207,22 +215,6 @@
       "title": "Joint Industry Plan; Notice of Filing of Amendment No. 1, and Order Instituting Proceedings To Determine Whether To Approve or Disapprove an Amendment to the National Market System Plan Regarding Consolidated Equity Market Data, as Modified by Amendment No. 1, To Adopt a Fee Schedule",
       "url": "https://www.federalregister.gov/documents/2026/04/03/2026-06463/joint-industry-plan-notice-of-filing-of-amendment-no-1-and-order-instituting-proceedings-to",
       "date": "2026-04-03",
-      "description": "",
-      "source": "national-securities-exchanges"
-    },
-    {
-      "id": "a7bd809472d0",
-      "title": "Joint Industry Plan; Order Approving an Amendment to the National Market System Plan Governing the Consolidated Audit Trail, as Modified by the Commission, To Further Reduce the Costs of the Consolidated Audit Trail",
-      "url": "https://www.federalregister.gov/documents/2026/04/01/2026-06255/joint-industry-plan-order-approving-an-amendment-to-the-national-market-system-plan-governing-the",
-      "date": "2026-04-01",
-      "description": "",
-      "source": "national-securities-exchanges"
-    },
-    {
-      "id": "bf9e1ff52c27",
-      "title": "Self-Regulatory Organizations; NYSE American LLC; Notice of Filing of Amendment No. 1 and Order Granting Accelerated Approval of a Proposed Rule Change, as Modified by Amendment No. 1, To Amend the Initial Listing Standards Set Forth in Sections 101 and 102 of the NYSE American Company Guide",
-      "url": "https://www.federalregister.gov/documents/2026/04/01/2026-06251/self-regulatory-organizations-nyse-american-llc-notice-of-filing-of-amendment-no-1-and-order",
-      "date": "2026-04-01",
       "description": "",
       "source": "national-securities-exchanges"
     }

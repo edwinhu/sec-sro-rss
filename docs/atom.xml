@@ -2,29 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://github.com/edwinhu/sec-sro-rss</id>
   <title>SEC Self-Regulatory Organization Rulemaking</title>
-  <updated>2026-04-21T01:48:22.216362+00:00</updated>
+  <updated>2026-04-21T07:22:44.852014+00:00</updated>
   <link href="https://www.sec.gov/rules-regulations/self-regulatory-organization-rulemaking" rel="alternate"/>
   <link href="https://edwinhu.github.io/sec-sro-rss/feed.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Filtered SEC SRO filings (excludes immediate effectiveness notices and crypto)</subtitle>
-  <entry>
-    <id>https://www.federalregister.gov/documents/2026/04/01/2026-06251/self-regulatory-organizations-nyse-american-llc-notice-of-filing-of-amendment-no-1-and-order</id>
-    <title>Self-Regulatory Organizations; NYSE American LLC; Notice of Filing of Amendment No. 1 and Order Granting Accelerated Approval of a Proposed Rule Change, as Modified by Amendment No. 1, To Amend the Initial Listing Standards Set Forth in Sections 101 and 102 of the NYSE American Company Guide</title>
-    <updated>2026-04-01T00:00:00+00:00</updated>
-    <content>Source: National Securities Exchanges
-Date: 2026-04-01</content>
-    <link href="https://www.federalregister.gov/documents/2026/04/01/2026-06251/self-regulatory-organizations-nyse-american-llc-notice-of-filing-of-amendment-no-1-and-order"/>
-    <published>2026-04-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.federalregister.gov/documents/2026/04/01/2026-06255/joint-industry-plan-order-approving-an-amendment-to-the-national-market-system-plan-governing-the</id>
-    <title>Joint Industry Plan; Order Approving an Amendment to the National Market System Plan Governing the Consolidated Audit Trail, as Modified by the Commission, To Further Reduce the Costs of the Consolidated Audit Trail</title>
-    <updated>2026-04-01T00:00:00+00:00</updated>
-    <content>Source: National Securities Exchanges
-Date: 2026-04-01</content>
-    <link href="https://www.federalregister.gov/documents/2026/04/01/2026-06255/joint-industry-plan-order-approving-an-amendment-to-the-national-market-system-plan-governing-the"/>
-    <published>2026-04-01T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>https://www.federalregister.gov/documents/2026/04/03/2026-06463/joint-industry-plan-notice-of-filing-of-amendment-no-1-and-order-instituting-proceedings-to</id>
     <title>Joint Industry Plan; Notice of Filing of Amendment No. 1, and Order Instituting Proceedings To Determine Whether To Approve or Disapprove an Amendment to the National Market System Plan Regarding Consolidated Equity Market Data, as Modified by Amendment No. 1, To Adopt a Fee Schedule</title>
@@ -258,5 +240,14 @@ Date: 2026-04-20</content>
 Date: 2026-04-20</content>
     <link href="https://www.federalregister.gov/documents/2026/04/20/2026-07636/order-under-section-36-of-the-securities-exchange-act-of-1934-the-exchange-act-granting-conditional"/>
     <published>2026-04-20T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.federalregister.gov/documents/2026/04/21/2026-07686/self-regulatory-organizations-the-nasdaq-stock-market-llc-notice-of-designation-of-a-longer-period</id>
+    <title>Self-Regulatory Organizations; The Nasdaq Stock Market LLC; Notice of Designation of a Longer Period for Commission Action on a Proposed Rule Change To Adopt Listing Rule IM-5101-4</title>
+    <updated>2026-04-21T00:00:00+00:00</updated>
+    <content>Source: National Securities Exchanges
+Date: 2026-04-21</content>
+    <link href="https://www.federalregister.gov/documents/2026/04/21/2026-07686/self-regulatory-organizations-the-nasdaq-stock-market-llc-notice-of-designation-of-a-longer-period"/>
+    <published>2026-04-21T00:00:00+00:00</published>
   </entry>
 </feed>
