@@ -2,20 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://github.com/edwinhu/sec-sro-rss</id>
   <title>SEC Self-Regulatory Organization Rulemaking</title>
-  <updated>2026-04-22T07:20:59.156825+00:00</updated>
+  <updated>2026-04-22T13:04:35.839713+00:00</updated>
   <link href="https://www.sec.gov/rules-regulations/self-regulatory-organization-rulemaking" rel="alternate"/>
   <link href="https://edwinhu.github.io/sec-sro-rss/feed.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Filtered SEC SRO filings (excludes immediate effectiveness notices and crypto)</subtitle>
-  <entry>
-    <id>https://www.federalregister.gov/documents/2026/04/03/2026-06463/joint-industry-plan-notice-of-filing-of-amendment-no-1-and-order-instituting-proceedings-to</id>
-    <title>Joint Industry Plan; Notice of Filing of Amendment No. 1, and Order Instituting Proceedings To Determine Whether To Approve or Disapprove an Amendment to the National Market System Plan Regarding Consolidated Equity Market Data, as Modified by Amendment No. 1, To Adopt a Fee Schedule</title>
-    <updated>2026-04-03T00:00:00+00:00</updated>
-    <content>Source: National Securities Exchanges
-Date: 2026-04-03</content>
-    <link href="https://www.federalregister.gov/documents/2026/04/03/2026-06463/joint-industry-plan-notice-of-filing-of-amendment-no-1-and-order-instituting-proceedings-to"/>
-    <published>2026-04-03T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>https://www.federalregister.gov/documents/2026/04/03/2026-06469/self-regulatory-organizations-box-exchange-llc-notice-of-filing-of-proposed-rule-change-to-amend-box</id>
     <title>Self-Regulatory Organizations; BOX Exchange LLC; Notice of Filing of Proposed Rule Change To Amend BOX Rules 5055 (FLEX Equity Options) and 3120 (Position Limits)</title>
@@ -249,5 +240,50 @@ Date: 2026-04-20</content>
 Date: 2026-04-21</content>
     <link href="https://www.federalregister.gov/documents/2026/04/21/2026-07686/self-regulatory-organizations-the-nasdaq-stock-market-llc-notice-of-designation-of-a-longer-period"/>
     <published>2026-04-21T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.federalregister.gov/documents/2026/04/22/2026-07783/consolidated-tape-association-notice-of-filing-of-amendment-no-1-and-order-instituting-proceedings</id>
+    <title>Consolidated Tape Association; Notice of Filing of Amendment No. 1, and Order Instituting Proceedings To Determine Whether To Approve or Disapprove the Fortieth Substantive Amendment to the Second Restatement of the CTA Plan and Thirty-First Substantive Amendment to the Restated CQ Plan, as Modified by Amendment No. 1 Thereto, To Extend the Processor's Hours of Operation</title>
+    <updated>2026-04-22T00:00:00+00:00</updated>
+    <content>Source: National Securities Exchanges
+Date: 2026-04-22</content>
+    <link href="https://www.federalregister.gov/documents/2026/04/22/2026-07783/consolidated-tape-association-notice-of-filing-of-amendment-no-1-and-order-instituting-proceedings"/>
+    <published>2026-04-22T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.federalregister.gov/documents/2026/04/22/2026-07787/joint-industry-plan-notice-of-filing-of-amendment-no-1-and-order-instituting-proceedings-to</id>
+    <title>Joint Industry Plan; Notice of Filing of Amendment No. 1, and Order Instituting Proceedings To Determine Whether To Approve or Disapprove an Amendment to the Joint Self-Regulatory Organization Plan Governing the Collection, Consolidation and Dissemination of Quotation and Transaction Information for Nasdaq-Listed Securities Traded on Exchanges on an Unlisted Trading Privileges Basis, as Modified by Amendment No. 1 Thereto, To Extend the Processor's Hours of Operation</title>
+    <updated>2026-04-22T00:00:00+00:00</updated>
+    <content>Source: National Securities Exchanges
+Date: 2026-04-22</content>
+    <link href="https://www.federalregister.gov/documents/2026/04/22/2026-07787/joint-industry-plan-notice-of-filing-of-amendment-no-1-and-order-instituting-proceedings-to"/>
+    <published>2026-04-22T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.federalregister.gov/documents/2026/04/22/2026-07818/self-regulatory-organizations-cboe-exchange-inc-notice-of-filing-of-a-proposed-rule-change-to-amend</id>
+    <title>Self-Regulatory Organizations; Cboe Exchange, Inc.; Notice of Filing of a Proposed Rule Change To Amend Rule 4.21 (Series of FLEX Options)</title>
+    <updated>2026-04-22T00:00:00+00:00</updated>
+    <content>Source: National Securities Exchanges
+Date: 2026-04-22</content>
+    <link href="https://www.federalregister.gov/documents/2026/04/22/2026-07818/self-regulatory-organizations-cboe-exchange-inc-notice-of-filing-of-a-proposed-rule-change-to-amend"/>
+    <published>2026-04-22T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.federalregister.gov/documents/2026/04/22/2026-07820/self-regulatory-organizations-cboe-bzx-exchange-inc-notice-of-filing-of-a-proposed-rule-change-to</id>
+    <title>Self-Regulatory Organizations; Cboe BZX Exchange, Inc.; Notice of Filing of a Proposed Rule Change To List and Trade Shares of the BondBloxx Private Credit Trust Under BZX Rule 14.11(f), Trust Issued Receipts</title>
+    <updated>2026-04-22T00:00:00+00:00</updated>
+    <content>Source: National Securities Exchanges
+Date: 2026-04-22</content>
+    <link href="https://www.federalregister.gov/documents/2026/04/22/2026-07820/self-regulatory-organizations-cboe-bzx-exchange-inc-notice-of-filing-of-a-proposed-rule-change-to"/>
+    <published>2026-04-22T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.federalregister.gov/documents/2026/04/22/2026-07822/self-regulatory-organizations-national-securities-clearing-corporation-order-approving-proposed-rule</id>
+    <title>Self-Regulatory Organizations; National Securities Clearing Corporation; Order Approving Proposed Rule Change Concerning New Transaction Reporting Capability for Members That Maintain Clearing Relationships With Another Member</title>
+    <updated>2026-04-22T00:00:00+00:00</updated>
+    <content>Source: National Securities Exchanges
+Date: 2026-04-22</content>
+    <link href="https://www.federalregister.gov/documents/2026/04/22/2026-07822/self-regulatory-organizations-national-securities-clearing-corporation-order-approving-proposed-rule"/>
+    <published>2026-04-22T00:00:00+00:00</published>
   </entry>
 </feed>
