@@ -1,7 +1,15 @@
 {
-  "updated": "2026-04-25T01:29:25.229891+00:00",
-  "count": 30,
+  "updated": "2026-04-25T07:03:10.140426+00:00",
+  "count": 28,
   "filings": [
+    {
+      "id": "e80221887c66",
+      "title": "Self-Regulatory Organizations; LCH SA; Notice of Filing of Proposed Rule Change Relating to the Extension of Eligible Collateral to U.S. Treasury",
+      "url": "https://www.federalregister.gov/documents/2026/04/27/2026-08109/self-regulatory-organizations-lch-sa-notice-of-filing-of-proposed-rule-change-relating-to-the",
+      "date": "2026-04-27",
+      "description": "",
+      "source": "national-securities-exchanges"
+    },
     {
       "id": "22f08c2c2e8d",
       "title": "Self-Regulatory Organizations; National Securities Clearing Corporation; Order Approving Proposed Rule Change Concerning New Transaction Reporting Capability for Members That Maintain Clearing Relationships With Another Member",
@@ -215,30 +223,6 @@
       "title": "Self-Regulatory Organizations; NYSE Arca, Inc.; Order Approving a Proposed Rule Change To Amend Exchange Rule 5.3-O",
       "url": "https://www.federalregister.gov/documents/2026/04/06/2026-06568/self-regulatory-organizations-nyse-arca-inc-order-approving-a-proposed-rule-change-to-amend-exchange",
       "date": "2026-04-06",
-      "description": "",
-      "source": "national-securities-exchanges"
-    },
-    {
-      "id": "dc55baae8a5a",
-      "title": "Self-Regulatory Organizations; NYSE American LLC; Order Approving a Proposed Rule Change To Amend Exchange Rule 915",
-      "url": "https://www.federalregister.gov/documents/2026/04/06/2026-06567/self-regulatory-organizations-nyse-american-llc-order-approving-a-proposed-rule-change-to-amend",
-      "date": "2026-04-06",
-      "description": "",
-      "source": "national-securities-exchanges"
-    },
-    {
-      "id": "fecf5e5aa3fa",
-      "title": "Self-Regulatory Organizations; Cboe Exchange, Inc.; Notice of Filing of Amendment No. 1 and Order Granting Accelerated Approval of a Proposed Rule Change, as Modified by Amendment No. 1, To Amend Cboe Rule 5.4",
-      "url": "https://www.federalregister.gov/documents/2026/04/03/2026-06475/self-regulatory-organizations-cboe-exchange-inc-notice-of-filing-of-amendment-no-1-and-order",
-      "date": "2026-04-03",
-      "description": "",
-      "source": "national-securities-exchanges"
-    },
-    {
-      "id": "8db16eaa4f15",
-      "title": "Self-Regulatory Organizations; Cboe BZX Exchange, Inc.; Notice of Filing of Amendment No. 1 and Order Granting Accelerated Approval of a Proposed Rule Change, as Modified by Amendment No. 1, To Amend the Definition of \u201cIndicative Price\u201d Under Exchange Rule 11.23(a)(10) and Amend Exchange Rule 11.23(d)(2)(B) (Extending the Quote-Only Period for Initial Public Offering (\u201cIPO\u201d) Auctions)",
-      "url": "https://www.federalregister.gov/documents/2026/04/03/2026-06474/self-regulatory-organizations-cboe-bzx-exchange-inc-notice-of-filing-of-amendment-no-1-and-order",
-      "date": "2026-04-03",
       "description": "",
       "source": "national-securities-exchanges"
     }
