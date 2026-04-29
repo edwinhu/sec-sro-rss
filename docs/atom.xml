@@ -2,20 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://github.com/edwinhu/sec-sro-rss</id>
   <title>SEC Self-Regulatory Organization Rulemaking</title>
-  <updated>2026-04-29T02:05:44.364715+00:00</updated>
+  <updated>2026-04-29T08:01:35.294696+00:00</updated>
   <link href="https://www.sec.gov/rules-regulations/self-regulatory-organization-rulemaking" rel="alternate"/>
   <link href="https://edwinhu.github.io/sec-sro-rss/feed.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Filtered SEC SRO filings (excludes immediate effectiveness notices and crypto)</subtitle>
-  <entry>
-    <id>https://www.federalregister.gov/documents/2026/04/13/2026-07036/self-regulatory-organizations-nyse-texas-inc-notice-of-filing-of-amendment-no-2-and-order-granting</id>
-    <title>Self-Regulatory Organizations; NYSE Texas, Inc.; Notice of Filing of Amendment No. 2 and Order Granting Accelerated Approval of a Proposed Rule Change, as Modified by Amendment No. 2, To Adopt New Rule 5.2(j)(9) To Permit the Generic Listing and Trading of Class Exchange-Traded Fund Shares</title>
-    <updated>2026-04-13T00:00:00+00:00</updated>
-    <content>Source: National Securities Exchanges
-Date: 2026-04-13</content>
-    <link href="https://www.federalregister.gov/documents/2026/04/13/2026-07036/self-regulatory-organizations-nyse-texas-inc-notice-of-filing-of-amendment-no-2-and-order-granting"/>
-    <published>2026-04-13T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>https://www.federalregister.gov/documents/2026/04/14/2026-07137/self-regulatory-organizations-cboe-exchange-inc-order-instituting-proceedings-to-determine-whether</id>
     <title>Self-Regulatory Organizations; Cboe Exchange, Inc.; Order Instituting Proceedings To Determine Whether To Approve or Disapprove a Proposed Rule Change To Adopt VIX Future-Option Orders</title>
@@ -231,5 +222,14 @@ Date: 2026-04-28</content>
 Date: 2026-04-28</content>
     <link href="https://www.federalregister.gov/documents/2026/04/28/2026-08182/self-regulatory-organizations-financial-industry-regulatory-authority-inc-order-instituting"/>
     <published>2026-04-28T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.federalregister.gov/documents/2026/04/29/2026-08273/self-regulatory-organizations-texas-stock-exchange-llc-notice-of-filing-of-a-proposed-rule-change-to</id>
+    <title>Self-Regulatory Organizations; Texas Stock Exchange LLC; Notice of Filing of a Proposed Rule Change To Amend Certain Parts of its Opening and Closing Auctions</title>
+    <updated>2026-04-29T00:00:00+00:00</updated>
+    <content>Source: National Securities Exchanges
+Date: 2026-04-29</content>
+    <link href="https://www.federalregister.gov/documents/2026/04/29/2026-08273/self-regulatory-organizations-texas-stock-exchange-llc-notice-of-filing-of-a-proposed-rule-change-to"/>
+    <published>2026-04-29T00:00:00+00:00</published>
   </entry>
 </feed>

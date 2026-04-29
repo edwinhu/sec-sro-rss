@@ -1,7 +1,15 @@
 {
-  "updated": "2026-04-29T02:05:44.388470+00:00",
+  "updated": "2026-04-29T08:01:35.313731+00:00",
   "count": 25,
   "filings": [
+    {
+      "id": "48ea503a04b7",
+      "title": "Self-Regulatory Organizations; Texas Stock Exchange LLC; Notice of Filing of a Proposed Rule Change To Amend Certain Parts of its Opening and Closing Auctions",
+      "url": "https://www.federalregister.gov/documents/2026/04/29/2026-08273/self-regulatory-organizations-texas-stock-exchange-llc-notice-of-filing-of-a-proposed-rule-change-to",
+      "date": "2026-04-29",
+      "description": "",
+      "source": "national-securities-exchanges"
+    },
     {
       "id": "42e2ac7d98d1",
       "title": "Self-Regulatory Organizations; Financial Industry Regulatory Authority, Inc.; Order Instituting Proceedings To Determine Whether To Approve or Disapprove a Proposed Rule Change To Amend FINRA Rules 5110 (Corporate Financing Rule-Underwriting Terms and Arrangements) and 5123 (Private Placements of Securities)",
@@ -191,14 +199,6 @@
       "title": "Self-Regulatory Organizations; Cboe Exchange, Inc.; Order Instituting Proceedings To Determine Whether To Approve or Disapprove a Proposed Rule Change To Adopt VIX Future-Option Orders",
       "url": "https://www.federalregister.gov/documents/2026/04/14/2026-07137/self-regulatory-organizations-cboe-exchange-inc-order-instituting-proceedings-to-determine-whether",
       "date": "2026-04-14",
-      "description": "",
-      "source": "national-securities-exchanges"
-    },
-    {
-      "id": "a84480b062f6",
-      "title": "Self-Regulatory Organizations; NYSE Texas, Inc.; Notice of Filing of Amendment No. 2 and Order Granting Accelerated Approval of a Proposed Rule Change, as Modified by Amendment No. 2, To Adopt New Rule 5.2(j)(9) To Permit the Generic Listing and Trading of Class Exchange-Traded Fund Shares",
-      "url": "https://www.federalregister.gov/documents/2026/04/13/2026-07036/self-regulatory-organizations-nyse-texas-inc-notice-of-filing-of-amendment-no-2-and-order-granting",
-      "date": "2026-04-13",
       "description": "",
       "source": "national-securities-exchanges"
     }
