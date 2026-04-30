@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://github.com/edwinhu/sec-sro-rss</id>
   <title>SEC Self-Regulatory Organization Rulemaking</title>
-  <updated>2026-04-30T02:05:35.253784+00:00</updated>
+  <updated>2026-04-30T08:05:14.147825+00:00</updated>
   <link href="https://www.sec.gov/rules-regulations/self-regulatory-organization-rulemaking" rel="alternate"/>
   <link href="https://edwinhu.github.io/sec-sro-rss/feed.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -231,5 +231,41 @@ Date: 2026-04-28</content>
 Date: 2026-04-29</content>
     <link href="https://www.federalregister.gov/documents/2026/04/29/2026-08273/self-regulatory-organizations-texas-stock-exchange-llc-notice-of-filing-of-a-proposed-rule-change-to"/>
     <published>2026-04-29T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.federalregister.gov/documents/2026/04/30/2026-08366/self-regulatory-organizations-cboe-bzx-exchange-inc-order-instituting-proceedings-to-determine</id>
+    <title>Self-Regulatory Organizations; Cboe BZX Exchange, Inc.; Order Instituting Proceedings To Determine Whether To Approve or Disapprove a Proposed Rule Change To Amend the Opening Auction Process Provided Under Rule 11.23(b)(2)(B) to Delay the Opening Auction Under Certain Market Conditions</title>
+    <updated>2026-04-30T00:00:00+00:00</updated>
+    <content>Source: National Securities Exchanges
+Date: 2026-04-30</content>
+    <link href="https://www.federalregister.gov/documents/2026/04/30/2026-08366/self-regulatory-organizations-cboe-bzx-exchange-inc-order-instituting-proceedings-to-determine"/>
+    <published>2026-04-30T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.federalregister.gov/documents/2026/04/30/2026-08367/self-regulatory-organizations-nasdaq-ise-llc-order-approving-a-proposed-rule-change-as-modified-by</id>
+    <title>Self-Regulatory Organizations; Nasdaq ISE, LLC; Order Approving a Proposed Rule Change, as Modified by Amendment No. 5, To Amend the Position and Exercise Limits for IBIT Options</title>
+    <updated>2026-04-30T00:00:00+00:00</updated>
+    <content>Source: National Securities Exchanges
+Date: 2026-04-30</content>
+    <link href="https://www.federalregister.gov/documents/2026/04/30/2026-08367/self-regulatory-organizations-nasdaq-ise-llc-order-approving-a-proposed-rule-change-as-modified-by"/>
+    <published>2026-04-30T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.federalregister.gov/documents/2026/04/30/2026-08368/self-regulatory-organizations-nyse-arca-inc-notice-of-filing-of-proposed-rule-change-to-amend-rule</id>
+    <title>Self-Regulatory Organizations; NYSE Arca, Inc.; Notice of Filing of Proposed Rule Change To Amend Rule 8.201-E (Generic) To Modify the Generic Listing Standards for Commodity-Based Trust Shares</title>
+    <updated>2026-04-30T00:00:00+00:00</updated>
+    <content>Source: National Securities Exchanges
+Date: 2026-04-30</content>
+    <link href="https://www.federalregister.gov/documents/2026/04/30/2026-08368/self-regulatory-organizations-nyse-arca-inc-notice-of-filing-of-proposed-rule-change-to-amend-rule"/>
+    <published>2026-04-30T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.federalregister.gov/documents/2026/04/30/2026-08389/self-regulatory-organizations-the-fixed-income-clearing-corporation-notice-of-no-objection-to</id>
+    <title>Self-Regulatory Organizations; The Fixed Income Clearing Corporation; Notice of No Objection To Advance Notice To Raise Prefunded Default Liquidity Through the Commercial Paper Program</title>
+    <updated>2026-04-30T00:00:00+00:00</updated>
+    <content>Source: National Securities Exchanges
+Date: 2026-04-30</content>
+    <link href="https://www.federalregister.gov/documents/2026/04/30/2026-08389/self-regulatory-organizations-the-fixed-income-clearing-corporation-notice-of-no-objection-to"/>
+    <published>2026-04-30T00:00:00+00:00</published>
   </entry>
 </feed>
