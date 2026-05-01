@@ -1,7 +1,31 @@
 {
-  "updated": "2026-05-01T02:09:19.653392+00:00",
+  "updated": "2026-05-01T08:02:13.916709+00:00",
   "count": 29,
   "filings": [
+    {
+      "id": "5f89037fad24",
+      "title": "Self-Regulatory Organizations; The Nasdaq Stock Market LLC; Order Instituting Proceedings to Determine Whether To Approve or Disapprove a Proposed Rule Change To Adopt a New Continued Listing Requirement",
+      "url": "https://www.federalregister.gov/documents/2026/05/01/2026-08478/self-regulatory-organizations-the-nasdaq-stock-market-llc-order-instituting-proceedings-to-determine",
+      "date": "2026-05-01",
+      "description": "",
+      "source": "national-securities-exchanges"
+    },
+    {
+      "id": "861f41d3919a",
+      "title": "Program for Allocation of Regulatory Responsibilities Pursuant to Rule 17d-2; Notice of Filing and Order Approving and Declaring Effective an Amended Plan for the Allocation of Regulatory Responsibilities Between the Financial Industry Regulatory Authority, Inc. and Investors Exchange LLC",
+      "url": "https://www.federalregister.gov/documents/2026/05/01/2026-08474/program-for-allocation-of-regulatory-responsibilities-pursuant-to-rule-17d-2-notice-of-filing-and",
+      "date": "2026-05-01",
+      "description": "",
+      "source": "finra"
+    },
+    {
+      "id": "89e0a894a977",
+      "title": "Self-Regulatory Organizations; Cboe Exchange, Inc.; Notice of Filing of a Proposed Rule Change To Permit the Listing of A.M.-Settled Options on the S&P 500 Index that Expire on Any Monday, Tuesday, Wednesday, Thursday, or Friday (other than the Third Friday-of-the-Month or Days that Coincide With an End-of-Month Expiration) and Expire on the Last Trading Day of the Month",
+      "url": "https://www.federalregister.gov/documents/2026/05/01/2026-08471/self-regulatory-organizations-cboe-exchange-inc-notice-of-filing-of-a-proposed-rule-change-to-permit",
+      "date": "2026-05-01",
+      "description": "",
+      "source": "national-securities-exchanges"
+    },
     {
       "id": "db6f137eae2d",
       "title": "Self-Regulatory Organizations; The Fixed Income Clearing Corporation; Notice of No Objection To Advance Notice To Raise Prefunded Default Liquidity Through the Commercial Paper Program",
@@ -207,30 +231,6 @@
       "title": "Self-Regulatory Organizations; The Nasdaq Stock Market LLC; Notice of Filing of Amendment Nos. 2 and 3 and Order Granting Accelerated Approval of a Proposed Rule Change, as Amended by Amendment Nos. 2 and 3, To Extend the Exchange's Trading Hours to 23 Hours a Day, Five Days a Week",
       "url": "https://www.federalregister.gov/documents/2026/04/15/2026-07259/self-regulatory-organizations-the-nasdaq-stock-market-llc-notice-of-filing-of-amendment-nos-2-and-3",
       "date": "2026-04-15",
-      "description": "",
-      "source": "national-securities-exchanges"
-    },
-    {
-      "id": "a90481ce2ead",
-      "title": "Self-Regulatory Organizations; Cboe Exchange, Inc.; Notice of Filing of Amendment No. 3 and Order Granting Accelerated Approval of a Proposed Rule Change, as Modified and Superseded by Amendment No. 3, To Amend Rules 4.13 and 5.1 To Permit Options on the Dow Jones Industrial Average Index To Be P.M.-Settled",
-      "url": "https://www.federalregister.gov/documents/2026/04/15/2026-07257/self-regulatory-organizations-cboe-exchange-inc-notice-of-filing-of-amendment-no-3-and-order",
-      "date": "2026-04-15",
-      "description": "",
-      "source": "national-securities-exchanges"
-    },
-    {
-      "id": "0e2565decbf9",
-      "title": "Self-Regulatory Organizations; Fixed Income Clearing Corporation; Notice of Filing of Partial Amendment No. 2 and Notice of No Objection to Advance Notice, as Modified by Partial Amendment Nos. 1 and 2, To Amend and Restate the Second Amended and Restated Cross-Margining Agreement Between FICC and CME and Amend Related GSD Rules",
-      "url": "https://www.federalregister.gov/documents/2026/04/14/2026-07221/self-regulatory-organizations-fixed-income-clearing-corporation-notice-of-filing-of-partial",
-      "date": "2026-04-14",
-      "description": "",
-      "source": "national-securities-exchanges"
-    },
-    {
-      "id": "47a2164ad972",
-      "title": "Self-Regulatory Organizations; Cboe Exchange, Inc.; Order Instituting Proceedings To Determine Whether To Approve or Disapprove a Proposed Rule Change To Adopt VIX Future-Option Orders",
-      "url": "https://www.federalregister.gov/documents/2026/04/14/2026-07137/self-regulatory-organizations-cboe-exchange-inc-order-instituting-proceedings-to-determine-whether",
-      "date": "2026-04-14",
       "description": "",
       "source": "national-securities-exchanges"
     }
