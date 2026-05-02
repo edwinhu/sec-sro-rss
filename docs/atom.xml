@@ -2,20 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://github.com/edwinhu/sec-sro-rss</id>
   <title>SEC Self-Regulatory Organization Rulemaking</title>
-  <updated>2026-05-02T01:56:54.157529+00:00</updated>
+  <updated>2026-05-02T07:20:04.277014+00:00</updated>
   <link href="https://www.sec.gov/rules-regulations/self-regulatory-organization-rulemaking" rel="alternate"/>
   <link href="https://edwinhu.github.io/sec-sro-rss/feed.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Filtered SEC SRO filings (excludes immediate effectiveness notices and crypto)</subtitle>
-  <entry>
-    <id>https://www.federalregister.gov/documents/2026/04/15/2026-07259/self-regulatory-organizations-the-nasdaq-stock-market-llc-notice-of-filing-of-amendment-nos-2-and-3</id>
-    <title>Self-Regulatory Organizations; The Nasdaq Stock Market LLC; Notice of Filing of Amendment Nos. 2 and 3 and Order Granting Accelerated Approval of a Proposed Rule Change, as Amended by Amendment Nos. 2 and 3, To Extend the Exchange's Trading Hours to 23 Hours a Day, Five Days a Week</title>
-    <updated>2026-04-15T00:00:00+00:00</updated>
-    <content>Source: National Securities Exchanges
-Date: 2026-04-15</content>
-    <link href="https://www.federalregister.gov/documents/2026/04/15/2026-07259/self-regulatory-organizations-the-nasdaq-stock-market-llc-notice-of-filing-of-amendment-nos-2-and-3"/>
-    <published>2026-04-15T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>https://www.federalregister.gov/documents/2026/04/15/2026-07263/self-regulatory-organizations-cboe-edgx-exchange-inc-notice-of-filing-of-a-proposed-rule-change-to</id>
     <title>Self-Regulatory Organizations; Cboe EDGX Exchange, Inc.; Notice of Filing of a Proposed Rule Change To Amend Its Rules To Enable the Exchange To Offer Trading in Equity Securities and Exchange Traded Products 23 Hours per Day, Five Days per Week</title>
@@ -267,5 +258,23 @@ Date: 2026-05-01</content>
 Date: 2026-05-01</content>
     <link href="https://www.federalregister.gov/documents/2026/05/01/2026-08478/self-regulatory-organizations-the-nasdaq-stock-market-llc-order-instituting-proceedings-to-determine"/>
     <published>2026-05-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.federalregister.gov/documents/2026/05/04/2026-08565/self-regulatory-organizations-nyse-american-llc-notice-of-designation-of-a-longer-period-for</id>
+    <title>Self-Regulatory Organizations; NYSE American LLC; Notice of Designation of a Longer Period for Commission Action on a Proposed Rule Change To Amend Section 1003 of the NYSE American Company Guide</title>
+    <updated>2026-05-04T00:00:00+00:00</updated>
+    <content>Source: National Securities Exchanges
+Date: 2026-05-04</content>
+    <link href="https://www.federalregister.gov/documents/2026/05/04/2026-08565/self-regulatory-organizations-nyse-american-llc-notice-of-designation-of-a-longer-period-for"/>
+    <published>2026-05-04T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.federalregister.gov/documents/2026/05/04/2026-08567/self-regulatory-organizations-texas-stock-exchange-llc-notice-of-filing-of-proposed-minor-rule</id>
+    <title>Self-Regulatory Organizations; Texas Stock Exchange LLC; Notice of Filing of Proposed Minor Rule Violation Plan</title>
+    <updated>2026-05-04T00:00:00+00:00</updated>
+    <content>Source: National Securities Exchanges
+Date: 2026-05-04</content>
+    <link href="https://www.federalregister.gov/documents/2026/05/04/2026-08567/self-regulatory-organizations-texas-stock-exchange-llc-notice-of-filing-of-proposed-minor-rule"/>
+    <published>2026-05-04T00:00:00+00:00</published>
   </entry>
 </feed>

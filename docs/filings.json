@@ -1,7 +1,23 @@
 {
-  "updated": "2026-05-02T01:56:54.170400+00:00",
-  "count": 29,
+  "updated": "2026-05-02T07:20:04.299435+00:00",
+  "count": 30,
   "filings": [
+    {
+      "id": "3067d51808aa",
+      "title": "Self-Regulatory Organizations; Texas Stock Exchange LLC; Notice of Filing of Proposed Minor Rule Violation Plan",
+      "url": "https://www.federalregister.gov/documents/2026/05/04/2026-08567/self-regulatory-organizations-texas-stock-exchange-llc-notice-of-filing-of-proposed-minor-rule",
+      "date": "2026-05-04",
+      "description": "",
+      "source": "national-securities-exchanges"
+    },
+    {
+      "id": "848093908e25",
+      "title": "Self-Regulatory Organizations; NYSE American LLC; Notice of Designation of a Longer Period for Commission Action on a Proposed Rule Change To Amend Section 1003 of the NYSE American Company Guide",
+      "url": "https://www.federalregister.gov/documents/2026/05/04/2026-08565/self-regulatory-organizations-nyse-american-llc-notice-of-designation-of-a-longer-period-for",
+      "date": "2026-05-04",
+      "description": "",
+      "source": "national-securities-exchanges"
+    },
     {
       "id": "5f89037fad24",
       "title": "Self-Regulatory Organizations; The Nasdaq Stock Market LLC; Order Instituting Proceedings to Determine Whether To Approve or Disapprove a Proposed Rule Change To Adopt a New Continued Listing Requirement",
@@ -222,14 +238,6 @@
       "id": "22431172f396",
       "title": "Self-Regulatory Organizations; Cboe EDGX Exchange, Inc.; Notice of Filing of a Proposed Rule Change To Amend Its Rules To Enable the Exchange To Offer Trading in Equity Securities and Exchange Traded Products 23 Hours per Day, Five Days per Week",
       "url": "https://www.federalregister.gov/documents/2026/04/15/2026-07263/self-regulatory-organizations-cboe-edgx-exchange-inc-notice-of-filing-of-a-proposed-rule-change-to",
-      "date": "2026-04-15",
-      "description": "",
-      "source": "national-securities-exchanges"
-    },
-    {
-      "id": "5031059f294a",
-      "title": "Self-Regulatory Organizations; The Nasdaq Stock Market LLC; Notice of Filing of Amendment Nos. 2 and 3 and Order Granting Accelerated Approval of a Proposed Rule Change, as Amended by Amendment Nos. 2 and 3, To Extend the Exchange's Trading Hours to 23 Hours a Day, Five Days a Week",
-      "url": "https://www.federalregister.gov/documents/2026/04/15/2026-07259/self-regulatory-organizations-the-nasdaq-stock-market-llc-notice-of-filing-of-amendment-nos-2-and-3",
       "date": "2026-04-15",
       "description": "",
       "source": "national-securities-exchanges"
