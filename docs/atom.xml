@@ -2,20 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://github.com/edwinhu/sec-sro-rss</id>
   <title>SEC Self-Regulatory Organization Rulemaking</title>
-  <updated>2026-05-05T02:00:55.685124+00:00</updated>
+  <updated>2026-05-05T07:55:27.484925+00:00</updated>
   <link href="https://www.sec.gov/rules-regulations/self-regulatory-organization-rulemaking" rel="alternate"/>
   <link href="https://edwinhu.github.io/sec-sro-rss/feed.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Filtered SEC SRO filings (excludes immediate effectiveness notices and crypto)</subtitle>
-  <entry>
-    <id>https://www.federalregister.gov/documents/2026/04/15/2026-07263/self-regulatory-organizations-cboe-edgx-exchange-inc-notice-of-filing-of-a-proposed-rule-change-to</id>
-    <title>Self-Regulatory Organizations; Cboe EDGX Exchange, Inc.; Notice of Filing of a Proposed Rule Change To Amend Its Rules To Enable the Exchange To Offer Trading in Equity Securities and Exchange Traded Products 23 Hours per Day, Five Days per Week</title>
-    <updated>2026-04-15T00:00:00+00:00</updated>
-    <content>Source: National Securities Exchanges
-Date: 2026-04-15</content>
-    <link href="https://www.federalregister.gov/documents/2026/04/15/2026-07263/self-regulatory-organizations-cboe-edgx-exchange-inc-notice-of-filing-of-a-proposed-rule-change-to"/>
-    <published>2026-04-15T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>https://www.federalregister.gov/documents/2026/04/15/2026-07265/self-regulatory-organizations-the-options-clearing-corporation-notice-of-filing-of-proposed-rule</id>
     <title>Self-Regulatory Organizations; the Options Clearing Corporation; Notice of Filing of Proposed Rule Change by the Options Clearing Corporation Concerning Amendments to OCC's STANS Methodology Description To Enable OCC To Accept Binary Options for Clearing and Appropriately Manage the Risk Created by Binary Options</title>
@@ -276,5 +267,14 @@ Date: 2026-05-04</content>
 Date: 2026-05-04</content>
     <link href="https://www.federalregister.gov/documents/2026/05/04/2026-08567/self-regulatory-organizations-texas-stock-exchange-llc-notice-of-filing-of-proposed-minor-rule"/>
     <published>2026-05-04T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.federalregister.gov/documents/2026/05/05/2026-08680/self-regulatory-organizations-nasdaq-mrx-llc-notice-of-filing-of-amendment-nos-3-and-4-and-order</id>
+    <title>Self-Regulatory Organizations; Nasdaq MRX, LLC; Notice of Filing of Amendment Nos. 3 and 4, and Order Granting Accelerated Approval of a Proposed Rule Change, as Superseded by Amendment No. 3 and Modified by Amendment No. 4, To Adopt New Options Rule 3B To List and Trade Binary Broad-Based Index Options</title>
+    <updated>2026-05-05T00:00:00+00:00</updated>
+    <content>Source: National Securities Exchanges
+Date: 2026-05-05</content>
+    <link href="https://www.federalregister.gov/documents/2026/05/05/2026-08680/self-regulatory-organizations-nasdaq-mrx-llc-notice-of-filing-of-amendment-nos-3-and-4-and-order"/>
+    <published>2026-05-05T00:00:00+00:00</published>
   </entry>
 </feed>
