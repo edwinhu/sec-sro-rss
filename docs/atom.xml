@@ -2,38 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://github.com/edwinhu/sec-sro-rss</id>
   <title>SEC Self-Regulatory Organization Rulemaking</title>
-  <updated>2026-05-06T08:09:05.674292+00:00</updated>
+  <updated>2026-05-06T13:46:44.806688+00:00</updated>
   <link href="https://www.sec.gov/rules-regulations/self-regulatory-organization-rulemaking" rel="alternate"/>
   <link href="https://edwinhu.github.io/sec-sro-rss/feed.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Filtered SEC SRO filings (excludes immediate effectiveness notices and crypto)</subtitle>
-  <entry>
-    <id>https://www.federalregister.gov/documents/2026/04/15/2026-07265/self-regulatory-organizations-the-options-clearing-corporation-notice-of-filing-of-proposed-rule</id>
-    <title>Self-Regulatory Organizations; the Options Clearing Corporation; Notice of Filing of Proposed Rule Change by the Options Clearing Corporation Concerning Amendments to OCC's STANS Methodology Description To Enable OCC To Accept Binary Options for Clearing and Appropriately Manage the Risk Created by Binary Options</title>
-    <updated>2026-04-15T00:00:00+00:00</updated>
-    <content>Source: National Securities Exchanges
-Date: 2026-04-15</content>
-    <link href="https://www.federalregister.gov/documents/2026/04/15/2026-07265/self-regulatory-organizations-the-options-clearing-corporation-notice-of-filing-of-proposed-rule"/>
-    <published>2026-04-15T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.federalregister.gov/documents/2026/04/16/2026-07344/self-regulatory-organizations-national-securities-clearing-corporation-notice-of-filing-of-proposed</id>
-    <title>Self-Regulatory Organizations; National Securities Clearing Corporation; Notice of Filing of Proposed Rule Change Concerning NSCC's Ability To Support Industry Efforts To Extend Trading Hours for the U.S. Equity Markets</title>
-    <updated>2026-04-16T00:00:00+00:00</updated>
-    <content>Source: National Securities Exchanges
-Date: 2026-04-16</content>
-    <link href="https://www.federalregister.gov/documents/2026/04/16/2026-07344/self-regulatory-organizations-national-securities-clearing-corporation-notice-of-filing-of-proposed"/>
-    <published>2026-04-16T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.federalregister.gov/documents/2026/04/16/2026-07345/self-regulatory-organizations-cme-securities-clearing-inc-order-approving-proposed-rule-change-to</id>
-    <title>Self-Regulatory Organizations; CME Securities Clearing Inc.; Order Approving Proposed Rule Change To Modify the CME Securities Clearing Inc. Amended and Restated By-Laws, Board of Directors Charter, Risk Management Committee Charter, Nominating Committee Charter, and Audit Committee Charter</title>
-    <updated>2026-04-16T00:00:00+00:00</updated>
-    <content>Source: National Securities Exchanges
-Date: 2026-04-16</content>
-    <link href="https://www.federalregister.gov/documents/2026/04/16/2026-07345/self-regulatory-organizations-cme-securities-clearing-inc-order-approving-proposed-rule-change-to"/>
-    <published>2026-04-16T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>https://www.federalregister.gov/documents/2026/04/17/2026-07485/self-regulatory-organizations-financial-industry-regulatory-authority-inc-notice-of-filing-of</id>
     <title>Self-Regulatory Organizations; Financial Industry Regulatory Authority, Inc.; Notice of Filing of Amendment No. 1 and Order Granting Accelerated Approval of a Proposed Rule Change, as Modified by Amendment No. 1, To Amend FINRA Rule 4210 (Margin Requirements) To Replace the Day Trading Margin Provisions With Intraday Margin Standards</title>
@@ -276,5 +249,41 @@ Date: 2026-05-04</content>
 Date: 2026-05-05</content>
     <link href="https://www.federalregister.gov/documents/2026/05/05/2026-08680/self-regulatory-organizations-nasdaq-mrx-llc-notice-of-filing-of-amendment-nos-3-and-4-and-order"/>
     <published>2026-05-05T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.federalregister.gov/documents/2026/05/06/2026-08785/self-regulatory-organizations-financial-industry-regulatory-authority-inc-notice-of-filing-of-a</id>
+    <title>Self-Regulatory Organizations; Financial Industry Regulatory Authority, Inc.; Notice of Filing of a Proposed Rule Change To Amend the FINRA Rule 6700 Series (Trade Reporting and Compliance Engine) (TRACE) To Expand the Scope of the Non-Member Affiliate-Principal Transaction Indicator to Also Include Member Affiliates</title>
+    <updated>2026-05-06T00:00:00+00:00</updated>
+    <content>Source: Finra
+Date: 2026-05-06</content>
+    <link href="https://www.federalregister.gov/documents/2026/05/06/2026-08785/self-regulatory-organizations-financial-industry-regulatory-authority-inc-notice-of-filing-of-a"/>
+    <published>2026-05-06T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.federalregister.gov/documents/2026/05/06/2026-08787/self-regulatory-organizations-the-nasdaq-stock-market-llc-notice-of-designation-of-a-longer-period</id>
+    <title>Self-Regulatory Organizations; The Nasdaq Stock Market LLC; Notice of Designation of a Longer Period for Commission Action on a Proposed Rule Change To List and Trade Shares of the VanEck JitoSOL ETF Under Nasdaq Rule 5711(d) (Commodity-Based Trust Shares)</title>
+    <updated>2026-05-06T00:00:00+00:00</updated>
+    <content>Source: National Securities Exchanges
+Date: 2026-05-06</content>
+    <link href="https://www.federalregister.gov/documents/2026/05/06/2026-08787/self-regulatory-organizations-the-nasdaq-stock-market-llc-notice-of-designation-of-a-longer-period"/>
+    <published>2026-05-06T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.federalregister.gov/documents/2026/05/06/2026-08797/self-regulatory-organizations-financial-industry-regulatory-authority-inc-notice-of-filing-of</id>
+    <title>Self-Regulatory Organizations; Financial Industry Regulatory Authority, Inc.; Notice of Filing of Amendment No. 1 and Order Instituting Proceedings To Determine Whether To Approve or Disapprove a Proposed Rule Change, as Modified by Amendment No. 1, To Adopt FINRA Rule 3290 (Outside Activities Requirements)</title>
+    <updated>2026-05-06T00:00:00+00:00</updated>
+    <content>Source: Finra
+Date: 2026-05-06</content>
+    <link href="https://www.federalregister.gov/documents/2026/05/06/2026-08797/self-regulatory-organizations-financial-industry-regulatory-authority-inc-notice-of-filing-of"/>
+    <published>2026-05-06T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.federalregister.gov/documents/2026/05/06/2026-08955/self-regulatory-organizations-lch-sa-notice-of-an-application-for-an-exemption-pursuant-to-section</id>
+    <title>Self-Regulatory Organizations; LCH SA; Notice of an Application for an Exemption Pursuant to Section 36 of the Securities Exchange Act of 1934 Relating to Rule Filing Requirements and Request for Comment</title>
+    <updated>2026-05-06T00:00:00+00:00</updated>
+    <content>Source: National Securities Exchanges
+Date: 2026-05-06</content>
+    <link href="https://www.federalregister.gov/documents/2026/05/06/2026-08955/self-regulatory-organizations-lch-sa-notice-of-an-application-for-an-exemption-pursuant-to-section"/>
+    <published>2026-05-06T00:00:00+00:00</published>
   </entry>
 </feed>
