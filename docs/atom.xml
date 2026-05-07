@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://github.com/edwinhu/sec-sro-rss</id>
   <title>SEC Self-Regulatory Organization Rulemaking</title>
-  <updated>2026-05-07T02:03:06.976458+00:00</updated>
+  <updated>2026-05-07T08:17:31.859256+00:00</updated>
   <link href="https://www.sec.gov/rules-regulations/self-regulatory-organization-rulemaking" rel="alternate"/>
   <link href="https://edwinhu.github.io/sec-sro-rss/feed.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -285,5 +285,23 @@ Date: 2026-05-06</content>
 Date: 2026-05-06</content>
     <link href="https://www.federalregister.gov/documents/2026/05/06/2026-08955/self-regulatory-organizations-lch-sa-notice-of-an-application-for-an-exemption-pursuant-to-section"/>
     <published>2026-05-06T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.federalregister.gov/documents/2026/05/07/2026-08994/program-for-allocation-of-regulatory-responsibilities-pursuant-to-rule-17d-2-notice-of-filing-and</id>
+    <title>Program for Allocation of Regulatory Responsibilities Pursuant to Rule 17d-2; Notice of Filing and Order Approving and Declaring Effective an Amendment to the Plan for the Allocation of Regulatory Responsibilities Among Cboe BZX Exchange, Inc., Cboe BYX Exchange, Inc., NYSE Texas, Inc., Cboe EDGA Exchange, Inc., Cboe EDGX Exchange, Inc., Financial Industry Regulatory Authority, Inc., MEMX LLC, MIAX PEARL, LLC, Nasdaq Texas LLC, Nasdaq PHLX LLC, The Nasdaq Stock Market LLC, NYSE National, Inc., New York Stock Exchange LLC, NYSE American LLC, NYSE Arca, Inc., Investors Exchange LLC, Long-Term Stock Exchange, Inc., 24X National Exchange LLC, Green Impact Exchange, LLC, MX2 LLC, and Texas Stock Exchange LLC Relating to the Surveillance, Investigation, and Enforcement of Insider Trading Rules</title>
+    <updated>2026-05-07T00:00:00+00:00</updated>
+    <content>Source: Finra
+Date: 2026-05-07</content>
+    <link href="https://www.federalregister.gov/documents/2026/05/07/2026-08994/program-for-allocation-of-regulatory-responsibilities-pursuant-to-rule-17d-2-notice-of-filing-and"/>
+    <published>2026-05-07T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.federalregister.gov/documents/2026/05/07/2026-08997/self-regulatory-organizations-municipal-securities-rulemaking-board-notice-of-filing-of-a-proposed</id>
+    <title>Self-Regulatory Organizations; Municipal Securities Rulemaking Board; Notice of Filing of a Proposed Rule Change To Amend MSRB Rule G-12(c) To Codify and Retire or Revise Certain Existing Interpretive Guidance on Confirmation Requirements for Those Inter-Dealer Municipal Securities Transactions That Are Ineligible for Automated Comparison</title>
+    <updated>2026-05-07T00:00:00+00:00</updated>
+    <content>Source: National Securities Exchanges
+Date: 2026-05-07</content>
+    <link href="https://www.federalregister.gov/documents/2026/05/07/2026-08997/self-regulatory-organizations-municipal-securities-rulemaking-board-notice-of-filing-of-a-proposed"/>
+    <published>2026-05-07T00:00:00+00:00</published>
   </entry>
 </feed>
