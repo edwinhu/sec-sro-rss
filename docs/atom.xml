@@ -2,29 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://github.com/edwinhu/sec-sro-rss</id>
   <title>SEC Self-Regulatory Organization Rulemaking</title>
-  <updated>2026-05-08T02:09:40.901077+00:00</updated>
+  <updated>2026-05-08T07:16:44.464563+00:00</updated>
   <link href="https://www.sec.gov/rules-regulations/self-regulatory-organization-rulemaking" rel="alternate"/>
   <link href="https://edwinhu.github.io/sec-sro-rss/feed.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Filtered SEC SRO filings (excludes immediate effectiveness notices and crypto)</subtitle>
-  <entry>
-    <id>https://www.federalregister.gov/documents/2026/04/17/2026-07485/self-regulatory-organizations-financial-industry-regulatory-authority-inc-notice-of-filing-of</id>
-    <title>Self-Regulatory Organizations; Financial Industry Regulatory Authority, Inc.; Notice of Filing of Amendment No. 1 and Order Granting Accelerated Approval of a Proposed Rule Change, as Modified by Amendment No. 1, To Amend FINRA Rule 4210 (Margin Requirements) To Replace the Day Trading Margin Provisions With Intraday Margin Standards</title>
-    <updated>2026-04-17T00:00:00+00:00</updated>
-    <content>Source: Finra
-Date: 2026-04-17</content>
-    <link href="https://www.federalregister.gov/documents/2026/04/17/2026-07485/self-regulatory-organizations-financial-industry-regulatory-authority-inc-notice-of-filing-of"/>
-    <published>2026-04-17T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.federalregister.gov/documents/2026/04/17/2026-07490/self-regulatory-organizations-cme-securities-clearing-inc-notice-of-filing-of-proposed-rule-change</id>
-    <title>Self-Regulatory Organizations; CME Securities Clearing Inc.; Notice of Filing of Proposed Rule Change To Establish the CME Securities Clearing Inc. Enterprise Risk Management Framework</title>
-    <updated>2026-04-17T00:00:00+00:00</updated>
-    <content>Source: National Securities Exchanges
-Date: 2026-04-17</content>
-    <link href="https://www.federalregister.gov/documents/2026/04/17/2026-07490/self-regulatory-organizations-cme-securities-clearing-inc-notice-of-filing-of-proposed-rule-change"/>
-    <published>2026-04-17T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>https://www.federalregister.gov/documents/2026/04/17/2026-07492/self-regulatory-organizations-lch-sa-notice-of-filing-of-proposed-rule-change-relating-to-the</id>
     <title>Self-Regulatory Organizations; LCH SA; Notice of Filing of Proposed Rule Change Relating to the CDSClear Risk Framework</title>
@@ -303,5 +285,50 @@ Date: 2026-05-07</content>
 Date: 2026-05-07</content>
     <link href="https://www.federalregister.gov/documents/2026/05/07/2026-08997/self-regulatory-organizations-municipal-securities-rulemaking-board-notice-of-filing-of-a-proposed"/>
     <published>2026-05-07T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.federalregister.gov/documents/2026/05/08/2026-09121/agency-information-collection-activities-submission-for-omb-review-comment-request-extension-rule</id>
+    <title>Agency Information Collection Activities; Submission for OMB Review; Comment Request; Extension: Rule 104</title>
+    <updated>2026-05-08T00:00:00+00:00</updated>
+    <content>Source: National Securities Exchanges
+Date: 2026-05-08</content>
+    <link href="https://www.federalregister.gov/documents/2026/05/08/2026-09121/agency-information-collection-activities-submission-for-omb-review-comment-request-extension-rule"/>
+    <published>2026-05-08T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.federalregister.gov/documents/2026/05/08/2026-09122/self-regulatory-organizations-nasdaq-ise-llc-notice-of-filing-of-proposed-rule-change-to-permit-the</id>
+    <title>Self-Regulatory Organizations; Nasdaq ISE, LLC; Notice of Filing of Proposed Rule Change To Permit the Listing of A.M.-Settled Options on the Nasdaq-100 Index That Expire on Any Monday, Tuesday, Wednesday, Thursday, or Friday (Other Than the Third Friday-of-the-Month or Days That Coincide With an End-of-Month Expiration) and Expire on the Last Trading Day of the Month</title>
+    <updated>2026-05-08T00:00:00+00:00</updated>
+    <content>Source: National Securities Exchanges
+Date: 2026-05-08</content>
+    <link href="https://www.federalregister.gov/documents/2026/05/08/2026-09122/self-regulatory-organizations-nasdaq-ise-llc-notice-of-filing-of-proposed-rule-change-to-permit-the"/>
+    <published>2026-05-08T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.federalregister.gov/documents/2026/05/08/2026-09123/self-regulatory-organizations-texas-stock-exchange-llc-notice-of-filing-of-a-proposed-rule-change-to</id>
+    <title>Self-Regulatory Organizations; Texas Stock Exchange LLC; Notice of Filing of a Proposed Rule Change To Adopt Rules Related to the Listing and Trading of Closed-End Funds on the Exchange</title>
+    <updated>2026-05-08T00:00:00+00:00</updated>
+    <content>Source: National Securities Exchanges
+Date: 2026-05-08</content>
+    <link href="https://www.federalregister.gov/documents/2026/05/08/2026-09123/self-regulatory-organizations-texas-stock-exchange-llc-notice-of-filing-of-a-proposed-rule-change-to"/>
+    <published>2026-05-08T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.federalregister.gov/documents/2026/05/08/2026-09126/self-regulatory-organizations-cboe-exchange-inc-notice-of-designation-of-a-longer-period-for</id>
+    <title>Self-Regulatory Organizations; Cboe Exchange, Inc.; Notice of Designation of a Longer Period for Commission Action on a Proposed Rule Change To Amend Certain Rules Regarding Complex Orders and Complex Order Auctions To Accommodate Stop-Limit Complex Orders and Establish Stop Complex Order Auctions as a New Type of Auction Mechanism</title>
+    <updated>2026-05-08T00:00:00+00:00</updated>
+    <content>Source: National Securities Exchanges
+Date: 2026-05-08</content>
+    <link href="https://www.federalregister.gov/documents/2026/05/08/2026-09126/self-regulatory-organizations-cboe-exchange-inc-notice-of-designation-of-a-longer-period-for"/>
+    <published>2026-05-08T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.federalregister.gov/documents/2026/05/08/2026-09128/self-regulatory-organizations-lch-sa-order-approving-proposed-rule-change-relating-to-the-cds</id>
+    <title>Self-Regulatory Organizations; LCH SA; Order Approving Proposed Rule Change Relating to the CDS Clearing Rules (AMF Outsourcing; EMIR SITG; EU CCPRR)</title>
+    <updated>2026-05-08T00:00:00+00:00</updated>
+    <content>Source: National Securities Exchanges
+Date: 2026-05-08</content>
+    <link href="https://www.federalregister.gov/documents/2026/05/08/2026-09128/self-regulatory-organizations-lch-sa-order-approving-proposed-rule-change-relating-to-the-cds"/>
+    <published>2026-05-08T00:00:00+00:00</published>
   </entry>
 </feed>

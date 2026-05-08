@@ -1,7 +1,47 @@
 {
-  "updated": "2026-05-08T02:09:40.927471+00:00",
-  "count": 33,
+  "updated": "2026-05-08T07:16:44.475208+00:00",
+  "count": 36,
   "filings": [
+    {
+      "id": "5c0b2d23eea6",
+      "title": "Self-Regulatory Organizations; LCH SA; Order Approving Proposed Rule Change Relating to the CDS Clearing Rules (AMF Outsourcing; EMIR SITG; EU CCPRR)",
+      "url": "https://www.federalregister.gov/documents/2026/05/08/2026-09128/self-regulatory-organizations-lch-sa-order-approving-proposed-rule-change-relating-to-the-cds",
+      "date": "2026-05-08",
+      "description": "",
+      "source": "national-securities-exchanges"
+    },
+    {
+      "id": "8281c72e29dc",
+      "title": "Self-Regulatory Organizations; Cboe Exchange, Inc.; Notice of Designation of a Longer Period for Commission Action on a Proposed Rule Change To Amend Certain Rules Regarding Complex Orders and Complex Order Auctions To Accommodate Stop-Limit Complex Orders and Establish Stop Complex Order Auctions as a New Type of Auction Mechanism",
+      "url": "https://www.federalregister.gov/documents/2026/05/08/2026-09126/self-regulatory-organizations-cboe-exchange-inc-notice-of-designation-of-a-longer-period-for",
+      "date": "2026-05-08",
+      "description": "",
+      "source": "national-securities-exchanges"
+    },
+    {
+      "id": "4501a659f5cc",
+      "title": "Self-Regulatory Organizations; Texas Stock Exchange LLC; Notice of Filing of a Proposed Rule Change To Adopt Rules Related to the Listing and Trading of Closed-End Funds on the Exchange",
+      "url": "https://www.federalregister.gov/documents/2026/05/08/2026-09123/self-regulatory-organizations-texas-stock-exchange-llc-notice-of-filing-of-a-proposed-rule-change-to",
+      "date": "2026-05-08",
+      "description": "",
+      "source": "national-securities-exchanges"
+    },
+    {
+      "id": "1a8ab4abdfe9",
+      "title": "Self-Regulatory Organizations; Nasdaq ISE, LLC; Notice of Filing of Proposed Rule Change To Permit the Listing of A.M.-Settled Options on the Nasdaq-100 Index That Expire on Any Monday, Tuesday, Wednesday, Thursday, or Friday (Other Than the Third Friday-of-the-Month or Days That Coincide With an End-of-Month Expiration) and Expire on the Last Trading Day of the Month",
+      "url": "https://www.federalregister.gov/documents/2026/05/08/2026-09122/self-regulatory-organizations-nasdaq-ise-llc-notice-of-filing-of-proposed-rule-change-to-permit-the",
+      "date": "2026-05-08",
+      "description": "",
+      "source": "national-securities-exchanges"
+    },
+    {
+      "id": "228409105dad",
+      "title": "Agency Information Collection Activities; Submission for OMB Review; Comment Request; Extension: Rule 104",
+      "url": "https://www.federalregister.gov/documents/2026/05/08/2026-09121/agency-information-collection-activities-submission-for-omb-review-comment-request-extension-rule",
+      "date": "2026-05-08",
+      "description": "",
+      "source": "national-securities-exchanges"
+    },
     {
       "id": "aa0c61cc8e26",
       "title": "Self-Regulatory Organizations; Municipal Securities Rulemaking Board; Notice of Filing of a Proposed Rule Change To Amend MSRB Rule G-12(c) To Codify and Retire or Revise Certain Existing Interpretive Guidance on Confirmation Requirements for Those Inter-Dealer Municipal Securities Transactions That Are Ineligible for Automated Comparison",
@@ -249,22 +289,6 @@
       "date": "2026-04-17",
       "description": "",
       "source": "national-securities-exchanges"
-    },
-    {
-      "id": "bd6e66c40659",
-      "title": "Self-Regulatory Organizations; CME Securities Clearing Inc.; Notice of Filing of Proposed Rule Change To Establish the CME Securities Clearing Inc. Enterprise Risk Management Framework",
-      "url": "https://www.federalregister.gov/documents/2026/04/17/2026-07490/self-regulatory-organizations-cme-securities-clearing-inc-notice-of-filing-of-proposed-rule-change",
-      "date": "2026-04-17",
-      "description": "",
-      "source": "national-securities-exchanges"
-    },
-    {
-      "id": "cde164b9966d",
-      "title": "Self-Regulatory Organizations; Financial Industry Regulatory Authority, Inc.; Notice of Filing of Amendment No. 1 and Order Granting Accelerated Approval of a Proposed Rule Change, as Modified by Amendment No. 1, To Amend FINRA Rule 4210 (Margin Requirements) To Replace the Day Trading Margin Provisions With Intraday Margin Standards",
-      "url": "https://www.federalregister.gov/documents/2026/04/17/2026-07485/self-regulatory-organizations-financial-industry-regulatory-authority-inc-notice-of-filing-of",
-      "date": "2026-04-17",
-      "description": "",
-      "source": "finra"
     }
   ]
 }
