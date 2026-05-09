@@ -2,38 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://github.com/edwinhu/sec-sro-rss</id>
   <title>SEC Self-Regulatory Organization Rulemaking</title>
-  <updated>2026-05-09T02:03:29.244930+00:00</updated>
+  <updated>2026-05-09T07:44:18.521446+00:00</updated>
   <link href="https://www.sec.gov/rules-regulations/self-regulatory-organization-rulemaking" rel="alternate"/>
   <link href="https://edwinhu.github.io/sec-sro-rss/feed.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Filtered SEC SRO filings (excludes immediate effectiveness notices and crypto)</subtitle>
-  <entry>
-    <id>https://www.federalregister.gov/documents/2026/04/17/2026-07492/self-regulatory-organizations-lch-sa-notice-of-filing-of-proposed-rule-change-relating-to-the</id>
-    <title>Self-Regulatory Organizations; LCH SA; Notice of Filing of Proposed Rule Change Relating to the CDSClear Risk Framework</title>
-    <updated>2026-04-17T00:00:00+00:00</updated>
-    <content>Source: National Securities Exchanges
-Date: 2026-04-17</content>
-    <link href="https://www.federalregister.gov/documents/2026/04/17/2026-07492/self-regulatory-organizations-lch-sa-notice-of-filing-of-proposed-rule-change-relating-to-the"/>
-    <published>2026-04-17T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.federalregister.gov/documents/2026/04/20/2026-07592/self-regulatory-organizations-long-term-stock-exchange-inc-notice-of-filing-of-amendment-no-1-and</id>
-    <title>Self-Regulatory Organizations; Long-Term Stock Exchange, Inc.; Notice of Filing of Amendment No. 1 and Order Granting Accelerated Approval of a Proposed Rule Change Regarding Complimentary Products and Services Offered by the Exchange</title>
-    <updated>2026-04-20T00:00:00+00:00</updated>
-    <content>Source: National Securities Exchanges
-Date: 2026-04-20</content>
-    <link href="https://www.federalregister.gov/documents/2026/04/20/2026-07592/self-regulatory-organizations-long-term-stock-exchange-inc-notice-of-filing-of-amendment-no-1-and"/>
-    <published>2026-04-20T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.federalregister.gov/documents/2026/04/20/2026-07596/self-regulatory-organizations-cboe-exchange-inc-notice-of-filing-of-a-proposed-rule-change-to-amend</id>
-    <title>Self-Regulatory Organizations; Cboe Exchange, Inc.; Notice of Filing of a Proposed Rule Change To Amend Its Rules Related to Binary Options</title>
-    <updated>2026-04-20T00:00:00+00:00</updated>
-    <content>Source: National Securities Exchanges
-Date: 2026-04-20</content>
-    <link href="https://www.federalregister.gov/documents/2026/04/20/2026-07596/self-regulatory-organizations-cboe-exchange-inc-notice-of-filing-of-a-proposed-rule-change-to-amend"/>
-    <published>2026-04-20T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>https://www.federalregister.gov/documents/2026/04/20/2026-07635/self-regulatory-organizations-fixed-income-clearing-corporation-notice-of-filing-of-partial</id>
     <title>Self-Regulatory Organizations; Fixed Income Clearing Corporation; Notice of Filing of Partial Amendment No. 2 and Order Granting Accelerated Approval of Proposed Rule Change, as Modified by Partial Amendment Nos. 1 and 2, To Amend and Restate the Second Amended and Restated Cross-Margining Agreement Between FICC and CME and Amend Related GSD Rules</title>
@@ -330,5 +303,14 @@ Date: 2026-05-08</content>
 Date: 2026-05-08</content>
     <link href="https://www.federalregister.gov/documents/2026/05/08/2026-09128/self-regulatory-organizations-lch-sa-order-approving-proposed-rule-change-relating-to-the-cds"/>
     <published>2026-05-08T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.federalregister.gov/documents/2026/05/11/2026-09239/proposed-collection-comment-request-extension-rule-15b6-1-and-form-bdw</id>
+    <title>Proposed Collection; Comment Request; Extension: Rule 15b6-1 and Form BDW</title>
+    <updated>2026-05-11T00:00:00+00:00</updated>
+    <content>Source: National Securities Exchanges
+Date: 2026-05-11</content>
+    <link href="https://www.federalregister.gov/documents/2026/05/11/2026-09239/proposed-collection-comment-request-extension-rule-15b6-1-and-form-bdw"/>
+    <published>2026-05-11T00:00:00+00:00</published>
   </entry>
 </feed>
