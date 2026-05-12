@@ -2,83 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://github.com/edwinhu/sec-sro-rss</id>
   <title>SEC Self-Regulatory Organization Rulemaking</title>
-  <updated>2026-05-12T08:27:12.093330+00:00</updated>
+  <updated>2026-05-12T13:57:32.491385+00:00</updated>
   <link href="https://www.sec.gov/rules-regulations/self-regulatory-organization-rulemaking" rel="alternate"/>
   <link href="https://edwinhu.github.io/sec-sro-rss/feed.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Filtered SEC SRO filings (excludes immediate effectiveness notices and crypto)</subtitle>
-  <entry>
-    <id>https://www.federalregister.gov/documents/2026/04/20/2026-07635/self-regulatory-organizations-fixed-income-clearing-corporation-notice-of-filing-of-partial</id>
-    <title>Self-Regulatory Organizations; Fixed Income Clearing Corporation; Notice of Filing of Partial Amendment No. 2 and Order Granting Accelerated Approval of Proposed Rule Change, as Modified by Partial Amendment Nos. 1 and 2, To Amend and Restate the Second Amended and Restated Cross-Margining Agreement Between FICC and CME and Amend Related GSD Rules</title>
-    <updated>2026-04-20T00:00:00+00:00</updated>
-    <content>Source: National Securities Exchanges
-Date: 2026-04-20</content>
-    <link href="https://www.federalregister.gov/documents/2026/04/20/2026-07635/self-regulatory-organizations-fixed-income-clearing-corporation-notice-of-filing-of-partial"/>
-    <published>2026-04-20T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.federalregister.gov/documents/2026/04/20/2026-07636/order-under-section-36-of-the-securities-exchange-act-of-1934-the-exchange-act-granting-conditional</id>
-    <title>Order Under Section 36 of the Securities Exchange Act of 1934 (the “Exchange Act”) Granting Conditional Exemptive Relief from Section 15(c)(3) of and Rule 15c3-3 Under the Exchange Act for Cross-Margining of Cleared U.S. Treasury Securities and Related Futures</title>
-    <updated>2026-04-20T00:00:00+00:00</updated>
-    <content>Source: National Securities Exchanges
-Date: 2026-04-20</content>
-    <link href="https://www.federalregister.gov/documents/2026/04/20/2026-07636/order-under-section-36-of-the-securities-exchange-act-of-1934-the-exchange-act-granting-conditional"/>
-    <published>2026-04-20T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.federalregister.gov/documents/2026/04/21/2026-07686/self-regulatory-organizations-the-nasdaq-stock-market-llc-notice-of-designation-of-a-longer-period</id>
-    <title>Self-Regulatory Organizations; The Nasdaq Stock Market LLC; Notice of Designation of a Longer Period for Commission Action on a Proposed Rule Change To Adopt Listing Rule IM-5101-4</title>
-    <updated>2026-04-21T00:00:00+00:00</updated>
-    <content>Source: National Securities Exchanges
-Date: 2026-04-21</content>
-    <link href="https://www.federalregister.gov/documents/2026/04/21/2026-07686/self-regulatory-organizations-the-nasdaq-stock-market-llc-notice-of-designation-of-a-longer-period"/>
-    <published>2026-04-21T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.federalregister.gov/documents/2026/04/22/2026-07783/consolidated-tape-association-notice-of-filing-of-amendment-no-1-and-order-instituting-proceedings</id>
-    <title>Consolidated Tape Association; Notice of Filing of Amendment No. 1, and Order Instituting Proceedings To Determine Whether To Approve or Disapprove the Fortieth Substantive Amendment to the Second Restatement of the CTA Plan and Thirty-First Substantive Amendment to the Restated CQ Plan, as Modified by Amendment No. 1 Thereto, To Extend the Processor's Hours of Operation</title>
-    <updated>2026-04-22T00:00:00+00:00</updated>
-    <content>Source: National Securities Exchanges
-Date: 2026-04-22</content>
-    <link href="https://www.federalregister.gov/documents/2026/04/22/2026-07783/consolidated-tape-association-notice-of-filing-of-amendment-no-1-and-order-instituting-proceedings"/>
-    <published>2026-04-22T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.federalregister.gov/documents/2026/04/22/2026-07787/joint-industry-plan-notice-of-filing-of-amendment-no-1-and-order-instituting-proceedings-to</id>
-    <title>Joint Industry Plan; Notice of Filing of Amendment No. 1, and Order Instituting Proceedings To Determine Whether To Approve or Disapprove an Amendment to the Joint Self-Regulatory Organization Plan Governing the Collection, Consolidation and Dissemination of Quotation and Transaction Information for Nasdaq-Listed Securities Traded on Exchanges on an Unlisted Trading Privileges Basis, as Modified by Amendment No. 1 Thereto, To Extend the Processor's Hours of Operation</title>
-    <updated>2026-04-22T00:00:00+00:00</updated>
-    <content>Source: National Securities Exchanges
-Date: 2026-04-22</content>
-    <link href="https://www.federalregister.gov/documents/2026/04/22/2026-07787/joint-industry-plan-notice-of-filing-of-amendment-no-1-and-order-instituting-proceedings-to"/>
-    <published>2026-04-22T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.federalregister.gov/documents/2026/04/22/2026-07818/self-regulatory-organizations-cboe-exchange-inc-notice-of-filing-of-a-proposed-rule-change-to-amend</id>
-    <title>Self-Regulatory Organizations; Cboe Exchange, Inc.; Notice of Filing of a Proposed Rule Change To Amend Rule 4.21 (Series of FLEX Options)</title>
-    <updated>2026-04-22T00:00:00+00:00</updated>
-    <content>Source: National Securities Exchanges
-Date: 2026-04-22</content>
-    <link href="https://www.federalregister.gov/documents/2026/04/22/2026-07818/self-regulatory-organizations-cboe-exchange-inc-notice-of-filing-of-a-proposed-rule-change-to-amend"/>
-    <published>2026-04-22T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.federalregister.gov/documents/2026/04/22/2026-07820/self-regulatory-organizations-cboe-bzx-exchange-inc-notice-of-filing-of-a-proposed-rule-change-to</id>
-    <title>Self-Regulatory Organizations; Cboe BZX Exchange, Inc.; Notice of Filing of a Proposed Rule Change To List and Trade Shares of the BondBloxx Private Credit Trust Under BZX Rule 14.11(f), Trust Issued Receipts</title>
-    <updated>2026-04-22T00:00:00+00:00</updated>
-    <content>Source: National Securities Exchanges
-Date: 2026-04-22</content>
-    <link href="https://www.federalregister.gov/documents/2026/04/22/2026-07820/self-regulatory-organizations-cboe-bzx-exchange-inc-notice-of-filing-of-a-proposed-rule-change-to"/>
-    <published>2026-04-22T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.federalregister.gov/documents/2026/04/22/2026-07822/self-regulatory-organizations-national-securities-clearing-corporation-order-approving-proposed-rule</id>
-    <title>Self-Regulatory Organizations; National Securities Clearing Corporation; Order Approving Proposed Rule Change Concerning New Transaction Reporting Capability for Members That Maintain Clearing Relationships With Another Member</title>
-    <updated>2026-04-22T00:00:00+00:00</updated>
-    <content>Source: National Securities Exchanges
-Date: 2026-04-22</content>
-    <link href="https://www.federalregister.gov/documents/2026/04/22/2026-07822/self-regulatory-organizations-national-securities-clearing-corporation-order-approving-proposed-rule"/>
-    <published>2026-04-22T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>https://www.federalregister.gov/documents/2026/04/27/2026-08109/self-regulatory-organizations-lch-sa-notice-of-filing-of-proposed-rule-change-relating-to-the</id>
     <title>Self-Regulatory Organizations; LCH SA; Notice of Filing of Proposed Rule Change Relating to the Extension of Eligible Collateral to U.S. Treasury</title>
