@@ -2,38 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://github.com/edwinhu/sec-sro-rss</id>
   <title>SEC Self-Regulatory Organization Rulemaking</title>
-  <updated>2026-05-13T02:14:12.069449+00:00</updated>
+  <updated>2026-05-13T08:33:53.214912+00:00</updated>
   <link href="https://www.sec.gov/rules-regulations/self-regulatory-organization-rulemaking" rel="alternate"/>
   <link href="https://edwinhu.github.io/sec-sro-rss/feed.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Filtered SEC SRO filings (excludes immediate effectiveness notices and crypto)</subtitle>
-  <entry>
-    <id>https://www.federalregister.gov/documents/2026/04/27/2026-08109/self-regulatory-organizations-lch-sa-notice-of-filing-of-proposed-rule-change-relating-to-the</id>
-    <title>Self-Regulatory Organizations; LCH SA; Notice of Filing of Proposed Rule Change Relating to the Extension of Eligible Collateral to U.S. Treasury</title>
-    <updated>2026-04-27T00:00:00+00:00</updated>
-    <content>Source: National Securities Exchanges
-Date: 2026-04-27</content>
-    <link href="https://www.federalregister.gov/documents/2026/04/27/2026-08109/self-regulatory-organizations-lch-sa-notice-of-filing-of-proposed-rule-change-relating-to-the"/>
-    <published>2026-04-27T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.federalregister.gov/documents/2026/04/28/2026-08179/self-regulatory-organizations-the-nasdaq-stock-market-llc-notice-of-filing-of-proposed-rule-change</id>
-    <title>Self-Regulatory Organizations; The Nasdaq Stock Market LLC; Notice of Filing of Proposed Rule Change To Amend Rule 5711(d) To Modify the Generic Listing Standards for Commodity-Based Trust Shares</title>
-    <updated>2026-04-28T00:00:00+00:00</updated>
-    <content>Source: National Securities Exchanges
-Date: 2026-04-28</content>
-    <link href="https://www.federalregister.gov/documents/2026/04/28/2026-08179/self-regulatory-organizations-the-nasdaq-stock-market-llc-notice-of-filing-of-proposed-rule-change"/>
-    <published>2026-04-28T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.federalregister.gov/documents/2026/04/28/2026-08182/self-regulatory-organizations-financial-industry-regulatory-authority-inc-order-instituting</id>
-    <title>Self-Regulatory Organizations; Financial Industry Regulatory Authority, Inc.; Order Instituting Proceedings To Determine Whether To Approve or Disapprove a Proposed Rule Change To Amend FINRA Rules 5110 (Corporate Financing Rule-Underwriting Terms and Arrangements) and 5123 (Private Placements of Securities)</title>
-    <updated>2026-04-28T00:00:00+00:00</updated>
-    <content>Source: Finra
-Date: 2026-04-28</content>
-    <link href="https://www.federalregister.gov/documents/2026/04/28/2026-08182/self-regulatory-organizations-financial-industry-regulatory-authority-inc-order-instituting"/>
-    <published>2026-04-28T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>https://www.federalregister.gov/documents/2026/04/29/2026-08273/self-regulatory-organizations-texas-stock-exchange-llc-notice-of-filing-of-a-proposed-rule-change-to</id>
     <title>Self-Regulatory Organizations; Texas Stock Exchange LLC; Notice of Filing of a Proposed Rule Change To Amend Certain Parts of its Opening and Closing Auctions</title>
