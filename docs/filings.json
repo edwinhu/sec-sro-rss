@@ -1,7 +1,15 @@
 {
-  "updated": "2026-05-14T08:28:01.331118+00:00",
-  "count": 23,
+  "updated": "2026-05-14T13:47:13.119621+00:00",
+  "count": 20,
   "filings": [
+    {
+      "id": "2ddc1a57ce7c",
+      "title": "Self-Regulatory Organizations; Cboe BYX Exchange, Inc.; Notice of Filing of a Proposed Rule Change To Amend Rule 11.25 To Introduce an Optional, Contingent Instruction Applicable to Periodic Auction Only Orders, Introduce a Time-in-Force of Auction or Cancel, and Make Conforming Changes to Its Periodic Auction Processing Behavior To Support the Proposed Contingent Instruction",
+      "url": "https://www.federalregister.gov/documents/2026/05/14/2026-09596/self-regulatory-organizations-cboe-byx-exchange-inc-notice-of-filing-of-a-proposed-rule-change-to",
+      "date": "2026-05-14",
+      "description": "",
+      "source": "national-securities-exchanges"
+    },
     {
       "id": "533400187d59",
       "title": "Proposed Collection; Comment Request; Extension: Rule 15b6-1 and Form BDW",
@@ -151,38 +159,6 @@
       "title": "Self-Regulatory Organizations; The Fixed Income Clearing Corporation; Notice of No Objection To Advance Notice To Raise Prefunded Default Liquidity Through the Commercial Paper Program",
       "url": "https://www.federalregister.gov/documents/2026/04/30/2026-08389/self-regulatory-organizations-the-fixed-income-clearing-corporation-notice-of-no-objection-to",
       "date": "2026-04-30",
-      "description": "",
-      "source": "national-securities-exchanges"
-    },
-    {
-      "id": "60ab2a606acd",
-      "title": "Self-Regulatory Organizations; NYSE Arca, Inc.; Notice of Filing of Proposed Rule Change To Amend Rule 8.201-E (Generic) To Modify the Generic Listing Standards for Commodity-Based Trust Shares",
-      "url": "https://www.federalregister.gov/documents/2026/04/30/2026-08368/self-regulatory-organizations-nyse-arca-inc-notice-of-filing-of-proposed-rule-change-to-amend-rule",
-      "date": "2026-04-30",
-      "description": "",
-      "source": "national-securities-exchanges"
-    },
-    {
-      "id": "f59299f55c56",
-      "title": "Self-Regulatory Organizations; Nasdaq ISE, LLC; Order Approving a Proposed Rule Change, as Modified by Amendment No. 5, To Amend the Position and Exercise Limits for IBIT Options",
-      "url": "https://www.federalregister.gov/documents/2026/04/30/2026-08367/self-regulatory-organizations-nasdaq-ise-llc-order-approving-a-proposed-rule-change-as-modified-by",
-      "date": "2026-04-30",
-      "description": "",
-      "source": "national-securities-exchanges"
-    },
-    {
-      "id": "0a4ec7094e19",
-      "title": "Self-Regulatory Organizations; Cboe BZX Exchange, Inc.; Order Instituting Proceedings To Determine Whether To Approve or Disapprove a Proposed Rule Change To Amend the Opening Auction Process Provided Under Rule 11.23(b)(2)(B) to Delay the Opening Auction Under Certain Market Conditions",
-      "url": "https://www.federalregister.gov/documents/2026/04/30/2026-08366/self-regulatory-organizations-cboe-bzx-exchange-inc-order-instituting-proceedings-to-determine",
-      "date": "2026-04-30",
-      "description": "",
-      "source": "national-securities-exchanges"
-    },
-    {
-      "id": "48ea503a04b7",
-      "title": "Self-Regulatory Organizations; Texas Stock Exchange LLC; Notice of Filing of a Proposed Rule Change To Amend Certain Parts of its Opening and Closing Auctions",
-      "url": "https://www.federalregister.gov/documents/2026/04/29/2026-08273/self-regulatory-organizations-texas-stock-exchange-llc-notice-of-filing-of-a-proposed-rule-change-to",
-      "date": "2026-04-29",
       "description": "",
       "source": "national-securities-exchanges"
     }
