@@ -2,92 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://github.com/edwinhu/sec-sro-rss</id>
   <title>SEC Self-Regulatory Organization Rulemaking</title>
-  <updated>2026-05-16T07:51:00.265574+00:00</updated>
+  <updated>2026-05-16T13:00:18.258303+00:00</updated>
   <link href="https://www.sec.gov/rules-regulations/self-regulatory-organization-rulemaking" rel="alternate"/>
   <link href="https://edwinhu.github.io/sec-sro-rss/feed.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Filtered SEC SRO filings (excludes immediate effectiveness notices and crypto)</subtitle>
-  <entry>
-    <id>https://www.federalregister.gov/documents/2026/05/05/2026-08680/self-regulatory-organizations-nasdaq-mrx-llc-notice-of-filing-of-amendment-nos-3-and-4-and-order</id>
-    <title>Self-Regulatory Organizations; Nasdaq MRX, LLC; Notice of Filing of Amendment Nos. 3 and 4, and Order Granting Accelerated Approval of a Proposed Rule Change, as Superseded by Amendment No. 3 and Modified by Amendment No. 4, To Adopt New Options Rule 3B To List and Trade Binary Broad-Based Index Options</title>
-    <updated>2026-05-05T00:00:00+00:00</updated>
-    <content>Source: National Securities Exchanges
-Date: 2026-05-05</content>
-    <link href="https://www.federalregister.gov/documents/2026/05/05/2026-08680/self-regulatory-organizations-nasdaq-mrx-llc-notice-of-filing-of-amendment-nos-3-and-4-and-order"/>
-    <published>2026-05-05T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.federalregister.gov/documents/2026/05/06/2026-08785/self-regulatory-organizations-financial-industry-regulatory-authority-inc-notice-of-filing-of-a</id>
-    <title>Self-Regulatory Organizations; Financial Industry Regulatory Authority, Inc.; Notice of Filing of a Proposed Rule Change To Amend the FINRA Rule 6700 Series (Trade Reporting and Compliance Engine) (TRACE) To Expand the Scope of the Non-Member Affiliate-Principal Transaction Indicator to Also Include Member Affiliates</title>
-    <updated>2026-05-06T00:00:00+00:00</updated>
-    <content>Source: Finra
-Date: 2026-05-06</content>
-    <link href="https://www.federalregister.gov/documents/2026/05/06/2026-08785/self-regulatory-organizations-financial-industry-regulatory-authority-inc-notice-of-filing-of-a"/>
-    <published>2026-05-06T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.federalregister.gov/documents/2026/05/06/2026-08787/self-regulatory-organizations-the-nasdaq-stock-market-llc-notice-of-designation-of-a-longer-period</id>
-    <title>Self-Regulatory Organizations; The Nasdaq Stock Market LLC; Notice of Designation of a Longer Period for Commission Action on a Proposed Rule Change To List and Trade Shares of the VanEck JitoSOL ETF Under Nasdaq Rule 5711(d) (Commodity-Based Trust Shares)</title>
-    <updated>2026-05-06T00:00:00+00:00</updated>
-    <content>Source: National Securities Exchanges
-Date: 2026-05-06</content>
-    <link href="https://www.federalregister.gov/documents/2026/05/06/2026-08787/self-regulatory-organizations-the-nasdaq-stock-market-llc-notice-of-designation-of-a-longer-period"/>
-    <published>2026-05-06T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.federalregister.gov/documents/2026/05/06/2026-08797/self-regulatory-organizations-financial-industry-regulatory-authority-inc-notice-of-filing-of</id>
-    <title>Self-Regulatory Organizations; Financial Industry Regulatory Authority, Inc.; Notice of Filing of Amendment No. 1 and Order Instituting Proceedings To Determine Whether To Approve or Disapprove a Proposed Rule Change, as Modified by Amendment No. 1, To Adopt FINRA Rule 3290 (Outside Activities Requirements)</title>
-    <updated>2026-05-06T00:00:00+00:00</updated>
-    <content>Source: Finra
-Date: 2026-05-06</content>
-    <link href="https://www.federalregister.gov/documents/2026/05/06/2026-08797/self-regulatory-organizations-financial-industry-regulatory-authority-inc-notice-of-filing-of"/>
-    <published>2026-05-06T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.federalregister.gov/documents/2026/05/06/2026-08955/self-regulatory-organizations-lch-sa-notice-of-an-application-for-an-exemption-pursuant-to-section</id>
-    <title>Self-Regulatory Organizations; LCH SA; Notice of an Application for an Exemption Pursuant to Section 36 of the Securities Exchange Act of 1934 Relating to Rule Filing Requirements and Request for Comment</title>
-    <updated>2026-05-06T00:00:00+00:00</updated>
-    <content>Source: National Securities Exchanges
-Date: 2026-05-06</content>
-    <link href="https://www.federalregister.gov/documents/2026/05/06/2026-08955/self-regulatory-organizations-lch-sa-notice-of-an-application-for-an-exemption-pursuant-to-section"/>
-    <published>2026-05-06T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.federalregister.gov/documents/2026/05/07/2026-08994/program-for-allocation-of-regulatory-responsibilities-pursuant-to-rule-17d-2-notice-of-filing-and</id>
-    <title>Program for Allocation of Regulatory Responsibilities Pursuant to Rule 17d-2; Notice of Filing and Order Approving and Declaring Effective an Amendment to the Plan for the Allocation of Regulatory Responsibilities Among Cboe BZX Exchange, Inc., Cboe BYX Exchange, Inc., NYSE Texas, Inc., Cboe EDGA Exchange, Inc., Cboe EDGX Exchange, Inc., Financial Industry Regulatory Authority, Inc., MEMX LLC, MIAX PEARL, LLC, Nasdaq Texas LLC, Nasdaq PHLX LLC, The Nasdaq Stock Market LLC, NYSE National, Inc., New York Stock Exchange LLC, NYSE American LLC, NYSE Arca, Inc., Investors Exchange LLC, Long-Term Stock Exchange, Inc., 24X National Exchange LLC, Green Impact Exchange, LLC, MX2 LLC, and Texas Stock Exchange LLC Relating to the Surveillance, Investigation, and Enforcement of Insider Trading Rules</title>
-    <updated>2026-05-07T00:00:00+00:00</updated>
-    <content>Source: Finra
-Date: 2026-05-07</content>
-    <link href="https://www.federalregister.gov/documents/2026/05/07/2026-08994/program-for-allocation-of-regulatory-responsibilities-pursuant-to-rule-17d-2-notice-of-filing-and"/>
-    <published>2026-05-07T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.federalregister.gov/documents/2026/05/07/2026-08997/self-regulatory-organizations-municipal-securities-rulemaking-board-notice-of-filing-of-a-proposed</id>
-    <title>Self-Regulatory Organizations; Municipal Securities Rulemaking Board; Notice of Filing of a Proposed Rule Change To Amend MSRB Rule G-12(c) To Codify and Retire or Revise Certain Existing Interpretive Guidance on Confirmation Requirements for Those Inter-Dealer Municipal Securities Transactions That Are Ineligible for Automated Comparison</title>
-    <updated>2026-05-07T00:00:00+00:00</updated>
-    <content>Source: National Securities Exchanges
-Date: 2026-05-07</content>
-    <link href="https://www.federalregister.gov/documents/2026/05/07/2026-08997/self-regulatory-organizations-municipal-securities-rulemaking-board-notice-of-filing-of-a-proposed"/>
-    <published>2026-05-07T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.federalregister.gov/documents/2026/05/08/2026-09121/agency-information-collection-activities-submission-for-omb-review-comment-request-extension-rule</id>
-    <title>Agency Information Collection Activities; Submission for OMB Review; Comment Request; Extension: Rule 104</title>
-    <updated>2026-05-08T00:00:00+00:00</updated>
-    <content>Source: National Securities Exchanges
-Date: 2026-05-08</content>
-    <link href="https://www.federalregister.gov/documents/2026/05/08/2026-09121/agency-information-collection-activities-submission-for-omb-review-comment-request-extension-rule"/>
-    <published>2026-05-08T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.federalregister.gov/documents/2026/05/08/2026-09122/self-regulatory-organizations-nasdaq-ise-llc-notice-of-filing-of-proposed-rule-change-to-permit-the</id>
-    <title>Self-Regulatory Organizations; Nasdaq ISE, LLC; Notice of Filing of Proposed Rule Change To Permit the Listing of A.M.-Settled Options on the Nasdaq-100 Index That Expire on Any Monday, Tuesday, Wednesday, Thursday, or Friday (Other Than the Third Friday-of-the-Month or Days That Coincide With an End-of-Month Expiration) and Expire on the Last Trading Day of the Month</title>
-    <updated>2026-05-08T00:00:00+00:00</updated>
-    <content>Source: National Securities Exchanges
-Date: 2026-05-08</content>
-    <link href="https://www.federalregister.gov/documents/2026/05/08/2026-09122/self-regulatory-organizations-nasdaq-ise-llc-notice-of-filing-of-proposed-rule-change-to-permit-the"/>
-    <published>2026-05-08T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>https://www.federalregister.gov/documents/2026/05/08/2026-09123/self-regulatory-organizations-texas-stock-exchange-llc-notice-of-filing-of-a-proposed-rule-change-to</id>
     <title>Self-Regulatory Organizations; Texas Stock Exchange LLC; Notice of Filing of a Proposed Rule Change To Adopt Rules Related to the Listing and Trading of Closed-End Funds on the Exchange</title>
@@ -150,5 +69,32 @@ Date: 2026-05-15</content>
 Date: 2026-05-15</content>
     <link href="https://www.federalregister.gov/documents/2026/05/15/2026-09743/self-regulatory-organizations-national-securities-clearing-corporation-order-approving-proposed-rule"/>
     <published>2026-05-15T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.federalregister.gov/documents/2026/05/18/2026-09861/self-regulatory-organizations-cboe-exchange-inc-notice-of-filing-of-amendment-no-1-and-order</id>
+    <title>Self-Regulatory Organizations; Cboe Exchange, Inc.; Notice of Filing of Amendment No. 1 and Order Instituting Proceedings To Determine Whether To Approve or Disapprove a Proposed Rule Change, as Modified by Amendment No. 1, To Amend Its Rules Relating to Designated Primary Market-Makers (“DPMs”) and DPM Appointments in Global Trading Hours and Curb Sessions</title>
+    <updated>2026-05-18T00:00:00+00:00</updated>
+    <content>Source: National Securities Exchanges
+Date: 2026-05-18</content>
+    <link href="https://www.federalregister.gov/documents/2026/05/18/2026-09861/self-regulatory-organizations-cboe-exchange-inc-notice-of-filing-of-amendment-no-1-and-order"/>
+    <published>2026-05-18T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.federalregister.gov/documents/2026/05/18/2026-09862/self-regulatory-organizations-nasdaq-texas-llc-notice-of-filing-of-a-proposed-rule-change-to-adopt</id>
+    <title>Self-Regulatory Organizations; Nasdaq Texas, LLC; Notice of Filing of a Proposed Rule Change To Adopt Rules To Permit the Listing and Trading of Exchange-Traded Products on the Exchange</title>
+    <updated>2026-05-18T00:00:00+00:00</updated>
+    <content>Source: National Securities Exchanges
+Date: 2026-05-18</content>
+    <link href="https://www.federalregister.gov/documents/2026/05/18/2026-09862/self-regulatory-organizations-nasdaq-texas-llc-notice-of-filing-of-a-proposed-rule-change-to-adopt"/>
+    <published>2026-05-18T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.federalregister.gov/documents/2026/05/18/2026-09864/self-regulatory-organizations-financial-industry-regulatory-authority-inc-notice-of-filing-of-a</id>
+    <title>Self-Regulatory Organizations; Financial Industry Regulatory Authority, Inc.; Notice of Filing of a Proposed Rule Change To Adopt FINRA Rule 4321 (Allocations of Fail To Deliver Positions) and Amend FINRA Rule 4560 (Short-Interest Reporting)</title>
+    <updated>2026-05-18T00:00:00+00:00</updated>
+    <content>Source: Finra
+Date: 2026-05-18</content>
+    <link href="https://www.federalregister.gov/documents/2026/05/18/2026-09864/self-regulatory-organizations-financial-industry-regulatory-authority-inc-notice-of-filing-of-a"/>
+    <published>2026-05-18T00:00:00+00:00</published>
   </entry>
 </feed>
