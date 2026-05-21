@@ -1,7 +1,15 @@
 {
-  "updated": "2026-05-21T08:57:38.191635+00:00",
-  "count": 9,
+  "updated": "2026-05-21T14:43:53.231036+00:00",
+  "count": 10,
   "filings": [
+    {
+      "id": "22cb15ea7727",
+      "title": "Self-Regulatory Organizations; New York Stock Exchange LLC; Order Granting Approval of Proposed Rule Change Amending Section 703.12(II) of the NYSE Listed Company Manual To Expand the Circumstances Under Which Rights May Be Listed on the NYSE",
+      "url": "https://www.federalregister.gov/documents/2026/05/21/2026-10149/self-regulatory-organizations-new-york-stock-exchange-llc-order-granting-approval-of-proposed-rule",
+      "date": "2026-05-21",
+      "description": "",
+      "source": "national-securities-exchanges"
+    },
     {
       "id": "cb8a3863d5b8",
       "title": "Self-Regulatory Organizations; The Nasdaq Stock Market LLC; Notice of Filing of Amendment No. 3 and Order Granting Accelerated Approval of a Proposed Rule Change, as Modified by Amendment No. 3, To Adopt Additional Initial Listing Criteria for Companies Primarily Operating in China",

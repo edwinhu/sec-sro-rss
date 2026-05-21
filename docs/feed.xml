@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 21 May 2026 08:57:38 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 21 May 2026 14:43:53 +0000</lastBuildDate>
     <item>
       <title>Self-Regulatory Organizations; Cboe BYX Exchange, Inc.; Notice of Filing of a Proposed Rule Change To Amend Rule 11.25 To Introduce an Optional, Contingent Instruction Applicable to Periodic Auction Only Orders, Introduce a Time-in-Force of Auction or Cancel, and Make Conforming Changes to Its Periodic Auction Processing Behavior To Support the Proposed Contingent Instruction</title>
       <link>https://www.federalregister.gov/documents/2026/05/14/2026-09596/self-regulatory-organizations-cboe-byx-exchange-inc-notice-of-filing-of-a-proposed-rule-change-to</link>
@@ -80,6 +80,14 @@ Date: 2026-05-19</description>
 Date: 2026-05-19</description>
       <guid isPermaLink="false">https://www.federalregister.gov/documents/2026/05/19/2026-09966/self-regulatory-organizations-the-nasdaq-stock-market-llc-notice-of-filing-of-amendment-no-3-and</guid>
       <pubDate>Tue, 19 May 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Self-Regulatory Organizations; New York Stock Exchange LLC; Order Granting Approval of Proposed Rule Change Amending Section 703.12(II) of the NYSE Listed Company Manual To Expand the Circumstances Under Which Rights May Be Listed on the NYSE</title>
+      <link>https://www.federalregister.gov/documents/2026/05/21/2026-10149/self-regulatory-organizations-new-york-stock-exchange-llc-order-granting-approval-of-proposed-rule</link>
+      <description>Source: National Securities Exchanges
+Date: 2026-05-21</description>
+      <guid isPermaLink="false">https://www.federalregister.gov/documents/2026/05/21/2026-10149/self-regulatory-organizations-new-york-stock-exchange-llc-order-granting-approval-of-proposed-rule</guid>
+      <pubDate>Thu, 21 May 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

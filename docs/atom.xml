@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://github.com/edwinhu/sec-sro-rss</id>
   <title>SEC Self-Regulatory Organization Rulemaking</title>
-  <updated>2026-05-21T08:57:38.176167+00:00</updated>
+  <updated>2026-05-21T14:43:53.205409+00:00</updated>
   <link href="https://www.sec.gov/rules-regulations/self-regulatory-organization-rulemaking" rel="alternate"/>
   <link href="https://edwinhu.github.io/sec-sro-rss/feed.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -87,5 +87,14 @@ Date: 2026-05-19</content>
 Date: 2026-05-19</content>
     <link href="https://www.federalregister.gov/documents/2026/05/19/2026-09966/self-regulatory-organizations-the-nasdaq-stock-market-llc-notice-of-filing-of-amendment-no-3-and"/>
     <published>2026-05-19T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.federalregister.gov/documents/2026/05/21/2026-10149/self-regulatory-organizations-new-york-stock-exchange-llc-order-granting-approval-of-proposed-rule</id>
+    <title>Self-Regulatory Organizations; New York Stock Exchange LLC; Order Granting Approval of Proposed Rule Change Amending Section 703.12(II) of the NYSE Listed Company Manual To Expand the Circumstances Under Which Rights May Be Listed on the NYSE</title>
+    <updated>2026-05-21T00:00:00+00:00</updated>
+    <content>Source: National Securities Exchanges
+Date: 2026-05-21</content>
+    <link href="https://www.federalregister.gov/documents/2026/05/21/2026-10149/self-regulatory-organizations-new-york-stock-exchange-llc-order-granting-approval-of-proposed-rule"/>
+    <published>2026-05-21T00:00:00+00:00</published>
   </entry>
 </feed>
