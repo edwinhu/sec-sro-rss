@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://github.com/edwinhu/sec-sro-rss</id>
   <title>SEC Self-Regulatory Organization Rulemaking</title>
-  <updated>2026-05-26T02:26:59.014662+00:00</updated>
+  <updated>2026-05-26T09:36:50.460965+00:00</updated>
   <link href="https://www.sec.gov/rules-regulations/self-regulatory-organization-rulemaking" rel="alternate"/>
   <link href="https://edwinhu.github.io/sec-sro-rss/feed.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -96,5 +96,23 @@ Date: 2026-05-19</content>
 Date: 2026-05-21</content>
     <link href="https://www.federalregister.gov/documents/2026/05/21/2026-10149/self-regulatory-organizations-new-york-stock-exchange-llc-order-granting-approval-of-proposed-rule"/>
     <published>2026-05-21T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.federalregister.gov/documents/2026/05/26/2026-10365/self-regulatory-organizations-financial-industry-regulatory-authority-inc-order-instituting</id>
+    <title>Self-Regulatory Organizations; Financial Industry Regulatory Authority, Inc.; Order Instituting Proceedings To Determine Whether To Approve or Disapprove a Proposed Rule Change To Amend FINRA Rule 2210 (Communications With the Public)</title>
+    <updated>2026-05-26T00:00:00+00:00</updated>
+    <content>Source: Finra
+Date: 2026-05-26</content>
+    <link href="https://www.federalregister.gov/documents/2026/05/26/2026-10365/self-regulatory-organizations-financial-industry-regulatory-authority-inc-order-instituting"/>
+    <published>2026-05-26T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.federalregister.gov/documents/2026/05/26/2026-10368/self-regulatory-organizations-ice-clear-credit-llc-notice-of-filing-of-proposed-rule-change-relating</id>
+    <title>Self-Regulatory Organizations; ICE Clear Credit LLC; Notice of Filing of Proposed Rule Change Relating to the Treasury Clearing Rules and Treasury Clearing Service Treasury Operations Policies and Liquidity Risk Management Framework</title>
+    <updated>2026-05-26T00:00:00+00:00</updated>
+    <content>Source: National Securities Exchanges
+Date: 2026-05-26</content>
+    <link href="https://www.federalregister.gov/documents/2026/05/26/2026-10368/self-regulatory-organizations-ice-clear-credit-llc-notice-of-filing-of-proposed-rule-change-relating"/>
+    <published>2026-05-26T00:00:00+00:00</published>
   </entry>
 </feed>
