@@ -1,7 +1,23 @@
 {
-  "updated": "2026-05-27T02:36:12.390541+00:00",
-  "count": 12,
+  "updated": "2026-05-27T09:29:51.066274+00:00",
+  "count": 14,
   "filings": [
+    {
+      "id": "74fad0075de2",
+      "title": "Self-Regulatory Organizations; the Options Clearing Corporation; Order Approving Proposed Rule Change by the Options Clearing Corporation Concerning Amendments to OCC's STANS Methodology Description To Enable OCC To Accept Binary Options for Clearing and Appropriately Manage the Risk Created by Binary Options",
+      "url": "https://www.federalregister.gov/documents/2026/05/27/2026-10453/self-regulatory-organizations-the-options-clearing-corporation-order-approving-proposed-rule-change",
+      "date": "2026-05-27",
+      "description": "",
+      "source": "national-securities-exchanges"
+    },
+    {
+      "id": "5275dda4777f",
+      "title": "Self-Regulatory Organizations; ICE Clear Credit LLC; Notice of Filing of Proposed Rule Change Relating to the Clearance of Additional Credit Default Swap Contracts",
+      "url": "https://www.federalregister.gov/documents/2026/05/27/2026-10451/self-regulatory-organizations-ice-clear-credit-llc-notice-of-filing-of-proposed-rule-change-relating",
+      "date": "2026-05-27",
+      "description": "",
+      "source": "national-securities-exchanges"
+    },
     {
       "id": "bcca7e617a78",
       "title": "Self-Regulatory Organizations; ICE Clear Credit LLC; Notice of Filing of Proposed Rule Change Relating to the Treasury Clearing Rules and Treasury Clearing Service Treasury Operations Policies and Liquidity Risk Management Framework",

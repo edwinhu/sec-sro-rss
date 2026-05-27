@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://github.com/edwinhu/sec-sro-rss</id>
   <title>SEC Self-Regulatory Organization Rulemaking</title>
-  <updated>2026-05-27T02:36:12.376204+00:00</updated>
+  <updated>2026-05-27T09:29:51.048714+00:00</updated>
   <link href="https://www.sec.gov/rules-regulations/self-regulatory-organization-rulemaking" rel="alternate"/>
   <link href="https://edwinhu.github.io/sec-sro-rss/feed.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -114,5 +114,23 @@ Date: 2026-05-26</content>
 Date: 2026-05-26</content>
     <link href="https://www.federalregister.gov/documents/2026/05/26/2026-10368/self-regulatory-organizations-ice-clear-credit-llc-notice-of-filing-of-proposed-rule-change-relating"/>
     <published>2026-05-26T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.federalregister.gov/documents/2026/05/27/2026-10451/self-regulatory-organizations-ice-clear-credit-llc-notice-of-filing-of-proposed-rule-change-relating</id>
+    <title>Self-Regulatory Organizations; ICE Clear Credit LLC; Notice of Filing of Proposed Rule Change Relating to the Clearance of Additional Credit Default Swap Contracts</title>
+    <updated>2026-05-27T00:00:00+00:00</updated>
+    <content>Source: National Securities Exchanges
+Date: 2026-05-27</content>
+    <link href="https://www.federalregister.gov/documents/2026/05/27/2026-10451/self-regulatory-organizations-ice-clear-credit-llc-notice-of-filing-of-proposed-rule-change-relating"/>
+    <published>2026-05-27T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.federalregister.gov/documents/2026/05/27/2026-10453/self-regulatory-organizations-the-options-clearing-corporation-order-approving-proposed-rule-change</id>
+    <title>Self-Regulatory Organizations; the Options Clearing Corporation; Order Approving Proposed Rule Change by the Options Clearing Corporation Concerning Amendments to OCC's STANS Methodology Description To Enable OCC To Accept Binary Options for Clearing and Appropriately Manage the Risk Created by Binary Options</title>
+    <updated>2026-05-27T00:00:00+00:00</updated>
+    <content>Source: National Securities Exchanges
+Date: 2026-05-27</content>
+    <link href="https://www.federalregister.gov/documents/2026/05/27/2026-10453/self-regulatory-organizations-the-options-clearing-corporation-order-approving-proposed-rule-change"/>
+    <published>2026-05-27T00:00:00+00:00</published>
   </entry>
 </feed>
