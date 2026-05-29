@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://github.com/edwinhu/sec-sro-rss</id>
   <title>SEC Self-Regulatory Organization Rulemaking</title>
-  <updated>2026-05-29T02:28:02.177122+00:00</updated>
+  <updated>2026-05-29T09:36:58.975350+00:00</updated>
   <link href="https://www.sec.gov/rules-regulations/self-regulatory-organization-rulemaking" rel="alternate"/>
   <link href="https://edwinhu.github.io/sec-sro-rss/feed.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -132,5 +132,32 @@ Date: 2026-05-27</content>
 Date: 2026-05-27</content>
     <link href="https://www.federalregister.gov/documents/2026/05/27/2026-10453/self-regulatory-organizations-the-options-clearing-corporation-order-approving-proposed-rule-change"/>
     <published>2026-05-27T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.federalregister.gov/documents/2026/05/29/2026-10665/self-regulatory-organizations-lch-sa-order-approving-proposed-rule-change-relating-to-the-cdsclear</id>
+    <title>Self-Regulatory Organizations; LCH SA; Order Approving Proposed Rule Change Relating to the CDSClear Risk Framework</title>
+    <updated>2026-05-29T00:00:00+00:00</updated>
+    <content>Source: National Securities Exchanges
+Date: 2026-05-29</content>
+    <link href="https://www.federalregister.gov/documents/2026/05/29/2026-10665/self-regulatory-organizations-lch-sa-order-approving-proposed-rule-change-relating-to-the-cdsclear"/>
+    <published>2026-05-29T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.federalregister.gov/documents/2026/05/29/2026-10666/self-regulatory-organizations-nasdaq-texas-llc-notice-of-filing-of-proposed-rule-change-to-establish</id>
+    <title>Self-Regulatory Organizations; Nasdaq Texas, LLC; Notice of Filing of Proposed Rule Change To Establish a Package of Complimentary Services</title>
+    <updated>2026-05-29T00:00:00+00:00</updated>
+    <content>Source: National Securities Exchanges
+Date: 2026-05-29</content>
+    <link href="https://www.federalregister.gov/documents/2026/05/29/2026-10666/self-regulatory-organizations-nasdaq-texas-llc-notice-of-filing-of-proposed-rule-change-to-establish"/>
+    <published>2026-05-29T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.federalregister.gov/documents/2026/05/29/2026-10808/paxos-securities-settlement-company-llc-order-granting-an-application-for-temporary-registration-as</id>
+    <title>Paxos Securities Settlement Company, LLC; Order Granting an Application for Temporary Registration as a Clearing Agency Under Section 17A of the Securities Exchange Act of 1934</title>
+    <updated>2026-05-29T00:00:00+00:00</updated>
+    <content>Source: National Securities Exchanges
+Date: 2026-05-29</content>
+    <link href="https://www.federalregister.gov/documents/2026/05/29/2026-10808/paxos-securities-settlement-company-llc-order-granting-an-application-for-temporary-registration-as"/>
+    <published>2026-05-29T00:00:00+00:00</published>
   </entry>
 </feed>

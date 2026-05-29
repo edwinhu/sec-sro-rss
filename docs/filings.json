@@ -1,7 +1,31 @@
 {
-  "updated": "2026-05-29T02:28:02.189821+00:00",
-  "count": 14,
+  "updated": "2026-05-29T09:36:58.984493+00:00",
+  "count": 17,
   "filings": [
+    {
+      "id": "64ad260f2cfb",
+      "title": "Paxos Securities Settlement Company, LLC; Order Granting an Application for Temporary Registration as a Clearing Agency Under Section 17A of the Securities Exchange Act of 1934",
+      "url": "https://www.federalregister.gov/documents/2026/05/29/2026-10808/paxos-securities-settlement-company-llc-order-granting-an-application-for-temporary-registration-as",
+      "date": "2026-05-29",
+      "description": "",
+      "source": "national-securities-exchanges"
+    },
+    {
+      "id": "138c54efebd2",
+      "title": "Self-Regulatory Organizations; Nasdaq Texas, LLC; Notice of Filing of Proposed Rule Change To Establish a Package of Complimentary Services",
+      "url": "https://www.federalregister.gov/documents/2026/05/29/2026-10666/self-regulatory-organizations-nasdaq-texas-llc-notice-of-filing-of-proposed-rule-change-to-establish",
+      "date": "2026-05-29",
+      "description": "",
+      "source": "national-securities-exchanges"
+    },
+    {
+      "id": "1899e7fc6549",
+      "title": "Self-Regulatory Organizations; LCH SA; Order Approving Proposed Rule Change Relating to the CDSClear Risk Framework",
+      "url": "https://www.federalregister.gov/documents/2026/05/29/2026-10665/self-regulatory-organizations-lch-sa-order-approving-proposed-rule-change-relating-to-the-cdsclear",
+      "date": "2026-05-29",
+      "description": "",
+      "source": "national-securities-exchanges"
+    },
     {
       "id": "74fad0075de2",
       "title": "Self-Regulatory Organizations; the Options Clearing Corporation; Order Approving Proposed Rule Change by the Options Clearing Corporation Concerning Amendments to OCC's STANS Methodology Description To Enable OCC To Accept Binary Options for Clearing and Appropriately Manage the Risk Created by Binary Options",
