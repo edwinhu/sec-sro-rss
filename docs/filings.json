@@ -1,7 +1,23 @@
 {
-  "updated": "2026-05-30T02:11:39.410495+00:00",
-  "count": 17,
+  "updated": "2026-05-30T08:17:03.923628+00:00",
+  "count": 19,
   "filings": [
+    {
+      "id": "9bc92e901435",
+      "title": "Self-Regulatory Organizations; National Securities Clearing Corporation; Order Approving Proposed Rule Change Concerning NSCC's Ability To Support Industry Efforts To Extend Trading Hours for the U.S. Equity Markets",
+      "url": "https://www.federalregister.gov/documents/2026/06/01/2026-10836/self-regulatory-organizations-national-securities-clearing-corporation-order-approving-proposed-rule",
+      "date": "2026-06-01",
+      "description": "",
+      "source": "national-securities-exchanges"
+    },
+    {
+      "id": "438aaeb31466",
+      "title": "Self-Regulatory Organizations; CME Securities Clearing Inc.; Order Approving Proposed Rule Change to Establish the CME Securities Clearing Inc. Enterprise Risk Management Framework",
+      "url": "https://www.federalregister.gov/documents/2026/06/01/2026-10833/self-regulatory-organizations-cme-securities-clearing-inc-order-approving-proposed-rule-change-to",
+      "date": "2026-06-01",
+      "description": "",
+      "source": "national-securities-exchanges"
+    },
     {
       "id": "64ad260f2cfb",
       "title": "Paxos Securities Settlement Company, LLC; Order Granting an Application for Temporary Registration as a Clearing Agency Under Section 17A of the Securities Exchange Act of 1934",
