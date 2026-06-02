@@ -8,15 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 02 Jun 2026 02:44:09 +0000</lastBuildDate>
-    <item>
-      <title>Self-Regulatory Organizations; Cboe BYX Exchange, Inc.; Notice of Filing of a Proposed Rule Change To Amend Rule 11.25 To Introduce an Optional, Contingent Instruction Applicable to Periodic Auction Only Orders, Introduce a Time-in-Force of Auction or Cancel, and Make Conforming Changes to Its Periodic Auction Processing Behavior To Support the Proposed Contingent Instruction</title>
-      <link>https://www.federalregister.gov/documents/2026/05/14/2026-09596/self-regulatory-organizations-cboe-byx-exchange-inc-notice-of-filing-of-a-proposed-rule-change-to</link>
-      <description>Source: National Securities Exchanges
-Date: 2026-05-14</description>
-      <guid isPermaLink="false">https://www.federalregister.gov/documents/2026/05/14/2026-09596/self-regulatory-organizations-cboe-byx-exchange-inc-notice-of-filing-of-a-proposed-rule-change-to</guid>
-      <pubDate>Thu, 14 May 2026 00:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 02 Jun 2026 10:05:39 +0000</lastBuildDate>
     <item>
       <title>Self-Regulatory Organizations; Nasdaq MRX, LLC; Notice of Designation of a Longer Period for Commission Action on a Proposed Rule Change To Adopt Extended Trading Hours for Eligible Equity and Index Options</title>
       <link>https://www.federalregister.gov/documents/2026/05/15/2026-09735/self-regulatory-organizations-nasdaq-mrx-llc-notice-of-designation-of-a-longer-period-for-commission</link>
@@ -160,6 +152,14 @@ Date: 2026-06-01</description>
 Date: 2026-06-01</description>
       <guid isPermaLink="false">https://www.federalregister.gov/documents/2026/06/01/2026-10836/self-regulatory-organizations-national-securities-clearing-corporation-order-approving-proposed-rule</guid>
       <pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Self-Regulatory Organizations; Cboe Exchange, Inc.; Order Approving a Proposed Rule Change, as Modified by Amendment No. 1, To Allow for Extended Trading of Multi-Listed Equity Options</title>
+      <link>https://www.federalregister.gov/documents/2026/06/02/2026-10951/self-regulatory-organizations-cboe-exchange-inc-order-approving-a-proposed-rule-change-as-modified</link>
+      <description>Source: National Securities Exchanges
+Date: 2026-06-02</description>
+      <guid isPermaLink="false">https://www.federalregister.gov/documents/2026/06/02/2026-10951/self-regulatory-organizations-cboe-exchange-inc-order-approving-a-proposed-rule-change-as-modified</guid>
+      <pubDate>Tue, 02 Jun 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

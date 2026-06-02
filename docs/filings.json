@@ -1,7 +1,15 @@
 {
-  "updated": "2026-06-02T02:44:09.518331+00:00",
+  "updated": "2026-06-02T10:05:39.629937+00:00",
   "count": 19,
   "filings": [
+    {
+      "id": "621784a4fbdf",
+      "title": "Self-Regulatory Organizations; Cboe Exchange, Inc.; Order Approving a Proposed Rule Change, as Modified by Amendment No. 1, To Allow for Extended Trading of Multi-Listed Equity Options",
+      "url": "https://www.federalregister.gov/documents/2026/06/02/2026-10951/self-regulatory-organizations-cboe-exchange-inc-order-approving-a-proposed-rule-change-as-modified",
+      "date": "2026-06-02",
+      "description": "",
+      "source": "national-securities-exchanges"
+    },
     {
       "id": "9bc92e901435",
       "title": "Self-Regulatory Organizations; National Securities Clearing Corporation; Order Approving Proposed Rule Change Concerning NSCC's Ability To Support Industry Efforts To Extend Trading Hours for the U.S. Equity Markets",
@@ -143,14 +151,6 @@
       "title": "Self-Regulatory Organizations; Nasdaq MRX, LLC; Notice of Designation of a Longer Period for Commission Action on a Proposed Rule Change To Adopt Extended Trading Hours for Eligible Equity and Index Options",
       "url": "https://www.federalregister.gov/documents/2026/05/15/2026-09735/self-regulatory-organizations-nasdaq-mrx-llc-notice-of-designation-of-a-longer-period-for-commission",
       "date": "2026-05-15",
-      "description": "",
-      "source": "national-securities-exchanges"
-    },
-    {
-      "id": "2ddc1a57ce7c",
-      "title": "Self-Regulatory Organizations; Cboe BYX Exchange, Inc.; Notice of Filing of a Proposed Rule Change To Amend Rule 11.25 To Introduce an Optional, Contingent Instruction Applicable to Periodic Auction Only Orders, Introduce a Time-in-Force of Auction or Cancel, and Make Conforming Changes to Its Periodic Auction Processing Behavior To Support the Proposed Contingent Instruction",
-      "url": "https://www.federalregister.gov/documents/2026/05/14/2026-09596/self-regulatory-organizations-cboe-byx-exchange-inc-notice-of-filing-of-a-proposed-rule-change-to",
-      "date": "2026-05-14",
       "description": "",
       "source": "national-securities-exchanges"
     }
