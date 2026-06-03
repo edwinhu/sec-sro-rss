@@ -1,7 +1,15 @@
 {
-  "updated": "2026-06-03T02:53:05.394235+00:00",
+  "updated": "2026-06-03T10:44:00.202671+00:00",
   "count": 19,
   "filings": [
+    {
+      "id": "981b6239dc29",
+      "title": "Self-Regulatory Organizations; Cboe EDGX Exchange, Inc.; Notice of Filing of Amendment No. 1 and Order Granting Accelerated Approval of a Proposed Rule Change, as Amended by Amendment No. 1, To Extend the Exchange's Trading Hours to 23 Hours per Day, Five Days per Week",
+      "url": "https://www.federalregister.gov/documents/2026/06/03/2026-11038/self-regulatory-organizations-cboe-edgx-exchange-inc-notice-of-filing-of-amendment-no-1-and-order",
+      "date": "2026-06-03",
+      "description": "",
+      "source": "national-securities-exchanges"
+    },
     {
       "id": "621784a4fbdf",
       "title": "Self-Regulatory Organizations; Cboe Exchange, Inc.; Order Approving a Proposed Rule Change, as Modified by Amendment No. 1, To Allow for Extended Trading of Multi-Listed Equity Options",
@@ -142,14 +150,6 @@
       "id": "a85e9be48728",
       "title": "Self-Regulatory Organizations; National Securities Clearing Corporation; Order Approving Proposed Rule Change Concerning a New Customer Net Margin Account Option for Agent Clearing Members in the Securities Financing Transaction Clearing Service",
       "url": "https://www.federalregister.gov/documents/2026/05/15/2026-09743/self-regulatory-organizations-national-securities-clearing-corporation-order-approving-proposed-rule",
-      "date": "2026-05-15",
-      "description": "",
-      "source": "national-securities-exchanges"
-    },
-    {
-      "id": "d439b7b84d57",
-      "title": "Self-Regulatory Organizations; Nasdaq MRX, LLC; Notice of Designation of a Longer Period for Commission Action on a Proposed Rule Change To Adopt Extended Trading Hours for Eligible Equity and Index Options",
-      "url": "https://www.federalregister.gov/documents/2026/05/15/2026-09735/self-regulatory-organizations-nasdaq-mrx-llc-notice-of-designation-of-a-longer-period-for-commission",
       "date": "2026-05-15",
       "description": "",
       "source": "national-securities-exchanges"

@@ -2,20 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://github.com/edwinhu/sec-sro-rss</id>
   <title>SEC Self-Regulatory Organization Rulemaking</title>
-  <updated>2026-06-03T02:53:05.386213+00:00</updated>
+  <updated>2026-06-03T10:44:00.182713+00:00</updated>
   <link href="https://www.sec.gov/rules-regulations/self-regulatory-organization-rulemaking" rel="alternate"/>
   <link href="https://edwinhu.github.io/sec-sro-rss/feed.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Filtered SEC SRO filings (excludes immediate effectiveness notices and crypto)</subtitle>
-  <entry>
-    <id>https://www.federalregister.gov/documents/2026/05/15/2026-09735/self-regulatory-organizations-nasdaq-mrx-llc-notice-of-designation-of-a-longer-period-for-commission</id>
-    <title>Self-Regulatory Organizations; Nasdaq MRX, LLC; Notice of Designation of a Longer Period for Commission Action on a Proposed Rule Change To Adopt Extended Trading Hours for Eligible Equity and Index Options</title>
-    <updated>2026-05-15T00:00:00+00:00</updated>
-    <content>Source: National Securities Exchanges
-Date: 2026-05-15</content>
-    <link href="https://www.federalregister.gov/documents/2026/05/15/2026-09735/self-regulatory-organizations-nasdaq-mrx-llc-notice-of-designation-of-a-longer-period-for-commission"/>
-    <published>2026-05-15T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>https://www.federalregister.gov/documents/2026/05/15/2026-09743/self-regulatory-organizations-national-securities-clearing-corporation-order-approving-proposed-rule</id>
     <title>Self-Regulatory Organizations; National Securities Clearing Corporation; Order Approving Proposed Rule Change Concerning a New Customer Net Margin Account Option for Agent Clearing Members in the Securities Financing Transaction Clearing Service</title>
@@ -177,5 +168,14 @@ Date: 2026-06-01</content>
 Date: 2026-06-02</content>
     <link href="https://www.federalregister.gov/documents/2026/06/02/2026-10951/self-regulatory-organizations-cboe-exchange-inc-order-approving-a-proposed-rule-change-as-modified"/>
     <published>2026-06-02T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.federalregister.gov/documents/2026/06/03/2026-11038/self-regulatory-organizations-cboe-edgx-exchange-inc-notice-of-filing-of-amendment-no-1-and-order</id>
+    <title>Self-Regulatory Organizations; Cboe EDGX Exchange, Inc.; Notice of Filing of Amendment No. 1 and Order Granting Accelerated Approval of a Proposed Rule Change, as Amended by Amendment No. 1, To Extend the Exchange's Trading Hours to 23 Hours per Day, Five Days per Week</title>
+    <updated>2026-06-03T00:00:00+00:00</updated>
+    <content>Source: National Securities Exchanges
+Date: 2026-06-03</content>
+    <link href="https://www.federalregister.gov/documents/2026/06/03/2026-11038/self-regulatory-organizations-cboe-edgx-exchange-inc-notice-of-filing-of-amendment-no-1-and-order"/>
+    <published>2026-06-03T00:00:00+00:00</published>
   </entry>
 </feed>
