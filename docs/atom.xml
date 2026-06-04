@@ -2,20 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://github.com/edwinhu/sec-sro-rss</id>
   <title>SEC Self-Regulatory Organization Rulemaking</title>
-  <updated>2026-06-04T02:48:23.068472+00:00</updated>
+  <updated>2026-06-04T09:43:27.651965+00:00</updated>
   <link href="https://www.sec.gov/rules-regulations/self-regulatory-organization-rulemaking" rel="alternate"/>
   <link href="https://edwinhu.github.io/sec-sro-rss/feed.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Filtered SEC SRO filings (excludes immediate effectiveness notices and crypto)</subtitle>
-  <entry>
-    <id>https://www.federalregister.gov/documents/2026/05/15/2026-09743/self-regulatory-organizations-national-securities-clearing-corporation-order-approving-proposed-rule</id>
-    <title>Self-Regulatory Organizations; National Securities Clearing Corporation; Order Approving Proposed Rule Change Concerning a New Customer Net Margin Account Option for Agent Clearing Members in the Securities Financing Transaction Clearing Service</title>
-    <updated>2026-05-15T00:00:00+00:00</updated>
-    <content>Source: National Securities Exchanges
-Date: 2026-05-15</content>
-    <link href="https://www.federalregister.gov/documents/2026/05/15/2026-09743/self-regulatory-organizations-national-securities-clearing-corporation-order-approving-proposed-rule"/>
-    <published>2026-05-15T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>https://www.federalregister.gov/documents/2026/05/18/2026-09861/self-regulatory-organizations-cboe-exchange-inc-notice-of-filing-of-amendment-no-1-and-order</id>
     <title>Self-Regulatory Organizations; Cboe Exchange, Inc.; Notice of Filing of Amendment No. 1 and Order Instituting Proceedings To Determine Whether To Approve or Disapprove a Proposed Rule Change, as Modified by Amendment No. 1, To Amend Its Rules Relating to Designated Primary Market-Makers (“DPMs”) and DPM Appointments in Global Trading Hours and Curb Sessions</title>
@@ -177,5 +168,41 @@ Date: 2026-06-02</content>
 Date: 2026-06-03</content>
     <link href="https://www.federalregister.gov/documents/2026/06/03/2026-11038/self-regulatory-organizations-cboe-edgx-exchange-inc-notice-of-filing-of-amendment-no-1-and-order"/>
     <published>2026-06-03T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.federalregister.gov/documents/2026/06/04/2026-11143/self-regulatory-organizations-cboe-bzx-exchange-inc-notice-of-designation-of-a-longer-period-for</id>
+    <title>Self-Regulatory Organizations; Cboe BZX Exchange, Inc.; Notice of Designation of a Longer Period for Commission Action on a Proposed Rule Change To List and Trade Shares of the BondBloxx Private Credit Trust Under BZX Rule 14.11(f), Trust Issued Receipts</title>
+    <updated>2026-06-04T00:00:00+00:00</updated>
+    <content>Source: National Securities Exchanges
+Date: 2026-06-04</content>
+    <link href="https://www.federalregister.gov/documents/2026/06/04/2026-11143/self-regulatory-organizations-cboe-bzx-exchange-inc-notice-of-designation-of-a-longer-period-for"/>
+    <published>2026-06-04T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.federalregister.gov/documents/2026/06/04/2026-11144/self-regulatory-organizations-national-securities-clearing-corporation-notice-of-filing-of-proposed</id>
+    <title>Self-Regulatory Organizations; National Securities Clearing Corporation; Notice of Filing of Proposed Rule Change To Enhance NSCC's Clearing Fund Methodology</title>
+    <updated>2026-06-04T00:00:00+00:00</updated>
+    <content>Source: National Securities Exchanges
+Date: 2026-06-04</content>
+    <link href="https://www.federalregister.gov/documents/2026/06/04/2026-11144/self-regulatory-organizations-national-securities-clearing-corporation-notice-of-filing-of-proposed"/>
+    <published>2026-06-04T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.federalregister.gov/documents/2026/06/04/2026-11147/joint-industry-plan-notice-of-filing-of-the-twenty-seventh-amendment-to-the-national-market-system</id>
+    <title>Joint Industry Plan; Notice of Filing of the Twenty-Seventh Amendment to the National Market System Plan To Address Extraordinary Market Volatility To Establish Temporary Price Band Protections in Overnight Trading</title>
+    <updated>2026-06-04T00:00:00+00:00</updated>
+    <content>Source: National Securities Exchanges
+Date: 2026-06-04</content>
+    <link href="https://www.federalregister.gov/documents/2026/06/04/2026-11147/joint-industry-plan-notice-of-filing-of-the-twenty-seventh-amendment-to-the-national-market-system"/>
+    <published>2026-06-04T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.federalregister.gov/documents/2026/06/04/2026-11209/agency-information-collection-activities-submission-for-omb-review-comment-request-extension-rule</id>
+    <title>Agency Information Collection Activities; Submission for OMB Review; Comment Request; Extension: Rule 15c3-1</title>
+    <updated>2026-06-04T00:00:00+00:00</updated>
+    <content>Source: National Securities Exchanges
+Date: 2026-06-04</content>
+    <link href="https://www.federalregister.gov/documents/2026/06/04/2026-11209/agency-information-collection-activities-submission-for-omb-review-comment-request-extension-rule"/>
+    <published>2026-06-04T00:00:00+00:00</published>
   </entry>
 </feed>
