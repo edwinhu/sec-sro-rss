@@ -2,47 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://github.com/edwinhu/sec-sro-rss</id>
   <title>SEC Self-Regulatory Organization Rulemaking</title>
-  <updated>2026-06-09T02:11:34.941599+00:00</updated>
+  <updated>2026-06-09T09:24:23.590855+00:00</updated>
   <link href="https://www.sec.gov/rules-regulations/self-regulatory-organization-rulemaking" rel="alternate"/>
   <link href="https://edwinhu.github.io/sec-sro-rss/feed.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Filtered SEC SRO filings (excludes immediate effectiveness notices and crypto)</subtitle>
-  <entry>
-    <id>https://www.federalregister.gov/documents/2026/05/18/2026-09862/self-regulatory-organizations-nasdaq-texas-llc-notice-of-filing-of-a-proposed-rule-change-to-adopt</id>
-    <title>Self-Regulatory Organizations; Nasdaq Texas, LLC; Notice of Filing of a Proposed Rule Change To Adopt Rules To Permit the Listing and Trading of Exchange-Traded Products on the Exchange</title>
-    <updated>2026-05-18T00:00:00+00:00</updated>
-    <content>Source: National Securities Exchanges
-Date: 2026-05-18</content>
-    <link href="https://www.federalregister.gov/documents/2026/05/18/2026-09862/self-regulatory-organizations-nasdaq-texas-llc-notice-of-filing-of-a-proposed-rule-change-to-adopt"/>
-    <published>2026-05-18T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.federalregister.gov/documents/2026/05/18/2026-09864/self-regulatory-organizations-financial-industry-regulatory-authority-inc-notice-of-filing-of-a</id>
-    <title>Self-Regulatory Organizations; Financial Industry Regulatory Authority, Inc.; Notice of Filing of a Proposed Rule Change To Adopt FINRA Rule 4321 (Allocations of Fail To Deliver Positions) and Amend FINRA Rule 4560 (Short-Interest Reporting)</title>
-    <updated>2026-05-18T00:00:00+00:00</updated>
-    <content>Source: Finra
-Date: 2026-05-18</content>
-    <link href="https://www.federalregister.gov/documents/2026/05/18/2026-09864/self-regulatory-organizations-financial-industry-regulatory-authority-inc-notice-of-filing-of-a"/>
-    <published>2026-05-18T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.federalregister.gov/documents/2026/05/19/2026-09959/self-regulatory-organizations-financial-industry-regulatory-authority-inc-notice-of-designation-of-a</id>
-    <title>Self-Regulatory Organizations; Financial Industry Regulatory Authority, Inc.; Notice of Designation of a Longer Period for Commission Action on a Proposed Rule Change to Exempt Specified Collective Trust Funds From FINRA Rules 5130 (Restrictions on the Purchase and Sale of Initial Equity Public Offerings) and 5131(b) (New Issue Allocations and Distributions)</title>
-    <updated>2026-05-19T00:00:00+00:00</updated>
-    <content>Source: Finra
-Date: 2026-05-19</content>
-    <link href="https://www.federalregister.gov/documents/2026/05/19/2026-09959/self-regulatory-organizations-financial-industry-regulatory-authority-inc-notice-of-designation-of-a"/>
-    <published>2026-05-19T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.federalregister.gov/documents/2026/05/19/2026-09962/program-for-allocation-of-regulatory-responsibilities-pursuant-to-rule-17d-2-notice-of-filing-and</id>
-    <title>Program for Allocation of Regulatory Responsibilities Pursuant to Rule 17d-2; Notice of Filing and Order Approving and Declaring Effective an Amendment to the Plan for the Allocation of Regulatory Responsibilities Between Cboe BZX Exchange, Inc., Cboe BYX Exchange, Inc., BOX Exchange LLC, Cboe Exchange, Inc., Cboe C2 Exchange, Inc., NYSE Texas, Inc., Cboe EDGA Exchange, Inc., Cboe EDGX Exchange, Inc., Financial Industry Regulatory Authority, Inc., Long-Term Stock Exchange, Inc., MEMX LLC, Nasdaq ISE, LLC, Nasdaq GEMX, LLC, Nasdaq MRX, LLC, Investors Exchange LLC, Miami International Securities Exchange, LLC, MIAX PEARL, LLC, MIAX Emerald, LLC, MIAX Sapphire, LLC, The Nasdaq Stock Market LLC, Nasdaq Texas LLC, Nasdaq PHLX LLC, NYSE National, Inc., New York Stock Exchange LLC, NYSE American LLC, NYSE Arca, Inc., Long-Term Stock Exchange, Inc., 24X National Exchange LLC, Green Impact Exchange, LLC, MX2 LLC and Texas Stock Exchange LLC Concerning Covered Regulation NMS and Consolidated Audit Trail Rules</title>
-    <updated>2026-05-19T00:00:00+00:00</updated>
-    <content>Source: Finra
-Date: 2026-05-19</content>
-    <link href="https://www.federalregister.gov/documents/2026/05/19/2026-09962/program-for-allocation-of-regulatory-responsibilities-pursuant-to-rule-17d-2-notice-of-filing-and"/>
-    <published>2026-05-19T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>https://www.federalregister.gov/documents/2026/05/19/2026-09966/self-regulatory-organizations-the-nasdaq-stock-market-llc-notice-of-filing-of-amendment-no-3-and</id>
     <title>Self-Regulatory Organizations; The Nasdaq Stock Market LLC; Notice of Filing of Amendment No. 3 and Order Granting Accelerated Approval of a Proposed Rule Change, as Modified by Amendment No. 3, To Adopt Additional Initial Listing Criteria for Companies Primarily Operating in China</title>
@@ -276,5 +240,14 @@ Date: 2026-06-08</content>
 Date: 2026-06-08</content>
     <link href="https://www.federalregister.gov/documents/2026/06/08/2026-11384/self-regulatory-organizations-the-options-clearing-corporation-notice-of-filing-of-proposed-rule"/>
     <published>2026-06-08T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.federalregister.gov/documents/2026/06/09/2026-11483/self-regulatory-organizations-lch-sa-order-approving-proposed-rule-change-relating-to-the-extension</id>
+    <title>Self-Regulatory Organizations; LCH SA; Order Approving Proposed Rule Change Relating to the Extension of Eligible Collateral to U.S. Treasury Securities and Related Changes</title>
+    <updated>2026-06-09T00:00:00+00:00</updated>
+    <content>Source: National Securities Exchanges
+Date: 2026-06-09</content>
+    <link href="https://www.federalregister.gov/documents/2026/06/09/2026-11483/self-regulatory-organizations-lch-sa-order-approving-proposed-rule-change-relating-to-the-extension"/>
+    <published>2026-06-09T00:00:00+00:00</published>
   </entry>
 </feed>

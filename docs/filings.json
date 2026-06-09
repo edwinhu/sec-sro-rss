@@ -1,7 +1,15 @@
 {
-  "updated": "2026-06-09T02:11:34.961235+00:00",
-  "count": 30,
+  "updated": "2026-06-09T09:24:23.604372+00:00",
+  "count": 27,
   "filings": [
+    {
+      "id": "4b77515d90ef",
+      "title": "Self-Regulatory Organizations; LCH SA; Order Approving Proposed Rule Change Relating to the Extension of Eligible Collateral to U.S. Treasury Securities and Related Changes",
+      "url": "https://www.federalregister.gov/documents/2026/06/09/2026-11483/self-regulatory-organizations-lch-sa-order-approving-proposed-rule-change-relating-to-the-extension",
+      "date": "2026-06-09",
+      "description": "",
+      "source": "national-securities-exchanges"
+    },
     {
       "id": "875f1cb38a87",
       "title": "Self-Regulatory Organizations; The Options Clearing Corporation; Notice of Filing of Proposed Rule Change by The Options Clearing Corporation To Establish a Commercial Paper Program",
@@ -207,38 +215,6 @@
       "title": "Self-Regulatory Organizations; The Nasdaq Stock Market LLC; Notice of Filing of Amendment No. 3 and Order Granting Accelerated Approval of a Proposed Rule Change, as Modified by Amendment No. 3, To Adopt Additional Initial Listing Criteria for Companies Primarily Operating in China",
       "url": "https://www.federalregister.gov/documents/2026/05/19/2026-09966/self-regulatory-organizations-the-nasdaq-stock-market-llc-notice-of-filing-of-amendment-no-3-and",
       "date": "2026-05-19",
-      "description": "",
-      "source": "national-securities-exchanges"
-    },
-    {
-      "id": "02eb1345def5",
-      "title": "Program for Allocation of Regulatory Responsibilities Pursuant to Rule 17d-2; Notice of Filing and Order Approving and Declaring Effective an Amendment to the Plan for the Allocation of Regulatory Responsibilities Between Cboe BZX Exchange, Inc., Cboe BYX Exchange, Inc., BOX Exchange LLC, Cboe Exchange, Inc., Cboe C2 Exchange, Inc., NYSE Texas, Inc., Cboe EDGA Exchange, Inc., Cboe EDGX Exchange, Inc., Financial Industry Regulatory Authority, Inc., Long-Term Stock Exchange, Inc., MEMX LLC, Nasdaq ISE, LLC, Nasdaq GEMX, LLC, Nasdaq MRX, LLC, Investors Exchange LLC, Miami International Securities Exchange, LLC, MIAX PEARL, LLC, MIAX Emerald, LLC, MIAX Sapphire, LLC, The Nasdaq Stock Market LLC, Nasdaq Texas LLC, Nasdaq PHLX LLC, NYSE National, Inc., New York Stock Exchange LLC, NYSE American LLC, NYSE Arca, Inc., Long-Term Stock Exchange, Inc., 24X National Exchange LLC, Green Impact Exchange, LLC, MX2 LLC and Texas Stock Exchange LLC Concerning Covered Regulation NMS and Consolidated Audit Trail Rules",
-      "url": "https://www.federalregister.gov/documents/2026/05/19/2026-09962/program-for-allocation-of-regulatory-responsibilities-pursuant-to-rule-17d-2-notice-of-filing-and",
-      "date": "2026-05-19",
-      "description": "",
-      "source": "finra"
-    },
-    {
-      "id": "75198f3e7c45",
-      "title": "Self-Regulatory Organizations; Financial Industry Regulatory Authority, Inc.; Notice of Designation of a Longer Period for Commission Action on a Proposed Rule Change to Exempt Specified Collective Trust Funds From FINRA Rules 5130 (Restrictions on the Purchase and Sale of Initial Equity Public Offerings) and 5131(b) (New Issue Allocations and Distributions)",
-      "url": "https://www.federalregister.gov/documents/2026/05/19/2026-09959/self-regulatory-organizations-financial-industry-regulatory-authority-inc-notice-of-designation-of-a",
-      "date": "2026-05-19",
-      "description": "",
-      "source": "finra"
-    },
-    {
-      "id": "5f1bccd51b95",
-      "title": "Self-Regulatory Organizations; Financial Industry Regulatory Authority, Inc.; Notice of Filing of a Proposed Rule Change To Adopt FINRA Rule 4321 (Allocations of Fail To Deliver Positions) and Amend FINRA Rule 4560 (Short-Interest Reporting)",
-      "url": "https://www.federalregister.gov/documents/2026/05/18/2026-09864/self-regulatory-organizations-financial-industry-regulatory-authority-inc-notice-of-filing-of-a",
-      "date": "2026-05-18",
-      "description": "",
-      "source": "finra"
-    },
-    {
-      "id": "88fa83e84d8f",
-      "title": "Self-Regulatory Organizations; Nasdaq Texas, LLC; Notice of Filing of a Proposed Rule Change To Adopt Rules To Permit the Listing and Trading of Exchange-Traded Products on the Exchange",
-      "url": "https://www.federalregister.gov/documents/2026/05/18/2026-09862/self-regulatory-organizations-nasdaq-texas-llc-notice-of-filing-of-a-proposed-rule-change-to-adopt",
-      "date": "2026-05-18",
       "description": "",
       "source": "national-securities-exchanges"
     }
