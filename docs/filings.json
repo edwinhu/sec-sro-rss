@@ -1,7 +1,23 @@
 {
-  "updated": "2026-06-10T02:35:18.853671+00:00",
-  "count": 27,
+  "updated": "2026-06-10T09:41:00.164595+00:00",
+  "count": 28,
   "filings": [
+    {
+      "id": "33fc890b8c6b",
+      "title": "Self-Regulatory Organizations; Cboe Exchange, Inc.; Cboe 2 Exchange, Inc.; Cboe BZX Exchange, Inc.; Cboe EDGX Exchange, Inc.; Cboe EDGA Exchange, Inc.; Cboe BYX Exchange, Inc.; Declaration of Effectiveness of the Fingerprint Plan of Cboe Exchange, Inc.; Cboe 2 Exchange, Inc.; Cboe BZX Exchange, Inc.; Cboe EDGX Exchange, Inc.; Cboe EDGA Exchange, Inc.; and Cboe BYX Exchange, Inc.",
+      "url": "https://www.federalregister.gov/documents/2026/06/10/2026-11570/self-regulatory-organizations-cboe-exchange-inc-cboe-2-exchange-inc-cboe-bzx-exchange-inc-cboe-edgx",
+      "date": "2026-06-10",
+      "description": "",
+      "source": "national-securities-exchanges"
+    },
+    {
+      "id": "f6d55d73e68b",
+      "title": "Self-Regulatory Organizations; ICE Clear Credit LLC; Notice of Filing of Proposed Rule Change Relating to the Treasury Clearing Service Initial Margin Approach Model Description Document, Treasury Clearing Service Guaranty Fund and Stress Test Approach Model Description Document, and Treasury Clearing Service Risk Parameter Setting and Review Policy",
+      "url": "https://www.federalregister.gov/documents/2026/06/10/2026-11567/self-regulatory-organizations-ice-clear-credit-llc-notice-of-filing-of-proposed-rule-change-relating",
+      "date": "2026-06-10",
+      "description": "",
+      "source": "national-securities-exchanges"
+    },
     {
       "id": "4b77515d90ef",
       "title": "Self-Regulatory Organizations; LCH SA; Order Approving Proposed Rule Change Relating to the Extension of Eligible Collateral to U.S. Treasury Securities and Related Changes",
@@ -207,14 +223,6 @@
       "title": "Self-Regulatory Organizations; New York Stock Exchange LLC; Order Granting Approval of Proposed Rule Change Amending Section 703.12(II) of the NYSE Listed Company Manual To Expand the Circumstances Under Which Rights May Be Listed on the NYSE",
       "url": "https://www.federalregister.gov/documents/2026/05/21/2026-10149/self-regulatory-organizations-new-york-stock-exchange-llc-order-granting-approval-of-proposed-rule",
       "date": "2026-05-21",
-      "description": "",
-      "source": "national-securities-exchanges"
-    },
-    {
-      "id": "cb8a3863d5b8",
-      "title": "Self-Regulatory Organizations; The Nasdaq Stock Market LLC; Notice of Filing of Amendment No. 3 and Order Granting Accelerated Approval of a Proposed Rule Change, as Modified by Amendment No. 3, To Adopt Additional Initial Listing Criteria for Companies Primarily Operating in China",
-      "url": "https://www.federalregister.gov/documents/2026/05/19/2026-09966/self-regulatory-organizations-the-nasdaq-stock-market-llc-notice-of-filing-of-amendment-no-3-and",
-      "date": "2026-05-19",
       "description": "",
       "source": "national-securities-exchanges"
     }
