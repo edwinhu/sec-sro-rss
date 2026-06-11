@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://github.com/edwinhu/sec-sro-rss</id>
   <title>SEC Self-Regulatory Organization Rulemaking</title>
-  <updated>2026-06-11T02:45:13.319512+00:00</updated>
+  <updated>2026-06-11T10:07:24.431863+00:00</updated>
   <link href="https://www.sec.gov/rules-regulations/self-regulatory-organization-rulemaking" rel="alternate"/>
   <link href="https://edwinhu.github.io/sec-sro-rss/feed.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -258,5 +258,14 @@ Date: 2026-06-10</content>
 Date: 2026-06-10</content>
     <link href="https://www.federalregister.gov/documents/2026/06/10/2026-11570/self-regulatory-organizations-cboe-exchange-inc-cboe-2-exchange-inc-cboe-bzx-exchange-inc-cboe-edgx"/>
     <published>2026-06-10T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.federalregister.gov/documents/2026/06/11/2026-11682/self-regulatory-organizations-texas-stock-exchange-llc-notice-of-filing-of-a-proposed-rule-change-to</id>
+    <title>Self-Regulatory Organizations; Texas Stock Exchange LLC; Notice of Filing of a Proposed Rule Change To Amend Rule 13.003 Related to Proxy Voting</title>
+    <updated>2026-06-11T00:00:00+00:00</updated>
+    <content>Source: National Securities Exchanges
+Date: 2026-06-11</content>
+    <link href="https://www.federalregister.gov/documents/2026/06/11/2026-11682/self-regulatory-organizations-texas-stock-exchange-llc-notice-of-filing-of-a-proposed-rule-change-to"/>
+    <published>2026-06-11T00:00:00+00:00</published>
   </entry>
 </feed>

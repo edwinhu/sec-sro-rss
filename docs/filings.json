@@ -1,7 +1,15 @@
 {
-  "updated": "2026-06-11T02:45:13.351223+00:00",
-  "count": 28,
+  "updated": "2026-06-11T10:07:24.439728+00:00",
+  "count": 29,
   "filings": [
+    {
+      "id": "94f3c83a7879",
+      "title": "Self-Regulatory Organizations; Texas Stock Exchange LLC; Notice of Filing of a Proposed Rule Change To Amend Rule 13.003 Related to Proxy Voting",
+      "url": "https://www.federalregister.gov/documents/2026/06/11/2026-11682/self-regulatory-organizations-texas-stock-exchange-llc-notice-of-filing-of-a-proposed-rule-change-to",
+      "date": "2026-06-11",
+      "description": "",
+      "source": "national-securities-exchanges"
+    },
     {
       "id": "33fc890b8c6b",
       "title": "Self-Regulatory Organizations; Cboe Exchange, Inc.; Cboe 2 Exchange, Inc.; Cboe BZX Exchange, Inc.; Cboe EDGX Exchange, Inc.; Cboe EDGA Exchange, Inc.; Cboe BYX Exchange, Inc.; Declaration of Effectiveness of the Fingerprint Plan of Cboe Exchange, Inc.; Cboe 2 Exchange, Inc.; Cboe BZX Exchange, Inc.; Cboe EDGX Exchange, Inc.; Cboe EDGA Exchange, Inc.; and Cboe BYX Exchange, Inc.",

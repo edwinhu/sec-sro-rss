@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 11 Jun 2026 02:45:13 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 11 Jun 2026 10:07:24 +0000</lastBuildDate>
     <item>
       <title>Self-Regulatory Organizations; New York Stock Exchange LLC; Order Granting Approval of Proposed Rule Change Amending Section 703.12(II) of the NYSE Listed Company Manual To Expand the Circumstances Under Which Rights May Be Listed on the NYSE</title>
       <link>https://www.federalregister.gov/documents/2026/05/21/2026-10149/self-regulatory-organizations-new-york-stock-exchange-llc-order-granting-approval-of-proposed-rule</link>
@@ -232,6 +232,14 @@ Date: 2026-06-10</description>
 Date: 2026-06-10</description>
       <guid isPermaLink="false">https://www.federalregister.gov/documents/2026/06/10/2026-11570/self-regulatory-organizations-cboe-exchange-inc-cboe-2-exchange-inc-cboe-bzx-exchange-inc-cboe-edgx</guid>
       <pubDate>Wed, 10 Jun 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Self-Regulatory Organizations; Texas Stock Exchange LLC; Notice of Filing of a Proposed Rule Change To Amend Rule 13.003 Related to Proxy Voting</title>
+      <link>https://www.federalregister.gov/documents/2026/06/11/2026-11682/self-regulatory-organizations-texas-stock-exchange-llc-notice-of-filing-of-a-proposed-rule-change-to</link>
+      <description>Source: National Securities Exchanges
+Date: 2026-06-11</description>
+      <guid isPermaLink="false">https://www.federalregister.gov/documents/2026/06/11/2026-11682/self-regulatory-organizations-texas-stock-exchange-llc-notice-of-filing-of-a-proposed-rule-change-to</guid>
+      <pubDate>Thu, 11 Jun 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
