@@ -1,6 +1,6 @@
 {
-  "updated": "2026-06-12T02:41:10.886588+00:00",
-  "count": 29,
+  "updated": "2026-06-12T09:57:08.966348+00:00",
+  "count": 26,
   "filings": [
     {
       "id": "94f3c83a7879",
@@ -207,30 +207,6 @@
       "title": "Self-Regulatory Organizations; ICE Clear Credit LLC; Notice of Filing of Proposed Rule Change Relating to the Clearance of Additional Credit Default Swap Contracts",
       "url": "https://www.federalregister.gov/documents/2026/05/27/2026-10451/self-regulatory-organizations-ice-clear-credit-llc-notice-of-filing-of-proposed-rule-change-relating",
       "date": "2026-05-27",
-      "description": "",
-      "source": "national-securities-exchanges"
-    },
-    {
-      "id": "bcca7e617a78",
-      "title": "Self-Regulatory Organizations; ICE Clear Credit LLC; Notice of Filing of Proposed Rule Change Relating to the Treasury Clearing Rules and Treasury Clearing Service Treasury Operations Policies and Liquidity Risk Management Framework",
-      "url": "https://www.federalregister.gov/documents/2026/05/26/2026-10368/self-regulatory-organizations-ice-clear-credit-llc-notice-of-filing-of-proposed-rule-change-relating",
-      "date": "2026-05-26",
-      "description": "",
-      "source": "national-securities-exchanges"
-    },
-    {
-      "id": "cbf387db9221",
-      "title": "Self-Regulatory Organizations; Financial Industry Regulatory Authority, Inc.; Order Instituting Proceedings To Determine Whether To Approve or Disapprove a Proposed Rule Change To Amend FINRA Rule 2210 (Communications With the Public)",
-      "url": "https://www.federalregister.gov/documents/2026/05/26/2026-10365/self-regulatory-organizations-financial-industry-regulatory-authority-inc-order-instituting",
-      "date": "2026-05-26",
-      "description": "",
-      "source": "finra"
-    },
-    {
-      "id": "22cb15ea7727",
-      "title": "Self-Regulatory Organizations; New York Stock Exchange LLC; Order Granting Approval of Proposed Rule Change Amending Section 703.12(II) of the NYSE Listed Company Manual To Expand the Circumstances Under Which Rights May Be Listed on the NYSE",
-      "url": "https://www.federalregister.gov/documents/2026/05/21/2026-10149/self-regulatory-organizations-new-york-stock-exchange-llc-order-granting-approval-of-proposed-rule",
-      "date": "2026-05-21",
       "description": "",
       "source": "national-securities-exchanges"
     }
