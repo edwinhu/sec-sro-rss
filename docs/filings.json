@@ -1,7 +1,23 @@
 {
-  "updated": "2026-06-13T02:34:04.851347+00:00",
+  "updated": "2026-06-13T08:47:12.874556+00:00",
   "count": 26,
   "filings": [
+    {
+      "id": "5d72f779ac73",
+      "title": "Self-Regulatory Organizations; Financial Industry Regulatory Authority, Inc.; Notice of Designation of Longer Period for Commission Action on Proposed Rule Change To Amend the FINRA Rule 6700 Series (Trade Reporting and Compliance Engine) (TRACE) To Expand the Scope of the Non-Member Affiliate-Principal Transaction Indicator to Also Include Member Affiliates",
+      "url": "https://www.federalregister.gov/documents/2026/06/15/2026-11923/self-regulatory-organizations-financial-industry-regulatory-authority-inc-notice-of-designation-of",
+      "date": "2026-06-15",
+      "description": "",
+      "source": "finra"
+    },
+    {
+      "id": "2ca21703e063",
+      "title": "Self-Regulatory Organizations; Texas Stock Exchange LLC; Notice of Designation of a Longer Period for Commission Action on a Proposed Rule Change To Amend Certain Parts of Its Opening and Closing Auctions",
+      "url": "https://www.federalregister.gov/documents/2026/06/15/2026-11920/self-regulatory-organizations-texas-stock-exchange-llc-notice-of-designation-of-a-longer-period-for",
+      "date": "2026-06-15",
+      "description": "",
+      "source": "national-securities-exchanges"
+    },
     {
       "id": "94f3c83a7879",
       "title": "Self-Regulatory Organizations; Texas Stock Exchange LLC; Notice of Filing of a Proposed Rule Change To Amend Rule 13.003 Related to Proxy Voting",
@@ -191,22 +207,6 @@
       "title": "Self-Regulatory Organizations; LCH SA; Order Approving Proposed Rule Change Relating to the CDSClear Risk Framework",
       "url": "https://www.federalregister.gov/documents/2026/05/29/2026-10665/self-regulatory-organizations-lch-sa-order-approving-proposed-rule-change-relating-to-the-cdsclear",
       "date": "2026-05-29",
-      "description": "",
-      "source": "national-securities-exchanges"
-    },
-    {
-      "id": "74fad0075de2",
-      "title": "Self-Regulatory Organizations; the Options Clearing Corporation; Order Approving Proposed Rule Change by the Options Clearing Corporation Concerning Amendments to OCC's STANS Methodology Description To Enable OCC To Accept Binary Options for Clearing and Appropriately Manage the Risk Created by Binary Options",
-      "url": "https://www.federalregister.gov/documents/2026/05/27/2026-10453/self-regulatory-organizations-the-options-clearing-corporation-order-approving-proposed-rule-change",
-      "date": "2026-05-27",
-      "description": "",
-      "source": "national-securities-exchanges"
-    },
-    {
-      "id": "5275dda4777f",
-      "title": "Self-Regulatory Organizations; ICE Clear Credit LLC; Notice of Filing of Proposed Rule Change Relating to the Clearance of Additional Credit Default Swap Contracts",
-      "url": "https://www.federalregister.gov/documents/2026/05/27/2026-10451/self-regulatory-organizations-ice-clear-credit-llc-notice-of-filing-of-proposed-rule-change-relating",
-      "date": "2026-05-27",
       "description": "",
       "source": "national-securities-exchanges"
     }

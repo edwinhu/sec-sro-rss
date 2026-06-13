@@ -8,23 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 13 Jun 2026 02:34:04 +0000</lastBuildDate>
-    <item>
-      <title>Self-Regulatory Organizations; ICE Clear Credit LLC; Notice of Filing of Proposed Rule Change Relating to the Clearance of Additional Credit Default Swap Contracts</title>
-      <link>https://www.federalregister.gov/documents/2026/05/27/2026-10451/self-regulatory-organizations-ice-clear-credit-llc-notice-of-filing-of-proposed-rule-change-relating</link>
-      <description>Source: National Securities Exchanges
-Date: 2026-05-27</description>
-      <guid isPermaLink="false">https://www.federalregister.gov/documents/2026/05/27/2026-10451/self-regulatory-organizations-ice-clear-credit-llc-notice-of-filing-of-proposed-rule-change-relating</guid>
-      <pubDate>Wed, 27 May 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Self-Regulatory Organizations; the Options Clearing Corporation; Order Approving Proposed Rule Change by the Options Clearing Corporation Concerning Amendments to OCC's STANS Methodology Description To Enable OCC To Accept Binary Options for Clearing and Appropriately Manage the Risk Created by Binary Options</title>
-      <link>https://www.federalregister.gov/documents/2026/05/27/2026-10453/self-regulatory-organizations-the-options-clearing-corporation-order-approving-proposed-rule-change</link>
-      <description>Source: National Securities Exchanges
-Date: 2026-05-27</description>
-      <guid isPermaLink="false">https://www.federalregister.gov/documents/2026/05/27/2026-10453/self-regulatory-organizations-the-options-clearing-corporation-order-approving-proposed-rule-change</guid>
-      <pubDate>Wed, 27 May 2026 00:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 13 Jun 2026 08:47:12 +0000</lastBuildDate>
     <item>
       <title>Self-Regulatory Organizations; LCH SA; Order Approving Proposed Rule Change Relating to the CDSClear Risk Framework</title>
       <link>https://www.federalregister.gov/documents/2026/05/29/2026-10665/self-regulatory-organizations-lch-sa-order-approving-proposed-rule-change-relating-to-the-cdsclear</link>
@@ -216,6 +200,22 @@ Date: 2026-06-10</description>
 Date: 2026-06-11</description>
       <guid isPermaLink="false">https://www.federalregister.gov/documents/2026/06/11/2026-11682/self-regulatory-organizations-texas-stock-exchange-llc-notice-of-filing-of-a-proposed-rule-change-to</guid>
       <pubDate>Thu, 11 Jun 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Self-Regulatory Organizations; Texas Stock Exchange LLC; Notice of Designation of a Longer Period for Commission Action on a Proposed Rule Change To Amend Certain Parts of Its Opening and Closing Auctions</title>
+      <link>https://www.federalregister.gov/documents/2026/06/15/2026-11920/self-regulatory-organizations-texas-stock-exchange-llc-notice-of-designation-of-a-longer-period-for</link>
+      <description>Source: National Securities Exchanges
+Date: 2026-06-15</description>
+      <guid isPermaLink="false">https://www.federalregister.gov/documents/2026/06/15/2026-11920/self-regulatory-organizations-texas-stock-exchange-llc-notice-of-designation-of-a-longer-period-for</guid>
+      <pubDate>Mon, 15 Jun 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Self-Regulatory Organizations; Financial Industry Regulatory Authority, Inc.; Notice of Designation of Longer Period for Commission Action on Proposed Rule Change To Amend the FINRA Rule 6700 Series (Trade Reporting and Compliance Engine) (TRACE) To Expand the Scope of the Non-Member Affiliate-Principal Transaction Indicator to Also Include Member Affiliates</title>
+      <link>https://www.federalregister.gov/documents/2026/06/15/2026-11923/self-regulatory-organizations-financial-industry-regulatory-authority-inc-notice-of-designation-of</link>
+      <description>Source: Finra
+Date: 2026-06-15</description>
+      <guid isPermaLink="false">https://www.federalregister.gov/documents/2026/06/15/2026-11923/self-regulatory-organizations-financial-industry-regulatory-authority-inc-notice-of-designation-of</guid>
+      <pubDate>Mon, 15 Jun 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
