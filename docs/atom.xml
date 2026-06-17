@@ -2,20 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://github.com/edwinhu/sec-sro-rss</id>
   <title>SEC Self-Regulatory Organization Rulemaking</title>
-  <updated>2026-06-17T02:48:38.925766+00:00</updated>
+  <updated>2026-06-17T10:26:37.036119+00:00</updated>
   <link href="https://www.sec.gov/rules-regulations/self-regulatory-organization-rulemaking" rel="alternate"/>
   <link href="https://edwinhu.github.io/sec-sro-rss/feed.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Filtered SEC SRO filings (excludes immediate effectiveness notices and crypto)</subtitle>
-  <entry>
-    <id>https://www.federalregister.gov/documents/2026/06/01/2026-10836/self-regulatory-organizations-national-securities-clearing-corporation-order-approving-proposed-rule</id>
-    <title>Self-Regulatory Organizations; National Securities Clearing Corporation; Order Approving Proposed Rule Change Concerning NSCC's Ability To Support Industry Efforts To Extend Trading Hours for the U.S. Equity Markets</title>
-    <updated>2026-06-01T00:00:00+00:00</updated>
-    <content>Source: National Securities Exchanges
-Date: 2026-06-01</content>
-    <link href="https://www.federalregister.gov/documents/2026/06/01/2026-10836/self-regulatory-organizations-national-securities-clearing-corporation-order-approving-proposed-rule"/>
-    <published>2026-06-01T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>https://www.federalregister.gov/documents/2026/06/02/2026-10951/self-regulatory-organizations-cboe-exchange-inc-order-approving-a-proposed-rule-change-as-modified</id>
     <title>Self-Regulatory Organizations; Cboe Exchange, Inc.; Order Approving a Proposed Rule Change, as Modified by Amendment No. 1, To Allow for Extended Trading of Multi-Listed Equity Options</title>
@@ -240,5 +231,23 @@ Date: 2026-06-16</content>
 Date: 2026-06-16</content>
     <link href="https://www.federalregister.gov/documents/2026/06/16/2026-12039/self-regulatory-organizations-nyse-arca-inc-notice-of-designation-of-a-longer-period-for-commission"/>
     <published>2026-06-16T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.federalregister.gov/documents/2026/06/17/2026-12157/self-regulatory-organizations-cboe-exchange-inc-order-approving-a-proposed-rule-change-to-permit-the</id>
+    <title>Self-Regulatory Organizations; Cboe Exchange, Inc.; Order Approving a Proposed Rule Change To Permit the Listing of A.M.-Settled Options on the S&amp;P 500 Index That Expire on Any Monday, Tuesday, Wednesday, Thursday, or Friday (Other Than the Third Friday-of-the-Month or Days That Coincide With an End-of-Month Expiration) and Expire on the Last Trading Day of the Month</title>
+    <updated>2026-06-17T00:00:00+00:00</updated>
+    <content>Source: National Securities Exchanges
+Date: 2026-06-17</content>
+    <link href="https://www.federalregister.gov/documents/2026/06/17/2026-12157/self-regulatory-organizations-cboe-exchange-inc-order-approving-a-proposed-rule-change-to-permit-the"/>
+    <published>2026-06-17T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.federalregister.gov/documents/2026/06/17/2026-12159/joint-industry-plan-notice-of-filing-of-the-third-amendment-to-the-limited-liability-company</id>
+    <title>Joint Industry Plan; Notice of Filing of the Third Amendment to the Limited Liability Company Agreement of CT Plan LLC To Adopt Revenue Allocation Formula Revisions</title>
+    <updated>2026-06-17T00:00:00+00:00</updated>
+    <content>Source: National Securities Exchanges
+Date: 2026-06-17</content>
+    <link href="https://www.federalregister.gov/documents/2026/06/17/2026-12159/joint-industry-plan-notice-of-filing-of-the-third-amendment-to-the-limited-liability-company"/>
+    <published>2026-06-17T00:00:00+00:00</published>
   </entry>
 </feed>

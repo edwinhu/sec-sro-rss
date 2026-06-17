@@ -1,7 +1,23 @@
 {
-  "updated": "2026-06-17T02:48:38.957740+00:00",
-  "count": 26,
+  "updated": "2026-06-17T10:26:37.151795+00:00",
+  "count": 27,
   "filings": [
+    {
+      "id": "4eca0c17625f",
+      "title": "Joint Industry Plan; Notice of Filing of the Third Amendment to the Limited Liability Company Agreement of CT Plan LLC To Adopt Revenue Allocation Formula Revisions",
+      "url": "https://www.federalregister.gov/documents/2026/06/17/2026-12159/joint-industry-plan-notice-of-filing-of-the-third-amendment-to-the-limited-liability-company",
+      "date": "2026-06-17",
+      "description": "",
+      "source": "national-securities-exchanges"
+    },
+    {
+      "id": "081afddac8a4",
+      "title": "Self-Regulatory Organizations; Cboe Exchange, Inc.; Order Approving a Proposed Rule Change To Permit the Listing of A.M.-Settled Options on the S&P 500 Index That Expire on Any Monday, Tuesday, Wednesday, Thursday, or Friday (Other Than the Third Friday-of-the-Month or Days That Coincide With an End-of-Month Expiration) and Expire on the Last Trading Day of the Month",
+      "url": "https://www.federalregister.gov/documents/2026/06/17/2026-12157/self-regulatory-organizations-cboe-exchange-inc-order-approving-a-proposed-rule-change-to-permit-the",
+      "date": "2026-06-17",
+      "description": "",
+      "source": "national-securities-exchanges"
+    },
     {
       "id": "fe680ca5d9d2",
       "title": "Self-Regulatory Organizations; NYSE Arca, Inc.; Notice of Designation of a Longer Period for Commission Action on a Proposed Rule Change To Amend Rule 8.201-E (Generic) To Modify the Generic Listing Standards for Commodity-Based Trust Shares",
@@ -199,14 +215,6 @@
       "title": "Self-Regulatory Organizations; Cboe Exchange, Inc.; Order Approving a Proposed Rule Change, as Modified by Amendment No. 1, To Allow for Extended Trading of Multi-Listed Equity Options",
       "url": "https://www.federalregister.gov/documents/2026/06/02/2026-10951/self-regulatory-organizations-cboe-exchange-inc-order-approving-a-proposed-rule-change-as-modified",
       "date": "2026-06-02",
-      "description": "",
-      "source": "national-securities-exchanges"
-    },
-    {
-      "id": "9bc92e901435",
-      "title": "Self-Regulatory Organizations; National Securities Clearing Corporation; Order Approving Proposed Rule Change Concerning NSCC's Ability To Support Industry Efforts To Extend Trading Hours for the U.S. Equity Markets",
-      "url": "https://www.federalregister.gov/documents/2026/06/01/2026-10836/self-regulatory-organizations-national-securities-clearing-corporation-order-approving-proposed-rule",
-      "date": "2026-06-01",
       "description": "",
       "source": "national-securities-exchanges"
     }
