@@ -1,7 +1,39 @@
 {
-  "updated": "2026-06-24T02:28:09.964307+00:00",
-  "count": 27,
+  "updated": "2026-06-24T08:53:57.578676+00:00",
+  "count": 28,
   "filings": [
+    {
+      "id": "3a01bba8b553",
+      "title": "Self-Regulatory Organizations; Nasdaq Texas, LLC; Order Granting Approval of a Proposed Rule Change To Adopt Rules To Permit the Listing and Trading of Certain Exchange-Traded Products",
+      "url": "https://www.federalregister.gov/documents/2026/06/24/2026-12640/self-regulatory-organizations-nasdaq-texas-llc-order-granting-approval-of-a-proposed-rule-change-to",
+      "date": "2026-06-24",
+      "description": "",
+      "source": "national-securities-exchanges"
+    },
+    {
+      "id": "c812a2be6741",
+      "title": "Self-Regulatory Organizations; Cboe EDGA Exchange, Inc.; Notice of Filing of a Proposed Rule Change To Amend Rule 11.8(c) To Permit an Intermarket Sweep Order (\u201cISO\u201d) To Be Entered as a Non-Displayed Order and To Establish the Price Level at Which the System Will Consider an ISO Available for Other Orders To Be Entered",
+      "url": "https://www.federalregister.gov/documents/2026/06/24/2026-12635/self-regulatory-organizations-cboe-edga-exchange-inc-notice-of-filing-of-a-proposed-rule-change-to",
+      "date": "2026-06-24",
+      "description": "",
+      "source": "national-securities-exchanges"
+    },
+    {
+      "id": "74f7d8fc2da0",
+      "title": "Self-Regulatory Organizations; Cboe EDGX Exchange, Inc.; Notice of Filing of a Proposed Rule Change To Amend Rule 11.8(c) To Permit an Intermarket Sweep Order (\u201cISO\u201d) To Be Entered as a Non-Displayed Order and To Establish the Price Level at Which the System Will Consider an ISO Available for Other Orders To Be Entered",
+      "url": "https://www.federalregister.gov/documents/2026/06/24/2026-12631/self-regulatory-organizations-cboe-edgx-exchange-inc-notice-of-filing-of-a-proposed-rule-change-to",
+      "date": "2026-06-24",
+      "description": "",
+      "source": "national-securities-exchanges"
+    },
+    {
+      "id": "365476fc71e4",
+      "title": "Self-Regulatory Organizations; Cboe BYX Exchange, Inc.; Notice of Designation of Longer Period for Commission Action on Proposed Rule Change To Amend Rule 11.25 To Introduce an Optional, Contingent Instruction Applicable to Periodic Auction Only Orders, Introduce a Time-in-Force of Auction or Cancel, and Make Conforming Changes to Its Periodic Auction Processing Behavior To Support the Proposed Contingent Instruction",
+      "url": "https://www.federalregister.gov/documents/2026/06/24/2026-12629/self-regulatory-organizations-cboe-byx-exchange-inc-notice-of-designation-of-longer-period-for",
+      "date": "2026-06-24",
+      "description": "",
+      "source": "national-securities-exchanges"
+    },
     {
       "id": "0c0d525b7d60",
       "title": "Agency Information Collection Activities; Proposed Collection; Comment Request; Extension: Rule 19b-7 and Form 19b-7",
@@ -191,30 +223,6 @@
       "title": "Self-Regulatory Organizations; Texas Stock Exchange LLC; Notice of Filing of a Proposed Rule Change To Amend Rule 13.003 Related to Proxy Voting",
       "url": "https://www.federalregister.gov/documents/2026/06/11/2026-11682/self-regulatory-organizations-texas-stock-exchange-llc-notice-of-filing-of-a-proposed-rule-change-to",
       "date": "2026-06-11",
-      "description": "",
-      "source": "national-securities-exchanges"
-    },
-    {
-      "id": "33fc890b8c6b",
-      "title": "Self-Regulatory Organizations; Cboe Exchange, Inc.; Cboe 2 Exchange, Inc.; Cboe BZX Exchange, Inc.; Cboe EDGX Exchange, Inc.; Cboe EDGA Exchange, Inc.; Cboe BYX Exchange, Inc.; Declaration of Effectiveness of the Fingerprint Plan of Cboe Exchange, Inc.; Cboe 2 Exchange, Inc.; Cboe BZX Exchange, Inc.; Cboe EDGX Exchange, Inc.; Cboe EDGA Exchange, Inc.; and Cboe BYX Exchange, Inc.",
-      "url": "https://www.federalregister.gov/documents/2026/06/10/2026-11570/self-regulatory-organizations-cboe-exchange-inc-cboe-2-exchange-inc-cboe-bzx-exchange-inc-cboe-edgx",
-      "date": "2026-06-10",
-      "description": "",
-      "source": "national-securities-exchanges"
-    },
-    {
-      "id": "f6d55d73e68b",
-      "title": "Self-Regulatory Organizations; ICE Clear Credit LLC; Notice of Filing of Proposed Rule Change Relating to the Treasury Clearing Service Initial Margin Approach Model Description Document, Treasury Clearing Service Guaranty Fund and Stress Test Approach Model Description Document, and Treasury Clearing Service Risk Parameter Setting and Review Policy",
-      "url": "https://www.federalregister.gov/documents/2026/06/10/2026-11567/self-regulatory-organizations-ice-clear-credit-llc-notice-of-filing-of-proposed-rule-change-relating",
-      "date": "2026-06-10",
-      "description": "",
-      "source": "national-securities-exchanges"
-    },
-    {
-      "id": "4b77515d90ef",
-      "title": "Self-Regulatory Organizations; LCH SA; Order Approving Proposed Rule Change Relating to the Extension of Eligible Collateral to U.S. Treasury Securities and Related Changes",
-      "url": "https://www.federalregister.gov/documents/2026/06/09/2026-11483/self-regulatory-organizations-lch-sa-order-approving-proposed-rule-change-relating-to-the-extension",
-      "date": "2026-06-09",
       "description": "",
       "source": "national-securities-exchanges"
     }

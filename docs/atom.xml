@@ -2,38 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://github.com/edwinhu/sec-sro-rss</id>
   <title>SEC Self-Regulatory Organization Rulemaking</title>
-  <updated>2026-06-24T02:28:09.954786+00:00</updated>
+  <updated>2026-06-24T08:53:57.555328+00:00</updated>
   <link href="https://www.sec.gov/rules-regulations/self-regulatory-organization-rulemaking" rel="alternate"/>
   <link href="https://edwinhu.github.io/sec-sro-rss/feed.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Filtered SEC SRO filings (excludes immediate effectiveness notices and crypto)</subtitle>
-  <entry>
-    <id>https://www.federalregister.gov/documents/2026/06/09/2026-11483/self-regulatory-organizations-lch-sa-order-approving-proposed-rule-change-relating-to-the-extension</id>
-    <title>Self-Regulatory Organizations; LCH SA; Order Approving Proposed Rule Change Relating to the Extension of Eligible Collateral to U.S. Treasury Securities and Related Changes</title>
-    <updated>2026-06-09T00:00:00+00:00</updated>
-    <content>Source: National Securities Exchanges
-Date: 2026-06-09</content>
-    <link href="https://www.federalregister.gov/documents/2026/06/09/2026-11483/self-regulatory-organizations-lch-sa-order-approving-proposed-rule-change-relating-to-the-extension"/>
-    <published>2026-06-09T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.federalregister.gov/documents/2026/06/10/2026-11567/self-regulatory-organizations-ice-clear-credit-llc-notice-of-filing-of-proposed-rule-change-relating</id>
-    <title>Self-Regulatory Organizations; ICE Clear Credit LLC; Notice of Filing of Proposed Rule Change Relating to the Treasury Clearing Service Initial Margin Approach Model Description Document, Treasury Clearing Service Guaranty Fund and Stress Test Approach Model Description Document, and Treasury Clearing Service Risk Parameter Setting and Review Policy</title>
-    <updated>2026-06-10T00:00:00+00:00</updated>
-    <content>Source: National Securities Exchanges
-Date: 2026-06-10</content>
-    <link href="https://www.federalregister.gov/documents/2026/06/10/2026-11567/self-regulatory-organizations-ice-clear-credit-llc-notice-of-filing-of-proposed-rule-change-relating"/>
-    <published>2026-06-10T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.federalregister.gov/documents/2026/06/10/2026-11570/self-regulatory-organizations-cboe-exchange-inc-cboe-2-exchange-inc-cboe-bzx-exchange-inc-cboe-edgx</id>
-    <title>Self-Regulatory Organizations; Cboe Exchange, Inc.; Cboe 2 Exchange, Inc.; Cboe BZX Exchange, Inc.; Cboe EDGX Exchange, Inc.; Cboe EDGA Exchange, Inc.; Cboe BYX Exchange, Inc.; Declaration of Effectiveness of the Fingerprint Plan of Cboe Exchange, Inc.; Cboe 2 Exchange, Inc.; Cboe BZX Exchange, Inc.; Cboe EDGX Exchange, Inc.; Cboe EDGA Exchange, Inc.; and Cboe BYX Exchange, Inc.</title>
-    <updated>2026-06-10T00:00:00+00:00</updated>
-    <content>Source: National Securities Exchanges
-Date: 2026-06-10</content>
-    <link href="https://www.federalregister.gov/documents/2026/06/10/2026-11570/self-regulatory-organizations-cboe-exchange-inc-cboe-2-exchange-inc-cboe-bzx-exchange-inc-cboe-edgx"/>
-    <published>2026-06-10T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>https://www.federalregister.gov/documents/2026/06/11/2026-11682/self-regulatory-organizations-texas-stock-exchange-llc-notice-of-filing-of-a-proposed-rule-change-to</id>
     <title>Self-Regulatory Organizations; Texas Stock Exchange LLC; Notice of Filing of a Proposed Rule Change To Amend Rule 13.003 Related to Proxy Voting</title>
@@ -249,5 +222,41 @@ Date: 2026-06-23</content>
 Date: 2026-06-23</content>
     <link href="https://www.federalregister.gov/documents/2026/06/23/2026-12586/agency-information-collection-activities-proposed-collection-comment-request-extension-rule-19b-7"/>
     <published>2026-06-23T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.federalregister.gov/documents/2026/06/24/2026-12629/self-regulatory-organizations-cboe-byx-exchange-inc-notice-of-designation-of-longer-period-for</id>
+    <title>Self-Regulatory Organizations; Cboe BYX Exchange, Inc.; Notice of Designation of Longer Period for Commission Action on Proposed Rule Change To Amend Rule 11.25 To Introduce an Optional, Contingent Instruction Applicable to Periodic Auction Only Orders, Introduce a Time-in-Force of Auction or Cancel, and Make Conforming Changes to Its Periodic Auction Processing Behavior To Support the Proposed Contingent Instruction</title>
+    <updated>2026-06-24T00:00:00+00:00</updated>
+    <content>Source: National Securities Exchanges
+Date: 2026-06-24</content>
+    <link href="https://www.federalregister.gov/documents/2026/06/24/2026-12629/self-regulatory-organizations-cboe-byx-exchange-inc-notice-of-designation-of-longer-period-for"/>
+    <published>2026-06-24T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.federalregister.gov/documents/2026/06/24/2026-12631/self-regulatory-organizations-cboe-edgx-exchange-inc-notice-of-filing-of-a-proposed-rule-change-to</id>
+    <title>Self-Regulatory Organizations; Cboe EDGX Exchange, Inc.; Notice of Filing of a Proposed Rule Change To Amend Rule 11.8(c) To Permit an Intermarket Sweep Order (“ISO”) To Be Entered as a Non-Displayed Order and To Establish the Price Level at Which the System Will Consider an ISO Available for Other Orders To Be Entered</title>
+    <updated>2026-06-24T00:00:00+00:00</updated>
+    <content>Source: National Securities Exchanges
+Date: 2026-06-24</content>
+    <link href="https://www.federalregister.gov/documents/2026/06/24/2026-12631/self-regulatory-organizations-cboe-edgx-exchange-inc-notice-of-filing-of-a-proposed-rule-change-to"/>
+    <published>2026-06-24T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.federalregister.gov/documents/2026/06/24/2026-12635/self-regulatory-organizations-cboe-edga-exchange-inc-notice-of-filing-of-a-proposed-rule-change-to</id>
+    <title>Self-Regulatory Organizations; Cboe EDGA Exchange, Inc.; Notice of Filing of a Proposed Rule Change To Amend Rule 11.8(c) To Permit an Intermarket Sweep Order (“ISO”) To Be Entered as a Non-Displayed Order and To Establish the Price Level at Which the System Will Consider an ISO Available for Other Orders To Be Entered</title>
+    <updated>2026-06-24T00:00:00+00:00</updated>
+    <content>Source: National Securities Exchanges
+Date: 2026-06-24</content>
+    <link href="https://www.federalregister.gov/documents/2026/06/24/2026-12635/self-regulatory-organizations-cboe-edga-exchange-inc-notice-of-filing-of-a-proposed-rule-change-to"/>
+    <published>2026-06-24T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.federalregister.gov/documents/2026/06/24/2026-12640/self-regulatory-organizations-nasdaq-texas-llc-order-granting-approval-of-a-proposed-rule-change-to</id>
+    <title>Self-Regulatory Organizations; Nasdaq Texas, LLC; Order Granting Approval of a Proposed Rule Change To Adopt Rules To Permit the Listing and Trading of Certain Exchange-Traded Products</title>
+    <updated>2026-06-24T00:00:00+00:00</updated>
+    <content>Source: National Securities Exchanges
+Date: 2026-06-24</content>
+    <link href="https://www.federalregister.gov/documents/2026/06/24/2026-12640/self-regulatory-organizations-nasdaq-texas-llc-order-granting-approval-of-a-proposed-rule-change-to"/>
+    <published>2026-06-24T00:00:00+00:00</published>
   </entry>
 </feed>
