@@ -1,7 +1,15 @@
 {
-  "updated": "2026-06-25T08:47:46.589422+00:00",
+  "updated": "2026-06-25T14:05:16.291906+00:00",
   "count": 28,
   "filings": [
+    {
+      "id": "37bd7774e7a4",
+      "title": "Self-Regulatory Organizations; The Nasdaq Stock Market LLC; Notice of Filing of Proposed Rule Change, as Modified by Amendment No. 1, To Adopt a New Continued Listing Requirement",
+      "url": "https://www.federalregister.gov/documents/2026/06/25/2026-12765/self-regulatory-organizations-the-nasdaq-stock-market-llc-notice-of-filing-of-proposed-rule-change",
+      "date": "2026-06-25",
+      "description": "",
+      "source": "national-securities-exchanges"
+    },
     {
       "id": "3a01bba8b553",
       "title": "Self-Regulatory Organizations; Nasdaq Texas, LLC; Order Granting Approval of a Proposed Rule Change To Adopt Rules To Permit the Listing and Trading of Certain Exchange-Traded Products",
@@ -215,14 +223,6 @@
       "title": "Self-Regulatory Organizations; Texas Stock Exchange LLC; Notice of Designation of a Longer Period for Commission Action on a Proposed Rule Change To Amend Certain Parts of Its Opening and Closing Auctions",
       "url": "https://www.federalregister.gov/documents/2026/06/15/2026-11920/self-regulatory-organizations-texas-stock-exchange-llc-notice-of-designation-of-a-longer-period-for",
       "date": "2026-06-15",
-      "description": "",
-      "source": "national-securities-exchanges"
-    },
-    {
-      "id": "94f3c83a7879",
-      "title": "Self-Regulatory Organizations; Texas Stock Exchange LLC; Notice of Filing of a Proposed Rule Change To Amend Rule 13.003 Related to Proxy Voting",
-      "url": "https://www.federalregister.gov/documents/2026/06/11/2026-11682/self-regulatory-organizations-texas-stock-exchange-llc-notice-of-filing-of-a-proposed-rule-change-to",
-      "date": "2026-06-11",
       "description": "",
       "source": "national-securities-exchanges"
     }
