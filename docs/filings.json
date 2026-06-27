@@ -1,7 +1,23 @@
 {
-  "updated": "2026-06-27T02:26:05.135225+00:00",
-  "count": 28,
+  "updated": "2026-06-27T08:26:28.321292+00:00",
+  "count": 30,
   "filings": [
+    {
+      "id": "6a3529ae432b",
+      "title": "Self-Regulatory Organizations; Cboe Exchange, Inc.; Order Instituting Proceedings To Determine Whether To Approve or Disapprove a Proposed Rule Change To Amend Its Rules To Accommodate Stop-Limit Complex Orders and Establish Stop Complex Order Auctions as a New Type of Auction Mechanism",
+      "url": "https://www.federalregister.gov/documents/2026/06/29/2026-13022/self-regulatory-organizations-cboe-exchange-inc-order-instituting-proceedings-to-determine-whether",
+      "date": "2026-06-29",
+      "description": "",
+      "source": "national-securities-exchanges"
+    },
+    {
+      "id": "933fd519a38f",
+      "title": "Self-Regulatory Organizations; Cboe Exchange, Inc.; Notice of Filing of Amendment No. 2 and Order Granting Accelerated Approval of a Proposed Rule Change, as Superseded by Amendment No. 1 and Modified by Amendment No. 2, To Amend its Rules Relating to Designated Primary Market-Maker Appointments in Global Trading Hours and Curb Sessions",
+      "url": "https://www.federalregister.gov/documents/2026/06/29/2026-13014/self-regulatory-organizations-cboe-exchange-inc-notice-of-filing-of-amendment-no-2-and-order",
+      "date": "2026-06-29",
+      "description": "",
+      "source": "national-securities-exchanges"
+    },
     {
       "id": "37bd7774e7a4",
       "title": "Self-Regulatory Organizations; The Nasdaq Stock Market LLC; Notice of Filing of Proposed Rule Change, as Modified by Amendment No. 1, To Adopt a New Continued Listing Requirement",

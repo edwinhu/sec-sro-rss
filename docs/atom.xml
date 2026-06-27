@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://github.com/edwinhu/sec-sro-rss</id>
   <title>SEC Self-Regulatory Organization Rulemaking</title>
-  <updated>2026-06-27T02:26:05.127410+00:00</updated>
+  <updated>2026-06-27T08:26:28.304150+00:00</updated>
   <link href="https://www.sec.gov/rules-regulations/self-regulatory-organization-rulemaking" rel="alternate"/>
   <link href="https://edwinhu.github.io/sec-sro-rss/feed.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -258,5 +258,23 @@ Date: 2026-06-24</content>
 Date: 2026-06-25</content>
     <link href="https://www.federalregister.gov/documents/2026/06/25/2026-12765/self-regulatory-organizations-the-nasdaq-stock-market-llc-notice-of-filing-of-proposed-rule-change"/>
     <published>2026-06-25T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.federalregister.gov/documents/2026/06/29/2026-13014/self-regulatory-organizations-cboe-exchange-inc-notice-of-filing-of-amendment-no-2-and-order</id>
+    <title>Self-Regulatory Organizations; Cboe Exchange, Inc.; Notice of Filing of Amendment No. 2 and Order Granting Accelerated Approval of a Proposed Rule Change, as Superseded by Amendment No. 1 and Modified by Amendment No. 2, To Amend its Rules Relating to Designated Primary Market-Maker Appointments in Global Trading Hours and Curb Sessions</title>
+    <updated>2026-06-29T00:00:00+00:00</updated>
+    <content>Source: National Securities Exchanges
+Date: 2026-06-29</content>
+    <link href="https://www.federalregister.gov/documents/2026/06/29/2026-13014/self-regulatory-organizations-cboe-exchange-inc-notice-of-filing-of-amendment-no-2-and-order"/>
+    <published>2026-06-29T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.federalregister.gov/documents/2026/06/29/2026-13022/self-regulatory-organizations-cboe-exchange-inc-order-instituting-proceedings-to-determine-whether</id>
+    <title>Self-Regulatory Organizations; Cboe Exchange, Inc.; Order Instituting Proceedings To Determine Whether To Approve or Disapprove a Proposed Rule Change To Amend Its Rules To Accommodate Stop-Limit Complex Orders and Establish Stop Complex Order Auctions as a New Type of Auction Mechanism</title>
+    <updated>2026-06-29T00:00:00+00:00</updated>
+    <content>Source: National Securities Exchanges
+Date: 2026-06-29</content>
+    <link href="https://www.federalregister.gov/documents/2026/06/29/2026-13022/self-regulatory-organizations-cboe-exchange-inc-order-instituting-proceedings-to-determine-whether"/>
+    <published>2026-06-29T00:00:00+00:00</published>
   </entry>
 </feed>
