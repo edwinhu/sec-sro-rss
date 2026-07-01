@@ -2,20 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://github.com/edwinhu/sec-sro-rss</id>
   <title>SEC Self-Regulatory Organization Rulemaking</title>
-  <updated>2026-07-01T02:38:41.297710+00:00</updated>
+  <updated>2026-07-01T09:30:04.516423+00:00</updated>
   <link href="https://www.sec.gov/rules-regulations/self-regulatory-organization-rulemaking" rel="alternate"/>
   <link href="https://edwinhu.github.io/sec-sro-rss/feed.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Filtered SEC SRO filings (excludes immediate effectiveness notices and crypto)</subtitle>
-  <entry>
-    <id>https://www.federalregister.gov/documents/2026/06/15/2026-11920/self-regulatory-organizations-texas-stock-exchange-llc-notice-of-designation-of-a-longer-period-for</id>
-    <title>Self-Regulatory Organizations; Texas Stock Exchange LLC; Notice of Designation of a Longer Period for Commission Action on a Proposed Rule Change To Amend Certain Parts of Its Opening and Closing Auctions</title>
-    <updated>2026-06-15T00:00:00+00:00</updated>
-    <content>Source: National Securities Exchanges
-Date: 2026-06-15</content>
-    <link href="https://www.federalregister.gov/documents/2026/06/15/2026-11920/self-regulatory-organizations-texas-stock-exchange-llc-notice-of-designation-of-a-longer-period-for"/>
-    <published>2026-06-15T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>https://www.federalregister.gov/documents/2026/06/15/2026-11923/self-regulatory-organizations-financial-industry-regulatory-authority-inc-notice-of-designation-of</id>
     <title>Self-Regulatory Organizations; Financial Industry Regulatory Authority, Inc.; Notice of Designation of Longer Period for Commission Action on Proposed Rule Change To Amend the FINRA Rule 6700 Series (Trade Reporting and Compliance Engine) (TRACE) To Expand the Scope of the Non-Member Affiliate-Principal Transaction Indicator to Also Include Member Affiliates</title>
@@ -285,5 +276,41 @@ Date: 2026-06-29</content>
 Date: 2026-06-30</content>
     <link href="https://www.federalregister.gov/documents/2026/06/30/2026-13114/self-regulatory-organizations-texas-stock-exchange-llc-order-declaring-effective-a-minor-rule"/>
     <published>2026-06-30T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.federalregister.gov/documents/2026/07/01/2026-13212/joint-industry-plan-order-approving-the-fifty-fifth-amendment-to-the-joint-self-regulatory</id>
+    <title>Joint Industry Plan; Order Approving the Fifty-Fifth Amendment to the Joint Self-Regulatory Organization Plan Governing the Collection, Consolidation and Dissemination of Quotation and Transaction Information for Nasdaq-Listed Securities Traded on Exchanges on an Unlisted Trading Privileges Basis, as Modified by Amendment No. 1 Thereto</title>
+    <updated>2026-07-01T00:00:00+00:00</updated>
+    <content>Source: National Securities Exchanges
+Date: 2026-07-01</content>
+    <link href="https://www.federalregister.gov/documents/2026/07/01/2026-13212/joint-industry-plan-order-approving-the-fifty-fifth-amendment-to-the-joint-self-regulatory"/>
+    <published>2026-07-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.federalregister.gov/documents/2026/07/01/2026-13215/joint-industry-plan-order-approving-the-second-amendment-to-the-national-market-system-plan</id>
+    <title>Joint Industry Plan; Order Approving the Second Amendment to the National Market System Plan Regarding Consolidated Equity Market Data, as Amended by Amendment No. 1 and Modified by the Commission, To Adopt a Fee Schedule</title>
+    <updated>2026-07-01T00:00:00+00:00</updated>
+    <content>Source: National Securities Exchanges
+Date: 2026-07-01</content>
+    <link href="https://www.federalregister.gov/documents/2026/07/01/2026-13215/joint-industry-plan-order-approving-the-second-amendment-to-the-national-market-system-plan"/>
+    <published>2026-07-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.federalregister.gov/documents/2026/07/01/2026-13225/self-regulatory-organizations-nasdaq-mrx-llc-notice-of-filing-of-amendment-no-1-and-order-granting</id>
+    <title>Self-Regulatory Organizations; Nasdaq MRX, LLC; Notice of Filing of Amendment No. 1 and Order Granting Accelerated Approval of a Proposed Rule Change, as Modified and Superseded by Amendment No. 1, To Adopt Extended Trading Hours for Eligible Equity and Index Options</title>
+    <updated>2026-07-01T00:00:00+00:00</updated>
+    <content>Source: National Securities Exchanges
+Date: 2026-07-01</content>
+    <link href="https://www.federalregister.gov/documents/2026/07/01/2026-13225/self-regulatory-organizations-nasdaq-mrx-llc-notice-of-filing-of-amendment-no-1-and-order-granting"/>
+    <published>2026-07-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.federalregister.gov/documents/2026/07/01/2026-13234/consolidated-tape-association-order-approving-the-fortieth-substantive-amendment-to-the-second</id>
+    <title>Consolidated Tape Association; Order Approving the Fortieth Substantive Amendment to the Second Restatement of the CTA Plan and Thirty-First Substantive Amendment to the Restated CQ Plan, as Modified by Amendment No. 1 Thereto</title>
+    <updated>2026-07-01T00:00:00+00:00</updated>
+    <content>Source: National Securities Exchanges
+Date: 2026-07-01</content>
+    <link href="https://www.federalregister.gov/documents/2026/07/01/2026-13234/consolidated-tape-association-order-approving-the-fortieth-substantive-amendment-to-the-second"/>
+    <published>2026-07-01T00:00:00+00:00</published>
   </entry>
 </feed>
