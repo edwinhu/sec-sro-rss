@@ -1,7 +1,31 @@
 {
-  "updated": "2026-07-02T02:28:07.827233+00:00",
-  "count": 34,
+  "updated": "2026-07-02T08:42:22.021791+00:00",
+  "count": 36,
   "filings": [
+    {
+      "id": "3ba98bf6a0c4",
+      "title": "Self-Regulatory Organizations; The Depository Trust Company; Notice of Filing of Proposed Rule Amend the Redemptions Service Guide and the Operational Arrangements (Necessary for Securities To Become and Remain Eligible for DTC Services)",
+      "url": "https://www.federalregister.gov/documents/2026/07/02/2026-13362/self-regulatory-organizations-the-depository-trust-company-notice-of-filing-of-proposed-rule-amend",
+      "date": "2026-07-02",
+      "description": "",
+      "source": "national-securities-exchanges"
+    },
+    {
+      "id": "298a17c27d15",
+      "title": "Agency Information Collection Activities; Proposed Collection; Comment Request; Extension: Rules 15Ba1-1 to 15Ba1-8-Registration of Municipal Advisors and Forms MA, MA-I, MA-W, and MA-NR",
+      "url": "https://www.federalregister.gov/documents/2026/07/02/2026-13358/agency-information-collection-activities-proposed-collection-comment-request-extension-rules-15ba1-1",
+      "date": "2026-07-02",
+      "description": "",
+      "source": "national-securities-exchanges"
+    },
+    {
+      "id": "1ce89aaeac4b",
+      "title": "Self-Regulatory Organizations; Nasdaq ISE, LLC; Notice of Filing of a Proposed Rule Change To Amend the Short Term Option Series Program Related to Qualifying Securities",
+      "url": "https://www.federalregister.gov/documents/2026/07/02/2026-13357/self-regulatory-organizations-nasdaq-ise-llc-notice-of-filing-of-a-proposed-rule-change-to-amend-the",
+      "date": "2026-07-02",
+      "description": "",
+      "source": "national-securities-exchanges"
+    },
     {
       "id": "45b534a6a008",
       "title": "Consolidated Tape Association; Order Approving the Fortieth Substantive Amendment to the Second Restatement of the CTA Plan and Thirty-First Substantive Amendment to the Restated CQ Plan, as Modified by Amendment No. 1 Thereto",
@@ -265,14 +289,6 @@
       "date": "2026-06-16",
       "description": "",
       "source": "national-securities-exchanges"
-    },
-    {
-      "id": "5d72f779ac73",
-      "title": "Self-Regulatory Organizations; Financial Industry Regulatory Authority, Inc.; Notice of Designation of Longer Period for Commission Action on Proposed Rule Change To Amend the FINRA Rule 6700 Series (Trade Reporting and Compliance Engine) (TRACE) To Expand the Scope of the Non-Member Affiliate-Principal Transaction Indicator to Also Include Member Affiliates",
-      "url": "https://www.federalregister.gov/documents/2026/06/15/2026-11923/self-regulatory-organizations-financial-industry-regulatory-authority-inc-notice-of-designation-of",
-      "date": "2026-06-15",
-      "description": "",
-      "source": "finra"
     }
   ]
 }

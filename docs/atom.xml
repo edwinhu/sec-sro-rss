@@ -2,20 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://github.com/edwinhu/sec-sro-rss</id>
   <title>SEC Self-Regulatory Organization Rulemaking</title>
-  <updated>2026-07-02T02:28:07.816948+00:00</updated>
+  <updated>2026-07-02T08:42:21.951292+00:00</updated>
   <link href="https://www.sec.gov/rules-regulations/self-regulatory-organization-rulemaking" rel="alternate"/>
   <link href="https://edwinhu.github.io/sec-sro-rss/feed.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Filtered SEC SRO filings (excludes immediate effectiveness notices and crypto)</subtitle>
-  <entry>
-    <id>https://www.federalregister.gov/documents/2026/06/15/2026-11923/self-regulatory-organizations-financial-industry-regulatory-authority-inc-notice-of-designation-of</id>
-    <title>Self-Regulatory Organizations; Financial Industry Regulatory Authority, Inc.; Notice of Designation of Longer Period for Commission Action on Proposed Rule Change To Amend the FINRA Rule 6700 Series (Trade Reporting and Compliance Engine) (TRACE) To Expand the Scope of the Non-Member Affiliate-Principal Transaction Indicator to Also Include Member Affiliates</title>
-    <updated>2026-06-15T00:00:00+00:00</updated>
-    <content>Source: Finra
-Date: 2026-06-15</content>
-    <link href="https://www.federalregister.gov/documents/2026/06/15/2026-11923/self-regulatory-organizations-financial-industry-regulatory-authority-inc-notice-of-designation-of"/>
-    <published>2026-06-15T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>https://www.federalregister.gov/documents/2026/06/16/2026-12030/self-regulatory-organizations-nyse-stock-exchange-llc-notice-of-designation-of-a-longer-period-for</id>
     <title>Self-Regulatory Organizations; NYSE Stock Exchange LLC; Notice of Designation of a Longer Period for Commission Action on Proceedings to Determine Whether To Approve or Disapprove a Proposed Rule Change, as Modified by Amendment No. 1, To Amend Section 802.01C of the NYSE Listed Company Manual</title>
@@ -312,5 +303,32 @@ Date: 2026-07-01</content>
 Date: 2026-07-01</content>
     <link href="https://www.federalregister.gov/documents/2026/07/01/2026-13234/consolidated-tape-association-order-approving-the-fortieth-substantive-amendment-to-the-second"/>
     <published>2026-07-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.federalregister.gov/documents/2026/07/02/2026-13357/self-regulatory-organizations-nasdaq-ise-llc-notice-of-filing-of-a-proposed-rule-change-to-amend-the</id>
+    <title>Self-Regulatory Organizations; Nasdaq ISE, LLC; Notice of Filing of a Proposed Rule Change To Amend the Short Term Option Series Program Related to Qualifying Securities</title>
+    <updated>2026-07-02T00:00:00+00:00</updated>
+    <content>Source: National Securities Exchanges
+Date: 2026-07-02</content>
+    <link href="https://www.federalregister.gov/documents/2026/07/02/2026-13357/self-regulatory-organizations-nasdaq-ise-llc-notice-of-filing-of-a-proposed-rule-change-to-amend-the"/>
+    <published>2026-07-02T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.federalregister.gov/documents/2026/07/02/2026-13358/agency-information-collection-activities-proposed-collection-comment-request-extension-rules-15ba1-1</id>
+    <title>Agency Information Collection Activities; Proposed Collection; Comment Request; Extension: Rules 15Ba1-1 to 15Ba1-8-Registration of Municipal Advisors and Forms MA, MA-I, MA-W, and MA-NR</title>
+    <updated>2026-07-02T00:00:00+00:00</updated>
+    <content>Source: National Securities Exchanges
+Date: 2026-07-02</content>
+    <link href="https://www.federalregister.gov/documents/2026/07/02/2026-13358/agency-information-collection-activities-proposed-collection-comment-request-extension-rules-15ba1-1"/>
+    <published>2026-07-02T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.federalregister.gov/documents/2026/07/02/2026-13362/self-regulatory-organizations-the-depository-trust-company-notice-of-filing-of-proposed-rule-amend</id>
+    <title>Self-Regulatory Organizations; The Depository Trust Company; Notice of Filing of Proposed Rule Amend the Redemptions Service Guide and the Operational Arrangements (Necessary for Securities To Become and Remain Eligible for DTC Services)</title>
+    <updated>2026-07-02T00:00:00+00:00</updated>
+    <content>Source: National Securities Exchanges
+Date: 2026-07-02</content>
+    <link href="https://www.federalregister.gov/documents/2026/07/02/2026-13362/self-regulatory-organizations-the-depository-trust-company-notice-of-filing-of-proposed-rule-amend"/>
+    <published>2026-07-02T00:00:00+00:00</published>
   </entry>
 </feed>
