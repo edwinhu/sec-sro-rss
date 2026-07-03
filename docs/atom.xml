@@ -2,47 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://github.com/edwinhu/sec-sro-rss</id>
   <title>SEC Self-Regulatory Organization Rulemaking</title>
-  <updated>2026-07-03T08:49:56.748677+00:00</updated>
+  <updated>2026-07-03T13:43:56.847481+00:00</updated>
   <link href="https://www.sec.gov/rules-regulations/self-regulatory-organization-rulemaking" rel="alternate"/>
   <link href="https://edwinhu.github.io/sec-sro-rss/feed.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Filtered SEC SRO filings (excludes immediate effectiveness notices and crypto)</subtitle>
-  <entry>
-    <id>https://www.federalregister.gov/documents/2026/06/16/2026-12030/self-regulatory-organizations-nyse-stock-exchange-llc-notice-of-designation-of-a-longer-period-for</id>
-    <title>Self-Regulatory Organizations; NYSE Stock Exchange LLC; Notice of Designation of a Longer Period for Commission Action on Proceedings to Determine Whether To Approve or Disapprove a Proposed Rule Change, as Modified by Amendment No. 1, To Amend Section 802.01C of the NYSE Listed Company Manual</title>
-    <updated>2026-06-16T00:00:00+00:00</updated>
-    <content>Source: National Securities Exchanges
-Date: 2026-06-16</content>
-    <link href="https://www.federalregister.gov/documents/2026/06/16/2026-12030/self-regulatory-organizations-nyse-stock-exchange-llc-notice-of-designation-of-a-longer-period-for"/>
-    <published>2026-06-16T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.federalregister.gov/documents/2026/06/16/2026-12031/self-regulatory-organizations-nyse-american-llc-notice-of-designation-of-a-longer-period-for</id>
-    <title>Self-Regulatory Organizations; NYSE American LLC; Notice of Designation of a Longer Period for Commission Action on Proceedings To Determine Whether To Approve or Disapprove a Proposed Rule Change, as Modified by Amendment No. 3, To Amend Section 1003 of the NYSE American Company Guide</title>
-    <updated>2026-06-16T00:00:00+00:00</updated>
-    <content>Source: National Securities Exchanges
-Date: 2026-06-16</content>
-    <link href="https://www.federalregister.gov/documents/2026/06/16/2026-12031/self-regulatory-organizations-nyse-american-llc-notice-of-designation-of-a-longer-period-for"/>
-    <published>2026-06-16T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.federalregister.gov/documents/2026/06/16/2026-12037/self-regulatory-organizations-the-nasdaq-stock-market-llc-notice-of-filing-of-amendment-no-1-and</id>
-    <title>Self-Regulatory Organizations; The Nasdaq Stock Market LLC; Notice of Filing of Amendment No. 1 and Designation of a Longer Period for Commission Action on a Proposed Rule Change, as Modified by Amendment No. 1, To Amend Rule 5711(d) To Modify the Generic Listing Standards for Commodity-Based Trust Shares</title>
-    <updated>2026-06-16T00:00:00+00:00</updated>
-    <content>Source: National Securities Exchanges
-Date: 2026-06-16</content>
-    <link href="https://www.federalregister.gov/documents/2026/06/16/2026-12037/self-regulatory-organizations-the-nasdaq-stock-market-llc-notice-of-filing-of-amendment-no-1-and"/>
-    <published>2026-06-16T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.federalregister.gov/documents/2026/06/16/2026-12039/self-regulatory-organizations-nyse-arca-inc-notice-of-designation-of-a-longer-period-for-commission</id>
-    <title>Self-Regulatory Organizations; NYSE Arca, Inc.; Notice of Designation of a Longer Period for Commission Action on a Proposed Rule Change To Amend Rule 8.201-E (Generic) To Modify the Generic Listing Standards for Commodity-Based Trust Shares</title>
-    <updated>2026-06-16T00:00:00+00:00</updated>
-    <content>Source: National Securities Exchanges
-Date: 2026-06-16</content>
-    <link href="https://www.federalregister.gov/documents/2026/06/16/2026-12039/self-regulatory-organizations-nyse-arca-inc-notice-of-designation-of-a-longer-period-for-commission"/>
-    <published>2026-06-16T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>https://www.federalregister.gov/documents/2026/06/17/2026-12157/self-regulatory-organizations-cboe-exchange-inc-order-approving-a-proposed-rule-change-to-permit-the</id>
     <title>Self-Regulatory Organizations; Cboe Exchange, Inc.; Order Approving a Proposed Rule Change To Permit the Listing of A.M.-Settled Options on the S&amp;P 500 Index That Expire on Any Monday, Tuesday, Wednesday, Thursday, or Friday (Other Than the Third Friday-of-the-Month or Days That Coincide With an End-of-Month Expiration) and Expire on the Last Trading Day of the Month</title>
@@ -330,5 +294,32 @@ Date: 2026-07-02</content>
 Date: 2026-07-02</content>
     <link href="https://www.federalregister.gov/documents/2026/07/02/2026-13362/self-regulatory-organizations-the-depository-trust-company-notice-of-filing-of-proposed-rule-amend"/>
     <published>2026-07-02T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.federalregister.gov/documents/2026/07/06/2026-13523/self-regulatory-organizations-national-securities-clearing-corporation-notice-of-filing-of-proposed</id>
+    <title>Self-Regulatory Organizations; National Securities Clearing Corporation; Notice of Filing of Proposed Rule Change To Enhance the Supplemental Liquidity Deposit Rules, Methodology and Processes</title>
+    <updated>2026-07-06T00:00:00+00:00</updated>
+    <content>Source: National Securities Exchanges
+Date: 2026-07-06</content>
+    <link href="https://www.federalregister.gov/documents/2026/07/06/2026-13523/self-regulatory-organizations-national-securities-clearing-corporation-notice-of-filing-of-proposed"/>
+    <published>2026-07-06T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.federalregister.gov/documents/2026/07/06/2026-13526/self-regulatory-organizations-texas-stock-exchange-llc-notice-of-filing-of-a-proposed-rule-change-to</id>
+    <title>Self-Regulatory Organizations; Texas Stock Exchange LLC; Notice of Filing of a Proposed Rule Change To Amend a Continued Listing Standard Relating to Beneficial Holders Applicable to ETF Shares Listed on the Exchange Under Rule 17.104(b)(2)(B)</title>
+    <updated>2026-07-06T00:00:00+00:00</updated>
+    <content>Source: National Securities Exchanges
+Date: 2026-07-06</content>
+    <link href="https://www.federalregister.gov/documents/2026/07/06/2026-13526/self-regulatory-organizations-texas-stock-exchange-llc-notice-of-filing-of-a-proposed-rule-change-to"/>
+    <published>2026-07-06T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.federalregister.gov/documents/2026/07/06/2026-13530/self-regulatory-organizations-financial-industry-regulatory-authority-inc-notice-of-designation-of-a</id>
+    <title>Self-Regulatory Organizations; Financial Industry Regulatory Authority, Inc.; Notice of Designation of a Longer Period for Commission Action on a Proposed Rule Change To Adopt FINRA Rule 4321 (Allocations of Fail To Deliver Positions) and Amend FINRA Rule 4560 (Short-Interest Reporting)</title>
+    <updated>2026-07-06T00:00:00+00:00</updated>
+    <content>Source: Finra
+Date: 2026-07-06</content>
+    <link href="https://www.federalregister.gov/documents/2026/07/06/2026-13530/self-regulatory-organizations-financial-industry-regulatory-authority-inc-notice-of-designation-of-a"/>
+    <published>2026-07-06T00:00:00+00:00</published>
   </entry>
 </feed>
