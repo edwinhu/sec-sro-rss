@@ -17,9 +17,12 @@ permissions:
   pages: write
   id-token: write
 
+# Don't cancel an in-progress run: cancelling mid-deploy can leave the Pages
+# backend in a half-created state that makes the next deploy return
+# "Deployment failed, try again later."
 concurrency:
   group: update-feed
-  cancel-in-progress: true
+  cancel-in-progress: false
 
 jobs:
   update-feed:
@@ -59,6 +62,11 @@ jobs:
   deploy-pages:
     needs: update-feed
     runs-on: ubuntu-latest
+    # Dedicated Pages concurrency group (GitHub's recommended pattern) so
+    # only one deployment to the github-pages environment is ever in flight.
+    concurrency:
+      group: pages
+      cancel-in-progress: false
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
