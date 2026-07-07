@@ -2,29 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://github.com/edwinhu/sec-sro-rss</id>
   <title>SEC Self-Regulatory Organization Rulemaking</title>
-  <updated>2026-07-07T02:10:11.580216+00:00</updated>
+  <updated>2026-07-07T09:24:56.306729+00:00</updated>
   <link href="https://www.sec.gov/rules-regulations/self-regulatory-organization-rulemaking" rel="alternate"/>
   <link href="https://edwinhu.github.io/sec-sro-rss/feed.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Filtered SEC SRO filings (excludes immediate effectiveness notices and crypto)</subtitle>
-  <entry>
-    <id>https://www.federalregister.gov/documents/2026/06/17/2026-12157/self-regulatory-organizations-cboe-exchange-inc-order-approving-a-proposed-rule-change-to-permit-the</id>
-    <title>Self-Regulatory Organizations; Cboe Exchange, Inc.; Order Approving a Proposed Rule Change To Permit the Listing of A.M.-Settled Options on the S&amp;P 500 Index That Expire on Any Monday, Tuesday, Wednesday, Thursday, or Friday (Other Than the Third Friday-of-the-Month or Days That Coincide With an End-of-Month Expiration) and Expire on the Last Trading Day of the Month</title>
-    <updated>2026-06-17T00:00:00+00:00</updated>
-    <content>Source: National Securities Exchanges
-Date: 2026-06-17</content>
-    <link href="https://www.federalregister.gov/documents/2026/06/17/2026-12157/self-regulatory-organizations-cboe-exchange-inc-order-approving-a-proposed-rule-change-to-permit-the"/>
-    <published>2026-06-17T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.federalregister.gov/documents/2026/06/17/2026-12159/joint-industry-plan-notice-of-filing-of-the-third-amendment-to-the-limited-liability-company</id>
-    <title>Joint Industry Plan; Notice of Filing of the Third Amendment to the Limited Liability Company Agreement of CT Plan LLC To Adopt Revenue Allocation Formula Revisions</title>
-    <updated>2026-06-17T00:00:00+00:00</updated>
-    <content>Source: National Securities Exchanges
-Date: 2026-06-17</content>
-    <link href="https://www.federalregister.gov/documents/2026/06/17/2026-12159/joint-industry-plan-notice-of-filing-of-the-third-amendment-to-the-limited-liability-company"/>
-    <published>2026-06-17T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>https://www.federalregister.gov/documents/2026/06/18/2026-12260/self-regulatory-organizations-long-term-stock-exchange-inc-notice-of-filing-of-a-proposed-rule</id>
     <title>Self-Regulatory Organizations; Long-Term Stock Exchange, Inc.; Notice of Filing of a Proposed Rule Change To Amend its Rules Related to Market Makers</title>
@@ -321,5 +303,50 @@ Date: 2026-07-06</content>
 Date: 2026-07-06</content>
     <link href="https://www.federalregister.gov/documents/2026/07/06/2026-13530/self-regulatory-organizations-financial-industry-regulatory-authority-inc-notice-of-designation-of-a"/>
     <published>2026-07-06T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.federalregister.gov/documents/2026/07/07/2026-13650/self-regulatory-organizations-nyse-american-llc-notice-of-filing-of-a-proposed-rule-change-to-amend</id>
+    <title>Self-Regulatory Organizations; NYSE American LLC; Notice of Filing of a Proposed Rule Change To Amend Rule 903G and 906G</title>
+    <updated>2026-07-07T00:00:00+00:00</updated>
+    <content>Source: National Securities Exchanges
+Date: 2026-07-07</content>
+    <link href="https://www.federalregister.gov/documents/2026/07/07/2026-13650/self-regulatory-organizations-nyse-american-llc-notice-of-filing-of-a-proposed-rule-change-to-amend"/>
+    <published>2026-07-07T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.federalregister.gov/documents/2026/07/07/2026-13651/self-regulatory-organizations-nyse-arca-inc-notice-of-filing-of-a-proposed-rule-change-to-amend</id>
+    <title>Self-Regulatory Organizations; NYSE Arca, Inc.; Notice of Filing of a Proposed Rule Change To Amend Rules 5.32-O and 5.35-O</title>
+    <updated>2026-07-07T00:00:00+00:00</updated>
+    <content>Source: National Securities Exchanges
+Date: 2026-07-07</content>
+    <link href="https://www.federalregister.gov/documents/2026/07/07/2026-13651/self-regulatory-organizations-nyse-arca-inc-notice-of-filing-of-a-proposed-rule-change-to-amend"/>
+    <published>2026-07-07T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.federalregister.gov/documents/2026/07/07/2026-13653/self-regulatory-organizations-texas-stock-exchange-llc-notice-of-filing-of-amendment-no-1-to-a</id>
+    <title>Self-Regulatory Organizations; Texas Stock Exchange LLC; Notice of Filing of Amendment No. 1 to a Proposed Rule Change To Amend Certain Parts of Its Opening and Closing Auctions</title>
+    <updated>2026-07-07T00:00:00+00:00</updated>
+    <content>Source: National Securities Exchanges
+Date: 2026-07-07</content>
+    <link href="https://www.federalregister.gov/documents/2026/07/07/2026-13653/self-regulatory-organizations-texas-stock-exchange-llc-notice-of-filing-of-amendment-no-1-to-a"/>
+    <published>2026-07-07T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.federalregister.gov/documents/2026/07/07/2026-13654/self-regulatory-organizations-nyse-american-llc-and-nyse-arca-inc-notice-of-filing-and-order</id>
+    <title>Self-Regulatory Organizations; NYSE American LLC and NYSE Arca, Inc.; Notice of Filing and Order Granting Accelerated Approval of Proposed Rule Changes Concerning the Single Component Concentration Limit of the MSCI Emerging Markets Index</title>
+    <updated>2026-07-07T00:00:00+00:00</updated>
+    <content>Source: National Securities Exchanges
+Date: 2026-07-07</content>
+    <link href="https://www.federalregister.gov/documents/2026/07/07/2026-13654/self-regulatory-organizations-nyse-american-llc-and-nyse-arca-inc-notice-of-filing-and-order"/>
+    <published>2026-07-07T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.federalregister.gov/documents/2026/07/07/2026-13713/self-regulatory-organizations-financial-industry-regulatory-authority-inc-notice-of-partial</id>
+    <title>Self-Regulatory Organizations; Financial Industry Regulatory Authority, Inc.; Notice of Partial Amendment No. 1 to Proposed Rule Change To Amend FINRA Rule 2210 (Communications With the Public)</title>
+    <updated>2026-07-07T00:00:00+00:00</updated>
+    <content>Source: Finra
+Date: 2026-07-07</content>
+    <link href="https://www.federalregister.gov/documents/2026/07/07/2026-13713/self-regulatory-organizations-financial-industry-regulatory-authority-inc-notice-of-partial"/>
+    <published>2026-07-07T00:00:00+00:00</published>
   </entry>
 </feed>
