@@ -1,7 +1,39 @@
 {
-  "updated": "2026-07-09T02:03:41.088550+00:00",
-  "count": 38,
+  "updated": "2026-07-09T09:21:54.842906+00:00",
+  "count": 42,
   "filings": [
+    {
+      "id": "4df6a770d977",
+      "title": "Self-Regulatory Organizations; Cboe BZX Exchange, Inc.; Order Instituting Proceedings To Determine Whether To Approve or Disapprove a Proposed Rule Change To List and Trade Shares of the BondBloxx Private Credit Trust Under BZX Rule 14.11(f), Trust Issued Receipts",
+      "url": "https://www.federalregister.gov/documents/2026/07/09/2026-13829/self-regulatory-organizations-cboe-bzx-exchange-inc-order-instituting-proceedings-to-determine",
+      "date": "2026-07-09",
+      "description": "",
+      "source": "national-securities-exchanges"
+    },
+    {
+      "id": "dad7fe4926c7",
+      "title": "Self-Regulatory Organizations; LCH SA; Notice of Filing of Proposed Rule Change Relating to the LCH SA Liquidity Plan",
+      "url": "https://www.federalregister.gov/documents/2026/07/09/2026-13828/self-regulatory-organizations-lch-sa-notice-of-filing-of-proposed-rule-change-relating-to-the-lch-sa",
+      "date": "2026-07-09",
+      "description": "",
+      "source": "national-securities-exchanges"
+    },
+    {
+      "id": "f0d6b365765e",
+      "title": "Self-Regulatory Organizations; Fixed Income Clearing Corporation; Notice of Filing of Proposed Rule Change To Modify the GSD Rules To Adopt a U.S. Treasury Clearing Trade Submission Requirement",
+      "url": "https://www.federalregister.gov/documents/2026/07/09/2026-13827/self-regulatory-organizations-fixed-income-clearing-corporation-notice-of-filing-of-proposed-rule",
+      "date": "2026-07-09",
+      "description": "",
+      "source": "national-securities-exchanges"
+    },
+    {
+      "id": "01e81ba559c9",
+      "title": "Agency Information Collection Activities; Proposed Collection; Comment Request; Extension: Rule 15b9-1",
+      "url": "https://www.federalregister.gov/documents/2026/07/09/2026-13816/agency-information-collection-activities-proposed-collection-comment-request-extension-rule-15b9-1",
+      "date": "2026-07-09",
+      "description": "",
+      "source": "national-securities-exchanges"
+    },
     {
       "id": "5498ac32f678",
       "title": "Self-Regulatory Organizations; Financial Industry Regulatory Authority, Inc.; Notice of Partial Amendment No. 1 to Proposed Rule Change To Amend FINRA Rule 2210 (Communications With the Public)",
