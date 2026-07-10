@@ -2,20 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://github.com/edwinhu/sec-sro-rss</id>
   <title>SEC Self-Regulatory Organization Rulemaking</title>
-  <updated>2026-07-10T09:19:17.508045+00:00</updated>
+  <updated>2026-07-10T14:01:19.342119+00:00</updated>
   <link href="https://www.sec.gov/rules-regulations/self-regulatory-organization-rulemaking" rel="alternate"/>
   <link href="https://edwinhu.github.io/sec-sro-rss/feed.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Filtered SEC SRO filings (excludes immediate effectiveness notices and crypto)</subtitle>
-  <entry>
-    <id>https://www.federalregister.gov/documents/2026/06/18/2026-12260/self-regulatory-organizations-long-term-stock-exchange-inc-notice-of-filing-of-a-proposed-rule</id>
-    <title>Self-Regulatory Organizations; Long-Term Stock Exchange, Inc.; Notice of Filing of a Proposed Rule Change To Amend its Rules Related to Market Makers</title>
-    <updated>2026-06-18T00:00:00+00:00</updated>
-    <content>Source: National Securities Exchanges
-Date: 2026-06-18</content>
-    <link href="https://www.federalregister.gov/documents/2026/06/18/2026-12260/self-regulatory-organizations-long-term-stock-exchange-inc-notice-of-filing-of-a-proposed-rule"/>
-    <published>2026-06-18T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>https://www.federalregister.gov/documents/2026/06/22/2026-12402/self-regulatory-organizations-nasdaq-ise-llc-order-approving-a-proposed-rule-change-to-permit-the</id>
     <title>Self-Regulatory Organizations; Nasdaq ISE, LLC; Order Approving a Proposed Rule Change To Permit the Listing of A.M.-Settled Options on the Nasdaq-100 Index That Expire on Any Monday, Tuesday, Wednesday, Thursday, or Friday (Other than the Third Friday-of-the-Month or Days That Coincide With an End-of-Month Expiration) and Expire on the Last Trading Day of the Month</title>
