@@ -2,74 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://github.com/edwinhu/sec-sro-rss</id>
   <title>SEC Self-Regulatory Organization Rulemaking</title>
-  <updated>2026-07-11T01:49:32.057999+00:00</updated>
+  <updated>2026-07-11T07:40:56.504653+00:00</updated>
   <link href="https://www.sec.gov/rules-regulations/self-regulatory-organization-rulemaking" rel="alternate"/>
   <link href="https://edwinhu.github.io/sec-sro-rss/feed.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Filtered SEC SRO filings (excludes immediate effectiveness notices and crypto)</subtitle>
-  <entry>
-    <id>https://www.federalregister.gov/documents/2026/06/22/2026-12402/self-regulatory-organizations-nasdaq-ise-llc-order-approving-a-proposed-rule-change-to-permit-the</id>
-    <title>Self-Regulatory Organizations; Nasdaq ISE, LLC; Order Approving a Proposed Rule Change To Permit the Listing of A.M.-Settled Options on the Nasdaq-100 Index That Expire on Any Monday, Tuesday, Wednesday, Thursday, or Friday (Other than the Third Friday-of-the-Month or Days That Coincide With an End-of-Month Expiration) and Expire on the Last Trading Day of the Month</title>
-    <updated>2026-06-22T00:00:00+00:00</updated>
-    <content>Source: National Securities Exchanges
-Date: 2026-06-22</content>
-    <link href="https://www.federalregister.gov/documents/2026/06/22/2026-12402/self-regulatory-organizations-nasdaq-ise-llc-order-approving-a-proposed-rule-change-to-permit-the"/>
-    <published>2026-06-22T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.federalregister.gov/documents/2026/06/22/2026-12406/self-regulatory-organizations-nyse-american-llc-notice-of-filing-of-proposed-rule-change-to-add-a</id>
-    <title>Self-Regulatory Organizations; NYSE American LLC; Notice of Filing of Proposed Rule Change To Add a New Partial Cabinet Solution Bundle</title>
-    <updated>2026-06-22T00:00:00+00:00</updated>
-    <content>Source: National Securities Exchanges
-Date: 2026-06-22</content>
-    <link href="https://www.federalregister.gov/documents/2026/06/22/2026-12406/self-regulatory-organizations-nyse-american-llc-notice-of-filing-of-proposed-rule-change-to-add-a"/>
-    <published>2026-06-22T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.federalregister.gov/documents/2026/06/22/2026-12407/self-regulatory-organizations-nyse-arca-inc-notice-of-filing-of-proposed-rule-change-to-add-a-new</id>
-    <title>Self-Regulatory Organizations; NYSE Arca, Inc.; Notice of Filing of Proposed Rule Change To Add a New Partial Cabinet Solution Bundle</title>
-    <updated>2026-06-22T00:00:00+00:00</updated>
-    <content>Source: National Securities Exchanges
-Date: 2026-06-22</content>
-    <link href="https://www.federalregister.gov/documents/2026/06/22/2026-12407/self-regulatory-organizations-nyse-arca-inc-notice-of-filing-of-proposed-rule-change-to-add-a-new"/>
-    <published>2026-06-22T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.federalregister.gov/documents/2026/06/22/2026-12408/self-regulatory-organizations-nyse-national-inc-notice-of-filing-of-proposed-rule-change-to-add-a</id>
-    <title>Self-Regulatory Organizations; NYSE National, Inc.; Notice of Filing of Proposed Rule Change To Add a New Partial Cabinet Solution Bundle</title>
-    <updated>2026-06-22T00:00:00+00:00</updated>
-    <content>Source: National Securities Exchanges
-Date: 2026-06-22</content>
-    <link href="https://www.federalregister.gov/documents/2026/06/22/2026-12408/self-regulatory-organizations-nyse-national-inc-notice-of-filing-of-proposed-rule-change-to-add-a"/>
-    <published>2026-06-22T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.federalregister.gov/documents/2026/06/22/2026-12409/self-regulatory-organizations-new-york-stock-exchange-llc-notice-of-filing-of-proposed-rule-change</id>
-    <title>Self-Regulatory Organizations; New York Stock Exchange LLC; Notice of Filing of Proposed Rule Change To Add a New Partial Cabinet Solution Bundle</title>
-    <updated>2026-06-22T00:00:00+00:00</updated>
-    <content>Source: National Securities Exchanges
-Date: 2026-06-22</content>
-    <link href="https://www.federalregister.gov/documents/2026/06/22/2026-12409/self-regulatory-organizations-new-york-stock-exchange-llc-notice-of-filing-of-proposed-rule-change"/>
-    <published>2026-06-22T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.federalregister.gov/documents/2026/06/22/2026-12410/self-regulatory-organizations-nyse-american-llc-notice-of-filing-of-proposed-change-to-amend-its</id>
-    <title>Self-Regulatory Organizations; NYSE American LLC; Notice of Filing of Proposed Change To Amend Its Rules To Extend Trading Hours for Certain Eligible Equity Options</title>
-    <updated>2026-06-22T00:00:00+00:00</updated>
-    <content>Source: National Securities Exchanges
-Date: 2026-06-22</content>
-    <link href="https://www.federalregister.gov/documents/2026/06/22/2026-12410/self-regulatory-organizations-nyse-american-llc-notice-of-filing-of-proposed-change-to-amend-its"/>
-    <published>2026-06-22T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.federalregister.gov/documents/2026/06/22/2026-12411/self-regulatory-organizations-nyse-texas-inc-notice-of-filing-of-proposed-rule-change-to-add-a-new</id>
-    <title>Self-Regulatory Organizations; NYSE Texas, Inc.; Notice of Filing of Proposed Rule Change To Add a New Partial Cabinet Solution Bundle</title>
-    <updated>2026-06-22T00:00:00+00:00</updated>
-    <content>Source: National Securities Exchanges
-Date: 2026-06-22</content>
-    <link href="https://www.federalregister.gov/documents/2026/06/22/2026-12411/self-regulatory-organizations-nyse-texas-inc-notice-of-filing-of-proposed-rule-change-to-add-a-new"/>
-    <published>2026-06-22T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>https://www.federalregister.gov/documents/2026/06/23/2026-12517/self-regulatory-organizations-texas-stock-exchange-llc-notice-of-designation-of-a-longer-period-for</id>
     <title>Self-Regulatory Organizations; Texas Stock Exchange LLC; Notice of Designation of a Longer Period for Commission Action on a Proposed Rule To Adopt Rules Related to the Listing and Trading of Closed-End Funds on the Exchange</title>
@@ -375,5 +312,32 @@ Date: 2026-07-09</content>
 Date: 2026-07-09</content>
     <link href="https://www.federalregister.gov/documents/2026/07/09/2026-13829/self-regulatory-organizations-cboe-bzx-exchange-inc-order-instituting-proceedings-to-determine"/>
     <published>2026-07-09T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.federalregister.gov/documents/2026/07/13/2026-14015/self-regulatory-organizations-cboe-exchange-inc-notice-of-designation-of-a-longer-period-for</id>
+    <title>Self-Regulatory Organizations; Cboe Exchange, Inc.; Notice of Designation of a Longer Period for Commission Action on a Proposed Rule Change To Permit VIX Future-Option Orders</title>
+    <updated>2026-07-13T00:00:00+00:00</updated>
+    <content>Source: National Securities Exchanges
+Date: 2026-07-13</content>
+    <link href="https://www.federalregister.gov/documents/2026/07/13/2026-14015/self-regulatory-organizations-cboe-exchange-inc-notice-of-designation-of-a-longer-period-for"/>
+    <published>2026-07-13T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.federalregister.gov/documents/2026/07/13/2026-14019/self-regulatory-organizations-ice-clear-credit-llc-notice-of-designation-of-longer-period-for</id>
+    <title>Self-Regulatory Organizations; ICE Clear Credit LLC; Notice of Designation of Longer Period for Commission Action on Proposed Rule Change Relating to the Clearance of Additional Credit Default Swap Contracts</title>
+    <updated>2026-07-13T00:00:00+00:00</updated>
+    <content>Source: National Securities Exchanges
+Date: 2026-07-13</content>
+    <link href="https://www.federalregister.gov/documents/2026/07/13/2026-14019/self-regulatory-organizations-ice-clear-credit-llc-notice-of-designation-of-longer-period-for"/>
+    <published>2026-07-13T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.federalregister.gov/documents/2026/07/13/2026-14034/self-regulatory-organizations-ice-clear-credit-llc-notice-of-filing-of-proposed-rule-change-relating</id>
+    <title>Self-Regulatory Organizations; ICE Clear Credit LLC; Notice of Filing of Proposed Rule Change Relating to the CDS Instrument On-Boarding Policies and Procedures</title>
+    <updated>2026-07-13T00:00:00+00:00</updated>
+    <content>Source: National Securities Exchanges
+Date: 2026-07-13</content>
+    <link href="https://www.federalregister.gov/documents/2026/07/13/2026-14034/self-regulatory-organizations-ice-clear-credit-llc-notice-of-filing-of-proposed-rule-change-relating"/>
+    <published>2026-07-13T00:00:00+00:00</published>
   </entry>
 </feed>
