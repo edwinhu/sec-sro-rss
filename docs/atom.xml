@@ -2,38 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://github.com/edwinhu/sec-sro-rss</id>
   <title>SEC Self-Regulatory Organization Rulemaking</title>
-  <updated>2026-07-15T01:27:32.994693+00:00</updated>
+  <updated>2026-07-15T07:51:21.888286+00:00</updated>
   <link href="https://www.sec.gov/rules-regulations/self-regulatory-organization-rulemaking" rel="alternate"/>
   <link href="https://edwinhu.github.io/sec-sro-rss/feed.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Filtered SEC SRO filings (excludes immediate effectiveness notices and crypto)</subtitle>
-  <entry>
-    <id>https://www.federalregister.gov/documents/2026/06/23/2026-12524/self-regulatory-organizations-cboe-bzx-exchange-inc-notice-of-filing-of-a-proposed-rule-change-to</id>
-    <title>Self-Regulatory Organizations; Cboe BZX Exchange, Inc.; Notice of Filing of a Proposed Rule Change To Amend Rule 11.9(d) To Permit an Intermarket Sweep Order (“ISO”) To Be Entered as a Non-Displayed Order and To Establish the Price Level at Which the System Will Consider an ISO Available for Other Orders To Be Entered</title>
-    <updated>2026-06-23T00:00:00+00:00</updated>
-    <content>Source: National Securities Exchanges
-Date: 2026-06-23</content>
-    <link href="https://www.federalregister.gov/documents/2026/06/23/2026-12524/self-regulatory-organizations-cboe-bzx-exchange-inc-notice-of-filing-of-a-proposed-rule-change-to"/>
-    <published>2026-06-23T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.federalregister.gov/documents/2026/06/23/2026-12525/self-regulatory-organizations-the-options-clearing-corporation-notice-of-filing-of-proposed-rule</id>
-    <title>Self-Regulatory Organizations; The Options Clearing Corporation; Notice of Filing of Proposed Rule Change by The Options Clearing Corporation To Amend Its System for Theoretical Analysis and Numerical Simulation Methodology Description To Incorporate Options Implied Interest Rates as an Additional Source of Interest Rates Inputs for Constructing the Interest Rate Discount Curve Used in Options Pricing.</title>
-    <updated>2026-06-23T00:00:00+00:00</updated>
-    <content>Source: National Securities Exchanges
-Date: 2026-06-23</content>
-    <link href="https://www.federalregister.gov/documents/2026/06/23/2026-12525/self-regulatory-organizations-the-options-clearing-corporation-notice-of-filing-of-proposed-rule"/>
-    <published>2026-06-23T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.federalregister.gov/documents/2026/06/23/2026-12526/self-regulatory-organizations-municipal-securities-rulemaking-board-order-granting-approval-of-a</id>
-    <title>Self-Regulatory Organizations; Municipal Securities Rulemaking Board; Order Granting Approval of a Proposed Rule Change To Amend MSRB Rule G-12(c) To Codify and Retire or Revise Certain Existing Interpretive Guidance on Confirmation Requirements for Those Inter-Dealer Municipal Securities Transactions That are Ineligible for Automated Comparison</title>
-    <updated>2026-06-23T00:00:00+00:00</updated>
-    <content>Source: National Securities Exchanges
-Date: 2026-06-23</content>
-    <link href="https://www.federalregister.gov/documents/2026/06/23/2026-12526/self-regulatory-organizations-municipal-securities-rulemaking-board-order-granting-approval-of-a"/>
-    <published>2026-06-23T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>https://www.federalregister.gov/documents/2026/06/23/2026-12586/agency-information-collection-activities-proposed-collection-comment-request-extension-rule-19b-7</id>
     <title>Agency Information Collection Activities; Proposed Collection; Comment Request; Extension: Rule 19b-7 and Form 19b-7</title>
@@ -348,5 +321,32 @@ Date: 2026-07-14</content>
 Date: 2026-07-14</content>
     <link href="https://www.federalregister.gov/documents/2026/07/14/2026-14107/self-regulatory-organizations-the-depository-trust-company-suspension-of-and-order-instituting"/>
     <published>2026-07-14T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.federalregister.gov/documents/2026/07/15/2026-14198/order-under-section-36-of-the-securities-exchange-act-of-1934-the-exchange-act-and-rule-6h-1d</id>
+    <title>Order Under Section 36 of the Securities Exchange Act of 1934 (the “Exchange Act”) and Rule 6h-1(d) Thereunder Granting Conditional Exemptive Relief to the Chicago Mercantile Exchange Inc. From the Opening Price Settlement Requirements of Rule 6h-1(b) Under the Exchange Act for Certain Cash-Settled Security Futures</title>
+    <updated>2026-07-15T00:00:00+00:00</updated>
+    <content>Source: National Securities Exchanges
+Date: 2026-07-15</content>
+    <link href="https://www.federalregister.gov/documents/2026/07/15/2026-14198/order-under-section-36-of-the-securities-exchange-act-of-1934-the-exchange-act-and-rule-6h-1d"/>
+    <published>2026-07-15T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.federalregister.gov/documents/2026/07/15/2026-14199/self-regulatory-organizations-nasdaq-texas-llc-notice-of-filing-of-amendment-no-1-and-order-granting</id>
+    <title>Self-Regulatory Organizations; Nasdaq Texas, LLC; Notice of Filing of Amendment No. 1 and Order Granting Accelerated Approval of a Proposed Rule Change, as modified by Amendment No. 1, To Establish a Package of Complimentary Services</title>
+    <updated>2026-07-15T00:00:00+00:00</updated>
+    <content>Source: National Securities Exchanges
+Date: 2026-07-15</content>
+    <link href="https://www.federalregister.gov/documents/2026/07/15/2026-14199/self-regulatory-organizations-nasdaq-texas-llc-notice-of-filing-of-amendment-no-1-and-order-granting"/>
+    <published>2026-07-15T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.federalregister.gov/documents/2026/07/15/2026-14201/self-regulatory-organizations-cboe-exchange-inc-notice-of-filing-of-a-proposed-rule-change-to-amend</id>
+    <title>Self-Regulatory Organizations; Cboe Exchange, Inc.; Notice of Filing of a Proposed Rule Change To Amend its Rules To Permit the Listing of Binary Options Overlying Key Performance Indicators (“KPIs”) Reported by Certain Issuers of Stock (“Binary KPI Options”)</title>
+    <updated>2026-07-15T00:00:00+00:00</updated>
+    <content>Source: National Securities Exchanges
+Date: 2026-07-15</content>
+    <link href="https://www.federalregister.gov/documents/2026/07/15/2026-14201/self-regulatory-organizations-cboe-exchange-inc-notice-of-filing-of-a-proposed-rule-change-to-amend"/>
+    <published>2026-07-15T00:00:00+00:00</published>
   </entry>
 </feed>
