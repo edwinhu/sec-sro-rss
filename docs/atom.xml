@@ -2,65 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://github.com/edwinhu/sec-sro-rss</id>
   <title>SEC Self-Regulatory Organization Rulemaking</title>
-  <updated>2026-07-16T07:56:37.837718+00:00</updated>
+  <updated>2026-07-16T13:22:06.309483+00:00</updated>
   <link href="https://www.sec.gov/rules-regulations/self-regulatory-organization-rulemaking" rel="alternate"/>
   <link href="https://edwinhu.github.io/sec-sro-rss/feed.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Filtered SEC SRO filings (excludes immediate effectiveness notices and crypto)</subtitle>
-  <entry>
-    <id>https://www.federalregister.gov/documents/2026/06/23/2026-12586/agency-information-collection-activities-proposed-collection-comment-request-extension-rule-19b-7</id>
-    <title>Agency Information Collection Activities; Proposed Collection; Comment Request; Extension: Rule 19b-7 and Form 19b-7</title>
-    <updated>2026-06-23T00:00:00+00:00</updated>
-    <content>Source: National Securities Exchanges
-Date: 2026-06-23</content>
-    <link href="https://www.federalregister.gov/documents/2026/06/23/2026-12586/agency-information-collection-activities-proposed-collection-comment-request-extension-rule-19b-7"/>
-    <published>2026-06-23T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.federalregister.gov/documents/2026/06/24/2026-12629/self-regulatory-organizations-cboe-byx-exchange-inc-notice-of-designation-of-longer-period-for</id>
-    <title>Self-Regulatory Organizations; Cboe BYX Exchange, Inc.; Notice of Designation of Longer Period for Commission Action on Proposed Rule Change To Amend Rule 11.25 To Introduce an Optional, Contingent Instruction Applicable to Periodic Auction Only Orders, Introduce a Time-in-Force of Auction or Cancel, and Make Conforming Changes to Its Periodic Auction Processing Behavior To Support the Proposed Contingent Instruction</title>
-    <updated>2026-06-24T00:00:00+00:00</updated>
-    <content>Source: National Securities Exchanges
-Date: 2026-06-24</content>
-    <link href="https://www.federalregister.gov/documents/2026/06/24/2026-12629/self-regulatory-organizations-cboe-byx-exchange-inc-notice-of-designation-of-longer-period-for"/>
-    <published>2026-06-24T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.federalregister.gov/documents/2026/06/24/2026-12631/self-regulatory-organizations-cboe-edgx-exchange-inc-notice-of-filing-of-a-proposed-rule-change-to</id>
-    <title>Self-Regulatory Organizations; Cboe EDGX Exchange, Inc.; Notice of Filing of a Proposed Rule Change To Amend Rule 11.8(c) To Permit an Intermarket Sweep Order (“ISO”) To Be Entered as a Non-Displayed Order and To Establish the Price Level at Which the System Will Consider an ISO Available for Other Orders To Be Entered</title>
-    <updated>2026-06-24T00:00:00+00:00</updated>
-    <content>Source: National Securities Exchanges
-Date: 2026-06-24</content>
-    <link href="https://www.federalregister.gov/documents/2026/06/24/2026-12631/self-regulatory-organizations-cboe-edgx-exchange-inc-notice-of-filing-of-a-proposed-rule-change-to"/>
-    <published>2026-06-24T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.federalregister.gov/documents/2026/06/24/2026-12635/self-regulatory-organizations-cboe-edga-exchange-inc-notice-of-filing-of-a-proposed-rule-change-to</id>
-    <title>Self-Regulatory Organizations; Cboe EDGA Exchange, Inc.; Notice of Filing of a Proposed Rule Change To Amend Rule 11.8(c) To Permit an Intermarket Sweep Order (“ISO”) To Be Entered as a Non-Displayed Order and To Establish the Price Level at Which the System Will Consider an ISO Available for Other Orders To Be Entered</title>
-    <updated>2026-06-24T00:00:00+00:00</updated>
-    <content>Source: National Securities Exchanges
-Date: 2026-06-24</content>
-    <link href="https://www.federalregister.gov/documents/2026/06/24/2026-12635/self-regulatory-organizations-cboe-edga-exchange-inc-notice-of-filing-of-a-proposed-rule-change-to"/>
-    <published>2026-06-24T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.federalregister.gov/documents/2026/06/24/2026-12640/self-regulatory-organizations-nasdaq-texas-llc-order-granting-approval-of-a-proposed-rule-change-to</id>
-    <title>Self-Regulatory Organizations; Nasdaq Texas, LLC; Order Granting Approval of a Proposed Rule Change To Adopt Rules To Permit the Listing and Trading of Certain Exchange-Traded Products</title>
-    <updated>2026-06-24T00:00:00+00:00</updated>
-    <content>Source: National Securities Exchanges
-Date: 2026-06-24</content>
-    <link href="https://www.federalregister.gov/documents/2026/06/24/2026-12640/self-regulatory-organizations-nasdaq-texas-llc-order-granting-approval-of-a-proposed-rule-change-to"/>
-    <published>2026-06-24T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.federalregister.gov/documents/2026/06/25/2026-12765/self-regulatory-organizations-the-nasdaq-stock-market-llc-notice-of-filing-of-proposed-rule-change</id>
-    <title>Self-Regulatory Organizations; The Nasdaq Stock Market LLC; Notice of Filing of Proposed Rule Change, as Modified by Amendment No. 1, To Adopt a New Continued Listing Requirement</title>
-    <updated>2026-06-25T00:00:00+00:00</updated>
-    <content>Source: National Securities Exchanges
-Date: 2026-06-25</content>
-    <link href="https://www.federalregister.gov/documents/2026/06/25/2026-12765/self-regulatory-organizations-the-nasdaq-stock-market-llc-notice-of-filing-of-proposed-rule-change"/>
-    <published>2026-06-25T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>https://www.federalregister.gov/documents/2026/06/29/2026-13014/self-regulatory-organizations-cboe-exchange-inc-notice-of-filing-of-amendment-no-2-and-order</id>
     <title>Self-Regulatory Organizations; Cboe Exchange, Inc.; Notice of Filing of Amendment No. 2 and Order Granting Accelerated Approval of a Proposed Rule Change, as Superseded by Amendment No. 1 and Modified by Amendment No. 2, To Amend its Rules Relating to Designated Primary Market-Maker Appointments in Global Trading Hours and Curb Sessions</title>
@@ -348,5 +294,14 @@ Date: 2026-07-15</content>
 Date: 2026-07-15</content>
     <link href="https://www.federalregister.gov/documents/2026/07/15/2026-14201/self-regulatory-organizations-cboe-exchange-inc-notice-of-filing-of-a-proposed-rule-change-to-amend"/>
     <published>2026-07-15T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.federalregister.gov/documents/2026/07/16/2026-14275/self-regulatory-organizations-chicago-mercantile-exchange-inc-order-approving-a-proposed-rule-change</id>
+    <title>Self-Regulatory Organizations; Chicago Mercantile Exchange Inc.; Order Approving a Proposed Rule Change Relating to Amendments to Chicago Mercantile Exchange Inc.'s Rules Governing Performance Bond Requirements: Account Holder Level</title>
+    <updated>2026-07-16T00:00:00+00:00</updated>
+    <content>Source: National Securities Exchanges
+Date: 2026-07-16</content>
+    <link href="https://www.federalregister.gov/documents/2026/07/16/2026-14275/self-regulatory-organizations-chicago-mercantile-exchange-inc-order-approving-a-proposed-rule-change"/>
+    <published>2026-07-16T00:00:00+00:00</published>
   </entry>
 </feed>

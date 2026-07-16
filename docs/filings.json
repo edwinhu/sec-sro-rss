@@ -1,7 +1,15 @@
 {
-  "updated": "2026-07-16T07:56:37.868520+00:00",
-  "count": 38,
+  "updated": "2026-07-16T13:22:06.329505+00:00",
+  "count": 33,
   "filings": [
+    {
+      "id": "40417d074b37",
+      "title": "Self-Regulatory Organizations; Chicago Mercantile Exchange Inc.; Order Approving a Proposed Rule Change Relating to Amendments to Chicago Mercantile Exchange Inc.'s Rules Governing Performance Bond Requirements: Account Holder Level",
+      "url": "https://www.federalregister.gov/documents/2026/07/16/2026-14275/self-regulatory-organizations-chicago-mercantile-exchange-inc-order-approving-a-proposed-rule-change",
+      "date": "2026-07-16",
+      "description": "",
+      "source": "national-securities-exchanges"
+    },
     {
       "id": "f0a854cfc54d",
       "title": "Self-Regulatory Organizations; Cboe Exchange, Inc.; Notice of Filing of a Proposed Rule Change To Amend its Rules To Permit the Listing of Binary Options Overlying Key Performance Indicators (\u201cKPIs\u201d) Reported by Certain Issuers of Stock (\u201cBinary KPI Options\u201d)",
@@ -255,54 +263,6 @@
       "title": "Self-Regulatory Organizations; Cboe Exchange, Inc.; Notice of Filing of Amendment No. 2 and Order Granting Accelerated Approval of a Proposed Rule Change, as Superseded by Amendment No. 1 and Modified by Amendment No. 2, To Amend its Rules Relating to Designated Primary Market-Maker Appointments in Global Trading Hours and Curb Sessions",
       "url": "https://www.federalregister.gov/documents/2026/06/29/2026-13014/self-regulatory-organizations-cboe-exchange-inc-notice-of-filing-of-amendment-no-2-and-order",
       "date": "2026-06-29",
-      "description": "",
-      "source": "national-securities-exchanges"
-    },
-    {
-      "id": "37bd7774e7a4",
-      "title": "Self-Regulatory Organizations; The Nasdaq Stock Market LLC; Notice of Filing of Proposed Rule Change, as Modified by Amendment No. 1, To Adopt a New Continued Listing Requirement",
-      "url": "https://www.federalregister.gov/documents/2026/06/25/2026-12765/self-regulatory-organizations-the-nasdaq-stock-market-llc-notice-of-filing-of-proposed-rule-change",
-      "date": "2026-06-25",
-      "description": "",
-      "source": "national-securities-exchanges"
-    },
-    {
-      "id": "3a01bba8b553",
-      "title": "Self-Regulatory Organizations; Nasdaq Texas, LLC; Order Granting Approval of a Proposed Rule Change To Adopt Rules To Permit the Listing and Trading of Certain Exchange-Traded Products",
-      "url": "https://www.federalregister.gov/documents/2026/06/24/2026-12640/self-regulatory-organizations-nasdaq-texas-llc-order-granting-approval-of-a-proposed-rule-change-to",
-      "date": "2026-06-24",
-      "description": "",
-      "source": "national-securities-exchanges"
-    },
-    {
-      "id": "c812a2be6741",
-      "title": "Self-Regulatory Organizations; Cboe EDGA Exchange, Inc.; Notice of Filing of a Proposed Rule Change To Amend Rule 11.8(c) To Permit an Intermarket Sweep Order (\u201cISO\u201d) To Be Entered as a Non-Displayed Order and To Establish the Price Level at Which the System Will Consider an ISO Available for Other Orders To Be Entered",
-      "url": "https://www.federalregister.gov/documents/2026/06/24/2026-12635/self-regulatory-organizations-cboe-edga-exchange-inc-notice-of-filing-of-a-proposed-rule-change-to",
-      "date": "2026-06-24",
-      "description": "",
-      "source": "national-securities-exchanges"
-    },
-    {
-      "id": "74f7d8fc2da0",
-      "title": "Self-Regulatory Organizations; Cboe EDGX Exchange, Inc.; Notice of Filing of a Proposed Rule Change To Amend Rule 11.8(c) To Permit an Intermarket Sweep Order (\u201cISO\u201d) To Be Entered as a Non-Displayed Order and To Establish the Price Level at Which the System Will Consider an ISO Available for Other Orders To Be Entered",
-      "url": "https://www.federalregister.gov/documents/2026/06/24/2026-12631/self-regulatory-organizations-cboe-edgx-exchange-inc-notice-of-filing-of-a-proposed-rule-change-to",
-      "date": "2026-06-24",
-      "description": "",
-      "source": "national-securities-exchanges"
-    },
-    {
-      "id": "365476fc71e4",
-      "title": "Self-Regulatory Organizations; Cboe BYX Exchange, Inc.; Notice of Designation of Longer Period for Commission Action on Proposed Rule Change To Amend Rule 11.25 To Introduce an Optional, Contingent Instruction Applicable to Periodic Auction Only Orders, Introduce a Time-in-Force of Auction or Cancel, and Make Conforming Changes to Its Periodic Auction Processing Behavior To Support the Proposed Contingent Instruction",
-      "url": "https://www.federalregister.gov/documents/2026/06/24/2026-12629/self-regulatory-organizations-cboe-byx-exchange-inc-notice-of-designation-of-longer-period-for",
-      "date": "2026-06-24",
-      "description": "",
-      "source": "national-securities-exchanges"
-    },
-    {
-      "id": "0c0d525b7d60",
-      "title": "Agency Information Collection Activities; Proposed Collection; Comment Request; Extension: Rule 19b-7 and Form 19b-7",
-      "url": "https://www.federalregister.gov/documents/2026/06/23/2026-12586/agency-information-collection-activities-proposed-collection-comment-request-extension-rule-19b-7",
-      "date": "2026-06-23",
       "description": "",
       "source": "national-securities-exchanges"
     }
