@@ -1,7 +1,23 @@
 {
-  "updated": "2026-07-17T07:53:21.771077+00:00",
-  "count": 33,
+  "updated": "2026-07-17T13:06:31.374019+00:00",
+  "count": 32,
   "filings": [
+    {
+      "id": "4d102257f5ab",
+      "title": "Agency Information Collection Activities; Submission for OMB Review; Comment Request; Extension: Rule 15b6-1 and Form BDW",
+      "url": "https://www.federalregister.gov/documents/2026/07/17/2026-14414/agency-information-collection-activities-submission-for-omb-review-comment-request-extension-rule",
+      "date": "2026-07-17",
+      "description": "",
+      "source": "national-securities-exchanges"
+    },
+    {
+      "id": "5522a1ba6e04",
+      "title": "Self-Regulatory Organizations; National Securities Clearing Corporation; Order Approving Proposed Rule Change To Enhance NSCC's Clearing Fund Methodology",
+      "url": "https://www.federalregister.gov/documents/2026/07/17/2026-14397/self-regulatory-organizations-national-securities-clearing-corporation-order-approving-proposed-rule",
+      "date": "2026-07-17",
+      "description": "",
+      "source": "national-securities-exchanges"
+    },
     {
       "id": "40417d074b37",
       "title": "Self-Regulatory Organizations; Chicago Mercantile Exchange Inc.; Order Approving a Proposed Rule Change Relating to Amendments to Chicago Mercantile Exchange Inc.'s Rules Governing Performance Bond Requirements: Account Holder Level",
@@ -239,30 +255,6 @@
       "title": "Joint Industry Plan; Order Approving the Fifty-Fifth Amendment to the Joint Self-Regulatory Organization Plan Governing the Collection, Consolidation and Dissemination of Quotation and Transaction Information for Nasdaq-Listed Securities Traded on Exchanges on an Unlisted Trading Privileges Basis, as Modified by Amendment No. 1 Thereto",
       "url": "https://www.federalregister.gov/documents/2026/07/01/2026-13212/joint-industry-plan-order-approving-the-fifty-fifth-amendment-to-the-joint-self-regulatory",
       "date": "2026-07-01",
-      "description": "",
-      "source": "national-securities-exchanges"
-    },
-    {
-      "id": "d5474e90914f",
-      "title": "Self-Regulatory Organizations; Texas Stock Exchange LLC; Order Declaring Effective a Minor Rule Violation Plan",
-      "url": "https://www.federalregister.gov/documents/2026/06/30/2026-13114/self-regulatory-organizations-texas-stock-exchange-llc-order-declaring-effective-a-minor-rule",
-      "date": "2026-06-30",
-      "description": "",
-      "source": "national-securities-exchanges"
-    },
-    {
-      "id": "6a3529ae432b",
-      "title": "Self-Regulatory Organizations; Cboe Exchange, Inc.; Order Instituting Proceedings To Determine Whether To Approve or Disapprove a Proposed Rule Change To Amend Its Rules To Accommodate Stop-Limit Complex Orders and Establish Stop Complex Order Auctions as a New Type of Auction Mechanism",
-      "url": "https://www.federalregister.gov/documents/2026/06/29/2026-13022/self-regulatory-organizations-cboe-exchange-inc-order-instituting-proceedings-to-determine-whether",
-      "date": "2026-06-29",
-      "description": "",
-      "source": "national-securities-exchanges"
-    },
-    {
-      "id": "933fd519a38f",
-      "title": "Self-Regulatory Organizations; Cboe Exchange, Inc.; Notice of Filing of Amendment No. 2 and Order Granting Accelerated Approval of a Proposed Rule Change, as Superseded by Amendment No. 1 and Modified by Amendment No. 2, To Amend its Rules Relating to Designated Primary Market-Maker Appointments in Global Trading Hours and Curb Sessions",
-      "url": "https://www.federalregister.gov/documents/2026/06/29/2026-13014/self-regulatory-organizations-cboe-exchange-inc-notice-of-filing-of-amendment-no-2-and-order",
-      "date": "2026-06-29",
       "description": "",
       "source": "national-securities-exchanges"
     }
