@@ -1,7 +1,15 @@
 {
-  "updated": "2026-07-18T01:41:56.371766+00:00",
-  "count": 32,
+  "updated": "2026-07-18T07:28:04.218787+00:00",
+  "count": 30,
   "filings": [
+    {
+      "id": "ad2ae40162be",
+      "title": "Self-Regulatory Organizations; ICE Clear Credit LLC; Order Approving Proposed Rule Change Relating to the Operational Risk Management Framework",
+      "url": "https://www.federalregister.gov/documents/2026/07/20/2026-14525/self-regulatory-organizations-ice-clear-credit-llc-order-approving-proposed-rule-change-relating-to",
+      "date": "2026-07-20",
+      "description": "",
+      "source": "national-securities-exchanges"
+    },
     {
       "id": "4d102257f5ab",
       "title": "Agency Information Collection Activities; Submission for OMB Review; Comment Request; Extension: Rule 15b6-1 and Form BDW",
@@ -230,30 +238,6 @@
       "id": "45b534a6a008",
       "title": "Consolidated Tape Association; Order Approving the Fortieth Substantive Amendment to the Second Restatement of the CTA Plan and Thirty-First Substantive Amendment to the Restated CQ Plan, as Modified by Amendment No. 1 Thereto",
       "url": "https://www.federalregister.gov/documents/2026/07/01/2026-13234/consolidated-tape-association-order-approving-the-fortieth-substantive-amendment-to-the-second",
-      "date": "2026-07-01",
-      "description": "",
-      "source": "national-securities-exchanges"
-    },
-    {
-      "id": "137a76588d4d",
-      "title": "Self-Regulatory Organizations; Nasdaq MRX, LLC; Notice of Filing of Amendment No. 1 and Order Granting Accelerated Approval of a Proposed Rule Change, as Modified and Superseded by Amendment No. 1, To Adopt Extended Trading Hours for Eligible Equity and Index Options",
-      "url": "https://www.federalregister.gov/documents/2026/07/01/2026-13225/self-regulatory-organizations-nasdaq-mrx-llc-notice-of-filing-of-amendment-no-1-and-order-granting",
-      "date": "2026-07-01",
-      "description": "",
-      "source": "national-securities-exchanges"
-    },
-    {
-      "id": "e2b57fe92246",
-      "title": "Joint Industry Plan; Order Approving the Second Amendment to the National Market System Plan Regarding Consolidated Equity Market Data, as Amended by Amendment No. 1 and Modified by the Commission, To Adopt a Fee Schedule",
-      "url": "https://www.federalregister.gov/documents/2026/07/01/2026-13215/joint-industry-plan-order-approving-the-second-amendment-to-the-national-market-system-plan",
-      "date": "2026-07-01",
-      "description": "",
-      "source": "national-securities-exchanges"
-    },
-    {
-      "id": "925bd7a1948c",
-      "title": "Joint Industry Plan; Order Approving the Fifty-Fifth Amendment to the Joint Self-Regulatory Organization Plan Governing the Collection, Consolidation and Dissemination of Quotation and Transaction Information for Nasdaq-Listed Securities Traded on Exchanges on an Unlisted Trading Privileges Basis, as Modified by Amendment No. 1 Thereto",
-      "url": "https://www.federalregister.gov/documents/2026/07/01/2026-13212/joint-industry-plan-order-approving-the-fifty-fifth-amendment-to-the-joint-self-regulatory",
       "date": "2026-07-01",
       "description": "",
       "source": "national-securities-exchanges"
