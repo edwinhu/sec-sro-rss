@@ -1,7 +1,31 @@
 {
-  "updated": "2026-07-21T01:49:42.245902+00:00",
-  "count": 30,
+  "updated": "2026-07-21T08:08:49.991274+00:00",
+  "count": 32,
   "filings": [
+    {
+      "id": "c53606246e6b",
+      "title": "Self-Regulatory Organizations; ICE Clear Credit LLC; Notice of Proposed Rule Change to the Risk Management Model Description for the CDS Clearing Service",
+      "url": "https://www.federalregister.gov/documents/2026/07/21/2026-14626/self-regulatory-organizations-ice-clear-credit-llc-notice-of-proposed-rule-change-to-the-risk",
+      "date": "2026-07-21",
+      "description": "",
+      "source": "national-securities-exchanges"
+    },
+    {
+      "id": "81d2f2ef6280",
+      "title": "Self-Regulatory Organizations; Cboe Exchange, Inc.; Notice of Filing of Amendment No. 1 and Order Approving a Proposed Rule Change, as Modified and Superseded by Amendment No. 1, To Amend Rule 4.21 (Series of FLEX Options)",
+      "url": "https://www.federalregister.gov/documents/2026/07/21/2026-14625/self-regulatory-organizations-cboe-exchange-inc-notice-of-filing-of-amendment-no-1-and-order",
+      "date": "2026-07-21",
+      "description": "",
+      "source": "national-securities-exchanges"
+    },
+    {
+      "id": "0335e0e82b50",
+      "title": "Self-Regulatory Organizations; Financial Industry Regulatory Authority, Inc.; Notice of Filing of a Proposed Rule Change To Amend FINRA Rule 4515.01 (Allocations of Orders Made by Investment Advisers)",
+      "url": "https://www.federalregister.gov/documents/2026/07/21/2026-14621/self-regulatory-organizations-financial-industry-regulatory-authority-inc-notice-of-filing-of-a",
+      "date": "2026-07-21",
+      "description": "",
+      "source": "finra"
+    },
     {
       "id": "ad2ae40162be",
       "title": "Self-Regulatory Organizations; ICE Clear Credit LLC; Order Approving Proposed Rule Change Relating to the Operational Risk Management Framework",
@@ -231,14 +255,6 @@
       "title": "Self-Regulatory Organizations; Nasdaq ISE, LLC; Notice of Filing of a Proposed Rule Change To Amend the Short Term Option Series Program Related to Qualifying Securities",
       "url": "https://www.federalregister.gov/documents/2026/07/02/2026-13357/self-regulatory-organizations-nasdaq-ise-llc-notice-of-filing-of-a-proposed-rule-change-to-amend-the",
       "date": "2026-07-02",
-      "description": "",
-      "source": "national-securities-exchanges"
-    },
-    {
-      "id": "45b534a6a008",
-      "title": "Consolidated Tape Association; Order Approving the Fortieth Substantive Amendment to the Second Restatement of the CTA Plan and Thirty-First Substantive Amendment to the Restated CQ Plan, as Modified by Amendment No. 1 Thereto",
-      "url": "https://www.federalregister.gov/documents/2026/07/01/2026-13234/consolidated-tape-association-order-approving-the-fortieth-substantive-amendment-to-the-second",
-      "date": "2026-07-01",
       "description": "",
       "source": "national-securities-exchanges"
     }
