@@ -2,29 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://github.com/edwinhu/sec-sro-rss</id>
   <title>SEC Self-Regulatory Organization Rulemaking</title>
-  <updated>2026-07-23T01:55:50.018613+00:00</updated>
+  <updated>2026-07-23T08:12:48.185373+00:00</updated>
   <link href="https://www.sec.gov/rules-regulations/self-regulatory-organization-rulemaking" rel="alternate"/>
   <link href="https://edwinhu.github.io/sec-sro-rss/feed.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Filtered SEC SRO filings (excludes immediate effectiveness notices and crypto)</subtitle>
-  <entry>
-    <id>https://www.federalregister.gov/documents/2026/07/06/2026-13526/self-regulatory-organizations-texas-stock-exchange-llc-notice-of-filing-of-a-proposed-rule-change-to</id>
-    <title>Self-Regulatory Organizations; Texas Stock Exchange LLC; Notice of Filing of a Proposed Rule Change To Amend a Continued Listing Standard Relating to Beneficial Holders Applicable to ETF Shares Listed on the Exchange Under Rule 17.104(b)(2)(B)</title>
-    <updated>2026-07-06T00:00:00+00:00</updated>
-    <content>Source: National Securities Exchanges
-Date: 2026-07-06</content>
-    <link href="https://www.federalregister.gov/documents/2026/07/06/2026-13526/self-regulatory-organizations-texas-stock-exchange-llc-notice-of-filing-of-a-proposed-rule-change-to"/>
-    <published>2026-07-06T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.federalregister.gov/documents/2026/07/06/2026-13530/self-regulatory-organizations-financial-industry-regulatory-authority-inc-notice-of-designation-of-a</id>
-    <title>Self-Regulatory Organizations; Financial Industry Regulatory Authority, Inc.; Notice of Designation of a Longer Period for Commission Action on a Proposed Rule Change To Adopt FINRA Rule 4321 (Allocations of Fail To Deliver Positions) and Amend FINRA Rule 4560 (Short-Interest Reporting)</title>
-    <updated>2026-07-06T00:00:00+00:00</updated>
-    <content>Source: Finra
-Date: 2026-07-06</content>
-    <link href="https://www.federalregister.gov/documents/2026/07/06/2026-13530/self-regulatory-organizations-financial-industry-regulatory-authority-inc-notice-of-designation-of-a"/>
-    <published>2026-07-06T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>https://www.federalregister.gov/documents/2026/07/07/2026-13650/self-regulatory-organizations-nyse-american-llc-notice-of-filing-of-a-proposed-rule-change-to-amend</id>
     <title>Self-Regulatory Organizations; NYSE American LLC; Notice of Filing of a Proposed Rule Change To Amend Rule 903G and 906G</title>
@@ -267,5 +249,32 @@ Date: 2026-07-21</content>
 Date: 2026-07-22</content>
     <link href="https://www.federalregister.gov/documents/2026/07/22/2026-14743/self-regulatory-organizations-cboe-exchange-inc-notice-of-filing-of-amendment-no-1-and-order"/>
     <published>2026-07-22T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.federalregister.gov/documents/2026/07/23/2026-14856/self-regulatory-organizations-box-exchange-llc-notice-of-filing-of-a-proposed-rule-change-to-amend</id>
+    <title>Self-Regulatory Organizations; BOX Exchange LLC; Notice of Filing of a Proposed Rule Change To Amend BOX Rule 3060 (Gratuities) To Conform With FINRA Rule 3220</title>
+    <updated>2026-07-23T00:00:00+00:00</updated>
+    <content>Source: Finra
+Date: 2026-07-23</content>
+    <link href="https://www.federalregister.gov/documents/2026/07/23/2026-14856/self-regulatory-organizations-box-exchange-llc-notice-of-filing-of-a-proposed-rule-change-to-amend"/>
+    <published>2026-07-23T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.federalregister.gov/documents/2026/07/23/2026-14860/self-regulatory-organizations-cme-securities-clearing-inc-order-approving-proposed-rule-change-to</id>
+    <title>Self-Regulatory Organizations; CME Securities Clearing Inc.; Order Approving Proposed Rule Change To Support Members' Risk Management of and Enhance Their Ability To Authorize Persons as Users</title>
+    <updated>2026-07-23T00:00:00+00:00</updated>
+    <content>Source: National Securities Exchanges
+Date: 2026-07-23</content>
+    <link href="https://www.federalregister.gov/documents/2026/07/23/2026-14860/self-regulatory-organizations-cme-securities-clearing-inc-order-approving-proposed-rule-change-to"/>
+    <published>2026-07-23T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.federalregister.gov/documents/2026/07/23/2026-14928/agency-information-collection-activities-proposed-collection-comment-request-extension-rule-608</id>
+    <title>Agency Information Collection Activities; Proposed Collection; Comment Request; Extension: Rule 608</title>
+    <updated>2026-07-23T00:00:00+00:00</updated>
+    <content>Source: National Securities Exchanges
+Date: 2026-07-23</content>
+    <link href="https://www.federalregister.gov/documents/2026/07/23/2026-14928/agency-information-collection-activities-proposed-collection-comment-request-extension-rule-608"/>
+    <published>2026-07-23T00:00:00+00:00</published>
   </entry>
 </feed>
