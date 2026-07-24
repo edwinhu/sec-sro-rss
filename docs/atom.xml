@@ -2,20 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://github.com/edwinhu/sec-sro-rss</id>
   <title>SEC Self-Regulatory Organization Rulemaking</title>
-  <updated>2026-07-24T01:51:45.477484+00:00</updated>
+  <updated>2026-07-24T08:08:46.334549+00:00</updated>
   <link href="https://www.sec.gov/rules-regulations/self-regulatory-organization-rulemaking" rel="alternate"/>
   <link href="https://edwinhu.github.io/sec-sro-rss/feed.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Filtered SEC SRO filings (excludes immediate effectiveness notices and crypto)</subtitle>
-  <entry>
-    <id>https://www.federalregister.gov/documents/2026/07/07/2026-13650/self-regulatory-organizations-nyse-american-llc-notice-of-filing-of-a-proposed-rule-change-to-amend</id>
-    <title>Self-Regulatory Organizations; NYSE American LLC; Notice of Filing of a Proposed Rule Change To Amend Rule 903G and 906G</title>
-    <updated>2026-07-07T00:00:00+00:00</updated>
-    <content>Source: National Securities Exchanges
-Date: 2026-07-07</content>
-    <link href="https://www.federalregister.gov/documents/2026/07/07/2026-13650/self-regulatory-organizations-nyse-american-llc-notice-of-filing-of-a-proposed-rule-change-to-amend"/>
-    <published>2026-07-07T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>https://www.federalregister.gov/documents/2026/07/07/2026-13651/self-regulatory-organizations-nyse-arca-inc-notice-of-filing-of-a-proposed-rule-change-to-amend</id>
     <title>Self-Regulatory Organizations; NYSE Arca, Inc.; Notice of Filing of a Proposed Rule Change To Amend Rules 5.32-O and 5.35-O</title>
@@ -276,5 +267,14 @@ Date: 2026-07-23</content>
 Date: 2026-07-23</content>
     <link href="https://www.federalregister.gov/documents/2026/07/23/2026-14928/agency-information-collection-activities-proposed-collection-comment-request-extension-rule-608"/>
     <published>2026-07-23T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.federalregister.gov/documents/2026/07/24/2026-14975/self-regulatory-organizations-texas-stock-exchange-llc-notice-of-designation-of-a-longer-period-for</id>
+    <title>Self-Regulatory Organizations; Texas Stock Exchange LLC; Notice of Designation of a Longer Period for Commission Action on a Proposed Rule Change To Amend Exchange Rule 13.003 Related to Proxy Voting</title>
+    <updated>2026-07-24T00:00:00+00:00</updated>
+    <content>Source: National Securities Exchanges
+Date: 2026-07-24</content>
+    <link href="https://www.federalregister.gov/documents/2026/07/24/2026-14975/self-regulatory-organizations-texas-stock-exchange-llc-notice-of-designation-of-a-longer-period-for"/>
+    <published>2026-07-24T00:00:00+00:00</published>
   </entry>
 </feed>

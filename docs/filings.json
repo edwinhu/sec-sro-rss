@@ -1,7 +1,15 @@
 {
-  "updated": "2026-07-24T01:51:45.486551+00:00",
+  "updated": "2026-07-24T08:08:46.405201+00:00",
   "count": 30,
   "filings": [
+    {
+      "id": "3af7e7eb7cb5",
+      "title": "Self-Regulatory Organizations; Texas Stock Exchange LLC; Notice of Designation of a Longer Period for Commission Action on a Proposed Rule Change To Amend Exchange Rule 13.003 Related to Proxy Voting",
+      "url": "https://www.federalregister.gov/documents/2026/07/24/2026-14975/self-regulatory-organizations-texas-stock-exchange-llc-notice-of-designation-of-a-longer-period-for",
+      "date": "2026-07-24",
+      "description": "",
+      "source": "national-securities-exchanges"
+    },
     {
       "id": "fbe397cb68ac",
       "title": "Agency Information Collection Activities; Proposed Collection; Comment Request; Extension: Rule 608",
@@ -230,14 +238,6 @@
       "id": "e3742cf03330",
       "title": "Self-Regulatory Organizations; NYSE Arca, Inc.; Notice of Filing of a Proposed Rule Change To Amend Rules 5.32-O and 5.35-O",
       "url": "https://www.federalregister.gov/documents/2026/07/07/2026-13651/self-regulatory-organizations-nyse-arca-inc-notice-of-filing-of-a-proposed-rule-change-to-amend",
-      "date": "2026-07-07",
-      "description": "",
-      "source": "national-securities-exchanges"
-    },
-    {
-      "id": "96b84e4af552",
-      "title": "Self-Regulatory Organizations; NYSE American LLC; Notice of Filing of a Proposed Rule Change To Amend Rule 903G and 906G",
-      "url": "https://www.federalregister.gov/documents/2026/07/07/2026-13650/self-regulatory-organizations-nyse-american-llc-notice-of-filing-of-a-proposed-rule-change-to-amend",
       "date": "2026-07-07",
       "description": "",
       "source": "national-securities-exchanges"
