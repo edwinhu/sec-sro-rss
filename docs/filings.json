@@ -1,7 +1,23 @@
 {
-  "updated": "2026-07-25T01:51:33.069297+00:00",
-  "count": 30,
+  "updated": "2026-07-25T07:51:12.822079+00:00",
+  "count": 27,
   "filings": [
+    {
+      "id": "478177cfa68b",
+      "title": "Self-Regulatory Organizations; The Nasdaq Stock Market LLC; Order Granting Approval of a Proposed Rule Change, as Modified by Amendment No. 1, To Adopt a New Continued Listing Requirement",
+      "url": "https://www.federalregister.gov/documents/2026/07/27/2026-15060/self-regulatory-organizations-the-nasdaq-stock-market-llc-order-granting-approval-of-a-proposed-rule",
+      "date": "2026-07-27",
+      "description": "",
+      "source": "national-securities-exchanges"
+    },
+    {
+      "id": "87c055505196",
+      "title": "Agency Information Collection Activities; Proposed Collection; Comment Request; Extension: Rule 17a-11",
+      "url": "https://www.federalregister.gov/documents/2026/07/27/2026-15052/agency-information-collection-activities-proposed-collection-comment-request-extension-rule-17a-11",
+      "date": "2026-07-27",
+      "description": "",
+      "source": "national-securities-exchanges"
+    },
     {
       "id": "3af7e7eb7cb5",
       "title": "Self-Regulatory Organizations; Texas Stock Exchange LLC; Notice of Designation of a Longer Period for Commission Action on a Proposed Rule Change To Amend Exchange Rule 13.003 Related to Proxy Voting",
@@ -199,46 +215,6 @@
       "title": "Self-Regulatory Organizations; Fixed Income Clearing Corporation; Notice of Filing of Proposed Rule Change To Modify the GSD Rules To Adopt a U.S. Treasury Clearing Trade Submission Requirement",
       "url": "https://www.federalregister.gov/documents/2026/07/09/2026-13827/self-regulatory-organizations-fixed-income-clearing-corporation-notice-of-filing-of-proposed-rule",
       "date": "2026-07-09",
-      "description": "",
-      "source": "national-securities-exchanges"
-    },
-    {
-      "id": "01e81ba559c9",
-      "title": "Agency Information Collection Activities; Proposed Collection; Comment Request; Extension: Rule 15b9-1",
-      "url": "https://www.federalregister.gov/documents/2026/07/09/2026-13816/agency-information-collection-activities-proposed-collection-comment-request-extension-rule-15b9-1",
-      "date": "2026-07-09",
-      "description": "",
-      "source": "national-securities-exchanges"
-    },
-    {
-      "id": "5498ac32f678",
-      "title": "Self-Regulatory Organizations; Financial Industry Regulatory Authority, Inc.; Notice of Partial Amendment No. 1 to Proposed Rule Change To Amend FINRA Rule 2210 (Communications With the Public)",
-      "url": "https://www.federalregister.gov/documents/2026/07/07/2026-13713/self-regulatory-organizations-financial-industry-regulatory-authority-inc-notice-of-partial",
-      "date": "2026-07-07",
-      "description": "",
-      "source": "finra"
-    },
-    {
-      "id": "987ecdb596cf",
-      "title": "Self-Regulatory Organizations; NYSE American LLC and NYSE Arca, Inc.; Notice of Filing and Order Granting Accelerated Approval of Proposed Rule Changes Concerning the Single Component Concentration Limit of the MSCI Emerging Markets Index",
-      "url": "https://www.federalregister.gov/documents/2026/07/07/2026-13654/self-regulatory-organizations-nyse-american-llc-and-nyse-arca-inc-notice-of-filing-and-order",
-      "date": "2026-07-07",
-      "description": "",
-      "source": "national-securities-exchanges"
-    },
-    {
-      "id": "f8145d0e3520",
-      "title": "Self-Regulatory Organizations; Texas Stock Exchange LLC; Notice of Filing of Amendment No. 1 to a Proposed Rule Change To Amend Certain Parts of Its Opening and Closing Auctions",
-      "url": "https://www.federalregister.gov/documents/2026/07/07/2026-13653/self-regulatory-organizations-texas-stock-exchange-llc-notice-of-filing-of-amendment-no-1-to-a",
-      "date": "2026-07-07",
-      "description": "",
-      "source": "national-securities-exchanges"
-    },
-    {
-      "id": "e3742cf03330",
-      "title": "Self-Regulatory Organizations; NYSE Arca, Inc.; Notice of Filing of a Proposed Rule Change To Amend Rules 5.32-O and 5.35-O",
-      "url": "https://www.federalregister.gov/documents/2026/07/07/2026-13651/self-regulatory-organizations-nyse-arca-inc-notice-of-filing-of-a-proposed-rule-change-to-amend",
-      "date": "2026-07-07",
       "description": "",
       "source": "national-securities-exchanges"
     }

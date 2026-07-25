@@ -2,56 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://github.com/edwinhu/sec-sro-rss</id>
   <title>SEC Self-Regulatory Organization Rulemaking</title>
-  <updated>2026-07-25T01:51:33.059224+00:00</updated>
+  <updated>2026-07-25T07:51:12.816242+00:00</updated>
   <link href="https://www.sec.gov/rules-regulations/self-regulatory-organization-rulemaking" rel="alternate"/>
   <link href="https://edwinhu.github.io/sec-sro-rss/feed.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Filtered SEC SRO filings (excludes immediate effectiveness notices and crypto)</subtitle>
-  <entry>
-    <id>https://www.federalregister.gov/documents/2026/07/07/2026-13651/self-regulatory-organizations-nyse-arca-inc-notice-of-filing-of-a-proposed-rule-change-to-amend</id>
-    <title>Self-Regulatory Organizations; NYSE Arca, Inc.; Notice of Filing of a Proposed Rule Change To Amend Rules 5.32-O and 5.35-O</title>
-    <updated>2026-07-07T00:00:00+00:00</updated>
-    <content>Source: National Securities Exchanges
-Date: 2026-07-07</content>
-    <link href="https://www.federalregister.gov/documents/2026/07/07/2026-13651/self-regulatory-organizations-nyse-arca-inc-notice-of-filing-of-a-proposed-rule-change-to-amend"/>
-    <published>2026-07-07T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.federalregister.gov/documents/2026/07/07/2026-13653/self-regulatory-organizations-texas-stock-exchange-llc-notice-of-filing-of-amendment-no-1-to-a</id>
-    <title>Self-Regulatory Organizations; Texas Stock Exchange LLC; Notice of Filing of Amendment No. 1 to a Proposed Rule Change To Amend Certain Parts of Its Opening and Closing Auctions</title>
-    <updated>2026-07-07T00:00:00+00:00</updated>
-    <content>Source: National Securities Exchanges
-Date: 2026-07-07</content>
-    <link href="https://www.federalregister.gov/documents/2026/07/07/2026-13653/self-regulatory-organizations-texas-stock-exchange-llc-notice-of-filing-of-amendment-no-1-to-a"/>
-    <published>2026-07-07T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.federalregister.gov/documents/2026/07/07/2026-13654/self-regulatory-organizations-nyse-american-llc-and-nyse-arca-inc-notice-of-filing-and-order</id>
-    <title>Self-Regulatory Organizations; NYSE American LLC and NYSE Arca, Inc.; Notice of Filing and Order Granting Accelerated Approval of Proposed Rule Changes Concerning the Single Component Concentration Limit of the MSCI Emerging Markets Index</title>
-    <updated>2026-07-07T00:00:00+00:00</updated>
-    <content>Source: National Securities Exchanges
-Date: 2026-07-07</content>
-    <link href="https://www.federalregister.gov/documents/2026/07/07/2026-13654/self-regulatory-organizations-nyse-american-llc-and-nyse-arca-inc-notice-of-filing-and-order"/>
-    <published>2026-07-07T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.federalregister.gov/documents/2026/07/07/2026-13713/self-regulatory-organizations-financial-industry-regulatory-authority-inc-notice-of-partial</id>
-    <title>Self-Regulatory Organizations; Financial Industry Regulatory Authority, Inc.; Notice of Partial Amendment No. 1 to Proposed Rule Change To Amend FINRA Rule 2210 (Communications With the Public)</title>
-    <updated>2026-07-07T00:00:00+00:00</updated>
-    <content>Source: Finra
-Date: 2026-07-07</content>
-    <link href="https://www.federalregister.gov/documents/2026/07/07/2026-13713/self-regulatory-organizations-financial-industry-regulatory-authority-inc-notice-of-partial"/>
-    <published>2026-07-07T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.federalregister.gov/documents/2026/07/09/2026-13816/agency-information-collection-activities-proposed-collection-comment-request-extension-rule-15b9-1</id>
-    <title>Agency Information Collection Activities; Proposed Collection; Comment Request; Extension: Rule 15b9-1</title>
-    <updated>2026-07-09T00:00:00+00:00</updated>
-    <content>Source: National Securities Exchanges
-Date: 2026-07-09</content>
-    <link href="https://www.federalregister.gov/documents/2026/07/09/2026-13816/agency-information-collection-activities-proposed-collection-comment-request-extension-rule-15b9-1"/>
-    <published>2026-07-09T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>https://www.federalregister.gov/documents/2026/07/09/2026-13827/self-regulatory-organizations-fixed-income-clearing-corporation-notice-of-filing-of-proposed-rule</id>
     <title>Self-Regulatory Organizations; Fixed Income Clearing Corporation; Notice of Filing of Proposed Rule Change To Modify the GSD Rules To Adopt a U.S. Treasury Clearing Trade Submission Requirement</title>
@@ -276,5 +231,23 @@ Date: 2026-07-23</content>
 Date: 2026-07-24</content>
     <link href="https://www.federalregister.gov/documents/2026/07/24/2026-14975/self-regulatory-organizations-texas-stock-exchange-llc-notice-of-designation-of-a-longer-period-for"/>
     <published>2026-07-24T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.federalregister.gov/documents/2026/07/27/2026-15052/agency-information-collection-activities-proposed-collection-comment-request-extension-rule-17a-11</id>
+    <title>Agency Information Collection Activities; Proposed Collection; Comment Request; Extension: Rule 17a-11</title>
+    <updated>2026-07-27T00:00:00+00:00</updated>
+    <content>Source: National Securities Exchanges
+Date: 2026-07-27</content>
+    <link href="https://www.federalregister.gov/documents/2026/07/27/2026-15052/agency-information-collection-activities-proposed-collection-comment-request-extension-rule-17a-11"/>
+    <published>2026-07-27T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.federalregister.gov/documents/2026/07/27/2026-15060/self-regulatory-organizations-the-nasdaq-stock-market-llc-order-granting-approval-of-a-proposed-rule</id>
+    <title>Self-Regulatory Organizations; The Nasdaq Stock Market LLC; Order Granting Approval of a Proposed Rule Change, as Modified by Amendment No. 1, To Adopt a New Continued Listing Requirement</title>
+    <updated>2026-07-27T00:00:00+00:00</updated>
+    <content>Source: National Securities Exchanges
+Date: 2026-07-27</content>
+    <link href="https://www.federalregister.gov/documents/2026/07/27/2026-15060/self-regulatory-organizations-the-nasdaq-stock-market-llc-order-granting-approval-of-a-proposed-rule"/>
+    <published>2026-07-27T00:00:00+00:00</published>
   </entry>
 </feed>
