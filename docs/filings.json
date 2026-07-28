@@ -1,7 +1,47 @@
 {
-  "updated": "2026-07-28T01:44:59.699016+00:00",
-  "count": 27,
+  "updated": "2026-07-28T08:16:10.993130+00:00",
+  "count": 29,
   "filings": [
+    {
+      "id": "cf3066a8a39f",
+      "title": "Self-Regulatory Organizations; The Options Clearing Corporation; Order Approving Proposed Rule Change by the Options Clearing Corporation To Establish a Commercial Paper Program",
+      "url": "https://www.federalregister.gov/documents/2026/07/28/2026-15176/self-regulatory-organizations-the-options-clearing-corporation-order-approving-proposed-rule-change",
+      "date": "2026-07-28",
+      "description": "",
+      "source": "national-securities-exchanges"
+    },
+    {
+      "id": "83fe8ffd54fb",
+      "title": "Self-Regulatory Organizations; Cboe BZX Exchange, Inc.; Notice of Filing of Amendment No. 1 and Order Approving a Proposed Rule Change, as Modified by Amendment No. 1, To Amend the Opening Auction Process Provided Under Rule 11.23(b)(2)(B) To Delay the Opening Auction Under Certain Market Conditions",
+      "url": "https://www.federalregister.gov/documents/2026/07/28/2026-15175/self-regulatory-organizations-cboe-bzx-exchange-inc-notice-of-filing-of-amendment-no-1-and-order",
+      "date": "2026-07-28",
+      "description": "",
+      "source": "national-securities-exchanges"
+    },
+    {
+      "id": "b59110e52880",
+      "title": "Self-Regulatory Organizations; Cboe BZX Exchange, Inc.; Notice of Designation of a Longer Period for Commission Action on Proceedings To Determine Whether To Approve or Disapprove a Proposed Rule Change To Amend Rule 11.9(d) Regarding Intermarket Sweep Orders",
+      "url": "https://www.federalregister.gov/documents/2026/07/28/2026-15174/self-regulatory-organizations-cboe-bzx-exchange-inc-notice-of-designation-of-a-longer-period-for",
+      "date": "2026-07-28",
+      "description": "",
+      "source": "national-securities-exchanges"
+    },
+    {
+      "id": "8bcb061c1662",
+      "title": "Self-Regulatory Organizations; Cboe BYX Exchange, Inc.; Notice of Designation of a Longer Period for Commission Action on Proceedings To Determine Whether To Approve or Disapprove a Proposed Rule Change To Amend Rule 11.9(d) Regarding Intermarket Sweep Orders",
+      "url": "https://www.federalregister.gov/documents/2026/07/28/2026-15173/self-regulatory-organizations-cboe-byx-exchange-inc-notice-of-designation-of-a-longer-period-for",
+      "date": "2026-07-28",
+      "description": "",
+      "source": "national-securities-exchanges"
+    },
+    {
+      "id": "db13ae6e9667",
+      "title": "Self-Regulatory Organizations; ICE Clear Credit LLC; Order Approving Proposed Rule Change Relating to the Treasury Clearing Service Initial Margin Approach Model Description Document, Treasury Clearing Service Guaranty Fund and Stress Test Approach Model Description Document, and Treasury Clearing Service Risk Parameter Setting and Review Policy",
+      "url": "https://www.federalregister.gov/documents/2026/07/28/2026-15169/self-regulatory-organizations-ice-clear-credit-llc-order-approving-proposed-rule-change-relating-to",
+      "date": "2026-07-28",
+      "description": "",
+      "source": "national-securities-exchanges"
+    },
     {
       "id": "478177cfa68b",
       "title": "Self-Regulatory Organizations; The Nasdaq Stock Market LLC; Order Granting Approval of a Proposed Rule Change, as Modified by Amendment No. 1, To Adopt a New Continued Listing Requirement",
@@ -191,30 +231,6 @@
       "title": "Self-Regulatory Organizations; Cboe Exchange, Inc.; Notice of Designation of a Longer Period for Commission Action on a Proposed Rule Change To Permit VIX Future-Option Orders",
       "url": "https://www.federalregister.gov/documents/2026/07/13/2026-14015/self-regulatory-organizations-cboe-exchange-inc-notice-of-designation-of-a-longer-period-for",
       "date": "2026-07-13",
-      "description": "",
-      "source": "national-securities-exchanges"
-    },
-    {
-      "id": "4df6a770d977",
-      "title": "Self-Regulatory Organizations; Cboe BZX Exchange, Inc.; Order Instituting Proceedings To Determine Whether To Approve or Disapprove a Proposed Rule Change To List and Trade Shares of the BondBloxx Private Credit Trust Under BZX Rule 14.11(f), Trust Issued Receipts",
-      "url": "https://www.federalregister.gov/documents/2026/07/09/2026-13829/self-regulatory-organizations-cboe-bzx-exchange-inc-order-instituting-proceedings-to-determine",
-      "date": "2026-07-09",
-      "description": "",
-      "source": "national-securities-exchanges"
-    },
-    {
-      "id": "dad7fe4926c7",
-      "title": "Self-Regulatory Organizations; LCH SA; Notice of Filing of Proposed Rule Change Relating to the LCH SA Liquidity Plan",
-      "url": "https://www.federalregister.gov/documents/2026/07/09/2026-13828/self-regulatory-organizations-lch-sa-notice-of-filing-of-proposed-rule-change-relating-to-the-lch-sa",
-      "date": "2026-07-09",
-      "description": "",
-      "source": "national-securities-exchanges"
-    },
-    {
-      "id": "f0d6b365765e",
-      "title": "Self-Regulatory Organizations; Fixed Income Clearing Corporation; Notice of Filing of Proposed Rule Change To Modify the GSD Rules To Adopt a U.S. Treasury Clearing Trade Submission Requirement",
-      "url": "https://www.federalregister.gov/documents/2026/07/09/2026-13827/self-regulatory-organizations-fixed-income-clearing-corporation-notice-of-filing-of-proposed-rule",
-      "date": "2026-07-09",
       "description": "",
       "source": "national-securities-exchanges"
     }
