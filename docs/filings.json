@@ -1,7 +1,55 @@
 {
-  "updated": "2026-07-29T01:47:02.532230+00:00",
-  "count": 29,
+  "updated": "2026-07-29T08:21:55.697404+00:00",
+  "count": 32,
   "filings": [
+    {
+      "id": "3ff3bc66e57c",
+      "title": "Self-Regulatory Organizations; Financial Industry Regulatory Authority, Inc.; Order Approving a Proposed Rule Change To Amend the FINRA Rule 6700 Series (Trade Reporting and Compliance Engine) (TRACE) To Expand the Scope of the Non-Member Affiliate-Principal Transaction Indicator to Also Include Member Affiliates",
+      "url": "https://www.federalregister.gov/documents/2026/07/29/2026-15251/self-regulatory-organizations-financial-industry-regulatory-authority-inc-order-approving-a-proposed",
+      "date": "2026-07-29",
+      "description": "",
+      "source": "finra"
+    },
+    {
+      "id": "3fa82617b768",
+      "title": "Self-Regulatory Organizations; Cboe EDGA Exchange, Inc.; Notice of Designation of a Longer Period for Commission Action on Proceedings To Determine Whether To Approve or Disapprove a Proposed Rule Change To Amend Rule 11.8(c) Regarding Intermarket Sweep Orders",
+      "url": "https://www.federalregister.gov/documents/2026/07/29/2026-15250/self-regulatory-organizations-cboe-edga-exchange-inc-notice-of-designation-of-a-longer-period-for",
+      "date": "2026-07-29",
+      "description": "",
+      "source": "national-securities-exchanges"
+    },
+    {
+      "id": "ed5429b23d55",
+      "title": "Self-Regulatory Organizations; ICE Clear Credit LLC; Order Approving Proposed Rule Change Relating to the Treasury Clearing Rules and Treasury Clearing Service Treasury Operations Policies and Liquidity Risk Management Framework",
+      "url": "https://www.federalregister.gov/documents/2026/07/29/2026-15249/self-regulatory-organizations-ice-clear-credit-llc-order-approving-proposed-rule-change-relating-to",
+      "date": "2026-07-29",
+      "description": "",
+      "source": "national-securities-exchanges"
+    },
+    {
+      "id": "17e300ed9163",
+      "title": "Self-Regulatory Organizations; Cboe EDGX Exchange, Inc.; Notice of Designation of a Longer Period for Commission Action on Proceedings To Determine Whether To Approve or Disapprove a Proposed Rule Change To Amend Rule 11.8(c) Regarding Intermarket Sweep Orders",
+      "url": "https://www.federalregister.gov/documents/2026/07/29/2026-15246/self-regulatory-organizations-cboe-edgx-exchange-inc-notice-of-designation-of-a-longer-period-for",
+      "date": "2026-07-29",
+      "description": "",
+      "source": "national-securities-exchanges"
+    },
+    {
+      "id": "556e0c951399",
+      "title": "Self-Regulatory Organizations; Texas Stock Exchange LLC; Order Approving a Proposed Rule Change, as Modified by Amendment No. 1, To Amend Certain Parts of Its Opening and Closing Auctions",
+      "url": "https://www.federalregister.gov/documents/2026/07/29/2026-15243/self-regulatory-organizations-texas-stock-exchange-llc-order-approving-a-proposed-rule-change-as",
+      "date": "2026-07-29",
+      "description": "",
+      "source": "national-securities-exchanges"
+    },
+    {
+      "id": "d1ea1399192d",
+      "title": "Self-Regulatory Organizations; Financial Industry Regulatory Authority, Inc.; Order Approving a Proposed Rule Change To Amend FINRA Rules 5110 (Corporate Financing Rule-Underwriting Terms and Arrangements) and 5123 (Private Placements of Securities)",
+      "url": "https://www.federalregister.gov/documents/2026/07/29/2026-15242/self-regulatory-organizations-financial-industry-regulatory-authority-inc-order-approving-a-proposed",
+      "date": "2026-07-29",
+      "description": "",
+      "source": "finra"
+    },
     {
       "id": "cf3066a8a39f",
       "title": "Self-Regulatory Organizations; The Options Clearing Corporation; Order Approving Proposed Rule Change by the Options Clearing Corporation To Establish a Commercial Paper Program",
@@ -207,30 +255,6 @@
       "title": "Self-Regulatory Organizations; Texas Stock Exchange LLC; Notice of Filing of a Proposed Rule Change To Amend Certain Rule Language Regarding its Handling of Orders and Other Miscellaneous Provisions",
       "url": "https://www.federalregister.gov/documents/2026/07/14/2026-14102/self-regulatory-organizations-texas-stock-exchange-llc-notice-of-filing-of-a-proposed-rule-change-to",
       "date": "2026-07-14",
-      "description": "",
-      "source": "national-securities-exchanges"
-    },
-    {
-      "id": "5559929f8240",
-      "title": "Self-Regulatory Organizations; ICE Clear Credit LLC; Notice of Filing of Proposed Rule Change Relating to the CDS Instrument On-Boarding Policies and Procedures",
-      "url": "https://www.federalregister.gov/documents/2026/07/13/2026-14034/self-regulatory-organizations-ice-clear-credit-llc-notice-of-filing-of-proposed-rule-change-relating",
-      "date": "2026-07-13",
-      "description": "",
-      "source": "national-securities-exchanges"
-    },
-    {
-      "id": "5590a1778e8b",
-      "title": "Self-Regulatory Organizations; ICE Clear Credit LLC; Notice of Designation of Longer Period for Commission Action on Proposed Rule Change Relating to the Clearance of Additional Credit Default Swap Contracts",
-      "url": "https://www.federalregister.gov/documents/2026/07/13/2026-14019/self-regulatory-organizations-ice-clear-credit-llc-notice-of-designation-of-longer-period-for",
-      "date": "2026-07-13",
-      "description": "",
-      "source": "national-securities-exchanges"
-    },
-    {
-      "id": "4700ba696a65",
-      "title": "Self-Regulatory Organizations; Cboe Exchange, Inc.; Notice of Designation of a Longer Period for Commission Action on a Proposed Rule Change To Permit VIX Future-Option Orders",
-      "url": "https://www.federalregister.gov/documents/2026/07/13/2026-14015/self-regulatory-organizations-cboe-exchange-inc-notice-of-designation-of-a-longer-period-for",
-      "date": "2026-07-13",
       "description": "",
       "source": "national-securities-exchanges"
     }
