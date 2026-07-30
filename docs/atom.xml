@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://github.com/edwinhu/sec-sro-rss</id>
   <title>SEC Self-Regulatory Organization Rulemaking</title>
-  <updated>2026-07-30T01:29:20.222667+00:00</updated>
+  <updated>2026-07-30T08:08:19.025025+00:00</updated>
   <link href="https://www.sec.gov/rules-regulations/self-regulatory-organization-rulemaking" rel="alternate"/>
   <link href="https://edwinhu.github.io/sec-sro-rss/feed.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -294,5 +294,14 @@ Date: 2026-07-29</content>
 Date: 2026-07-29</content>
     <link href="https://www.federalregister.gov/documents/2026/07/29/2026-15251/self-regulatory-organizations-financial-industry-regulatory-authority-inc-order-approving-a-proposed"/>
     <published>2026-07-29T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.federalregister.gov/documents/2026/07/30/2026-15327/self-regulatory-organizations-the-nasdaq-stock-market-llc-order-granting-approval-of-a-proposed-rule</id>
+    <title>Self-Regulatory Organizations; The Nasdaq Stock Market LLC; Order Granting Approval of a Proposed Rule Change, as Modified by Amendment No. 1, To Amend Nasdaq Rule 5711(d) (Commodity-Based Trust Shares)</title>
+    <updated>2026-07-30T00:00:00+00:00</updated>
+    <content>Source: National Securities Exchanges
+Date: 2026-07-30</content>
+    <link href="https://www.federalregister.gov/documents/2026/07/30/2026-15327/self-regulatory-organizations-the-nasdaq-stock-market-llc-order-granting-approval-of-a-proposed-rule"/>
+    <published>2026-07-30T00:00:00+00:00</published>
   </entry>
 </feed>

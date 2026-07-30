@@ -1,7 +1,15 @@
 {
-  "updated": "2026-07-30T01:29:20.243560+00:00",
-  "count": 32,
+  "updated": "2026-07-30T08:08:19.035217+00:00",
+  "count": 33,
   "filings": [
+    {
+      "id": "c2599fd66bc8",
+      "title": "Self-Regulatory Organizations; The Nasdaq Stock Market LLC; Order Granting Approval of a Proposed Rule Change, as Modified by Amendment No. 1, To Amend Nasdaq Rule 5711(d) (Commodity-Based Trust Shares)",
+      "url": "https://www.federalregister.gov/documents/2026/07/30/2026-15327/self-regulatory-organizations-the-nasdaq-stock-market-llc-order-granting-approval-of-a-proposed-rule",
+      "date": "2026-07-30",
+      "description": "",
+      "source": "national-securities-exchanges"
+    },
     {
       "id": "3ff3bc66e57c",
       "title": "Self-Regulatory Organizations; Financial Industry Regulatory Authority, Inc.; Order Approving a Proposed Rule Change To Amend the FINRA Rule 6700 Series (Trade Reporting and Compliance Engine) (TRACE) To Expand the Scope of the Non-Member Affiliate-Principal Transaction Indicator to Also Include Member Affiliates",
