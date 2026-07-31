@@ -1,7 +1,15 @@
 {
-  "updated": "2026-07-31T01:56:53.365002+00:00",
-  "count": 33,
+  "updated": "2026-07-31T08:35:21.790990+00:00",
+  "count": 30,
   "filings": [
+    {
+      "id": "5bb967a2cddb",
+      "title": "Self-Regulatory Organizations; NYSE Arca, Inc.; Notice of Filing of Amendment No. 1 and Order Granting Accelerated Approval of a Proposed Rule Change, as Modified by Amendment No. 1, To Amend NYSE Arca Rule 8.201-E (Generic) Commodity-Based Trust Shares",
+      "url": "https://www.federalregister.gov/documents/2026/07/31/2026-15463/self-regulatory-organizations-nyse-arca-inc-notice-of-filing-of-amendment-no-1-and-order-granting",
+      "date": "2026-07-31",
+      "description": "",
+      "source": "national-securities-exchanges"
+    },
     {
       "id": "c2599fd66bc8",
       "title": "Self-Regulatory Organizations; The Nasdaq Stock Market LLC; Order Granting Approval of a Proposed Rule Change, as Modified by Amendment No. 1, To Amend Nasdaq Rule 5711(d) (Commodity-Based Trust Shares)",
@@ -231,38 +239,6 @@
       "title": "Order Under Section 36 of the Securities Exchange Act of 1934 (the \u201cExchange Act\u201d) and Rule 6h-1(d) Thereunder Granting Conditional Exemptive Relief to the Chicago Mercantile Exchange Inc. From the Opening Price Settlement Requirements of Rule 6h-1(b) Under the Exchange Act for Certain Cash-Settled Security Futures",
       "url": "https://www.federalregister.gov/documents/2026/07/15/2026-14198/order-under-section-36-of-the-securities-exchange-act-of-1934-the-exchange-act-and-rule-6h-1d",
       "date": "2026-07-15",
-      "description": "",
-      "source": "national-securities-exchanges"
-    },
-    {
-      "id": "bf9b0e715857",
-      "title": "Self-Regulatory Organizations; The Depository Trust Company; Suspension of and Order Instituting Proceedings To Determine Whether To Approve or Disapprove the Proposed Rule Change To Amend the DTC Operational Arrangements (Necessary for Securities To Become and Remain Eligible for DTC Services)",
-      "url": "https://www.federalregister.gov/documents/2026/07/14/2026-14107/self-regulatory-organizations-the-depository-trust-company-suspension-of-and-order-instituting",
-      "date": "2026-07-14",
-      "description": "",
-      "source": "national-securities-exchanges"
-    },
-    {
-      "id": "854f101dabf1",
-      "title": "Self-Regulatory Organizations; Financial Industry Regulatory Authority, Inc.; Notice of Filing of Partial Amendment No. 1 and Order Instituting Proceedings To Determine Whether To Approve or Disapprove a Proposed Rule Change, as Modified by Partial Amendment No. 1, to Exempt Specified Collective Trust Funds From FINRA Rules 5130 (Restrictions on the Purchase and Sale of Initial Public Offerings) and 5131(b) (New Issue Allocations and Distributions)",
-      "url": "https://www.federalregister.gov/documents/2026/07/14/2026-14105/self-regulatory-organizations-financial-industry-regulatory-authority-inc-notice-of-filing-of",
-      "date": "2026-07-14",
-      "description": "",
-      "source": "finra"
-    },
-    {
-      "id": "658f4e6125ad",
-      "title": "Self-Regulatory Organizations; ICE Clear Credit LLC; Notice of Designation of Longer Period for Commission Action on Proposed Rule Change Relating to the Treasury Clearing Rules and Treasury Clearing Service Treasury Operations Policies and Liquidity Risk Management Framework",
-      "url": "https://www.federalregister.gov/documents/2026/07/14/2026-14103/self-regulatory-organizations-ice-clear-credit-llc-notice-of-designation-of-longer-period-for",
-      "date": "2026-07-14",
-      "description": "",
-      "source": "national-securities-exchanges"
-    },
-    {
-      "id": "09fd1e775e1e",
-      "title": "Self-Regulatory Organizations; Texas Stock Exchange LLC; Notice of Filing of a Proposed Rule Change To Amend Certain Rule Language Regarding its Handling of Orders and Other Miscellaneous Provisions",
-      "url": "https://www.federalregister.gov/documents/2026/07/14/2026-14102/self-regulatory-organizations-texas-stock-exchange-llc-notice-of-filing-of-a-proposed-rule-change-to",
-      "date": "2026-07-14",
       "description": "",
       "source": "national-securities-exchanges"
     }

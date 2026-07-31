@@ -2,47 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://github.com/edwinhu/sec-sro-rss</id>
   <title>SEC Self-Regulatory Organization Rulemaking</title>
-  <updated>2026-07-31T01:56:53.355231+00:00</updated>
+  <updated>2026-07-31T08:35:21.781186+00:00</updated>
   <link href="https://www.sec.gov/rules-regulations/self-regulatory-organization-rulemaking" rel="alternate"/>
   <link href="https://edwinhu.github.io/sec-sro-rss/feed.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Filtered SEC SRO filings (excludes immediate effectiveness notices and crypto)</subtitle>
-  <entry>
-    <id>https://www.federalregister.gov/documents/2026/07/14/2026-14102/self-regulatory-organizations-texas-stock-exchange-llc-notice-of-filing-of-a-proposed-rule-change-to</id>
-    <title>Self-Regulatory Organizations; Texas Stock Exchange LLC; Notice of Filing of a Proposed Rule Change To Amend Certain Rule Language Regarding its Handling of Orders and Other Miscellaneous Provisions</title>
-    <updated>2026-07-14T00:00:00+00:00</updated>
-    <content>Source: National Securities Exchanges
-Date: 2026-07-14</content>
-    <link href="https://www.federalregister.gov/documents/2026/07/14/2026-14102/self-regulatory-organizations-texas-stock-exchange-llc-notice-of-filing-of-a-proposed-rule-change-to"/>
-    <published>2026-07-14T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.federalregister.gov/documents/2026/07/14/2026-14103/self-regulatory-organizations-ice-clear-credit-llc-notice-of-designation-of-longer-period-for</id>
-    <title>Self-Regulatory Organizations; ICE Clear Credit LLC; Notice of Designation of Longer Period for Commission Action on Proposed Rule Change Relating to the Treasury Clearing Rules and Treasury Clearing Service Treasury Operations Policies and Liquidity Risk Management Framework</title>
-    <updated>2026-07-14T00:00:00+00:00</updated>
-    <content>Source: National Securities Exchanges
-Date: 2026-07-14</content>
-    <link href="https://www.federalregister.gov/documents/2026/07/14/2026-14103/self-regulatory-organizations-ice-clear-credit-llc-notice-of-designation-of-longer-period-for"/>
-    <published>2026-07-14T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.federalregister.gov/documents/2026/07/14/2026-14105/self-regulatory-organizations-financial-industry-regulatory-authority-inc-notice-of-filing-of</id>
-    <title>Self-Regulatory Organizations; Financial Industry Regulatory Authority, Inc.; Notice of Filing of Partial Amendment No. 1 and Order Instituting Proceedings To Determine Whether To Approve or Disapprove a Proposed Rule Change, as Modified by Partial Amendment No. 1, to Exempt Specified Collective Trust Funds From FINRA Rules 5130 (Restrictions on the Purchase and Sale of Initial Public Offerings) and 5131(b) (New Issue Allocations and Distributions)</title>
-    <updated>2026-07-14T00:00:00+00:00</updated>
-    <content>Source: Finra
-Date: 2026-07-14</content>
-    <link href="https://www.federalregister.gov/documents/2026/07/14/2026-14105/self-regulatory-organizations-financial-industry-regulatory-authority-inc-notice-of-filing-of"/>
-    <published>2026-07-14T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.federalregister.gov/documents/2026/07/14/2026-14107/self-regulatory-organizations-the-depository-trust-company-suspension-of-and-order-instituting</id>
-    <title>Self-Regulatory Organizations; The Depository Trust Company; Suspension of and Order Instituting Proceedings To Determine Whether To Approve or Disapprove the Proposed Rule Change To Amend the DTC Operational Arrangements (Necessary for Securities To Become and Remain Eligible for DTC Services)</title>
-    <updated>2026-07-14T00:00:00+00:00</updated>
-    <content>Source: National Securities Exchanges
-Date: 2026-07-14</content>
-    <link href="https://www.federalregister.gov/documents/2026/07/14/2026-14107/self-regulatory-organizations-the-depository-trust-company-suspension-of-and-order-instituting"/>
-    <published>2026-07-14T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>https://www.federalregister.gov/documents/2026/07/15/2026-14198/order-under-section-36-of-the-securities-exchange-act-of-1934-the-exchange-act-and-rule-6h-1d</id>
     <title>Order Under Section 36 of the Securities Exchange Act of 1934 (the “Exchange Act”) and Rule 6h-1(d) Thereunder Granting Conditional Exemptive Relief to the Chicago Mercantile Exchange Inc. From the Opening Price Settlement Requirements of Rule 6h-1(b) Under the Exchange Act for Certain Cash-Settled Security Futures</title>
@@ -303,5 +267,14 @@ Date: 2026-07-29</content>
 Date: 2026-07-30</content>
     <link href="https://www.federalregister.gov/documents/2026/07/30/2026-15327/self-regulatory-organizations-the-nasdaq-stock-market-llc-order-granting-approval-of-a-proposed-rule"/>
     <published>2026-07-30T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.federalregister.gov/documents/2026/07/31/2026-15463/self-regulatory-organizations-nyse-arca-inc-notice-of-filing-of-amendment-no-1-and-order-granting</id>
+    <title>Self-Regulatory Organizations; NYSE Arca, Inc.; Notice of Filing of Amendment No. 1 and Order Granting Accelerated Approval of a Proposed Rule Change, as Modified by Amendment No. 1, To Amend NYSE Arca Rule 8.201-E (Generic) Commodity-Based Trust Shares</title>
+    <updated>2026-07-31T00:00:00+00:00</updated>
+    <content>Source: National Securities Exchanges
+Date: 2026-07-31</content>
+    <link href="https://www.federalregister.gov/documents/2026/07/31/2026-15463/self-regulatory-organizations-nyse-arca-inc-notice-of-filing-of-amendment-no-1-and-order-granting"/>
+    <published>2026-07-31T00:00:00+00:00</published>
   </entry>
 </feed>
