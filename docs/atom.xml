@@ -2,38 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://github.com/edwinhu/sec-sro-rss</id>
   <title>SEC Self-Regulatory Organization Rulemaking</title>
-  <updated>2026-08-01T01:57:51.437211+00:00</updated>
+  <updated>2026-08-01T08:04:56.802182+00:00</updated>
   <link href="https://www.sec.gov/rules-regulations/self-regulatory-organization-rulemaking" rel="alternate"/>
   <link href="https://edwinhu.github.io/sec-sro-rss/feed.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Filtered SEC SRO filings (excludes immediate effectiveness notices and crypto)</subtitle>
-  <entry>
-    <id>https://www.federalregister.gov/documents/2026/07/15/2026-14198/order-under-section-36-of-the-securities-exchange-act-of-1934-the-exchange-act-and-rule-6h-1d</id>
-    <title>Order Under Section 36 of the Securities Exchange Act of 1934 (the “Exchange Act”) and Rule 6h-1(d) Thereunder Granting Conditional Exemptive Relief to the Chicago Mercantile Exchange Inc. From the Opening Price Settlement Requirements of Rule 6h-1(b) Under the Exchange Act for Certain Cash-Settled Security Futures</title>
-    <updated>2026-07-15T00:00:00+00:00</updated>
-    <content>Source: National Securities Exchanges
-Date: 2026-07-15</content>
-    <link href="https://www.federalregister.gov/documents/2026/07/15/2026-14198/order-under-section-36-of-the-securities-exchange-act-of-1934-the-exchange-act-and-rule-6h-1d"/>
-    <published>2026-07-15T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.federalregister.gov/documents/2026/07/15/2026-14199/self-regulatory-organizations-nasdaq-texas-llc-notice-of-filing-of-amendment-no-1-and-order-granting</id>
-    <title>Self-Regulatory Organizations; Nasdaq Texas, LLC; Notice of Filing of Amendment No. 1 and Order Granting Accelerated Approval of a Proposed Rule Change, as modified by Amendment No. 1, To Establish a Package of Complimentary Services</title>
-    <updated>2026-07-15T00:00:00+00:00</updated>
-    <content>Source: National Securities Exchanges
-Date: 2026-07-15</content>
-    <link href="https://www.federalregister.gov/documents/2026/07/15/2026-14199/self-regulatory-organizations-nasdaq-texas-llc-notice-of-filing-of-amendment-no-1-and-order-granting"/>
-    <published>2026-07-15T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.federalregister.gov/documents/2026/07/15/2026-14201/self-regulatory-organizations-cboe-exchange-inc-notice-of-filing-of-a-proposed-rule-change-to-amend</id>
-    <title>Self-Regulatory Organizations; Cboe Exchange, Inc.; Notice of Filing of a Proposed Rule Change To Amend its Rules To Permit the Listing of Binary Options Overlying Key Performance Indicators (“KPIs”) Reported by Certain Issuers of Stock (“Binary KPI Options”)</title>
-    <updated>2026-07-15T00:00:00+00:00</updated>
-    <content>Source: National Securities Exchanges
-Date: 2026-07-15</content>
-    <link href="https://www.federalregister.gov/documents/2026/07/15/2026-14201/self-regulatory-organizations-cboe-exchange-inc-notice-of-filing-of-a-proposed-rule-change-to-amend"/>
-    <published>2026-07-15T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>https://www.federalregister.gov/documents/2026/07/16/2026-14275/self-regulatory-organizations-chicago-mercantile-exchange-inc-order-approving-a-proposed-rule-change</id>
     <title>Self-Regulatory Organizations; Chicago Mercantile Exchange Inc.; Order Approving a Proposed Rule Change Relating to Amendments to Chicago Mercantile Exchange Inc.'s Rules Governing Performance Bond Requirements: Account Holder Level</title>
@@ -276,5 +249,32 @@ Date: 2026-07-30</content>
 Date: 2026-07-31</content>
     <link href="https://www.federalregister.gov/documents/2026/07/31/2026-15463/self-regulatory-organizations-nyse-arca-inc-notice-of-filing-of-amendment-no-1-and-order-granting"/>
     <published>2026-07-31T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.federalregister.gov/documents/2026/08/03/2026-15617/self-regulatory-organizations-long-term-stock-exchange-inc-notice-of-designation-of-a-longer-period</id>
+    <title>Self-Regulatory Organizations; Long-Term Stock Exchange, Inc.; Notice of Designation of a Longer Period for Commission Action on a Proposed Rule Change To Amend its Rules Related to Market Makers</title>
+    <updated>2026-08-03T00:00:00+00:00</updated>
+    <content>Source: National Securities Exchanges
+Date: 2026-08-03</content>
+    <link href="https://www.federalregister.gov/documents/2026/08/03/2026-15617/self-regulatory-organizations-long-term-stock-exchange-inc-notice-of-designation-of-a-longer-period"/>
+    <published>2026-08-03T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.federalregister.gov/documents/2026/08/03/2026-15618/self-regulatory-organizations-cboe-bzx-exchange-inc-notice-of-filing-and-order-granting-accelerated</id>
+    <title>Self-Regulatory Organizations; Cboe BZX Exchange, Inc.; Notice of Filing, and Order Granting Accelerated Approval of, a Proposed Rule Change To Amend Rule 14.11(e)(4) (Commodity-Based Trust Shares)</title>
+    <updated>2026-08-03T00:00:00+00:00</updated>
+    <content>Source: National Securities Exchanges
+Date: 2026-08-03</content>
+    <link href="https://www.federalregister.gov/documents/2026/08/03/2026-15618/self-regulatory-organizations-cboe-bzx-exchange-inc-notice-of-filing-and-order-granting-accelerated"/>
+    <published>2026-08-03T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.federalregister.gov/documents/2026/08/03/2026-15621/self-regulatory-organizations-ice-clear-credit-llc-order-approving-proposed-rule-change-relating-to</id>
+    <title>Self-Regulatory Organizations; ICE Clear Credit LLC; Order Approving Proposed Rule Change Relating to the Clearance of Additional Credit Default Swap Contracts</title>
+    <updated>2026-08-03T00:00:00+00:00</updated>
+    <content>Source: National Securities Exchanges
+Date: 2026-08-03</content>
+    <link href="https://www.federalregister.gov/documents/2026/08/03/2026-15621/self-regulatory-organizations-ice-clear-credit-llc-order-approving-proposed-rule-change-relating-to"/>
+    <published>2026-08-03T00:00:00+00:00</published>
   </entry>
 </feed>
