@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://github.com/edwinhu/sec-sro-rss</id>
   <title>SEC Self-Regulatory Organization Rulemaking</title>
-  <updated>2026-08-04T08:22:12.128624+00:00</updated>
+  <updated>2026-08-04T13:48:50.900229+00:00</updated>
   <link href="https://www.sec.gov/rules-regulations/self-regulatory-organization-rulemaking" rel="alternate"/>
   <link href="https://edwinhu.github.io/sec-sro-rss/feed.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -276,5 +276,32 @@ Date: 2026-08-03</content>
 Date: 2026-08-03</content>
     <link href="https://www.federalregister.gov/documents/2026/08/03/2026-15621/self-regulatory-organizations-ice-clear-credit-llc-order-approving-proposed-rule-change-relating-to"/>
     <published>2026-08-03T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.federalregister.gov/documents/2026/08/04/2026-15734/self-regulatory-organizations-cboe-exchange-inc-notice-of-designation-of-a-longer-period-for</id>
+    <title>Self-Regulatory Organizations; Cboe Exchange, Inc.; Notice of Designation of a Longer Period for Commission Action on Proceedings To Determine Whether To Approve or Disapprove a Proposed Rule Change To Adopt Rule 8.23</title>
+    <updated>2026-08-04T00:00:00+00:00</updated>
+    <content>Source: National Securities Exchanges
+Date: 2026-08-04</content>
+    <link href="https://www.federalregister.gov/documents/2026/08/04/2026-15734/self-regulatory-organizations-cboe-exchange-inc-notice-of-designation-of-a-longer-period-for"/>
+    <published>2026-08-04T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.federalregister.gov/documents/2026/08/04/2026-15735/self-regulatory-organizations-nyse-american-llc-notice-of-designation-of-a-longer-period-for</id>
+    <title>Self-Regulatory Organizations; NYSE American LLC; Notice of Designation of a Longer Period for Commission Action on a Proposed Change To Amend Its Rules To Extend Trading Hours for Certain Eligible Equity Options</title>
+    <updated>2026-08-04T00:00:00+00:00</updated>
+    <content>Source: National Securities Exchanges
+Date: 2026-08-04</content>
+    <link href="https://www.federalregister.gov/documents/2026/08/04/2026-15735/self-regulatory-organizations-nyse-american-llc-notice-of-designation-of-a-longer-period-for"/>
+    <published>2026-08-04T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.federalregister.gov/documents/2026/08/04/2026-15736/self-regulatory-organizations-municipal-securities-rulemaking-board-notice-of-filing-of-a-proposed</id>
+    <title>Self-Regulatory Organizations; Municipal Securities Rulemaking Board; Notice of Filing of a Proposed Rule Change To Amend MSRB Rule G-27 To Exclude Certain Public Finance Activities From Term “Structuring of Public Offerings or Private Placements,” Extend the Length of the Exclusion for Non-Primary Residences From Municipal Branch Office Designation, and Make a Technical Update to the Rule's Title</title>
+    <updated>2026-08-04T00:00:00+00:00</updated>
+    <content>Source: National Securities Exchanges
+Date: 2026-08-04</content>
+    <link href="https://www.federalregister.gov/documents/2026/08/04/2026-15736/self-regulatory-organizations-municipal-securities-rulemaking-board-notice-of-filing-of-a-proposed"/>
+    <published>2026-08-04T00:00:00+00:00</published>
   </entry>
 </feed>

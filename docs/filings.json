@@ -1,7 +1,31 @@
 {
-  "updated": "2026-08-04T08:22:12.139640+00:00",
-  "count": 30,
+  "updated": "2026-08-04T13:48:50.925406+00:00",
+  "count": 33,
   "filings": [
+    {
+      "id": "539b1f63c6e1",
+      "title": "Self-Regulatory Organizations; Municipal Securities Rulemaking Board; Notice of Filing of a Proposed Rule Change To Amend MSRB Rule G-27 To Exclude Certain Public Finance Activities From Term \u201cStructuring of Public Offerings or Private Placements,\u201d Extend the Length of the Exclusion for Non-Primary Residences From Municipal Branch Office Designation, and Make a Technical Update to the Rule's Title",
+      "url": "https://www.federalregister.gov/documents/2026/08/04/2026-15736/self-regulatory-organizations-municipal-securities-rulemaking-board-notice-of-filing-of-a-proposed",
+      "date": "2026-08-04",
+      "description": "",
+      "source": "national-securities-exchanges"
+    },
+    {
+      "id": "f322291c12bc",
+      "title": "Self-Regulatory Organizations; NYSE American LLC; Notice of Designation of a Longer Period for Commission Action on a Proposed Change To Amend Its Rules To Extend Trading Hours for Certain Eligible Equity Options",
+      "url": "https://www.federalregister.gov/documents/2026/08/04/2026-15735/self-regulatory-organizations-nyse-american-llc-notice-of-designation-of-a-longer-period-for",
+      "date": "2026-08-04",
+      "description": "",
+      "source": "national-securities-exchanges"
+    },
+    {
+      "id": "69961e5ec860",
+      "title": "Self-Regulatory Organizations; Cboe Exchange, Inc.; Notice of Designation of a Longer Period for Commission Action on Proceedings To Determine Whether To Approve or Disapprove a Proposed Rule Change To Adopt Rule 8.23",
+      "url": "https://www.federalregister.gov/documents/2026/08/04/2026-15734/self-regulatory-organizations-cboe-exchange-inc-notice-of-designation-of-a-longer-period-for",
+      "date": "2026-08-04",
+      "description": "",
+      "source": "national-securities-exchanges"
+    },
     {
       "id": "596c3307c43d",
       "title": "Self-Regulatory Organizations; ICE Clear Credit LLC; Order Approving Proposed Rule Change Relating to the Clearance of Additional Credit Default Swap Contracts",
