@@ -1,7 +1,23 @@
 {
-  "updated": "2026-08-05T01:44:53.727697+00:00",
-  "count": 33,
+  "updated": "2026-08-05T08:19:29.080462+00:00",
+  "count": 35,
   "filings": [
+    {
+      "id": "e1577d8862ad",
+      "title": "Self-Regulatory Organizations; LCH SA; Notice of Filing of Proposed Rule Change Relating to the LCH SA CDS Clear Trade Registration Fund",
+      "url": "https://www.federalregister.gov/documents/2026/08/05/2026-15832/self-regulatory-organizations-lch-sa-notice-of-filing-of-proposed-rule-change-relating-to-the-lch-sa",
+      "date": "2026-08-05",
+      "description": "",
+      "source": "national-securities-exchanges"
+    },
+    {
+      "id": "5eff27469318",
+      "title": "Self-Regulatory Organizations; The Options Clearing Corporation; Notice of Filing of Proposed Rule Change by The Options Clearing Corporation Concerning the Payment of Interest on Margin Cash",
+      "url": "https://www.federalregister.gov/documents/2026/08/05/2026-15828/self-regulatory-organizations-the-options-clearing-corporation-notice-of-filing-of-proposed-rule",
+      "date": "2026-08-05",
+      "description": "",
+      "source": "national-securities-exchanges"
+    },
     {
       "id": "539b1f63c6e1",
       "title": "Self-Regulatory Organizations; Municipal Securities Rulemaking Board; Notice of Filing of a Proposed Rule Change To Amend MSRB Rule G-27 To Exclude Certain Public Finance Activities From Term \u201cStructuring of Public Offerings or Private Placements,\u201d Extend the Length of the Exclusion for Non-Primary Residences From Municipal Branch Office Designation, and Make a Technical Update to the Rule's Title",

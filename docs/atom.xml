@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://github.com/edwinhu/sec-sro-rss</id>
   <title>SEC Self-Regulatory Organization Rulemaking</title>
-  <updated>2026-08-05T01:44:53.711063+00:00</updated>
+  <updated>2026-08-05T08:19:29.059715+00:00</updated>
   <link href="https://www.sec.gov/rules-regulations/self-regulatory-organization-rulemaking" rel="alternate"/>
   <link href="https://edwinhu.github.io/sec-sro-rss/feed.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -303,5 +303,23 @@ Date: 2026-08-04</content>
 Date: 2026-08-04</content>
     <link href="https://www.federalregister.gov/documents/2026/08/04/2026-15736/self-regulatory-organizations-municipal-securities-rulemaking-board-notice-of-filing-of-a-proposed"/>
     <published>2026-08-04T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.federalregister.gov/documents/2026/08/05/2026-15828/self-regulatory-organizations-the-options-clearing-corporation-notice-of-filing-of-proposed-rule</id>
+    <title>Self-Regulatory Organizations; The Options Clearing Corporation; Notice of Filing of Proposed Rule Change by The Options Clearing Corporation Concerning the Payment of Interest on Margin Cash</title>
+    <updated>2026-08-05T00:00:00+00:00</updated>
+    <content>Source: National Securities Exchanges
+Date: 2026-08-05</content>
+    <link href="https://www.federalregister.gov/documents/2026/08/05/2026-15828/self-regulatory-organizations-the-options-clearing-corporation-notice-of-filing-of-proposed-rule"/>
+    <published>2026-08-05T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.federalregister.gov/documents/2026/08/05/2026-15832/self-regulatory-organizations-lch-sa-notice-of-filing-of-proposed-rule-change-relating-to-the-lch-sa</id>
+    <title>Self-Regulatory Organizations; LCH SA; Notice of Filing of Proposed Rule Change Relating to the LCH SA CDS Clear Trade Registration Fund</title>
+    <updated>2026-08-05T00:00:00+00:00</updated>
+    <content>Source: National Securities Exchanges
+Date: 2026-08-05</content>
+    <link href="https://www.federalregister.gov/documents/2026/08/05/2026-15832/self-regulatory-organizations-lch-sa-notice-of-filing-of-proposed-rule-change-relating-to-the-lch-sa"/>
+    <published>2026-08-05T00:00:00+00:00</published>
   </entry>
 </feed>
