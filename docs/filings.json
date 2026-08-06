@@ -1,7 +1,15 @@
 {
-  "updated": "2026-08-06T08:16:21.692006+00:00",
+  "updated": "2026-08-06T13:42:50.879569+00:00",
   "count": 35,
   "filings": [
+    {
+      "id": "ef9c43ffb5c0",
+      "title": "Self-Regulatory Organizations; The Options Clearing Corporation; Order Approving Proposed Rule Change by The Options Clearing Corporation To Amend Its System for Theoretical Analysis and Numerical Simulation Methodology Description To Incorporate Options Implied Interest Rates as an Additional Source of Interest Rates Inputs for Constructing the Interest Rate Discount Curve Used in Options Pricing",
+      "url": "https://www.federalregister.gov/documents/2026/08/06/2026-15928/self-regulatory-organizations-the-options-clearing-corporation-order-approving-proposed-rule-change",
+      "date": "2026-08-06",
+      "description": "",
+      "source": "national-securities-exchanges"
+    },
     {
       "id": "e1577d8862ad",
       "title": "Self-Regulatory Organizations; LCH SA; Notice of Filing of Proposed Rule Change Relating to the LCH SA CDS Clear Trade Registration Fund",
@@ -271,14 +279,6 @@
       "title": "Self-Regulatory Organizations; National Securities Clearing Corporation; Order Approving Proposed Rule Change To Enhance NSCC's Clearing Fund Methodology",
       "url": "https://www.federalregister.gov/documents/2026/07/17/2026-14397/self-regulatory-organizations-national-securities-clearing-corporation-order-approving-proposed-rule",
       "date": "2026-07-17",
-      "description": "",
-      "source": "national-securities-exchanges"
-    },
-    {
-      "id": "40417d074b37",
-      "title": "Self-Regulatory Organizations; Chicago Mercantile Exchange Inc.; Order Approving a Proposed Rule Change Relating to Amendments to Chicago Mercantile Exchange Inc.'s Rules Governing Performance Bond Requirements: Account Holder Level",
-      "url": "https://www.federalregister.gov/documents/2026/07/16/2026-14275/self-regulatory-organizations-chicago-mercantile-exchange-inc-order-approving-a-proposed-rule-change",
-      "date": "2026-07-16",
       "description": "",
       "source": "national-securities-exchanges"
     }
