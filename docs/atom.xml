@@ -2,20 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://github.com/edwinhu/sec-sro-rss</id>
   <title>SEC Self-Regulatory Organization Rulemaking</title>
-  <updated>2026-08-07T02:09:29.918552+00:00</updated>
+  <updated>2026-08-07T07:00:25.600876+00:00</updated>
   <link href="https://www.sec.gov/rules-regulations/self-regulatory-organization-rulemaking" rel="alternate"/>
   <link href="https://edwinhu.github.io/sec-sro-rss/feed.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Filtered SEC SRO filings (excludes immediate effectiveness notices and crypto)</subtitle>
-  <entry>
-    <id>https://www.federalregister.gov/documents/2026/07/17/2026-14397/self-regulatory-organizations-national-securities-clearing-corporation-order-approving-proposed-rule</id>
-    <title>Self-Regulatory Organizations; National Securities Clearing Corporation; Order Approving Proposed Rule Change To Enhance NSCC's Clearing Fund Methodology</title>
-    <updated>2026-07-17T00:00:00+00:00</updated>
-    <content>Source: National Securities Exchanges
-Date: 2026-07-17</content>
-    <link href="https://www.federalregister.gov/documents/2026/07/17/2026-14397/self-regulatory-organizations-national-securities-clearing-corporation-order-approving-proposed-rule"/>
-    <published>2026-07-17T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>https://www.federalregister.gov/documents/2026/07/17/2026-14414/agency-information-collection-activities-submission-for-omb-review-comment-request-extension-rule</id>
     <title>Agency Information Collection Activities; Submission for OMB Review; Comment Request; Extension: Rule 15b6-1 and Form BDW</title>
@@ -321,5 +312,14 @@ Date: 2026-08-05</content>
 Date: 2026-08-06</content>
     <link href="https://www.federalregister.gov/documents/2026/08/06/2026-15928/self-regulatory-organizations-the-options-clearing-corporation-order-approving-proposed-rule-change"/>
     <published>2026-08-06T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.federalregister.gov/documents/2026/08/07/2026-16098/self-regulatory-organizations-cme-securities-clearing-inc-notice-of-filing-of-proposed-rule-change</id>
+    <title>Self-Regulatory Organizations; CME Securities Clearing Inc.; Notice of Filing of Proposed Rule Change To Adopt CMESC Margin Policy</title>
+    <updated>2026-08-07T00:00:00+00:00</updated>
+    <content>Source: National Securities Exchanges
+Date: 2026-08-07</content>
+    <link href="https://www.federalregister.gov/documents/2026/08/07/2026-16098/self-regulatory-organizations-cme-securities-clearing-inc-notice-of-filing-of-proposed-rule-change"/>
+    <published>2026-08-07T00:00:00+00:00</published>
   </entry>
 </feed>

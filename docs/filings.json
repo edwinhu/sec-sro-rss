@@ -1,7 +1,15 @@
 {
-  "updated": "2026-08-07T02:09:29.935948+00:00",
+  "updated": "2026-08-07T07:00:25.650480+00:00",
   "count": 35,
   "filings": [
+    {
+      "id": "4f359935a8df",
+      "title": "Self-Regulatory Organizations; CME Securities Clearing Inc.; Notice of Filing of Proposed Rule Change To Adopt CMESC Margin Policy",
+      "url": "https://www.federalregister.gov/documents/2026/08/07/2026-16098/self-regulatory-organizations-cme-securities-clearing-inc-notice-of-filing-of-proposed-rule-change",
+      "date": "2026-08-07",
+      "description": "",
+      "source": "national-securities-exchanges"
+    },
     {
       "id": "ef9c43ffb5c0",
       "title": "Self-Regulatory Organizations; The Options Clearing Corporation; Order Approving Proposed Rule Change by The Options Clearing Corporation To Amend Its System for Theoretical Analysis and Numerical Simulation Methodology Description To Incorporate Options Implied Interest Rates as an Additional Source of Interest Rates Inputs for Constructing the Interest Rate Discount Curve Used in Options Pricing",
@@ -270,14 +278,6 @@
       "id": "4d102257f5ab",
       "title": "Agency Information Collection Activities; Submission for OMB Review; Comment Request; Extension: Rule 15b6-1 and Form BDW",
       "url": "https://www.federalregister.gov/documents/2026/07/17/2026-14414/agency-information-collection-activities-submission-for-omb-review-comment-request-extension-rule",
-      "date": "2026-07-17",
-      "description": "",
-      "source": "national-securities-exchanges"
-    },
-    {
-      "id": "5522a1ba6e04",
-      "title": "Self-Regulatory Organizations; National Securities Clearing Corporation; Order Approving Proposed Rule Change To Enhance NSCC's Clearing Fund Methodology",
-      "url": "https://www.federalregister.gov/documents/2026/07/17/2026-14397/self-regulatory-organizations-national-securities-clearing-corporation-order-approving-proposed-rule",
       "date": "2026-07-17",
       "description": "",
       "source": "national-securities-exchanges"
