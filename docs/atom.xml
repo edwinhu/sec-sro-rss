@@ -2,20 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://github.com/edwinhu/sec-sro-rss</id>
   <title>SEC Self-Regulatory Organization Rulemaking</title>
-  <updated>2026-08-11T06:50:15.045251+00:00</updated>
+  <updated>2026-08-11T12:42:26.323171+00:00</updated>
   <link href="https://www.sec.gov/rules-regulations/self-regulatory-organization-rulemaking" rel="alternate"/>
   <link href="https://edwinhu.github.io/sec-sro-rss/feed.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Filtered SEC SRO filings (excludes immediate effectiveness notices and crypto)</subtitle>
-  <entry>
-    <id>https://www.federalregister.gov/documents/2026/07/17/2026-14414/agency-information-collection-activities-submission-for-omb-review-comment-request-extension-rule</id>
-    <title>Agency Information Collection Activities; Submission for OMB Review; Comment Request; Extension: Rule 15b6-1 and Form BDW</title>
-    <updated>2026-07-17T00:00:00+00:00</updated>
-    <content>Source: National Securities Exchanges
-Date: 2026-07-17</content>
-    <link href="https://www.federalregister.gov/documents/2026/07/17/2026-14414/agency-information-collection-activities-submission-for-omb-review-comment-request-extension-rule"/>
-    <published>2026-07-17T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>https://www.federalregister.gov/documents/2026/07/20/2026-14525/self-regulatory-organizations-ice-clear-credit-llc-order-approving-proposed-rule-change-relating-to</id>
     <title>Self-Regulatory Organizations; ICE Clear Credit LLC; Order Approving Proposed Rule Change Relating to the Operational Risk Management Framework</title>
@@ -321,5 +312,32 @@ Date: 2026-08-06</content>
 Date: 2026-08-07</content>
     <link href="https://www.federalregister.gov/documents/2026/08/07/2026-16098/self-regulatory-organizations-cme-securities-clearing-inc-notice-of-filing-of-proposed-rule-change"/>
     <published>2026-08-07T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.federalregister.gov/documents/2026/08/11/2026-16280/self-regulatory-organizations-fixed-income-clearing-corporation-notice-of-designation-of-longer</id>
+    <title>Self-Regulatory Organizations; Fixed Income Clearing Corporation; Notice of Designation of Longer Period for Commission Action on Proposed Rule Change To Modify the GSD Rules To Adopt a U.S. Treasury Clearing Trade Submission Requirement</title>
+    <updated>2026-08-11T00:00:00+00:00</updated>
+    <content>Source: National Securities Exchanges
+Date: 2026-08-11</content>
+    <link href="https://www.federalregister.gov/documents/2026/08/11/2026-16280/self-regulatory-organizations-fixed-income-clearing-corporation-notice-of-designation-of-longer"/>
+    <published>2026-08-11T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.federalregister.gov/documents/2026/08/11/2026-16281/self-regulatory-organizations-fixed-income-clearing-corporation-notice-of-filing-and-extension-of</id>
+    <title>Self-Regulatory Organizations; Fixed Income Clearing Corporation; Notice of Filing and Extension of the Review Period of an Advance Notice, as Modified by Partial Amendment No. 1, To Establish a Guaranty Fund at the Government Securities Division</title>
+    <updated>2026-08-11T00:00:00+00:00</updated>
+    <content>Source: National Securities Exchanges
+Date: 2026-08-11</content>
+    <link href="https://www.federalregister.gov/documents/2026/08/11/2026-16281/self-regulatory-organizations-fixed-income-clearing-corporation-notice-of-filing-and-extension-of"/>
+    <published>2026-08-11T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.federalregister.gov/documents/2026/08/11/2026-16282/self-regulatory-organizations-fixed-income-clearing-corporation-notice-of-filing-of-proposed-rule</id>
+    <title>Self-Regulatory Organizations; Fixed Income Clearing Corporation; Notice of Filing of Proposed Rule Change, as Modified by Partial Amendment No. 1, To Establish a Guaranty Fund at the Government Securities Division</title>
+    <updated>2026-08-11T00:00:00+00:00</updated>
+    <content>Source: National Securities Exchanges
+Date: 2026-08-11</content>
+    <link href="https://www.federalregister.gov/documents/2026/08/11/2026-16282/self-regulatory-organizations-fixed-income-clearing-corporation-notice-of-filing-of-proposed-rule"/>
+    <published>2026-08-11T00:00:00+00:00</published>
   </entry>
 </feed>
