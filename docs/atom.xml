@@ -2,20 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://github.com/edwinhu/sec-sro-rss</id>
   <title>SEC Self-Regulatory Organization Rulemaking</title>
-  <updated>2026-08-12T01:08:22.429442+00:00</updated>
+  <updated>2026-08-12T07:09:37.179189+00:00</updated>
   <link href="https://www.sec.gov/rules-regulations/self-regulatory-organization-rulemaking" rel="alternate"/>
   <link href="https://edwinhu.github.io/sec-sro-rss/feed.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Filtered SEC SRO filings (excludes immediate effectiveness notices and crypto)</subtitle>
-  <entry>
-    <id>https://www.federalregister.gov/documents/2026/07/20/2026-14525/self-regulatory-organizations-ice-clear-credit-llc-order-approving-proposed-rule-change-relating-to</id>
-    <title>Self-Regulatory Organizations; ICE Clear Credit LLC; Order Approving Proposed Rule Change Relating to the Operational Risk Management Framework</title>
-    <updated>2026-07-20T00:00:00+00:00</updated>
-    <content>Source: National Securities Exchanges
-Date: 2026-07-20</content>
-    <link href="https://www.federalregister.gov/documents/2026/07/20/2026-14525/self-regulatory-organizations-ice-clear-credit-llc-order-approving-proposed-rule-change-relating-to"/>
-    <published>2026-07-20T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>https://www.federalregister.gov/documents/2026/07/21/2026-14621/self-regulatory-organizations-financial-industry-regulatory-authority-inc-notice-of-filing-of-a</id>
     <title>Self-Regulatory Organizations; Financial Industry Regulatory Authority, Inc.; Notice of Filing of a Proposed Rule Change To Amend FINRA Rule 4515.01 (Allocations of Orders Made by Investment Advisers)</title>

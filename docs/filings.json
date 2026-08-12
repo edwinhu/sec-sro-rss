@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-12T01:08:22.448197+00:00",
-  "count": 37,
+  "updated": "2026-08-12T07:09:37.197525+00:00",
+  "count": 36,
   "filings": [
     {
       "id": "1af842f12f8a",
@@ -289,14 +289,6 @@
       "date": "2026-07-21",
       "description": "",
       "source": "finra"
-    },
-    {
-      "id": "ad2ae40162be",
-      "title": "Self-Regulatory Organizations; ICE Clear Credit LLC; Order Approving Proposed Rule Change Relating to the Operational Risk Management Framework",
-      "url": "https://www.federalregister.gov/documents/2026/07/20/2026-14525/self-regulatory-organizations-ice-clear-credit-llc-order-approving-proposed-rule-change-relating-to",
-      "date": "2026-07-20",
-      "description": "",
-      "source": "national-securities-exchanges"
     }
   ]
 }
