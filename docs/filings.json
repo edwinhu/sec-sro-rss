@@ -1,7 +1,23 @@
 {
-  "updated": "2026-08-14T07:09:52.970425+00:00",
-  "count": 35,
+  "updated": "2026-08-14T12:42:31.411012+00:00",
+  "count": 37,
   "filings": [
+    {
+      "id": "70f4a5b5de15",
+      "title": "Order Granting Temporary Conditional Exemptive Relief to 24X National Exchange LLC From Certain Requirements of Rule 602 of Regulation NMS, Certain Requirements of Certain Equity Data Plans, and Section 19(g)(1) of the Securities Exchange Act of 1934, Pursuant to Section 36 of the Securities Exchange Act of 1934 and Rules 602 and 608 of Regulation NMS, To Permit Certain Overnight Trading, Subject to Certain Conditions, and Effective As of January 24, 2027 and Until the Earlier of (1) the date the Extended Hours Amendments Are Implemented or (2) July 2, 2027",
+      "url": "https://www.federalregister.gov/documents/2026/08/14/2026-16572/order-granting-temporary-conditional-exemptive-relief-to-24x-national-exchange-llc-from-certain",
+      "date": "2026-08-14",
+      "description": "",
+      "source": "national-securities-exchanges"
+    },
+    {
+      "id": "a8cf7a0a6cd9",
+      "title": "Self-Regulatory Organizations; Cboe BYX Exchange, Inc.; Notice of Filing of Amendment No. 1 and Order Instituting Proceedings To Determine Whether To Approve or Disapprove a Proposed Rule Change, as Modified by Amendment No. 1, To Amend Rule 11.25 To Introduce an Optional, Contingent Instruction Applicable to Periodic Auction Only Orders, Introduce a Time-in-Force of Auction or Cancel, and Make Conforming Changes to Its Periodic Auction Processing Behavior To Support the Proposed Contingent Instruction",
+      "url": "https://www.federalregister.gov/documents/2026/08/14/2026-16559/self-regulatory-organizations-cboe-byx-exchange-inc-notice-of-filing-of-amendment-no-1-and-order",
+      "date": "2026-08-14",
+      "description": "",
+      "source": "national-securities-exchanges"
+    },
     {
       "id": "bddeb13853d5",
       "title": "Program for Allocation of Regulatory Responsibilities Pursuant to Rule 17d-2; Notice of Filing and Order Approving and Declaring Effective an Amendment to the Plan for the Allocation of Regulatory Responsibilities Among NYSE American LLC, Cboe BZX Exchange, Inc., the Cboe EDGX Exchange, Inc., Cboe C2 Exchange, Inc., Cboe Exchange, Inc., Nasdaq ISE, LLC, Financial Industry Regulatory Authority, Inc., NYSE Arca, Inc., The Nasdaq Stock Market LLC, BOX Exchange LLC, Nasdaq Texas, LLC, Nasdaq PHLX LLC, Miami International Securities Exchange, LLC, Nasdaq GEMX, LLC, Nasdaq MRX, LLC, MIAX PEARL, LLC, MIAX Emerald, LLC, MIAX Sapphire, MEMX LLC, MX2 LLC, and Investors Exchange LLC Concerning Options-Related Market Surveillance",
