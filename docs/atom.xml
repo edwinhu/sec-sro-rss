@@ -2,47 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://github.com/edwinhu/sec-sro-rss</id>
   <title>SEC Self-Regulatory Organization Rulemaking</title>
-  <updated>2026-08-15T00:42:10.612080+00:00</updated>
+  <updated>2026-08-15T06:21:04.181250+00:00</updated>
   <link href="https://www.sec.gov/rules-regulations/self-regulatory-organization-rulemaking" rel="alternate"/>
   <link href="https://edwinhu.github.io/sec-sro-rss/feed.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Filtered SEC SRO filings (excludes immediate effectiveness notices and crypto)</subtitle>
-  <entry>
-    <id>https://www.federalregister.gov/documents/2026/07/23/2026-14856/self-regulatory-organizations-box-exchange-llc-notice-of-filing-of-a-proposed-rule-change-to-amend</id>
-    <title>Self-Regulatory Organizations; BOX Exchange LLC; Notice of Filing of a Proposed Rule Change To Amend BOX Rule 3060 (Gratuities) To Conform With FINRA Rule 3220</title>
-    <updated>2026-07-23T00:00:00+00:00</updated>
-    <content>Source: Finra
-Date: 2026-07-23</content>
-    <link href="https://www.federalregister.gov/documents/2026/07/23/2026-14856/self-regulatory-organizations-box-exchange-llc-notice-of-filing-of-a-proposed-rule-change-to-amend"/>
-    <published>2026-07-23T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.federalregister.gov/documents/2026/07/23/2026-14860/self-regulatory-organizations-cme-securities-clearing-inc-order-approving-proposed-rule-change-to</id>
-    <title>Self-Regulatory Organizations; CME Securities Clearing Inc.; Order Approving Proposed Rule Change To Support Members' Risk Management of and Enhance Their Ability To Authorize Persons as Users</title>
-    <updated>2026-07-23T00:00:00+00:00</updated>
-    <content>Source: National Securities Exchanges
-Date: 2026-07-23</content>
-    <link href="https://www.federalregister.gov/documents/2026/07/23/2026-14860/self-regulatory-organizations-cme-securities-clearing-inc-order-approving-proposed-rule-change-to"/>
-    <published>2026-07-23T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.federalregister.gov/documents/2026/07/23/2026-14928/agency-information-collection-activities-proposed-collection-comment-request-extension-rule-608</id>
-    <title>Agency Information Collection Activities; Proposed Collection; Comment Request; Extension: Rule 608</title>
-    <updated>2026-07-23T00:00:00+00:00</updated>
-    <content>Source: National Securities Exchanges
-Date: 2026-07-23</content>
-    <link href="https://www.federalregister.gov/documents/2026/07/23/2026-14928/agency-information-collection-activities-proposed-collection-comment-request-extension-rule-608"/>
-    <published>2026-07-23T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.federalregister.gov/documents/2026/07/24/2026-14975/self-regulatory-organizations-texas-stock-exchange-llc-notice-of-designation-of-a-longer-period-for</id>
-    <title>Self-Regulatory Organizations; Texas Stock Exchange LLC; Notice of Designation of a Longer Period for Commission Action on a Proposed Rule Change To Amend Exchange Rule 13.003 Related to Proxy Voting</title>
-    <updated>2026-07-24T00:00:00+00:00</updated>
-    <content>Source: National Securities Exchanges
-Date: 2026-07-24</content>
-    <link href="https://www.federalregister.gov/documents/2026/07/24/2026-14975/self-regulatory-organizations-texas-stock-exchange-llc-notice-of-designation-of-a-longer-period-for"/>
-    <published>2026-07-24T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>https://www.federalregister.gov/documents/2026/07/27/2026-15052/agency-information-collection-activities-proposed-collection-comment-request-extension-rule-17a-11</id>
     <title>Agency Information Collection Activities; Proposed Collection; Comment Request; Extension: Rule 17a-11</title>
@@ -339,5 +303,14 @@ Date: 2026-08-14</content>
 Date: 2026-08-14</content>
     <link href="https://www.federalregister.gov/documents/2026/08/14/2026-16572/order-granting-temporary-conditional-exemptive-relief-to-24x-national-exchange-llc-from-certain"/>
     <published>2026-08-14T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.federalregister.gov/documents/2026/08/17/2026-16695/self-regulatory-organizations-nasdaq-ise-llc-order-approving-a-proposed-rule-change-to-amend-the</id>
+    <title>Self-Regulatory Organizations; Nasdaq ISE, LLC; Order Approving a Proposed Rule Change To Amend the Short Term Option Series Program Related to Qualifying Securities</title>
+    <updated>2026-08-17T00:00:00+00:00</updated>
+    <content>Source: National Securities Exchanges
+Date: 2026-08-17</content>
+    <link href="https://www.federalregister.gov/documents/2026/08/17/2026-16695/self-regulatory-organizations-nasdaq-ise-llc-order-approving-a-proposed-rule-change-to-amend-the"/>
+    <published>2026-08-17T00:00:00+00:00</published>
   </entry>
 </feed>
