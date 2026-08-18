@@ -2,20 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://github.com/edwinhu/sec-sro-rss</id>
   <title>SEC Self-Regulatory Organization Rulemaking</title>
-  <updated>2026-08-18T00:41:24.477028+00:00</updated>
+  <updated>2026-08-18T06:26:49.489478+00:00</updated>
   <link href="https://www.sec.gov/rules-regulations/self-regulatory-organization-rulemaking" rel="alternate"/>
   <link href="https://edwinhu.github.io/sec-sro-rss/feed.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Filtered SEC SRO filings (excludes immediate effectiveness notices and crypto)</subtitle>
-  <entry>
-    <id>https://www.federalregister.gov/documents/2026/07/27/2026-15052/agency-information-collection-activities-proposed-collection-comment-request-extension-rule-17a-11</id>
-    <title>Agency Information Collection Activities; Proposed Collection; Comment Request; Extension: Rule 17a-11</title>
-    <updated>2026-07-27T00:00:00+00:00</updated>
-    <content>Source: National Securities Exchanges
-Date: 2026-07-27</content>
-    <link href="https://www.federalregister.gov/documents/2026/07/27/2026-15052/agency-information-collection-activities-proposed-collection-comment-request-extension-rule-17a-11"/>
-    <published>2026-07-27T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>https://www.federalregister.gov/documents/2026/07/27/2026-15060/self-regulatory-organizations-the-nasdaq-stock-market-llc-order-granting-approval-of-a-proposed-rule</id>
     <title>Self-Regulatory Organizations; The Nasdaq Stock Market LLC; Order Granting Approval of a Proposed Rule Change, as Modified by Amendment No. 1, To Adopt a New Continued Listing Requirement</title>
@@ -312,5 +303,68 @@ Date: 2026-08-14</content>
 Date: 2026-08-17</content>
     <link href="https://www.federalregister.gov/documents/2026/08/17/2026-16695/self-regulatory-organizations-nasdaq-ise-llc-order-approving-a-proposed-rule-change-to-amend-the"/>
     <published>2026-08-17T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.federalregister.gov/documents/2026/08/18/2026-16781/self-regulatory-organizations-new-york-stock-exchange-llc-notice-of-filing-of-a-proposed-rule-change</id>
+    <title>Self-Regulatory Organizations; New York Stock Exchange LLC; Notice of Filing of a Proposed Rule Change To Amend Sections 303A.00 and 303A.07 of the NYSE Listed Company Manual</title>
+    <updated>2026-08-18T00:00:00+00:00</updated>
+    <content>Source: National Securities Exchanges
+Date: 2026-08-18</content>
+    <link href="https://www.federalregister.gov/documents/2026/08/18/2026-16781/self-regulatory-organizations-new-york-stock-exchange-llc-notice-of-filing-of-a-proposed-rule-change"/>
+    <published>2026-08-18T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.federalregister.gov/documents/2026/08/18/2026-16782/self-regulatory-organizations-the-options-clearing-corporation-notice-of-filing-of-advance-notice</id>
+    <title>Self-Regulatory Organizations; The Options Clearing Corporation; Notice of Filing of Advance Notice Relating to The Options Clearing Corporation's Proposal To Amend the Evergreen Provisions Relating to Its Revolving Credit Facility</title>
+    <updated>2026-08-18T00:00:00+00:00</updated>
+    <content>Source: National Securities Exchanges
+Date: 2026-08-18</content>
+    <link href="https://www.federalregister.gov/documents/2026/08/18/2026-16782/self-regulatory-organizations-the-options-clearing-corporation-notice-of-filing-of-advance-notice"/>
+    <published>2026-08-18T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.federalregister.gov/documents/2026/08/18/2026-16784/self-regulatory-organizations-the-depository-trust-company-order-approving-proposed-rule-change-to</id>
+    <title>Self-Regulatory Organizations; The Depository Trust Company; Order Approving Proposed Rule Change To Amend the Redemptions Service Guide and the Operational Arrangements (Necessary for Securities To Become and Remain Eligible for DTC Services)</title>
+    <updated>2026-08-18T00:00:00+00:00</updated>
+    <content>Source: National Securities Exchanges
+Date: 2026-08-18</content>
+    <link href="https://www.federalregister.gov/documents/2026/08/18/2026-16784/self-regulatory-organizations-the-depository-trust-company-order-approving-proposed-rule-change-to"/>
+    <published>2026-08-18T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.federalregister.gov/documents/2026/08/18/2026-16785/self-regulatory-organizations-cme-securities-clearing-inc-notice-of-filing-of-proposed-amendments-to</id>
+    <title>Self-Regulatory Organizations; CME Securities Clearing Inc.; Notice of Filing of Proposed Amendments to the CMESC Stress Testing &amp; Guaranty Fund Sizing Policy (or the “Policy”) and Proposed Amendments to Rule 402(b)</title>
+    <updated>2026-08-18T00:00:00+00:00</updated>
+    <content>Source: National Securities Exchanges
+Date: 2026-08-18</content>
+    <link href="https://www.federalregister.gov/documents/2026/08/18/2026-16785/self-regulatory-organizations-cme-securities-clearing-inc-notice-of-filing-of-proposed-amendments-to"/>
+    <published>2026-08-18T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.federalregister.gov/documents/2026/08/18/2026-16786/self-regulatory-organizations-national-securities-clearing-corporation-order-approving-of-proposed</id>
+    <title>Self-Regulatory Organizations; National Securities Clearing Corporation; Order Approving of Proposed Rule Change To Enhance the Supplemental Liquidity Deposit Rules, Methodology and Processes</title>
+    <updated>2026-08-18T00:00:00+00:00</updated>
+    <content>Source: National Securities Exchanges
+Date: 2026-08-18</content>
+    <link href="https://www.federalregister.gov/documents/2026/08/18/2026-16786/self-regulatory-organizations-national-securities-clearing-corporation-order-approving-of-proposed"/>
+    <published>2026-08-18T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.federalregister.gov/documents/2026/08/18/2026-16830/self-regulatory-organizations-nyse-american-llc-notice-of-filing-of-amendment-no-4-and-order</id>
+    <title>Self-Regulatory Organizations; NYSE American LLC; Notice of Filing of Amendment No. 4 and Order Granting Accelerated Approval of a Proposed Rule Change, as Modified by Amendment No. 4, To Amend Section 1003 of the NYSE American Company Guide</title>
+    <updated>2026-08-18T00:00:00+00:00</updated>
+    <content>Source: National Securities Exchanges
+Date: 2026-08-18</content>
+    <link href="https://www.federalregister.gov/documents/2026/08/18/2026-16830/self-regulatory-organizations-nyse-american-llc-notice-of-filing-of-amendment-no-4-and-order"/>
+    <published>2026-08-18T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.federalregister.gov/documents/2026/08/18/2026-16831/self-regulatory-organizations-new-york-stock-exchange-llc-notice-of-filing-of-amendment-no-2-and</id>
+    <title>Self-Regulatory Organizations; New York Stock Exchange LLC; Notice of Filing of Amendment No. 2 and Order Granting Accelerated Approval of a Proposed Rule Change, as Modified by Amendment No. 2, To Amend Section 802.01C of the NYSE Listed Company Manual</title>
+    <updated>2026-08-18T00:00:00+00:00</updated>
+    <content>Source: National Securities Exchanges
+Date: 2026-08-18</content>
+    <link href="https://www.federalregister.gov/documents/2026/08/18/2026-16831/self-regulatory-organizations-new-york-stock-exchange-llc-notice-of-filing-of-amendment-no-2-and"/>
+    <published>2026-08-18T00:00:00+00:00</published>
   </entry>
 </feed>
