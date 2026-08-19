@@ -1,7 +1,15 @@
 {
-  "updated": "2026-08-19T00:41:53.478776+00:00",
-  "count": 40,
+  "updated": "2026-08-19T06:27:09.666574+00:00",
+  "count": 39,
   "filings": [
+    {
+      "id": "ef13d25c60df",
+      "title": "Self-Regulatory Organizations; Texas Stock Exchange LLC; Notice of Designation of a Longer Period for Commission Action on a Proposed Rule Change To Amend a Continued Listing Standard Relating to Beneficial Holders Applicable to Exchange Traded Fund Shares Listed Under Rule 17.104(b)(2)(B)",
+      "url": "https://www.federalregister.gov/documents/2026/08/19/2026-16857/self-regulatory-organizations-texas-stock-exchange-llc-notice-of-designation-of-a-longer-period-for",
+      "date": "2026-08-19",
+      "description": "",
+      "source": "national-securities-exchanges"
+    },
     {
       "id": "21eb71bd47c4",
       "title": "Self-Regulatory Organizations; New York Stock Exchange LLC; Notice of Filing of Amendment No. 2 and Order Granting Accelerated Approval of a Proposed Rule Change, as Modified by Amendment No. 2, To Amend Section 802.01C of the NYSE Listed Company Manual",
@@ -303,22 +311,6 @@
       "title": "Self-Regulatory Organizations; Cboe BYX Exchange, Inc.; Notice of Designation of a Longer Period for Commission Action on Proceedings To Determine Whether To Approve or Disapprove a Proposed Rule Change To Amend Rule 11.9(d) Regarding Intermarket Sweep Orders",
       "url": "https://www.federalregister.gov/documents/2026/07/28/2026-15173/self-regulatory-organizations-cboe-byx-exchange-inc-notice-of-designation-of-a-longer-period-for",
       "date": "2026-07-28",
-      "description": "",
-      "source": "national-securities-exchanges"
-    },
-    {
-      "id": "db13ae6e9667",
-      "title": "Self-Regulatory Organizations; ICE Clear Credit LLC; Order Approving Proposed Rule Change Relating to the Treasury Clearing Service Initial Margin Approach Model Description Document, Treasury Clearing Service Guaranty Fund and Stress Test Approach Model Description Document, and Treasury Clearing Service Risk Parameter Setting and Review Policy",
-      "url": "https://www.federalregister.gov/documents/2026/07/28/2026-15169/self-regulatory-organizations-ice-clear-credit-llc-order-approving-proposed-rule-change-relating-to",
-      "date": "2026-07-28",
-      "description": "",
-      "source": "national-securities-exchanges"
-    },
-    {
-      "id": "478177cfa68b",
-      "title": "Self-Regulatory Organizations; The Nasdaq Stock Market LLC; Order Granting Approval of a Proposed Rule Change, as Modified by Amendment No. 1, To Adopt a New Continued Listing Requirement",
-      "url": "https://www.federalregister.gov/documents/2026/07/27/2026-15060/self-regulatory-organizations-the-nasdaq-stock-market-llc-order-granting-approval-of-a-proposed-rule",
-      "date": "2026-07-27",
       "description": "",
       "source": "national-securities-exchanges"
     }
