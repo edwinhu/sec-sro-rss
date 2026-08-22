@@ -8,23 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 22 Aug 2026 00:41:33 +0000</lastBuildDate>
-    <item>
-      <title>Self-Regulatory Organizations; The Nasdaq Stock Market LLC; Order Granting Approval of a Proposed Rule Change, as Modified by Amendment No. 1, To Amend Nasdaq Rule 5711(d) (Commodity-Based Trust Shares)</title>
-      <link>https://www.federalregister.gov/documents/2026/07/30/2026-15327/self-regulatory-organizations-the-nasdaq-stock-market-llc-order-granting-approval-of-a-proposed-rule</link>
-      <description>Source: National Securities Exchanges
-Date: 2026-07-30</description>
-      <guid isPermaLink="false">https://www.federalregister.gov/documents/2026/07/30/2026-15327/self-regulatory-organizations-the-nasdaq-stock-market-llc-order-granting-approval-of-a-proposed-rule</guid>
-      <pubDate>Thu, 30 Jul 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Self-Regulatory Organizations; NYSE Arca, Inc.; Notice of Filing of Amendment No. 1 and Order Granting Accelerated Approval of a Proposed Rule Change, as Modified by Amendment No. 1, To Amend NYSE Arca Rule 8.201-E (Generic) Commodity-Based Trust Shares</title>
-      <link>https://www.federalregister.gov/documents/2026/07/31/2026-15463/self-regulatory-organizations-nyse-arca-inc-notice-of-filing-of-amendment-no-1-and-order-granting</link>
-      <description>Source: National Securities Exchanges
-Date: 2026-07-31</description>
-      <guid isPermaLink="false">https://www.federalregister.gov/documents/2026/07/31/2026-15463/self-regulatory-organizations-nyse-arca-inc-notice-of-filing-of-amendment-no-1-and-order-granting</guid>
-      <pubDate>Fri, 31 Jul 2026 00:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 22 Aug 2026 06:22:54 +0000</lastBuildDate>
     <item>
       <title>Self-Regulatory Organizations; Long-Term Stock Exchange, Inc.; Notice of Designation of a Longer Period for Commission Action on a Proposed Rule Change To Amend its Rules Related to Market Makers</title>
       <link>https://www.federalregister.gov/documents/2026/08/03/2026-15617/self-regulatory-organizations-long-term-stock-exchange-inc-notice-of-designation-of-a-longer-period</link>
@@ -248,6 +232,22 @@ Date: 2026-08-19</description>
 Date: 2026-08-21</description>
       <guid isPermaLink="false">https://www.federalregister.gov/documents/2026/08/21/2026-17061/self-regulatory-organizations-lch-sa-order-approving-proposed-rule-change-relating-to-the-lch-sa</guid>
       <pubDate>Fri, 21 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Self-Regulatory Organizations; NYSE Arca, Inc.; Notice of Designation of a Longer Period for Commission Action on a Proposed Rule Change To Amend Rules 5.32-O and 5.35-O</title>
+      <link>https://www.federalregister.gov/documents/2026/08/24/2026-17205/self-regulatory-organizations-nyse-arca-inc-notice-of-designation-of-a-longer-period-for-commission</link>
+      <description>Source: National Securities Exchanges
+Date: 2026-08-24</description>
+      <guid isPermaLink="false">https://www.federalregister.gov/documents/2026/08/24/2026-17205/self-regulatory-organizations-nyse-arca-inc-notice-of-designation-of-a-longer-period-for-commission</guid>
+      <pubDate>Mon, 24 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Self-Regulatory Organizations; NYSE American LLC; Notice of Designation of a Longer Period for Commission Action on a Proposed Rule Change To Amend Rules 903G and 906G</title>
+      <link>https://www.federalregister.gov/documents/2026/08/24/2026-17206/self-regulatory-organizations-nyse-american-llc-notice-of-designation-of-a-longer-period-for</link>
+      <description>Source: National Securities Exchanges
+Date: 2026-08-24</description>
+      <guid isPermaLink="false">https://www.federalregister.gov/documents/2026/08/24/2026-17206/self-regulatory-organizations-nyse-american-llc-notice-of-designation-of-a-longer-period-for</guid>
+      <pubDate>Mon, 24 Aug 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

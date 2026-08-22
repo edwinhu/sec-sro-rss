@@ -1,7 +1,23 @@
 {
-  "updated": "2026-08-22T00:41:33.966941+00:00",
+  "updated": "2026-08-22T06:22:54.419566+00:00",
   "count": 30,
   "filings": [
+    {
+      "id": "6359a83eb160",
+      "title": "Self-Regulatory Organizations; NYSE American LLC; Notice of Designation of a Longer Period for Commission Action on a Proposed Rule Change To Amend Rules 903G and 906G",
+      "url": "https://www.federalregister.gov/documents/2026/08/24/2026-17206/self-regulatory-organizations-nyse-american-llc-notice-of-designation-of-a-longer-period-for",
+      "date": "2026-08-24",
+      "description": "",
+      "source": "national-securities-exchanges"
+    },
+    {
+      "id": "fd80c237d5f5",
+      "title": "Self-Regulatory Organizations; NYSE Arca, Inc.; Notice of Designation of a Longer Period for Commission Action on a Proposed Rule Change To Amend Rules 5.32-O and 5.35-O",
+      "url": "https://www.federalregister.gov/documents/2026/08/24/2026-17205/self-regulatory-organizations-nyse-arca-inc-notice-of-designation-of-a-longer-period-for-commission",
+      "date": "2026-08-24",
+      "description": "",
+      "source": "national-securities-exchanges"
+    },
     {
       "id": "dd9a678b34f2",
       "title": "Self-Regulatory Organizations; LCH SA; Order Approving Proposed Rule Change Relating to the LCH SA Liquidity Plan",
@@ -223,22 +239,6 @@
       "title": "Self-Regulatory Organizations; Long-Term Stock Exchange, Inc.; Notice of Designation of a Longer Period for Commission Action on a Proposed Rule Change To Amend its Rules Related to Market Makers",
       "url": "https://www.federalregister.gov/documents/2026/08/03/2026-15617/self-regulatory-organizations-long-term-stock-exchange-inc-notice-of-designation-of-a-longer-period",
       "date": "2026-08-03",
-      "description": "",
-      "source": "national-securities-exchanges"
-    },
-    {
-      "id": "5bb967a2cddb",
-      "title": "Self-Regulatory Organizations; NYSE Arca, Inc.; Notice of Filing of Amendment No. 1 and Order Granting Accelerated Approval of a Proposed Rule Change, as Modified by Amendment No. 1, To Amend NYSE Arca Rule 8.201-E (Generic) Commodity-Based Trust Shares",
-      "url": "https://www.federalregister.gov/documents/2026/07/31/2026-15463/self-regulatory-organizations-nyse-arca-inc-notice-of-filing-of-amendment-no-1-and-order-granting",
-      "date": "2026-07-31",
-      "description": "",
-      "source": "national-securities-exchanges"
-    },
-    {
-      "id": "c2599fd66bc8",
-      "title": "Self-Regulatory Organizations; The Nasdaq Stock Market LLC; Order Granting Approval of a Proposed Rule Change, as Modified by Amendment No. 1, To Amend Nasdaq Rule 5711(d) (Commodity-Based Trust Shares)",
-      "url": "https://www.federalregister.gov/documents/2026/07/30/2026-15327/self-regulatory-organizations-the-nasdaq-stock-market-llc-order-granting-approval-of-a-proposed-rule",
-      "date": "2026-07-30",
       "description": "",
       "source": "national-securities-exchanges"
     }

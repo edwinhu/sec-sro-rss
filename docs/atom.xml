@@ -2,29 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://github.com/edwinhu/sec-sro-rss</id>
   <title>SEC Self-Regulatory Organization Rulemaking</title>
-  <updated>2026-08-22T00:41:33.940555+00:00</updated>
+  <updated>2026-08-22T06:22:54.401350+00:00</updated>
   <link href="https://www.sec.gov/rules-regulations/self-regulatory-organization-rulemaking" rel="alternate"/>
   <link href="https://edwinhu.github.io/sec-sro-rss/feed.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Filtered SEC SRO filings (excludes immediate effectiveness notices and crypto)</subtitle>
-  <entry>
-    <id>https://www.federalregister.gov/documents/2026/07/30/2026-15327/self-regulatory-organizations-the-nasdaq-stock-market-llc-order-granting-approval-of-a-proposed-rule</id>
-    <title>Self-Regulatory Organizations; The Nasdaq Stock Market LLC; Order Granting Approval of a Proposed Rule Change, as Modified by Amendment No. 1, To Amend Nasdaq Rule 5711(d) (Commodity-Based Trust Shares)</title>
-    <updated>2026-07-30T00:00:00+00:00</updated>
-    <content>Source: National Securities Exchanges
-Date: 2026-07-30</content>
-    <link href="https://www.federalregister.gov/documents/2026/07/30/2026-15327/self-regulatory-organizations-the-nasdaq-stock-market-llc-order-granting-approval-of-a-proposed-rule"/>
-    <published>2026-07-30T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.federalregister.gov/documents/2026/07/31/2026-15463/self-regulatory-organizations-nyse-arca-inc-notice-of-filing-of-amendment-no-1-and-order-granting</id>
-    <title>Self-Regulatory Organizations; NYSE Arca, Inc.; Notice of Filing of Amendment No. 1 and Order Granting Accelerated Approval of a Proposed Rule Change, as Modified by Amendment No. 1, To Amend NYSE Arca Rule 8.201-E (Generic) Commodity-Based Trust Shares</title>
-    <updated>2026-07-31T00:00:00+00:00</updated>
-    <content>Source: National Securities Exchanges
-Date: 2026-07-31</content>
-    <link href="https://www.federalregister.gov/documents/2026/07/31/2026-15463/self-regulatory-organizations-nyse-arca-inc-notice-of-filing-of-amendment-no-1-and-order-granting"/>
-    <published>2026-07-31T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>https://www.federalregister.gov/documents/2026/08/03/2026-15617/self-regulatory-organizations-long-term-stock-exchange-inc-notice-of-designation-of-a-longer-period</id>
     <title>Self-Regulatory Organizations; Long-Term Stock Exchange, Inc.; Notice of Designation of a Longer Period for Commission Action on a Proposed Rule Change To Amend its Rules Related to Market Makers</title>
@@ -276,5 +258,23 @@ Date: 2026-08-19</content>
 Date: 2026-08-21</content>
     <link href="https://www.federalregister.gov/documents/2026/08/21/2026-17061/self-regulatory-organizations-lch-sa-order-approving-proposed-rule-change-relating-to-the-lch-sa"/>
     <published>2026-08-21T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.federalregister.gov/documents/2026/08/24/2026-17205/self-regulatory-organizations-nyse-arca-inc-notice-of-designation-of-a-longer-period-for-commission</id>
+    <title>Self-Regulatory Organizations; NYSE Arca, Inc.; Notice of Designation of a Longer Period for Commission Action on a Proposed Rule Change To Amend Rules 5.32-O and 5.35-O</title>
+    <updated>2026-08-24T00:00:00+00:00</updated>
+    <content>Source: National Securities Exchanges
+Date: 2026-08-24</content>
+    <link href="https://www.federalregister.gov/documents/2026/08/24/2026-17205/self-regulatory-organizations-nyse-arca-inc-notice-of-designation-of-a-longer-period-for-commission"/>
+    <published>2026-08-24T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.federalregister.gov/documents/2026/08/24/2026-17206/self-regulatory-organizations-nyse-american-llc-notice-of-designation-of-a-longer-period-for</id>
+    <title>Self-Regulatory Organizations; NYSE American LLC; Notice of Designation of a Longer Period for Commission Action on a Proposed Rule Change To Amend Rules 903G and 906G</title>
+    <updated>2026-08-24T00:00:00+00:00</updated>
+    <content>Source: National Securities Exchanges
+Date: 2026-08-24</content>
+    <link href="https://www.federalregister.gov/documents/2026/08/24/2026-17206/self-regulatory-organizations-nyse-american-llc-notice-of-designation-of-a-longer-period-for"/>
+    <published>2026-08-24T00:00:00+00:00</published>
   </entry>
 </feed>
