@@ -1,5 +1,246 @@
 {
-  "updated": "2026-08-22T18:15:32.995379+00:00",
-  "count": 0,
-  "filings": []
+  "updated": "2026-08-23T00:45:05.435557+00:00",
+  "count": 30,
+  "filings": [
+    {
+      "id": "6359a83eb160",
+      "title": "Self-Regulatory Organizations; NYSE American LLC; Notice of Designation of a Longer Period for Commission Action on a Proposed Rule Change To Amend Rules 903G and 906G",
+      "url": "https://www.federalregister.gov/documents/2026/08/24/2026-17206/self-regulatory-organizations-nyse-american-llc-notice-of-designation-of-a-longer-period-for",
+      "date": "2026-08-24",
+      "description": "",
+      "source": "national-securities-exchanges"
+    },
+    {
+      "id": "fd80c237d5f5",
+      "title": "Self-Regulatory Organizations; NYSE Arca, Inc.; Notice of Designation of a Longer Period for Commission Action on a Proposed Rule Change To Amend Rules 5.32-O and 5.35-O",
+      "url": "https://www.federalregister.gov/documents/2026/08/24/2026-17205/self-regulatory-organizations-nyse-arca-inc-notice-of-designation-of-a-longer-period-for-commission",
+      "date": "2026-08-24",
+      "description": "",
+      "source": "national-securities-exchanges"
+    },
+    {
+      "id": "dd9a678b34f2",
+      "title": "Self-Regulatory Organizations; LCH SA; Order Approving Proposed Rule Change Relating to the LCH SA Liquidity Plan",
+      "url": "https://www.federalregister.gov/documents/2026/08/21/2026-17061/self-regulatory-organizations-lch-sa-order-approving-proposed-rule-change-relating-to-the-lch-sa",
+      "date": "2026-08-21",
+      "description": "",
+      "source": "national-securities-exchanges"
+    },
+    {
+      "id": "ef13d25c60df",
+      "title": "Self-Regulatory Organizations; Texas Stock Exchange LLC; Notice of Designation of a Longer Period for Commission Action on a Proposed Rule Change To Amend a Continued Listing Standard Relating to Beneficial Holders Applicable to Exchange Traded Fund Shares Listed Under Rule 17.104(b)(2)(B)",
+      "url": "https://www.federalregister.gov/documents/2026/08/19/2026-16857/self-regulatory-organizations-texas-stock-exchange-llc-notice-of-designation-of-a-longer-period-for",
+      "date": "2026-08-19",
+      "description": "",
+      "source": "national-securities-exchanges"
+    },
+    {
+      "id": "21eb71bd47c4",
+      "title": "Self-Regulatory Organizations; New York Stock Exchange LLC; Notice of Filing of Amendment No. 2 and Order Granting Accelerated Approval of a Proposed Rule Change, as Modified by Amendment No. 2, To Amend Section 802.01C of the NYSE Listed Company Manual",
+      "url": "https://www.federalregister.gov/documents/2026/08/18/2026-16831/self-regulatory-organizations-new-york-stock-exchange-llc-notice-of-filing-of-amendment-no-2-and",
+      "date": "2026-08-18",
+      "description": "",
+      "source": "national-securities-exchanges"
+    },
+    {
+      "id": "c408bbee633b",
+      "title": "Self-Regulatory Organizations; NYSE American LLC; Notice of Filing of Amendment No. 4 and Order Granting Accelerated Approval of a Proposed Rule Change, as Modified by Amendment No. 4, To Amend Section 1003 of the NYSE American Company Guide",
+      "url": "https://www.federalregister.gov/documents/2026/08/18/2026-16830/self-regulatory-organizations-nyse-american-llc-notice-of-filing-of-amendment-no-4-and-order",
+      "date": "2026-08-18",
+      "description": "",
+      "source": "national-securities-exchanges"
+    },
+    {
+      "id": "b3708c9dc7d2",
+      "title": "Self-Regulatory Organizations; National Securities Clearing Corporation; Order Approving of Proposed Rule Change To Enhance the Supplemental Liquidity Deposit Rules, Methodology and Processes",
+      "url": "https://www.federalregister.gov/documents/2026/08/18/2026-16786/self-regulatory-organizations-national-securities-clearing-corporation-order-approving-of-proposed",
+      "date": "2026-08-18",
+      "description": "",
+      "source": "national-securities-exchanges"
+    },
+    {
+      "id": "f5c134531d15",
+      "title": "Self-Regulatory Organizations; CME Securities Clearing Inc.; Notice of Filing of Proposed Amendments to the CMESC Stress Testing & Guaranty Fund Sizing Policy (or the \u201cPolicy\u201d) and Proposed Amendments to Rule 402(b)",
+      "url": "https://www.federalregister.gov/documents/2026/08/18/2026-16785/self-regulatory-organizations-cme-securities-clearing-inc-notice-of-filing-of-proposed-amendments-to",
+      "date": "2026-08-18",
+      "description": "",
+      "source": "national-securities-exchanges"
+    },
+    {
+      "id": "d73de10b155c",
+      "title": "Self-Regulatory Organizations; The Depository Trust Company; Order Approving Proposed Rule Change To Amend the Redemptions Service Guide and the Operational Arrangements (Necessary for Securities To Become and Remain Eligible for DTC Services)",
+      "url": "https://www.federalregister.gov/documents/2026/08/18/2026-16784/self-regulatory-organizations-the-depository-trust-company-order-approving-proposed-rule-change-to",
+      "date": "2026-08-18",
+      "description": "",
+      "source": "national-securities-exchanges"
+    },
+    {
+      "id": "0689f0b60940",
+      "title": "Self-Regulatory Organizations; The Options Clearing Corporation; Notice of Filing of Advance Notice Relating to The Options Clearing Corporation's Proposal To Amend the Evergreen Provisions Relating to Its Revolving Credit Facility",
+      "url": "https://www.federalregister.gov/documents/2026/08/18/2026-16782/self-regulatory-organizations-the-options-clearing-corporation-notice-of-filing-of-advance-notice",
+      "date": "2026-08-18",
+      "description": "",
+      "source": "national-securities-exchanges"
+    },
+    {
+      "id": "64c42382acc9",
+      "title": "Self-Regulatory Organizations; New York Stock Exchange LLC; Notice of Filing of a Proposed Rule Change To Amend Sections 303A.00 and 303A.07 of the NYSE Listed Company Manual",
+      "url": "https://www.federalregister.gov/documents/2026/08/18/2026-16781/self-regulatory-organizations-new-york-stock-exchange-llc-notice-of-filing-of-a-proposed-rule-change",
+      "date": "2026-08-18",
+      "description": "",
+      "source": "national-securities-exchanges"
+    },
+    {
+      "id": "15509d31444f",
+      "title": "Self-Regulatory Organizations; Nasdaq ISE, LLC; Order Approving a Proposed Rule Change To Amend the Short Term Option Series Program Related to Qualifying Securities",
+      "url": "https://www.federalregister.gov/documents/2026/08/17/2026-16695/self-regulatory-organizations-nasdaq-ise-llc-order-approving-a-proposed-rule-change-to-amend-the",
+      "date": "2026-08-17",
+      "description": "",
+      "source": "national-securities-exchanges"
+    },
+    {
+      "id": "70f4a5b5de15",
+      "title": "Order Granting Temporary Conditional Exemptive Relief to 24X National Exchange LLC From Certain Requirements of Rule 602 of Regulation NMS, Certain Requirements of Certain Equity Data Plans, and Section 19(g)(1) of the Securities Exchange Act of 1934, Pursuant to Section 36 of the Securities Exchange Act of 1934 and Rules 602 and 608 of Regulation NMS, To Permit Certain Overnight Trading, Subject to Certain Conditions, and Effective As of January 24, 2027 and Until the Earlier of (1) the date the Extended Hours Amendments Are Implemented or (2) July 2, 2027",
+      "url": "https://www.federalregister.gov/documents/2026/08/14/2026-16572/order-granting-temporary-conditional-exemptive-relief-to-24x-national-exchange-llc-from-certain",
+      "date": "2026-08-14",
+      "description": "",
+      "source": "national-securities-exchanges"
+    },
+    {
+      "id": "a8cf7a0a6cd9",
+      "title": "Self-Regulatory Organizations; Cboe BYX Exchange, Inc.; Notice of Filing of Amendment No. 1 and Order Instituting Proceedings To Determine Whether To Approve or Disapprove a Proposed Rule Change, as Modified by Amendment No. 1, To Amend Rule 11.25 To Introduce an Optional, Contingent Instruction Applicable to Periodic Auction Only Orders, Introduce a Time-in-Force of Auction or Cancel, and Make Conforming Changes to Its Periodic Auction Processing Behavior To Support the Proposed Contingent Instruction",
+      "url": "https://www.federalregister.gov/documents/2026/08/14/2026-16559/self-regulatory-organizations-cboe-byx-exchange-inc-notice-of-filing-of-amendment-no-1-and-order",
+      "date": "2026-08-14",
+      "description": "",
+      "source": "national-securities-exchanges"
+    },
+    {
+      "id": "bddeb13853d5",
+      "title": "Program for Allocation of Regulatory Responsibilities Pursuant to Rule 17d-2; Notice of Filing and Order Approving and Declaring Effective an Amendment to the Plan for the Allocation of Regulatory Responsibilities Among NYSE American LLC, Cboe BZX Exchange, Inc., the Cboe EDGX Exchange, Inc., Cboe C2 Exchange, Inc., Cboe Exchange, Inc., Nasdaq ISE, LLC, Financial Industry Regulatory Authority, Inc., NYSE Arca, Inc., The Nasdaq Stock Market LLC, BOX Exchange LLC, Nasdaq Texas, LLC, Nasdaq PHLX LLC, Miami International Securities Exchange, LLC, Nasdaq GEMX, LLC, Nasdaq MRX, LLC, MIAX PEARL, LLC, MIAX Emerald, LLC, MIAX Sapphire, MEMX LLC, MX2 LLC, and Investors Exchange LLC Concerning Options-Related Market Surveillance",
+      "url": "https://www.federalregister.gov/documents/2026/08/13/2026-16470/program-for-allocation-of-regulatory-responsibilities-pursuant-to-rule-17d-2-notice-of-filing-and",
+      "date": "2026-08-13",
+      "description": "",
+      "source": "finra"
+    },
+    {
+      "id": "d50e705cdb80",
+      "title": "Self-Regulatory Organizations; LCH SA; Notice of Filing of Proposed Rule Change Relating to the LCH SA CaLM Minimum Cash Collateral Requirement and to LCH Liquidity Risk Policy",
+      "url": "https://www.federalregister.gov/documents/2026/08/13/2026-16462/self-regulatory-organizations-lch-sa-notice-of-filing-of-proposed-rule-change-relating-to-the-lch-sa",
+      "date": "2026-08-13",
+      "description": "",
+      "source": "national-securities-exchanges"
+    },
+    {
+      "id": "8825aedb61ed",
+      "title": "Self-Regulatory Organizations; Nasdaq ISE, LLC; Notice of Filing of Proposed Rule Change To Amend the Criteria for Underlying Securities",
+      "url": "https://www.federalregister.gov/documents/2026/08/13/2026-16460/self-regulatory-organizations-nasdaq-ise-llc-notice-of-filing-of-proposed-rule-change-to-amend-the",
+      "date": "2026-08-13",
+      "description": "",
+      "source": "national-securities-exchanges"
+    },
+    {
+      "id": "1af842f12f8a",
+      "title": "Self-Regulatory Organizations; Fixed Income Clearing Corporation; Notice of Filing of Proposed Rule Change, as Modified by Partial Amendment No. 1, To Establish a Guaranty Fund at the Government Securities Division",
+      "url": "https://www.federalregister.gov/documents/2026/08/11/2026-16282/self-regulatory-organizations-fixed-income-clearing-corporation-notice-of-filing-of-proposed-rule",
+      "date": "2026-08-11",
+      "description": "",
+      "source": "national-securities-exchanges"
+    },
+    {
+      "id": "6f8d672f9659",
+      "title": "Self-Regulatory Organizations; Fixed Income Clearing Corporation; Notice of Filing and Extension of the Review Period of an Advance Notice, as Modified by Partial Amendment No. 1, To Establish a Guaranty Fund at the Government Securities Division",
+      "url": "https://www.federalregister.gov/documents/2026/08/11/2026-16281/self-regulatory-organizations-fixed-income-clearing-corporation-notice-of-filing-and-extension-of",
+      "date": "2026-08-11",
+      "description": "",
+      "source": "national-securities-exchanges"
+    },
+    {
+      "id": "223332e427ee",
+      "title": "Self-Regulatory Organizations; Fixed Income Clearing Corporation; Notice of Designation of Longer Period for Commission Action on Proposed Rule Change To Modify the GSD Rules To Adopt a U.S. Treasury Clearing Trade Submission Requirement",
+      "url": "https://www.federalregister.gov/documents/2026/08/11/2026-16280/self-regulatory-organizations-fixed-income-clearing-corporation-notice-of-designation-of-longer",
+      "date": "2026-08-11",
+      "description": "",
+      "source": "national-securities-exchanges"
+    },
+    {
+      "id": "4f359935a8df",
+      "title": "Self-Regulatory Organizations; CME Securities Clearing Inc.; Notice of Filing of Proposed Rule Change To Adopt CMESC Margin Policy",
+      "url": "https://www.federalregister.gov/documents/2026/08/07/2026-16098/self-regulatory-organizations-cme-securities-clearing-inc-notice-of-filing-of-proposed-rule-change",
+      "date": "2026-08-07",
+      "description": "",
+      "source": "national-securities-exchanges"
+    },
+    {
+      "id": "ef9c43ffb5c0",
+      "title": "Self-Regulatory Organizations; The Options Clearing Corporation; Order Approving Proposed Rule Change by The Options Clearing Corporation To Amend Its System for Theoretical Analysis and Numerical Simulation Methodology Description To Incorporate Options Implied Interest Rates as an Additional Source of Interest Rates Inputs for Constructing the Interest Rate Discount Curve Used in Options Pricing",
+      "url": "https://www.federalregister.gov/documents/2026/08/06/2026-15928/self-regulatory-organizations-the-options-clearing-corporation-order-approving-proposed-rule-change",
+      "date": "2026-08-06",
+      "description": "",
+      "source": "national-securities-exchanges"
+    },
+    {
+      "id": "e1577d8862ad",
+      "title": "Self-Regulatory Organizations; LCH SA; Notice of Filing of Proposed Rule Change Relating to the LCH SA CDS Clear Trade Registration Fund",
+      "url": "https://www.federalregister.gov/documents/2026/08/05/2026-15832/self-regulatory-organizations-lch-sa-notice-of-filing-of-proposed-rule-change-relating-to-the-lch-sa",
+      "date": "2026-08-05",
+      "description": "",
+      "source": "national-securities-exchanges"
+    },
+    {
+      "id": "5eff27469318",
+      "title": "Self-Regulatory Organizations; The Options Clearing Corporation; Notice of Filing of Proposed Rule Change by The Options Clearing Corporation Concerning the Payment of Interest on Margin Cash",
+      "url": "https://www.federalregister.gov/documents/2026/08/05/2026-15828/self-regulatory-organizations-the-options-clearing-corporation-notice-of-filing-of-proposed-rule",
+      "date": "2026-08-05",
+      "description": "",
+      "source": "national-securities-exchanges"
+    },
+    {
+      "id": "539b1f63c6e1",
+      "title": "Self-Regulatory Organizations; Municipal Securities Rulemaking Board; Notice of Filing of a Proposed Rule Change To Amend MSRB Rule G-27 To Exclude Certain Public Finance Activities From Term \u201cStructuring of Public Offerings or Private Placements,\u201d Extend the Length of the Exclusion for Non-Primary Residences From Municipal Branch Office Designation, and Make a Technical Update to the Rule's Title",
+      "url": "https://www.federalregister.gov/documents/2026/08/04/2026-15736/self-regulatory-organizations-municipal-securities-rulemaking-board-notice-of-filing-of-a-proposed",
+      "date": "2026-08-04",
+      "description": "",
+      "source": "national-securities-exchanges"
+    },
+    {
+      "id": "f322291c12bc",
+      "title": "Self-Regulatory Organizations; NYSE American LLC; Notice of Designation of a Longer Period for Commission Action on a Proposed Change To Amend Its Rules To Extend Trading Hours for Certain Eligible Equity Options",
+      "url": "https://www.federalregister.gov/documents/2026/08/04/2026-15735/self-regulatory-organizations-nyse-american-llc-notice-of-designation-of-a-longer-period-for",
+      "date": "2026-08-04",
+      "description": "",
+      "source": "national-securities-exchanges"
+    },
+    {
+      "id": "69961e5ec860",
+      "title": "Self-Regulatory Organizations; Cboe Exchange, Inc.; Notice of Designation of a Longer Period for Commission Action on Proceedings To Determine Whether To Approve or Disapprove a Proposed Rule Change To Adopt Rule 8.23",
+      "url": "https://www.federalregister.gov/documents/2026/08/04/2026-15734/self-regulatory-organizations-cboe-exchange-inc-notice-of-designation-of-a-longer-period-for",
+      "date": "2026-08-04",
+      "description": "",
+      "source": "national-securities-exchanges"
+    },
+    {
+      "id": "596c3307c43d",
+      "title": "Self-Regulatory Organizations; ICE Clear Credit LLC; Order Approving Proposed Rule Change Relating to the Clearance of Additional Credit Default Swap Contracts",
+      "url": "https://www.federalregister.gov/documents/2026/08/03/2026-15621/self-regulatory-organizations-ice-clear-credit-llc-order-approving-proposed-rule-change-relating-to",
+      "date": "2026-08-03",
+      "description": "",
+      "source": "national-securities-exchanges"
+    },
+    {
+      "id": "46c8eaaa72c9",
+      "title": "Self-Regulatory Organizations; Cboe BZX Exchange, Inc.; Notice of Filing, and Order Granting Accelerated Approval of, a Proposed Rule Change To Amend Rule 14.11(e)(4) (Commodity-Based Trust Shares)",
+      "url": "https://www.federalregister.gov/documents/2026/08/03/2026-15618/self-regulatory-organizations-cboe-bzx-exchange-inc-notice-of-filing-and-order-granting-accelerated",
+      "date": "2026-08-03",
+      "description": "",
+      "source": "national-securities-exchanges"
+    },
+    {
+      "id": "2728a2a3ccdc",
+      "title": "Self-Regulatory Organizations; Long-Term Stock Exchange, Inc.; Notice of Designation of a Longer Period for Commission Action on a Proposed Rule Change To Amend its Rules Related to Market Makers",
+      "url": "https://www.federalregister.gov/documents/2026/08/03/2026-15617/self-regulatory-organizations-long-term-stock-exchange-inc-notice-of-designation-of-a-longer-period",
+      "date": "2026-08-03",
+      "description": "",
+      "source": "national-securities-exchanges"
+    }
+  ]
 }
