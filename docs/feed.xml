@@ -8,15 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 25 Aug 2026 00:43:03 +0000</lastBuildDate>
-    <item>
-      <title>Self-Regulatory Organizations; Long-Term Stock Exchange, Inc.; Notice of Designation of a Longer Period for Commission Action on a Proposed Rule Change To Amend its Rules Related to Market Makers</title>
-      <link>https://www.federalregister.gov/documents/2026/08/03/2026-15617/self-regulatory-organizations-long-term-stock-exchange-inc-notice-of-designation-of-a-longer-period</link>
-      <description>Source: National Securities Exchanges
-Date: 2026-08-03</description>
-      <guid isPermaLink="false">https://www.federalregister.gov/documents/2026/08/03/2026-15617/self-regulatory-organizations-long-term-stock-exchange-inc-notice-of-designation-of-a-longer-period</guid>
-      <pubDate>Mon, 03 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 25 Aug 2026 06:29:20 +0000</lastBuildDate>
     <item>
       <title>Self-Regulatory Organizations; Cboe BZX Exchange, Inc.; Notice of Filing, and Order Granting Accelerated Approval of, a Proposed Rule Change To Amend Rule 14.11(e)(4) (Commodity-Based Trust Shares)</title>
       <link>https://www.federalregister.gov/documents/2026/08/03/2026-15618/self-regulatory-organizations-cboe-bzx-exchange-inc-notice-of-filing-and-order-granting-accelerated</link>
@@ -248,6 +240,14 @@ Date: 2026-08-24</description>
 Date: 2026-08-24</description>
       <guid isPermaLink="false">https://www.federalregister.gov/documents/2026/08/24/2026-17206/self-regulatory-organizations-nyse-american-llc-notice-of-designation-of-a-longer-period-for</guid>
       <pubDate>Mon, 24 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Self-Regulatory Organizations; ICE Clear Credit LLC; Order Approving Proposed Rule Change Relating to the CDS Instrument On-Boarding Policies and Procedures</title>
+      <link>https://www.federalregister.gov/documents/2026/08/25/2026-17283/self-regulatory-organizations-ice-clear-credit-llc-order-approving-proposed-rule-change-relating-to</link>
+      <description>Source: National Securities Exchanges
+Date: 2026-08-25</description>
+      <guid isPermaLink="false">https://www.federalregister.gov/documents/2026/08/25/2026-17283/self-regulatory-organizations-ice-clear-credit-llc-order-approving-proposed-rule-change-relating-to</guid>
+      <pubDate>Tue, 25 Aug 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

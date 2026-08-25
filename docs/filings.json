@@ -1,7 +1,15 @@
 {
-  "updated": "2026-08-25T00:43:03.664900+00:00",
+  "updated": "2026-08-25T06:29:20.021477+00:00",
   "count": 30,
   "filings": [
+    {
+      "id": "f0403de31a52",
+      "title": "Self-Regulatory Organizations; ICE Clear Credit LLC; Order Approving Proposed Rule Change Relating to the CDS Instrument On-Boarding Policies and Procedures",
+      "url": "https://www.federalregister.gov/documents/2026/08/25/2026-17283/self-regulatory-organizations-ice-clear-credit-llc-order-approving-proposed-rule-change-relating-to",
+      "date": "2026-08-25",
+      "description": "",
+      "source": "national-securities-exchanges"
+    },
     {
       "id": "6359a83eb160",
       "title": "Self-Regulatory Organizations; NYSE American LLC; Notice of Designation of a Longer Period for Commission Action on a Proposed Rule Change To Amend Rules 903G and 906G",
@@ -230,14 +238,6 @@
       "id": "46c8eaaa72c9",
       "title": "Self-Regulatory Organizations; Cboe BZX Exchange, Inc.; Notice of Filing, and Order Granting Accelerated Approval of, a Proposed Rule Change To Amend Rule 14.11(e)(4) (Commodity-Based Trust Shares)",
       "url": "https://www.federalregister.gov/documents/2026/08/03/2026-15618/self-regulatory-organizations-cboe-bzx-exchange-inc-notice-of-filing-and-order-granting-accelerated",
-      "date": "2026-08-03",
-      "description": "",
-      "source": "national-securities-exchanges"
-    },
-    {
-      "id": "2728a2a3ccdc",
-      "title": "Self-Regulatory Organizations; Long-Term Stock Exchange, Inc.; Notice of Designation of a Longer Period for Commission Action on a Proposed Rule Change To Amend its Rules Related to Market Makers",
-      "url": "https://www.federalregister.gov/documents/2026/08/03/2026-15617/self-regulatory-organizations-long-term-stock-exchange-inc-notice-of-designation-of-a-longer-period",
       "date": "2026-08-03",
       "description": "",
       "source": "national-securities-exchanges"

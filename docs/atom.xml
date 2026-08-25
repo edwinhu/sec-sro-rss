@@ -2,20 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://github.com/edwinhu/sec-sro-rss</id>
   <title>SEC Self-Regulatory Organization Rulemaking</title>
-  <updated>2026-08-25T00:43:03.640934+00:00</updated>
+  <updated>2026-08-25T06:29:20.002468+00:00</updated>
   <link href="https://www.sec.gov/rules-regulations/self-regulatory-organization-rulemaking" rel="alternate"/>
   <link href="https://edwinhu.github.io/sec-sro-rss/feed.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Filtered SEC SRO filings (excludes immediate effectiveness notices and crypto)</subtitle>
-  <entry>
-    <id>https://www.federalregister.gov/documents/2026/08/03/2026-15617/self-regulatory-organizations-long-term-stock-exchange-inc-notice-of-designation-of-a-longer-period</id>
-    <title>Self-Regulatory Organizations; Long-Term Stock Exchange, Inc.; Notice of Designation of a Longer Period for Commission Action on a Proposed Rule Change To Amend its Rules Related to Market Makers</title>
-    <updated>2026-08-03T00:00:00+00:00</updated>
-    <content>Source: National Securities Exchanges
-Date: 2026-08-03</content>
-    <link href="https://www.federalregister.gov/documents/2026/08/03/2026-15617/self-regulatory-organizations-long-term-stock-exchange-inc-notice-of-designation-of-a-longer-period"/>
-    <published>2026-08-03T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>https://www.federalregister.gov/documents/2026/08/03/2026-15618/self-regulatory-organizations-cboe-bzx-exchange-inc-notice-of-filing-and-order-granting-accelerated</id>
     <title>Self-Regulatory Organizations; Cboe BZX Exchange, Inc.; Notice of Filing, and Order Granting Accelerated Approval of, a Proposed Rule Change To Amend Rule 14.11(e)(4) (Commodity-Based Trust Shares)</title>
@@ -276,5 +267,14 @@ Date: 2026-08-24</content>
 Date: 2026-08-24</content>
     <link href="https://www.federalregister.gov/documents/2026/08/24/2026-17206/self-regulatory-organizations-nyse-american-llc-notice-of-designation-of-a-longer-period-for"/>
     <published>2026-08-24T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.federalregister.gov/documents/2026/08/25/2026-17283/self-regulatory-organizations-ice-clear-credit-llc-order-approving-proposed-rule-change-relating-to</id>
+    <title>Self-Regulatory Organizations; ICE Clear Credit LLC; Order Approving Proposed Rule Change Relating to the CDS Instrument On-Boarding Policies and Procedures</title>
+    <updated>2026-08-25T00:00:00+00:00</updated>
+    <content>Source: National Securities Exchanges
+Date: 2026-08-25</content>
+    <link href="https://www.federalregister.gov/documents/2026/08/25/2026-17283/self-regulatory-organizations-ice-clear-credit-llc-order-approving-proposed-rule-change-relating-to"/>
+    <published>2026-08-25T00:00:00+00:00</published>
   </entry>
 </feed>
