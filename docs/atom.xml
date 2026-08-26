@@ -2,29 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://github.com/edwinhu/sec-sro-rss</id>
   <title>SEC Self-Regulatory Organization Rulemaking</title>
-  <updated>2026-08-26T06:31:45.251745+00:00</updated>
+  <updated>2026-08-26T12:32:13.266042+00:00</updated>
   <link href="https://www.sec.gov/rules-regulations/self-regulatory-organization-rulemaking" rel="alternate"/>
   <link href="https://edwinhu.github.io/sec-sro-rss/feed.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Filtered SEC SRO filings (excludes immediate effectiveness notices and crypto)</subtitle>
-  <entry>
-    <id>https://www.federalregister.gov/documents/2026/08/03/2026-15618/self-regulatory-organizations-cboe-bzx-exchange-inc-notice-of-filing-and-order-granting-accelerated</id>
-    <title>Self-Regulatory Organizations; Cboe BZX Exchange, Inc.; Notice of Filing, and Order Granting Accelerated Approval of, a Proposed Rule Change To Amend Rule 14.11(e)(4) (Commodity-Based Trust Shares)</title>
-    <updated>2026-08-03T00:00:00+00:00</updated>
-    <content>Source: National Securities Exchanges
-Date: 2026-08-03</content>
-    <link href="https://www.federalregister.gov/documents/2026/08/03/2026-15618/self-regulatory-organizations-cboe-bzx-exchange-inc-notice-of-filing-and-order-granting-accelerated"/>
-    <published>2026-08-03T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.federalregister.gov/documents/2026/08/03/2026-15621/self-regulatory-organizations-ice-clear-credit-llc-order-approving-proposed-rule-change-relating-to</id>
-    <title>Self-Regulatory Organizations; ICE Clear Credit LLC; Order Approving Proposed Rule Change Relating to the Clearance of Additional Credit Default Swap Contracts</title>
-    <updated>2026-08-03T00:00:00+00:00</updated>
-    <content>Source: National Securities Exchanges
-Date: 2026-08-03</content>
-    <link href="https://www.federalregister.gov/documents/2026/08/03/2026-15621/self-regulatory-organizations-ice-clear-credit-llc-order-approving-proposed-rule-change-relating-to"/>
-    <published>2026-08-03T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>https://www.federalregister.gov/documents/2026/08/04/2026-15734/self-regulatory-organizations-cboe-exchange-inc-notice-of-designation-of-a-longer-period-for</id>
     <title>Self-Regulatory Organizations; Cboe Exchange, Inc.; Notice of Designation of a Longer Period for Commission Action on Proceedings To Determine Whether To Approve or Disapprove a Proposed Rule Change To Adopt Rule 8.23</title>
