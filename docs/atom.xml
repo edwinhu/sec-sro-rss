@@ -2,47 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://github.com/edwinhu/sec-sro-rss</id>
   <title>SEC Self-Regulatory Organization Rulemaking</title>
-  <updated>2026-08-26T19:37:54.485560+00:00</updated>
+  <updated>2026-08-27T05:53:12.140646+00:00</updated>
   <link href="https://www.sec.gov/rules-regulations/self-regulatory-organization-rulemaking" rel="alternate"/>
   <link href="https://edwinhu.github.io/sec-sro-rss/feed.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Filtered SEC SRO filings (excludes immediate effectiveness notices and crypto)</subtitle>
-  <entry>
-    <id>https://www.federalregister.gov/documents/2026/08/04/2026-15734/self-regulatory-organizations-cboe-exchange-inc-notice-of-designation-of-a-longer-period-for</id>
-    <title>Self-Regulatory Organizations; Cboe Exchange, Inc.; Notice of Designation of a Longer Period for Commission Action on Proceedings To Determine Whether To Approve or Disapprove a Proposed Rule Change To Adopt Rule 8.23</title>
-    <updated>2026-08-04T00:00:00+00:00</updated>
-    <content>Source: National Securities Exchanges
-Date: 2026-08-04</content>
-    <link href="https://www.federalregister.gov/documents/2026/08/04/2026-15734/self-regulatory-organizations-cboe-exchange-inc-notice-of-designation-of-a-longer-period-for"/>
-    <published>2026-08-04T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.federalregister.gov/documents/2026/08/04/2026-15735/self-regulatory-organizations-nyse-american-llc-notice-of-designation-of-a-longer-period-for</id>
-    <title>Self-Regulatory Organizations; NYSE American LLC; Notice of Designation of a Longer Period for Commission Action on a Proposed Change To Amend Its Rules To Extend Trading Hours for Certain Eligible Equity Options</title>
-    <updated>2026-08-04T00:00:00+00:00</updated>
-    <content>Source: National Securities Exchanges
-Date: 2026-08-04</content>
-    <link href="https://www.federalregister.gov/documents/2026/08/04/2026-15735/self-regulatory-organizations-nyse-american-llc-notice-of-designation-of-a-longer-period-for"/>
-    <published>2026-08-04T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.federalregister.gov/documents/2026/08/04/2026-15736/self-regulatory-organizations-municipal-securities-rulemaking-board-notice-of-filing-of-a-proposed</id>
-    <title>Self-Regulatory Organizations; Municipal Securities Rulemaking Board; Notice of Filing of a Proposed Rule Change To Amend MSRB Rule G-27 To Exclude Certain Public Finance Activities From Term “Structuring of Public Offerings or Private Placements,” Extend the Length of the Exclusion for Non-Primary Residences From Municipal Branch Office Designation, and Make a Technical Update to the Rule's Title</title>
-    <updated>2026-08-04T00:00:00+00:00</updated>
-    <content>Source: National Securities Exchanges
-Date: 2026-08-04</content>
-    <link href="https://www.federalregister.gov/documents/2026/08/04/2026-15736/self-regulatory-organizations-municipal-securities-rulemaking-board-notice-of-filing-of-a-proposed"/>
-    <published>2026-08-04T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.federalregister.gov/documents/2026/08/05/2026-15828/self-regulatory-organizations-the-options-clearing-corporation-notice-of-filing-of-proposed-rule</id>
-    <title>Self-Regulatory Organizations; The Options Clearing Corporation; Notice of Filing of Proposed Rule Change by The Options Clearing Corporation Concerning the Payment of Interest on Margin Cash</title>
-    <updated>2026-08-05T00:00:00+00:00</updated>
-    <content>Source: National Securities Exchanges
-Date: 2026-08-05</content>
-    <link href="https://www.federalregister.gov/documents/2026/08/05/2026-15828/self-regulatory-organizations-the-options-clearing-corporation-notice-of-filing-of-proposed-rule"/>
-    <published>2026-08-05T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>https://www.federalregister.gov/documents/2026/08/05/2026-15832/self-regulatory-organizations-lch-sa-notice-of-filing-of-proposed-rule-change-relating-to-the-lch-sa</id>
     <title>Self-Regulatory Organizations; LCH SA; Notice of Filing of Proposed Rule Change Relating to the LCH SA CDS Clear Trade Registration Fund</title>
@@ -258,5 +222,23 @@ Date: 2026-08-24</content>
 Date: 2026-08-25</content>
     <link href="https://www.federalregister.gov/documents/2026/08/25/2026-17283/self-regulatory-organizations-ice-clear-credit-llc-order-approving-proposed-rule-change-relating-to"/>
     <published>2026-08-25T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.federalregister.gov/documents/2026/08/27/2026-17461/agency-information-collection-activities-submission-for-omb-review-comment-request-extension-rule</id>
+    <title>Agency Information Collection Activities; Submission for OMB Review; Comment Request; Extension: Rule 19b-7 and Form 19b-7</title>
+    <updated>2026-08-27T00:00:00+00:00</updated>
+    <content>Source: National Securities Exchanges
+Date: 2026-08-27</content>
+    <link href="https://www.federalregister.gov/documents/2026/08/27/2026-17461/agency-information-collection-activities-submission-for-omb-review-comment-request-extension-rule"/>
+    <published>2026-08-27T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.federalregister.gov/documents/2026/08/27/2026-17465/self-regulatory-organizations-memx-llc-notice-of-filing-of-a-proposal-to-adopt-rules-for-the-listing</id>
+    <title>Self-Regulatory Organizations; MEMX LLC; Notice of Filing of a Proposal To Adopt Rules for the Listing and Trading of Securities Event Contracts on the Exchange</title>
+    <updated>2026-08-27T00:00:00+00:00</updated>
+    <content>Source: National Securities Exchanges
+Date: 2026-08-27</content>
+    <link href="https://www.federalregister.gov/documents/2026/08/27/2026-17465/self-regulatory-organizations-memx-llc-notice-of-filing-of-a-proposal-to-adopt-rules-for-the-listing"/>
+    <published>2026-08-27T00:00:00+00:00</published>
   </entry>
 </feed>
