@@ -2,20 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://github.com/edwinhu/sec-sro-rss</id>
   <title>SEC Self-Regulatory Organization Rulemaking</title>
-  <updated>2026-08-28T01:55:52.375807+00:00</updated>
+  <updated>2026-08-28T17:54:51.417360+00:00</updated>
   <link href="https://www.sec.gov/rules-regulations/self-regulatory-organization-rulemaking" rel="alternate"/>
   <link href="https://edwinhu.github.io/sec-sro-rss/feed.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Filtered SEC SRO filings (excludes immediate effectiveness notices and crypto)</subtitle>
-  <entry>
-    <id>https://www.federalregister.gov/documents/2026/08/05/2026-15832/self-regulatory-organizations-lch-sa-notice-of-filing-of-proposed-rule-change-relating-to-the-lch-sa</id>
-    <title>Self-Regulatory Organizations; LCH SA; Notice of Filing of Proposed Rule Change Relating to the LCH SA CDS Clear Trade Registration Fund</title>
-    <updated>2026-08-05T00:00:00+00:00</updated>
-    <content>Source: National Securities Exchanges
-Date: 2026-08-05</content>
-    <link href="https://www.federalregister.gov/documents/2026/08/05/2026-15832/self-regulatory-organizations-lch-sa-notice-of-filing-of-proposed-rule-change-relating-to-the-lch-sa"/>
-    <published>2026-08-05T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>https://www.federalregister.gov/documents/2026/08/06/2026-15928/self-regulatory-organizations-the-options-clearing-corporation-order-approving-proposed-rule-change</id>
     <title>Self-Regulatory Organizations; The Options Clearing Corporation; Order Approving Proposed Rule Change by The Options Clearing Corporation To Amend Its System for Theoretical Analysis and Numerical Simulation Methodology Description To Incorporate Options Implied Interest Rates as an Additional Source of Interest Rates Inputs for Constructing the Interest Rate Discount Curve Used in Options Pricing</title>
@@ -240,5 +231,23 @@ Date: 2026-08-27</content>
 Date: 2026-08-27</content>
     <link href="https://www.federalregister.gov/documents/2026/08/27/2026-17465/self-regulatory-organizations-memx-llc-notice-of-filing-of-a-proposal-to-adopt-rules-for-the-listing"/>
     <published>2026-08-27T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.federalregister.gov/documents/2026/08/28/2026-17548/program-for-allocation-of-regulatory-responsibilities-pursuant-to-rule-17d-2-notice-of-filing-and</id>
+    <title>Program for Allocation of Regulatory Responsibilities Pursuant to Rule 17d-2; Notice of Filing and Order Approving and Declaring Effective an Amendment to the Plan for the Allocation of Regulatory Responsibilities Among Cboe BZX Exchange, Inc., BOX Exchange, LLC, Cboe Exchange, Inc., Cboe C2 Exchange, Inc., Nasdaq ISE, LLC, Financial Industry Regulatory Authority, Inc., Miami International Securities Exchange, LLC, NYSE American LLC, NYSE Arca, Inc., The Nasdaq Stock Market LLC, Nasdaq Texas LLC, Nasdaq PHLX LLC, Nasdaq GEMX, LLC, Cboe EDGX Exchange, Inc., Nasdaq MRX, LLC, MIAX PEARL, LLC, MIAX Emerald, LLC, MIAX Sapphire, LLC, MEMX LLC, MX2 LLC and Investors Exchange LLC Concerning Options-Related Sales Practice Matters</title>
+    <updated>2026-08-28T00:00:00+00:00</updated>
+    <content>Source: Finra
+Date: 2026-08-28</content>
+    <link href="https://www.federalregister.gov/documents/2026/08/28/2026-17548/program-for-allocation-of-regulatory-responsibilities-pursuant-to-rule-17d-2-notice-of-filing-and"/>
+    <published>2026-08-28T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.federalregister.gov/documents/2026/08/28/2026-17549/self-regulatory-organizations-financial-industry-regulatory-authority-inc-notice-of-filing-of-a</id>
+    <title>Self-Regulatory Organizations; Financial Industry Regulatory Authority, Inc.; Notice of Filing of a Proposed Rule Change To Amend the Codes of Arbitration Procedure To Make Changes to Certain Provisions Relating to Arbitrator List Selection</title>
+    <updated>2026-08-28T00:00:00+00:00</updated>
+    <content>Source: Finra
+Date: 2026-08-28</content>
+    <link href="https://www.federalregister.gov/documents/2026/08/28/2026-17549/self-regulatory-organizations-financial-industry-regulatory-authority-inc-notice-of-filing-of-a"/>
+    <published>2026-08-28T00:00:00+00:00</published>
   </entry>
 </feed>
