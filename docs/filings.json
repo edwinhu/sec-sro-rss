@@ -1,7 +1,31 @@
 {
-  "updated": "2026-08-29T01:20:11.494665+00:00",
-  "count": 27,
+  "updated": "2026-08-29T11:59:22.194739+00:00",
+  "count": 28,
   "filings": [
+    {
+      "id": "cf81b803c56d",
+      "title": "DTCC ITP LLC; Notice of Filing of Application for Exemption From Registration as a Clearing Agency Under Section 17A of the Securities Exchange Act of 1934",
+      "url": "https://www.federalregister.gov/documents/2026/08/31/2026-17674/dtcc-itp-llc-notice-of-filing-of-application-for-exemption-from-registration-as-a-clearing-agency",
+      "date": "2026-08-31",
+      "description": "",
+      "source": "national-securities-exchanges"
+    },
+    {
+      "id": "8ff5d93ebb6b",
+      "title": "Self-Regulatory Organizations; Cboe Exchange, Inc.; Notice of Designation of a Longer Period for Commission Action on a Proposed Rule Change To Amend Its Rules To Permit the Listing of Binary Options Overlying Key Performance Indicators Reported by Certain Issuers of Stock",
+      "url": "https://www.federalregister.gov/documents/2026/08/31/2026-17667/self-regulatory-organizations-cboe-exchange-inc-notice-of-designation-of-a-longer-period-for",
+      "date": "2026-08-31",
+      "description": "",
+      "source": "national-securities-exchanges"
+    },
+    {
+      "id": "14e4dbf1ee81",
+      "title": "Self-Regulatory Organizations; CME Securities Clearing Inc.; Notice of Filing of Proposed Rule Change To Adopt Standards for Establishing Cross-Margin Arrangements and Adopt a Cross-Margin Arrangement With Chicago Mercantile Exchange Inc.",
+      "url": "https://www.federalregister.gov/documents/2026/08/31/2026-17666/self-regulatory-organizations-cme-securities-clearing-inc-notice-of-filing-of-proposed-rule-change",
+      "date": "2026-08-31",
+      "description": "",
+      "source": "national-securities-exchanges"
+    },
     {
       "id": "e09d3a63a089",
       "title": "Self-Regulatory Organizations; Financial Industry Regulatory Authority, Inc.; Notice of Filing of a Proposed Rule Change To Amend the Codes of Arbitration Procedure To Make Changes to Certain Provisions Relating to Arbitrator List Selection",
@@ -199,22 +223,6 @@
       "title": "Self-Regulatory Organizations; Fixed Income Clearing Corporation; Notice of Designation of Longer Period for Commission Action on Proposed Rule Change To Modify the GSD Rules To Adopt a U.S. Treasury Clearing Trade Submission Requirement",
       "url": "https://www.federalregister.gov/documents/2026/08/11/2026-16280/self-regulatory-organizations-fixed-income-clearing-corporation-notice-of-designation-of-longer",
       "date": "2026-08-11",
-      "description": "",
-      "source": "national-securities-exchanges"
-    },
-    {
-      "id": "4f359935a8df",
-      "title": "Self-Regulatory Organizations; CME Securities Clearing Inc.; Notice of Filing of Proposed Rule Change To Adopt CMESC Margin Policy",
-      "url": "https://www.federalregister.gov/documents/2026/08/07/2026-16098/self-regulatory-organizations-cme-securities-clearing-inc-notice-of-filing-of-proposed-rule-change",
-      "date": "2026-08-07",
-      "description": "",
-      "source": "national-securities-exchanges"
-    },
-    {
-      "id": "ef9c43ffb5c0",
-      "title": "Self-Regulatory Organizations; The Options Clearing Corporation; Order Approving Proposed Rule Change by The Options Clearing Corporation To Amend Its System for Theoretical Analysis and Numerical Simulation Methodology Description To Incorporate Options Implied Interest Rates as an Additional Source of Interest Rates Inputs for Constructing the Interest Rate Discount Curve Used in Options Pricing",
-      "url": "https://www.federalregister.gov/documents/2026/08/06/2026-15928/self-regulatory-organizations-the-options-clearing-corporation-order-approving-proposed-rule-change",
-      "date": "2026-08-06",
       "description": "",
       "source": "national-securities-exchanges"
     }
