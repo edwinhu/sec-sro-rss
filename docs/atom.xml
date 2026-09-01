@@ -2,38 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://github.com/edwinhu/sec-sro-rss</id>
   <title>SEC Self-Regulatory Organization Rulemaking</title>
-  <updated>2026-09-01T02:43:54.083176+00:00</updated>
+  <updated>2026-09-01T10:48:48.656240+00:00</updated>
   <link href="https://www.sec.gov/rules-regulations/self-regulatory-organization-rulemaking" rel="alternate"/>
   <link href="https://edwinhu.github.io/sec-sro-rss/feed.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Filtered SEC SRO filings (excludes immediate effectiveness notices and crypto)</subtitle>
-  <entry>
-    <id>https://www.federalregister.gov/documents/2026/08/11/2026-16280/self-regulatory-organizations-fixed-income-clearing-corporation-notice-of-designation-of-longer</id>
-    <title>Self-Regulatory Organizations; Fixed Income Clearing Corporation; Notice of Designation of Longer Period for Commission Action on Proposed Rule Change To Modify the GSD Rules To Adopt a U.S. Treasury Clearing Trade Submission Requirement</title>
-    <updated>2026-08-11T00:00:00+00:00</updated>
-    <content>Source: National Securities Exchanges
-Date: 2026-08-11</content>
-    <link href="https://www.federalregister.gov/documents/2026/08/11/2026-16280/self-regulatory-organizations-fixed-income-clearing-corporation-notice-of-designation-of-longer"/>
-    <published>2026-08-11T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.federalregister.gov/documents/2026/08/11/2026-16281/self-regulatory-organizations-fixed-income-clearing-corporation-notice-of-filing-and-extension-of</id>
-    <title>Self-Regulatory Organizations; Fixed Income Clearing Corporation; Notice of Filing and Extension of the Review Period of an Advance Notice, as Modified by Partial Amendment No. 1, To Establish a Guaranty Fund at the Government Securities Division</title>
-    <updated>2026-08-11T00:00:00+00:00</updated>
-    <content>Source: National Securities Exchanges
-Date: 2026-08-11</content>
-    <link href="https://www.federalregister.gov/documents/2026/08/11/2026-16281/self-regulatory-organizations-fixed-income-clearing-corporation-notice-of-filing-and-extension-of"/>
-    <published>2026-08-11T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.federalregister.gov/documents/2026/08/11/2026-16282/self-regulatory-organizations-fixed-income-clearing-corporation-notice-of-filing-of-proposed-rule</id>
-    <title>Self-Regulatory Organizations; Fixed Income Clearing Corporation; Notice of Filing of Proposed Rule Change, as Modified by Partial Amendment No. 1, To Establish a Guaranty Fund at the Government Securities Division</title>
-    <updated>2026-08-11T00:00:00+00:00</updated>
-    <content>Source: National Securities Exchanges
-Date: 2026-08-11</content>
-    <link href="https://www.federalregister.gov/documents/2026/08/11/2026-16282/self-regulatory-organizations-fixed-income-clearing-corporation-notice-of-filing-of-proposed-rule"/>
-    <published>2026-08-11T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>https://www.federalregister.gov/documents/2026/08/13/2026-16460/self-regulatory-organizations-nasdaq-ise-llc-notice-of-filing-of-proposed-rule-change-to-amend-the</id>
     <title>Self-Regulatory Organizations; Nasdaq ISE, LLC; Notice of Filing of Proposed Rule Change To Amend the Criteria for Underlying Securities</title>
@@ -258,5 +231,14 @@ Date: 2026-08-31</content>
 Date: 2026-08-31</content>
     <link href="https://www.federalregister.gov/documents/2026/08/31/2026-17674/dtcc-itp-llc-notice-of-filing-of-application-for-exemption-from-registration-as-a-clearing-agency"/>
     <published>2026-08-31T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.federalregister.gov/documents/2026/09/01/2026-17801/self-regulatory-organizations-nyse-texas-inc-notice-of-filing-of-proposed-rule-change-to-adopt-new</id>
+    <title>Self-Regulatory Organizations; NYSE Texas, Inc.; Notice of Filing of Proposed Rule Change To Adopt New Rule 24 Under Article 22 of the NYSE Texas Rule Book</title>
+    <updated>2026-09-01T00:00:00+00:00</updated>
+    <content>Source: National Securities Exchanges
+Date: 2026-09-01</content>
+    <link href="https://www.federalregister.gov/documents/2026/09/01/2026-17801/self-regulatory-organizations-nyse-texas-inc-notice-of-filing-of-proposed-rule-change-to-adopt-new"/>
+    <published>2026-09-01T00:00:00+00:00</published>
   </entry>
 </feed>

@@ -1,7 +1,15 @@
 {
-  "updated": "2026-09-01T02:43:54.102637+00:00",
-  "count": 28,
+  "updated": "2026-09-01T10:48:48.674575+00:00",
+  "count": 26,
   "filings": [
+    {
+      "id": "16f33b86f682",
+      "title": "Self-Regulatory Organizations; NYSE Texas, Inc.; Notice of Filing of Proposed Rule Change To Adopt New Rule 24 Under Article 22 of the NYSE Texas Rule Book",
+      "url": "https://www.federalregister.gov/documents/2026/09/01/2026-17801/self-regulatory-organizations-nyse-texas-inc-notice-of-filing-of-proposed-rule-change-to-adopt-new",
+      "date": "2026-09-01",
+      "description": "",
+      "source": "national-securities-exchanges"
+    },
     {
       "id": "cf81b803c56d",
       "title": "DTCC ITP LLC; Notice of Filing of Application for Exemption From Registration as a Clearing Agency Under Section 17A of the Securities Exchange Act of 1934",
@@ -199,30 +207,6 @@
       "title": "Self-Regulatory Organizations; Nasdaq ISE, LLC; Notice of Filing of Proposed Rule Change To Amend the Criteria for Underlying Securities",
       "url": "https://www.federalregister.gov/documents/2026/08/13/2026-16460/self-regulatory-organizations-nasdaq-ise-llc-notice-of-filing-of-proposed-rule-change-to-amend-the",
       "date": "2026-08-13",
-      "description": "",
-      "source": "national-securities-exchanges"
-    },
-    {
-      "id": "1af842f12f8a",
-      "title": "Self-Regulatory Organizations; Fixed Income Clearing Corporation; Notice of Filing of Proposed Rule Change, as Modified by Partial Amendment No. 1, To Establish a Guaranty Fund at the Government Securities Division",
-      "url": "https://www.federalregister.gov/documents/2026/08/11/2026-16282/self-regulatory-organizations-fixed-income-clearing-corporation-notice-of-filing-of-proposed-rule",
-      "date": "2026-08-11",
-      "description": "",
-      "source": "national-securities-exchanges"
-    },
-    {
-      "id": "6f8d672f9659",
-      "title": "Self-Regulatory Organizations; Fixed Income Clearing Corporation; Notice of Filing and Extension of the Review Period of an Advance Notice, as Modified by Partial Amendment No. 1, To Establish a Guaranty Fund at the Government Securities Division",
-      "url": "https://www.federalregister.gov/documents/2026/08/11/2026-16281/self-regulatory-organizations-fixed-income-clearing-corporation-notice-of-filing-and-extension-of",
-      "date": "2026-08-11",
-      "description": "",
-      "source": "national-securities-exchanges"
-    },
-    {
-      "id": "223332e427ee",
-      "title": "Self-Regulatory Organizations; Fixed Income Clearing Corporation; Notice of Designation of Longer Period for Commission Action on Proposed Rule Change To Modify the GSD Rules To Adopt a U.S. Treasury Clearing Trade Submission Requirement",
-      "url": "https://www.federalregister.gov/documents/2026/08/11/2026-16280/self-regulatory-organizations-fixed-income-clearing-corporation-notice-of-designation-of-longer",
-      "date": "2026-08-11",
       "description": "",
       "source": "national-securities-exchanges"
     }
