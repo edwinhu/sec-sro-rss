@@ -2,20 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://github.com/edwinhu/sec-sro-rss</id>
   <title>SEC Self-Regulatory Organization Rulemaking</title>
-  <updated>2026-09-04T02:06:45.540465+00:00</updated>
+  <updated>2026-09-04T10:11:44.095029+00:00</updated>
   <link href="https://www.sec.gov/rules-regulations/self-regulatory-organization-rulemaking" rel="alternate"/>
   <link href="https://edwinhu.github.io/sec-sro-rss/feed.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Filtered SEC SRO filings (excludes immediate effectiveness notices and crypto)</subtitle>
-  <entry>
-    <id>https://www.federalregister.gov/documents/2026/08/14/2026-16572/order-granting-temporary-conditional-exemptive-relief-to-24x-national-exchange-llc-from-certain</id>
-    <title>Order Granting Temporary Conditional Exemptive Relief to 24X National Exchange LLC From Certain Requirements of Rule 602 of Regulation NMS, Certain Requirements of Certain Equity Data Plans, and Section 19(g)(1) of the Securities Exchange Act of 1934, Pursuant to Section 36 of the Securities Exchange Act of 1934 and Rules 602 and 608 of Regulation NMS, To Permit Certain Overnight Trading, Subject to Certain Conditions, and Effective As of January 24, 2027 and Until the Earlier of (1) the date the Extended Hours Amendments Are Implemented or (2) July 2, 2027</title>
-    <updated>2026-08-14T00:00:00+00:00</updated>
-    <content>Source: National Securities Exchanges
-Date: 2026-08-14</content>
-    <link href="https://www.federalregister.gov/documents/2026/08/14/2026-16572/order-granting-temporary-conditional-exemptive-relief-to-24x-national-exchange-llc-from-certain"/>
-    <published>2026-08-14T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>https://www.federalregister.gov/documents/2026/08/17/2026-16695/self-regulatory-organizations-nasdaq-ise-llc-order-approving-a-proposed-rule-change-to-amend-the</id>
     <title>Self-Regulatory Organizations; Nasdaq ISE, LLC; Order Approving a Proposed Rule Change To Amend the Short Term Option Series Program Related to Qualifying Securities</title>
