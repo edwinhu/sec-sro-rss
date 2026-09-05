@@ -1,7 +1,39 @@
 {
-  "updated": "2026-09-05T02:06:53.490442+00:00",
-  "count": 29,
+  "updated": "2026-09-05T09:40:44.378617+00:00",
+  "count": 32,
   "filings": [
+    {
+      "id": "fd2f91ca1359",
+      "title": "Agency Information Collection Activities; Proposed Collection; Comment Request; Revision: Ombudsman Matter Management System (OMMS) Submission Form",
+      "url": "https://www.federalregister.gov/documents/2026/09/08/2026-18253/agency-information-collection-activities-proposed-collection-comment-request-revision-ombudsman",
+      "date": "2026-09-08",
+      "description": "",
+      "source": "national-securities-exchanges"
+    },
+    {
+      "id": "51d5c7a2740c",
+      "title": "Self-Regulatory Organizations; The Options Clearing Corporation; Notice of Filing of Proposed Rule Change by The Options Clearing Corporation Concerning Amendments to Its Clearing Membership Standards",
+      "url": "https://www.federalregister.gov/documents/2026/09/08/2026-18211/self-regulatory-organizations-the-options-clearing-corporation-notice-of-filing-of-proposed-rule",
+      "date": "2026-09-08",
+      "description": "",
+      "source": "national-securities-exchanges"
+    },
+    {
+      "id": "6861480bece8",
+      "title": "Self-Regulatory Organizations; ICE Clear Credit LLC; Order Approving Proposed Rule Change Relating to the Risk Management Model Description for the CDS Clearing Service",
+      "url": "https://www.federalregister.gov/documents/2026/09/08/2026-18210/self-regulatory-organizations-ice-clear-credit-llc-order-approving-proposed-rule-change-relating-to",
+      "date": "2026-09-08",
+      "description": "",
+      "source": "national-securities-exchanges"
+    },
+    {
+      "id": "caaafd0ae098",
+      "title": "Self-Regulatory Organizations; Financial Industry Regulatory Authority, Inc.; Order Approving a Proposed Rule Change To Amend FINRA Rule 4515.01 (Allocations of Orders Made by Investment Advisers)",
+      "url": "https://www.federalregister.gov/documents/2026/09/08/2026-18206/self-regulatory-organizations-financial-industry-regulatory-authority-inc-order-approving-a-proposed",
+      "date": "2026-09-08",
+      "description": "",
+      "source": "finra"
+    },
     {
       "id": "b2e18814e116",
       "title": "Notice of a Request for Exemption From Certain Provisions of the National Market System Plan Governing the Consolidated Audit Trail Related to the Recovery of Costs Incurred During Period 4 of the Financial Accountability Milestones Pursuant to Section 36 of the Securities Exchange Act of 1934 and/or Rule 608(e) of Regulation NMS Thereunder, and Request for Comment",
@@ -223,14 +255,6 @@
       "title": "Self-Regulatory Organizations; New York Stock Exchange LLC; Notice of Filing of a Proposed Rule Change To Amend Sections 303A.00 and 303A.07 of the NYSE Listed Company Manual",
       "url": "https://www.federalregister.gov/documents/2026/08/18/2026-16781/self-regulatory-organizations-new-york-stock-exchange-llc-notice-of-filing-of-a-proposed-rule-change",
       "date": "2026-08-18",
-      "description": "",
-      "source": "national-securities-exchanges"
-    },
-    {
-      "id": "15509d31444f",
-      "title": "Self-Regulatory Organizations; Nasdaq ISE, LLC; Order Approving a Proposed Rule Change To Amend the Short Term Option Series Program Related to Qualifying Securities",
-      "url": "https://www.federalregister.gov/documents/2026/08/17/2026-16695/self-regulatory-organizations-nasdaq-ise-llc-order-approving-a-proposed-rule-change-to-amend-the",
-      "date": "2026-08-17",
       "description": "",
       "source": "national-securities-exchanges"
     }

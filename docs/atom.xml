@@ -2,20 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://github.com/edwinhu/sec-sro-rss</id>
   <title>SEC Self-Regulatory Organization Rulemaking</title>
-  <updated>2026-09-05T02:06:53.480507+00:00</updated>
+  <updated>2026-09-05T09:40:44.368140+00:00</updated>
   <link href="https://www.sec.gov/rules-regulations/self-regulatory-organization-rulemaking" rel="alternate"/>
   <link href="https://edwinhu.github.io/sec-sro-rss/feed.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Filtered SEC SRO filings (excludes immediate effectiveness notices and crypto)</subtitle>
-  <entry>
-    <id>https://www.federalregister.gov/documents/2026/08/17/2026-16695/self-regulatory-organizations-nasdaq-ise-llc-order-approving-a-proposed-rule-change-to-amend-the</id>
-    <title>Self-Regulatory Organizations; Nasdaq ISE, LLC; Order Approving a Proposed Rule Change To Amend the Short Term Option Series Program Related to Qualifying Securities</title>
-    <updated>2026-08-17T00:00:00+00:00</updated>
-    <content>Source: National Securities Exchanges
-Date: 2026-08-17</content>
-    <link href="https://www.federalregister.gov/documents/2026/08/17/2026-16695/self-regulatory-organizations-nasdaq-ise-llc-order-approving-a-proposed-rule-change-to-amend-the"/>
-    <published>2026-08-17T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>https://www.federalregister.gov/documents/2026/08/18/2026-16781/self-regulatory-organizations-new-york-stock-exchange-llc-notice-of-filing-of-a-proposed-rule-change</id>
     <title>Self-Regulatory Organizations; New York Stock Exchange LLC; Notice of Filing of a Proposed Rule Change To Amend Sections 303A.00 and 303A.07 of the NYSE Listed Company Manual</title>
@@ -267,5 +258,41 @@ Date: 2026-09-03</content>
 Date: 2026-09-03</content>
     <link href="https://www.federalregister.gov/documents/2026/09/03/2026-18071/notice-of-a-request-for-exemption-from-certain-provisions-of-the-national-market-system-plan"/>
     <published>2026-09-03T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.federalregister.gov/documents/2026/09/08/2026-18206/self-regulatory-organizations-financial-industry-regulatory-authority-inc-order-approving-a-proposed</id>
+    <title>Self-Regulatory Organizations; Financial Industry Regulatory Authority, Inc.; Order Approving a Proposed Rule Change To Amend FINRA Rule 4515.01 (Allocations of Orders Made by Investment Advisers)</title>
+    <updated>2026-09-08T00:00:00+00:00</updated>
+    <content>Source: Finra
+Date: 2026-09-08</content>
+    <link href="https://www.federalregister.gov/documents/2026/09/08/2026-18206/self-regulatory-organizations-financial-industry-regulatory-authority-inc-order-approving-a-proposed"/>
+    <published>2026-09-08T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.federalregister.gov/documents/2026/09/08/2026-18210/self-regulatory-organizations-ice-clear-credit-llc-order-approving-proposed-rule-change-relating-to</id>
+    <title>Self-Regulatory Organizations; ICE Clear Credit LLC; Order Approving Proposed Rule Change Relating to the Risk Management Model Description for the CDS Clearing Service</title>
+    <updated>2026-09-08T00:00:00+00:00</updated>
+    <content>Source: National Securities Exchanges
+Date: 2026-09-08</content>
+    <link href="https://www.federalregister.gov/documents/2026/09/08/2026-18210/self-regulatory-organizations-ice-clear-credit-llc-order-approving-proposed-rule-change-relating-to"/>
+    <published>2026-09-08T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.federalregister.gov/documents/2026/09/08/2026-18211/self-regulatory-organizations-the-options-clearing-corporation-notice-of-filing-of-proposed-rule</id>
+    <title>Self-Regulatory Organizations; The Options Clearing Corporation; Notice of Filing of Proposed Rule Change by The Options Clearing Corporation Concerning Amendments to Its Clearing Membership Standards</title>
+    <updated>2026-09-08T00:00:00+00:00</updated>
+    <content>Source: National Securities Exchanges
+Date: 2026-09-08</content>
+    <link href="https://www.federalregister.gov/documents/2026/09/08/2026-18211/self-regulatory-organizations-the-options-clearing-corporation-notice-of-filing-of-proposed-rule"/>
+    <published>2026-09-08T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.federalregister.gov/documents/2026/09/08/2026-18253/agency-information-collection-activities-proposed-collection-comment-request-revision-ombudsman</id>
+    <title>Agency Information Collection Activities; Proposed Collection; Comment Request; Revision: Ombudsman Matter Management System (OMMS) Submission Form</title>
+    <updated>2026-09-08T00:00:00+00:00</updated>
+    <content>Source: National Securities Exchanges
+Date: 2026-09-08</content>
+    <link href="https://www.federalregister.gov/documents/2026/09/08/2026-18253/agency-information-collection-activities-proposed-collection-comment-request-revision-ombudsman"/>
+    <published>2026-09-08T00:00:00+00:00</published>
   </entry>
 </feed>
