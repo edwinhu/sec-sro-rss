@@ -1,7 +1,31 @@
 {
-  "updated": "2026-09-09T02:14:56.078560+00:00",
-  "count": 32,
+  "updated": "2026-09-09T10:25:58.609680+00:00",
+  "count": 34,
   "filings": [
+    {
+      "id": "5edf4786a43d",
+      "title": "Self-Regulatory Organizations; Financial Industry Regulatory Authority, Inc.; Notice of Filing of a Proposed Rule Change To Amend FINRA Rules 0150 (Application of Rules to Exempted Securities Except Municipal Securities), 2165 (Financial Exploitation of Specified Adults) and 4512 (Customer Account Information) and To Adopt FINRA Rule 2166 (Temporary Delays for Suspected Fraud)",
+      "url": "https://www.federalregister.gov/documents/2026/09/09/2026-18293/self-regulatory-organizations-financial-industry-regulatory-authority-inc-notice-of-filing-of-a",
+      "date": "2026-09-09",
+      "description": "",
+      "source": "finra"
+    },
+    {
+      "id": "43c6a0b7d44a",
+      "title": "Self-Regulatory Organizations; Financial Industry Regulatory Authority, Inc.; Notice of Filing of a Proposed Rule Change To Amend FINRA Rule 4522 (Periodic Security Counts, Verifications and Comparisons) To Simplify Position Statement and Reconciliation Requirements for Certain Alternative Investments",
+      "url": "https://www.federalregister.gov/documents/2026/09/09/2026-18292/self-regulatory-organizations-financial-industry-regulatory-authority-inc-notice-of-filing-of-a",
+      "date": "2026-09-09",
+      "description": "",
+      "source": "finra"
+    },
+    {
+      "id": "f823a3aa59b7",
+      "title": "Self-Regulatory Organizations; Nasdaq Texas, LLC; Notice of Filing, and Order Granting Accelerated Approval of, a Proposed Rule Change To Amend Rule 5711(d) (Commodity-Based Trust Shares)",
+      "url": "https://www.federalregister.gov/documents/2026/09/09/2026-18291/self-regulatory-organizations-nasdaq-texas-llc-notice-of-filing-and-order-granting-accelerated",
+      "date": "2026-09-09",
+      "description": "",
+      "source": "national-securities-exchanges"
+    },
     {
       "id": "fd2f91ca1359",
       "title": "Agency Information Collection Activities; Proposed Collection; Comment Request; Revision: Ombudsman Matter Management System (OMMS) Submission Form",
@@ -246,14 +270,6 @@
       "id": "0689f0b60940",
       "title": "Self-Regulatory Organizations; The Options Clearing Corporation; Notice of Filing of Advance Notice Relating to The Options Clearing Corporation's Proposal To Amend the Evergreen Provisions Relating to Its Revolving Credit Facility",
       "url": "https://www.federalregister.gov/documents/2026/08/18/2026-16782/self-regulatory-organizations-the-options-clearing-corporation-notice-of-filing-of-advance-notice",
-      "date": "2026-08-18",
-      "description": "",
-      "source": "national-securities-exchanges"
-    },
-    {
-      "id": "64c42382acc9",
-      "title": "Self-Regulatory Organizations; New York Stock Exchange LLC; Notice of Filing of a Proposed Rule Change To Amend Sections 303A.00 and 303A.07 of the NYSE Listed Company Manual",
-      "url": "https://www.federalregister.gov/documents/2026/08/18/2026-16781/self-regulatory-organizations-new-york-stock-exchange-llc-notice-of-filing-of-a-proposed-rule-change",
       "date": "2026-08-18",
       "description": "",
       "source": "national-securities-exchanges"
