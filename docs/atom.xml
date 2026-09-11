@@ -2,20 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://github.com/edwinhu/sec-sro-rss</id>
   <title>SEC Self-Regulatory Organization Rulemaking</title>
-  <updated>2026-09-11T02:09:22.329288+00:00</updated>
+  <updated>2026-09-11T10:15:55.274594+00:00</updated>
   <link href="https://www.sec.gov/rules-regulations/self-regulatory-organization-rulemaking" rel="alternate"/>
   <link href="https://edwinhu.github.io/sec-sro-rss/feed.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Filtered SEC SRO filings (excludes immediate effectiveness notices and crypto)</subtitle>
-  <entry>
-    <id>https://www.federalregister.gov/documents/2026/08/18/2026-16831/self-regulatory-organizations-new-york-stock-exchange-llc-notice-of-filing-of-amendment-no-2-and</id>
-    <title>Self-Regulatory Organizations; New York Stock Exchange LLC; Notice of Filing of Amendment No. 2 and Order Granting Accelerated Approval of a Proposed Rule Change, as Modified by Amendment No. 2, To Amend Section 802.01C of the NYSE Listed Company Manual</title>
-    <updated>2026-08-18T00:00:00+00:00</updated>
-    <content>Source: National Securities Exchanges
-Date: 2026-08-18</content>
-    <link href="https://www.federalregister.gov/documents/2026/08/18/2026-16831/self-regulatory-organizations-new-york-stock-exchange-llc-notice-of-filing-of-amendment-no-2-and"/>
-    <published>2026-08-18T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>https://www.federalregister.gov/documents/2026/08/19/2026-16857/self-regulatory-organizations-texas-stock-exchange-llc-notice-of-designation-of-a-longer-period-for</id>
     <title>Self-Regulatory Organizations; Texas Stock Exchange LLC; Notice of Designation of a Longer Period for Commission Action on a Proposed Rule Change To Amend a Continued Listing Standard Relating to Beneficial Holders Applicable to Exchange Traded Fund Shares Listed Under Rule 17.104(b)(2)(B)</title>
@@ -267,5 +258,14 @@ Date: 2026-09-09</content>
 Date: 2026-09-09</content>
     <link href="https://www.federalregister.gov/documents/2026/09/09/2026-18293/self-regulatory-organizations-financial-industry-regulatory-authority-inc-notice-of-filing-of-a"/>
     <published>2026-09-09T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.federalregister.gov/documents/2026/09/11/2026-18536/self-regulatory-organizations-texas-stock-exchange-llc-order-instituting-proceedings-to-determine</id>
+    <title>Self-Regulatory Organizations; Texas Stock Exchange LLC; Order Instituting Proceedings To Determine Whether To Approve or Disapprove a Proposed Rule Change To Amend Exchange Rule 13.003 Related to Proxy Voting</title>
+    <updated>2026-09-11T00:00:00+00:00</updated>
+    <content>Source: National Securities Exchanges
+Date: 2026-09-11</content>
+    <link href="https://www.federalregister.gov/documents/2026/09/11/2026-18536/self-regulatory-organizations-texas-stock-exchange-llc-order-instituting-proceedings-to-determine"/>
+    <published>2026-09-11T00:00:00+00:00</published>
   </entry>
 </feed>
