@@ -2,29 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://github.com/edwinhu/sec-sro-rss</id>
   <title>SEC Self-Regulatory Organization Rulemaking</title>
-  <updated>2026-09-16T02:28:53.008449+00:00</updated>
+  <updated>2026-09-16T10:31:04.508258+00:00</updated>
   <link href="https://www.sec.gov/rules-regulations/self-regulatory-organization-rulemaking" rel="alternate"/>
   <link href="https://edwinhu.github.io/sec-sro-rss/feed.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Filtered SEC SRO filings (excludes immediate effectiveness notices and crypto)</subtitle>
-  <entry>
-    <id>https://www.federalregister.gov/documents/2026/08/27/2026-17461/agency-information-collection-activities-submission-for-omb-review-comment-request-extension-rule</id>
-    <title>Agency Information Collection Activities; Submission for OMB Review; Comment Request; Extension: Rule 19b-7 and Form 19b-7</title>
-    <updated>2026-08-27T00:00:00+00:00</updated>
-    <content>Source: National Securities Exchanges
-Date: 2026-08-27</content>
-    <link href="https://www.federalregister.gov/documents/2026/08/27/2026-17461/agency-information-collection-activities-submission-for-omb-review-comment-request-extension-rule"/>
-    <published>2026-08-27T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.federalregister.gov/documents/2026/08/27/2026-17465/self-regulatory-organizations-memx-llc-notice-of-filing-of-a-proposal-to-adopt-rules-for-the-listing</id>
-    <title>Self-Regulatory Organizations; MEMX LLC; Notice of Filing of a Proposal To Adopt Rules for the Listing and Trading of Securities Event Contracts on the Exchange</title>
-    <updated>2026-08-27T00:00:00+00:00</updated>
-    <content>Source: National Securities Exchanges
-Date: 2026-08-27</content>
-    <link href="https://www.federalregister.gov/documents/2026/08/27/2026-17465/self-regulatory-organizations-memx-llc-notice-of-filing-of-a-proposal-to-adopt-rules-for-the-listing"/>
-    <published>2026-08-27T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>https://www.federalregister.gov/documents/2026/08/28/2026-17548/program-for-allocation-of-regulatory-responsibilities-pursuant-to-rule-17d-2-notice-of-filing-and</id>
     <title>Program for Allocation of Regulatory Responsibilities Pursuant to Rule 17d-2; Notice of Filing and Order Approving and Declaring Effective an Amendment to the Plan for the Allocation of Regulatory Responsibilities Among Cboe BZX Exchange, Inc., BOX Exchange, LLC, Cboe Exchange, Inc., Cboe C2 Exchange, Inc., Nasdaq ISE, LLC, Financial Industry Regulatory Authority, Inc., Miami International Securities Exchange, LLC, NYSE American LLC, NYSE Arca, Inc., The Nasdaq Stock Market LLC, Nasdaq Texas LLC, Nasdaq PHLX LLC, Nasdaq GEMX, LLC, Cboe EDGX Exchange, Inc., Nasdaq MRX, LLC, MIAX PEARL, LLC, MIAX Emerald, LLC, MIAX Sapphire, LLC, MEMX LLC, MX2 LLC and Investors Exchange LLC Concerning Options-Related Sales Practice Matters</title>
