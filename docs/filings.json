@@ -1,7 +1,31 @@
 {
-  "updated": "2026-09-18T02:18:39.049765+00:00",
-  "count": 29,
+  "updated": "2026-09-18T10:16:32.686700+00:00",
+  "count": 27,
   "filings": [
+    {
+      "id": "9833e9bddf9d",
+      "title": "Self-Regulatory Organizations; NYSE Arca, Inc.; Notice of Filing of a Proposed Rule Change To Permit the Listing of Binary KPI Options",
+      "url": "https://www.federalregister.gov/documents/2026/09/18/2026-19139/self-regulatory-organizations-nyse-arca-inc-notice-of-filing-of-a-proposed-rule-change-to-permit-the",
+      "date": "2026-09-18",
+      "description": "",
+      "source": "national-securities-exchanges"
+    },
+    {
+      "id": "a4203da51db0",
+      "title": "Self-Regulatory Organizations; NYSE American LLC; Notice of Filing of a Proposed Rule Change To Permit the Listing of Binary KPI Options",
+      "url": "https://www.federalregister.gov/documents/2026/09/18/2026-19132/self-regulatory-organizations-nyse-american-llc-notice-of-filing-of-a-proposed-rule-change-to-permit",
+      "date": "2026-09-18",
+      "description": "",
+      "source": "national-securities-exchanges"
+    },
+    {
+      "id": "89ec5ae15712",
+      "title": "Self-Regulatory Organizations; Financial Industry Regulatory Authority, Inc.; Order Approving a Proposed Rule Change, as Modified by Partial Amendment No. 1, To Adopt FINRA Rule 3290 (Outside Activities Requirements)",
+      "url": "https://www.federalregister.gov/documents/2026/09/18/2026-19126/self-regulatory-organizations-financial-industry-regulatory-authority-inc-order-approving-a-proposed",
+      "date": "2026-09-18",
+      "description": "",
+      "source": "finra"
+    },
     {
       "id": "02d1c6a5bf64",
       "title": "Self-Regulatory Organizations; LCH SA; Order Granting Conditional Exemptive Relief Pursuant to Section 36 of the Securities Exchange Act of 1934 Relating to Rule Filing Requirements",
@@ -191,46 +215,6 @@
       "title": "Self-Regulatory Organizations; NYSE American LLC; Notice of Filing of Amendment No. 2, and Order Granting Accelerated Approval of a Proposed Change, as Modified by Amendment No. 2, To Amend Its Rules To Extend Trading Hours for Certain Eligible Equity Options",
       "url": "https://www.federalregister.gov/documents/2026/09/02/2026-17914/self-regulatory-organizations-nyse-american-llc-notice-of-filing-of-amendment-no-2-and-order",
       "date": "2026-09-02",
-      "description": "",
-      "source": "national-securities-exchanges"
-    },
-    {
-      "id": "7774eb2791f7",
-      "title": "Self-Regulatory Organizations; Cboe Exchange, Inc.; Notice of Filing of Amendment No. 1 and Order Granting Accelerated Approval of a Proposed Rule Change, as Modified by Amendment Nos. 1 and 2, To Adopt VIX Future-Option Orders",
-      "url": "https://www.federalregister.gov/documents/2026/09/02/2026-17908/self-regulatory-organizations-cboe-exchange-inc-notice-of-filing-of-amendment-no-1-and-order",
-      "date": "2026-09-02",
-      "description": "",
-      "source": "national-securities-exchanges"
-    },
-    {
-      "id": "16f33b86f682",
-      "title": "Self-Regulatory Organizations; NYSE Texas, Inc.; Notice of Filing of Proposed Rule Change To Adopt New Rule 24 Under Article 22 of the NYSE Texas Rule Book",
-      "url": "https://www.federalregister.gov/documents/2026/09/01/2026-17801/self-regulatory-organizations-nyse-texas-inc-notice-of-filing-of-proposed-rule-change-to-adopt-new",
-      "date": "2026-09-01",
-      "description": "",
-      "source": "national-securities-exchanges"
-    },
-    {
-      "id": "cf81b803c56d",
-      "title": "DTCC ITP LLC; Notice of Filing of Application for Exemption From Registration as a Clearing Agency Under Section 17A of the Securities Exchange Act of 1934",
-      "url": "https://www.federalregister.gov/documents/2026/08/31/2026-17674/dtcc-itp-llc-notice-of-filing-of-application-for-exemption-from-registration-as-a-clearing-agency",
-      "date": "2026-08-31",
-      "description": "",
-      "source": "national-securities-exchanges"
-    },
-    {
-      "id": "8ff5d93ebb6b",
-      "title": "Self-Regulatory Organizations; Cboe Exchange, Inc.; Notice of Designation of a Longer Period for Commission Action on a Proposed Rule Change To Amend Its Rules To Permit the Listing of Binary Options Overlying Key Performance Indicators Reported by Certain Issuers of Stock",
-      "url": "https://www.federalregister.gov/documents/2026/08/31/2026-17667/self-regulatory-organizations-cboe-exchange-inc-notice-of-designation-of-a-longer-period-for",
-      "date": "2026-08-31",
-      "description": "",
-      "source": "national-securities-exchanges"
-    },
-    {
-      "id": "14e4dbf1ee81",
-      "title": "Self-Regulatory Organizations; CME Securities Clearing Inc.; Notice of Filing of Proposed Rule Change To Adopt Standards for Establishing Cross-Margin Arrangements and Adopt a Cross-Margin Arrangement With Chicago Mercantile Exchange Inc.",
-      "url": "https://www.federalregister.gov/documents/2026/08/31/2026-17666/self-regulatory-organizations-cme-securities-clearing-inc-notice-of-filing-of-proposed-rule-change",
-      "date": "2026-08-31",
       "description": "",
       "source": "national-securities-exchanges"
     }
