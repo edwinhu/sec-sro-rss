@@ -1,7 +1,15 @@
 {
-  "updated": "2026-09-22T02:31:11.355650+00:00",
-  "count": 27,
+  "updated": "2026-09-22T10:37:06.196421+00:00",
+  "count": 25,
   "filings": [
+    {
+      "id": "5ef8e5333eeb",
+      "title": "Order Granting Temporary Conditional Exemptive Relief, Pursuant to Section 36(a)(1) of the Securities Exchange Act of 1934, From the Definition of \u201cExchange\u201d in Section 3(a)(1) of the Exchange Act for the Use of Certain Distributed Ledger Trading Venues for Tokenized NMS Stocks and From the Definition of \u201cDealer\u201d in Section 3(a)(5) of the Exchange Act for Certain Liquidity Providers for Tokenized NMS Stocks, and Request for Comment",
+      "url": "https://www.federalregister.gov/documents/2026/09/22/2026-19388/order-granting-temporary-conditional-exemptive-relief-pursuant-to-section-36a1-of-the-securities",
+      "date": "2026-09-22",
+      "description": "",
+      "source": "national-securities-exchanges"
+    },
     {
       "id": "18ca710ad85a",
       "title": "Self-Regulatory Organizations; The Options Clearing Corporation; Notice of Filing of Partial Amendment No. 1 and Order Granting Accelerated Approval of Proposed Rule Change as Modified by Partial Amendment No. 1, by the Options Clearing Corporation Concerning the Payment of Interest on Margin Cash",
@@ -191,30 +199,6 @@
       "title": "Self-Regulatory Organizations; CME Securities Clearing Inc.; Notice of Filing of Proposed Rule Change To Amend Rule 410, Rule 101, the Capped Liquidity Facility Procedure, and the Liquidity Risk Management Policy",
       "url": "https://www.federalregister.gov/documents/2026/09/03/2026-18002/self-regulatory-organizations-cme-securities-clearing-inc-notice-of-filing-of-proposed-rule-change",
       "date": "2026-09-03",
-      "description": "",
-      "source": "national-securities-exchanges"
-    },
-    {
-      "id": "87005bf9e0b1",
-      "title": "Self-Regulatory Organizations; Cboe EDGA Exchange, Inc.; Order Granting Approval of Proposed Rule Change To Amend Rules Regarding Intermarket Sweep Orders",
-      "url": "https://www.federalregister.gov/documents/2026/09/02/2026-17920/self-regulatory-organizations-cboe-edga-exchange-inc-order-granting-approval-of-proposed-rule-change",
-      "date": "2026-09-02",
-      "description": "",
-      "source": "national-securities-exchanges"
-    },
-    {
-      "id": "348e88ee3713",
-      "title": "Self-Regulatory Organizations; Cboe BZX Exchange, Inc.; Order Granting Approval of Proposed Rule Change To Amend Rules Regarding Intermarket Sweep Orders",
-      "url": "https://www.federalregister.gov/documents/2026/09/02/2026-17918/self-regulatory-organizations-cboe-bzx-exchange-inc-order-granting-approval-of-proposed-rule-change",
-      "date": "2026-09-02",
-      "description": "",
-      "source": "national-securities-exchanges"
-    },
-    {
-      "id": "3996bc79a98b",
-      "title": "Self-Regulatory Organizations; Cboe EDGX Exchange, Inc.; Order Granting Approval of Proposed Rule Change To Amend Rules Regarding Intermarket Sweep Orders",
-      "url": "https://www.federalregister.gov/documents/2026/09/02/2026-17917/self-regulatory-organizations-cboe-edgx-exchange-inc-order-granting-approval-of-proposed-rule-change",
-      "date": "2026-09-02",
       "description": "",
       "source": "national-securities-exchanges"
     }
