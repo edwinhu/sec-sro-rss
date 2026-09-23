@@ -2,29 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://github.com/edwinhu/sec-sro-rss</id>
   <title>SEC Self-Regulatory Organization Rulemaking</title>
-  <updated>2026-09-23T02:31:10.541979+00:00</updated>
+  <updated>2026-09-23T10:29:47.644744+00:00</updated>
   <link href="https://www.sec.gov/rules-regulations/self-regulatory-organization-rulemaking" rel="alternate"/>
   <link href="https://edwinhu.github.io/sec-sro-rss/feed.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Filtered SEC SRO filings (excludes immediate effectiveness notices and crypto)</subtitle>
-  <entry>
-    <id>https://www.federalregister.gov/documents/2026/09/03/2026-18002/self-regulatory-organizations-cme-securities-clearing-inc-notice-of-filing-of-proposed-rule-change</id>
-    <title>Self-Regulatory Organizations; CME Securities Clearing Inc.; Notice of Filing of Proposed Rule Change To Amend Rule 410, Rule 101, the Capped Liquidity Facility Procedure, and the Liquidity Risk Management Policy</title>
-    <updated>2026-09-03T00:00:00+00:00</updated>
-    <content>Source: National Securities Exchanges
-Date: 2026-09-03</content>
-    <link href="https://www.federalregister.gov/documents/2026/09/03/2026-18002/self-regulatory-organizations-cme-securities-clearing-inc-notice-of-filing-of-proposed-rule-change"/>
-    <published>2026-09-03T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.federalregister.gov/documents/2026/09/03/2026-18071/notice-of-a-request-for-exemption-from-certain-provisions-of-the-national-market-system-plan</id>
-    <title>Notice of a Request for Exemption From Certain Provisions of the National Market System Plan Governing the Consolidated Audit Trail Related to the Recovery of Costs Incurred During Period 4 of the Financial Accountability Milestones Pursuant to Section 36 of the Securities Exchange Act of 1934 and/or Rule 608(e) of Regulation NMS Thereunder, and Request for Comment</title>
-    <updated>2026-09-03T00:00:00+00:00</updated>
-    <content>Source: National Securities Exchanges
-Date: 2026-09-03</content>
-    <link href="https://www.federalregister.gov/documents/2026/09/03/2026-18071/notice-of-a-request-for-exemption-from-certain-provisions-of-the-national-market-system-plan"/>
-    <published>2026-09-03T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>https://www.federalregister.gov/documents/2026/09/08/2026-18206/self-regulatory-organizations-financial-industry-regulatory-authority-inc-order-approving-a-proposed</id>
     <title>Self-Regulatory Organizations; Financial Industry Regulatory Authority, Inc.; Order Approving a Proposed Rule Change To Amend FINRA Rule 4515.01 (Allocations of Orders Made by Investment Advisers)</title>
@@ -231,5 +213,14 @@ Date: 2026-09-21</content>
 Date: 2026-09-22</content>
     <link href="https://www.federalregister.gov/documents/2026/09/22/2026-19388/order-granting-temporary-conditional-exemptive-relief-pursuant-to-section-36a1-of-the-securities"/>
     <published>2026-09-22T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.federalregister.gov/documents/2026/09/23/2026-19408/self-regulatory-organizations-bitnomial-exchange-llc-notice-of-a-filing-of-a-proposed-rule-change</id>
+    <title>Self-Regulatory Organizations; Bitnomial Exchange, LLC; Notice of a Filing of a Proposed Rule Change Relating to Security Futures Product Listing Standards, Customer Margin and Related Rules</title>
+    <updated>2026-09-23T00:00:00+00:00</updated>
+    <content>Source: National Securities Exchanges
+Date: 2026-09-23</content>
+    <link href="https://www.federalregister.gov/documents/2026/09/23/2026-19408/self-regulatory-organizations-bitnomial-exchange-llc-notice-of-a-filing-of-a-proposed-rule-change"/>
+    <published>2026-09-23T00:00:00+00:00</published>
   </entry>
 </feed>
