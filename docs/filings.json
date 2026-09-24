@@ -1,7 +1,31 @@
 {
-  "updated": "2026-09-24T02:21:07.217211+00:00",
+  "updated": "2026-09-24T10:46:36.063820+00:00",
   "count": 24,
   "filings": [
+    {
+      "id": "7df3cd5bb0e7",
+      "title": "Self-Regulatory Organizations; Nasdaq ISE, LLC; Notice of Designation of a Longer Period for Commission Action on a Proposed Rule Change To Amend the Criteria for Underlying Securities",
+      "url": "https://www.federalregister.gov/documents/2026/09/24/2026-19514/self-regulatory-organizations-nasdaq-ise-llc-notice-of-designation-of-a-longer-period-for-commission",
+      "date": "2026-09-24",
+      "description": "",
+      "source": "national-securities-exchanges"
+    },
+    {
+      "id": "a9e754841521",
+      "title": "Self-Regulatory Organizations; Cboe Exchange, Inc.; Notice of Designation of a Longer Period for Commission Action on Proceedings To Determine Whether To Approve or Disapprove a Proposed Rule Change To Accommodate Stop-Limit Complex Orders and To Establish Stop Complex Order Auctions as a New Type of Auction Mechanism",
+      "url": "https://www.federalregister.gov/documents/2026/09/24/2026-19513/self-regulatory-organizations-cboe-exchange-inc-notice-of-designation-of-a-longer-period-for",
+      "date": "2026-09-24",
+      "description": "",
+      "source": "national-securities-exchanges"
+    },
+    {
+      "id": "734b738b81ba",
+      "title": "Self-Regulatory Organizations; Coinbase Derivatives, LLC; Notice of Filing of a Proposed Rule Change Relating to Customer Margin Requirements for Security Futures Products",
+      "url": "https://www.federalregister.gov/documents/2026/09/24/2026-19512/self-regulatory-organizations-coinbase-derivatives-llc-notice-of-filing-of-a-proposed-rule-change",
+      "date": "2026-09-24",
+      "description": "",
+      "source": "national-securities-exchanges"
+    },
     {
       "id": "e717328146da",
       "title": "Self-Regulatory Organizations; Bitnomial Exchange, LLC; Notice of a Filing of a Proposed Rule Change Relating to Security Futures Product Listing Standards, Customer Margin and Related Rules",
@@ -169,30 +193,6 @@
       "date": "2026-09-08",
       "description": "",
       "source": "national-securities-exchanges"
-    },
-    {
-      "id": "51d5c7a2740c",
-      "title": "Self-Regulatory Organizations; The Options Clearing Corporation; Notice of Filing of Proposed Rule Change by The Options Clearing Corporation Concerning Amendments to Its Clearing Membership Standards",
-      "url": "https://www.federalregister.gov/documents/2026/09/08/2026-18211/self-regulatory-organizations-the-options-clearing-corporation-notice-of-filing-of-proposed-rule",
-      "date": "2026-09-08",
-      "description": "",
-      "source": "national-securities-exchanges"
-    },
-    {
-      "id": "6861480bece8",
-      "title": "Self-Regulatory Organizations; ICE Clear Credit LLC; Order Approving Proposed Rule Change Relating to the Risk Management Model Description for the CDS Clearing Service",
-      "url": "https://www.federalregister.gov/documents/2026/09/08/2026-18210/self-regulatory-organizations-ice-clear-credit-llc-order-approving-proposed-rule-change-relating-to",
-      "date": "2026-09-08",
-      "description": "",
-      "source": "national-securities-exchanges"
-    },
-    {
-      "id": "caaafd0ae098",
-      "title": "Self-Regulatory Organizations; Financial Industry Regulatory Authority, Inc.; Order Approving a Proposed Rule Change To Amend FINRA Rule 4515.01 (Allocations of Orders Made by Investment Advisers)",
-      "url": "https://www.federalregister.gov/documents/2026/09/08/2026-18206/self-regulatory-organizations-financial-industry-regulatory-authority-inc-order-approving-a-proposed",
-      "date": "2026-09-08",
-      "description": "",
-      "source": "finra"
     }
   ]
 }

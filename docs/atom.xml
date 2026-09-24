@@ -2,38 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://github.com/edwinhu/sec-sro-rss</id>
   <title>SEC Self-Regulatory Organization Rulemaking</title>
-  <updated>2026-09-24T02:21:07.131577+00:00</updated>
+  <updated>2026-09-24T10:46:36.048152+00:00</updated>
   <link href="https://www.sec.gov/rules-regulations/self-regulatory-organization-rulemaking" rel="alternate"/>
   <link href="https://edwinhu.github.io/sec-sro-rss/feed.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Filtered SEC SRO filings (excludes immediate effectiveness notices and crypto)</subtitle>
-  <entry>
-    <id>https://www.federalregister.gov/documents/2026/09/08/2026-18206/self-regulatory-organizations-financial-industry-regulatory-authority-inc-order-approving-a-proposed</id>
-    <title>Self-Regulatory Organizations; Financial Industry Regulatory Authority, Inc.; Order Approving a Proposed Rule Change To Amend FINRA Rule 4515.01 (Allocations of Orders Made by Investment Advisers)</title>
-    <updated>2026-09-08T00:00:00+00:00</updated>
-    <content>Source: Finra
-Date: 2026-09-08</content>
-    <link href="https://www.federalregister.gov/documents/2026/09/08/2026-18206/self-regulatory-organizations-financial-industry-regulatory-authority-inc-order-approving-a-proposed"/>
-    <published>2026-09-08T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.federalregister.gov/documents/2026/09/08/2026-18210/self-regulatory-organizations-ice-clear-credit-llc-order-approving-proposed-rule-change-relating-to</id>
-    <title>Self-Regulatory Organizations; ICE Clear Credit LLC; Order Approving Proposed Rule Change Relating to the Risk Management Model Description for the CDS Clearing Service</title>
-    <updated>2026-09-08T00:00:00+00:00</updated>
-    <content>Source: National Securities Exchanges
-Date: 2026-09-08</content>
-    <link href="https://www.federalregister.gov/documents/2026/09/08/2026-18210/self-regulatory-organizations-ice-clear-credit-llc-order-approving-proposed-rule-change-relating-to"/>
-    <published>2026-09-08T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.federalregister.gov/documents/2026/09/08/2026-18211/self-regulatory-organizations-the-options-clearing-corporation-notice-of-filing-of-proposed-rule</id>
-    <title>Self-Regulatory Organizations; The Options Clearing Corporation; Notice of Filing of Proposed Rule Change by The Options Clearing Corporation Concerning Amendments to Its Clearing Membership Standards</title>
-    <updated>2026-09-08T00:00:00+00:00</updated>
-    <content>Source: National Securities Exchanges
-Date: 2026-09-08</content>
-    <link href="https://www.federalregister.gov/documents/2026/09/08/2026-18211/self-regulatory-organizations-the-options-clearing-corporation-notice-of-filing-of-proposed-rule"/>
-    <published>2026-09-08T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>https://www.federalregister.gov/documents/2026/09/08/2026-18253/agency-information-collection-activities-proposed-collection-comment-request-revision-ombudsman</id>
     <title>Agency Information Collection Activities; Proposed Collection; Comment Request; Revision: Ombudsman Matter Management System (OMMS) Submission Form</title>
@@ -222,5 +195,32 @@ Date: 2026-09-22</content>
 Date: 2026-09-23</content>
     <link href="https://www.federalregister.gov/documents/2026/09/23/2026-19408/self-regulatory-organizations-bitnomial-exchange-llc-notice-of-a-filing-of-a-proposed-rule-change"/>
     <published>2026-09-23T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.federalregister.gov/documents/2026/09/24/2026-19512/self-regulatory-organizations-coinbase-derivatives-llc-notice-of-filing-of-a-proposed-rule-change</id>
+    <title>Self-Regulatory Organizations; Coinbase Derivatives, LLC; Notice of Filing of a Proposed Rule Change Relating to Customer Margin Requirements for Security Futures Products</title>
+    <updated>2026-09-24T00:00:00+00:00</updated>
+    <content>Source: National Securities Exchanges
+Date: 2026-09-24</content>
+    <link href="https://www.federalregister.gov/documents/2026/09/24/2026-19512/self-regulatory-organizations-coinbase-derivatives-llc-notice-of-filing-of-a-proposed-rule-change"/>
+    <published>2026-09-24T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.federalregister.gov/documents/2026/09/24/2026-19513/self-regulatory-organizations-cboe-exchange-inc-notice-of-designation-of-a-longer-period-for</id>
+    <title>Self-Regulatory Organizations; Cboe Exchange, Inc.; Notice of Designation of a Longer Period for Commission Action on Proceedings To Determine Whether To Approve or Disapprove a Proposed Rule Change To Accommodate Stop-Limit Complex Orders and To Establish Stop Complex Order Auctions as a New Type of Auction Mechanism</title>
+    <updated>2026-09-24T00:00:00+00:00</updated>
+    <content>Source: National Securities Exchanges
+Date: 2026-09-24</content>
+    <link href="https://www.federalregister.gov/documents/2026/09/24/2026-19513/self-regulatory-organizations-cboe-exchange-inc-notice-of-designation-of-a-longer-period-for"/>
+    <published>2026-09-24T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.federalregister.gov/documents/2026/09/24/2026-19514/self-regulatory-organizations-nasdaq-ise-llc-notice-of-designation-of-a-longer-period-for-commission</id>
+    <title>Self-Regulatory Organizations; Nasdaq ISE, LLC; Notice of Designation of a Longer Period for Commission Action on a Proposed Rule Change To Amend the Criteria for Underlying Securities</title>
+    <updated>2026-09-24T00:00:00+00:00</updated>
+    <content>Source: National Securities Exchanges
+Date: 2026-09-24</content>
+    <link href="https://www.federalregister.gov/documents/2026/09/24/2026-19514/self-regulatory-organizations-nasdaq-ise-llc-notice-of-designation-of-a-longer-period-for-commission"/>
+    <published>2026-09-24T00:00:00+00:00</published>
   </entry>
 </feed>
