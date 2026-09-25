@@ -2,47 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://github.com/edwinhu/sec-sro-rss</id>
   <title>SEC Self-Regulatory Organization Rulemaking</title>
-  <updated>2026-09-25T02:36:41.324110+00:00</updated>
+  <updated>2026-09-25T10:51:28.101036+00:00</updated>
   <link href="https://www.sec.gov/rules-regulations/self-regulatory-organization-rulemaking" rel="alternate"/>
   <link href="https://edwinhu.github.io/sec-sro-rss/feed.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Filtered SEC SRO filings (excludes immediate effectiveness notices and crypto)</subtitle>
-  <entry>
-    <id>https://www.federalregister.gov/documents/2026/09/08/2026-18253/agency-information-collection-activities-proposed-collection-comment-request-revision-ombudsman</id>
-    <title>Agency Information Collection Activities; Proposed Collection; Comment Request; Revision: Ombudsman Matter Management System (OMMS) Submission Form</title>
-    <updated>2026-09-08T00:00:00+00:00</updated>
-    <content>Source: National Securities Exchanges
-Date: 2026-09-08</content>
-    <link href="https://www.federalregister.gov/documents/2026/09/08/2026-18253/agency-information-collection-activities-proposed-collection-comment-request-revision-ombudsman"/>
-    <published>2026-09-08T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.federalregister.gov/documents/2026/09/09/2026-18291/self-regulatory-organizations-nasdaq-texas-llc-notice-of-filing-and-order-granting-accelerated</id>
-    <title>Self-Regulatory Organizations; Nasdaq Texas, LLC; Notice of Filing, and Order Granting Accelerated Approval of, a Proposed Rule Change To Amend Rule 5711(d) (Commodity-Based Trust Shares)</title>
-    <updated>2026-09-09T00:00:00+00:00</updated>
-    <content>Source: National Securities Exchanges
-Date: 2026-09-09</content>
-    <link href="https://www.federalregister.gov/documents/2026/09/09/2026-18291/self-regulatory-organizations-nasdaq-texas-llc-notice-of-filing-and-order-granting-accelerated"/>
-    <published>2026-09-09T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.federalregister.gov/documents/2026/09/09/2026-18292/self-regulatory-organizations-financial-industry-regulatory-authority-inc-notice-of-filing-of-a</id>
-    <title>Self-Regulatory Organizations; Financial Industry Regulatory Authority, Inc.; Notice of Filing of a Proposed Rule Change To Amend FINRA Rule 4522 (Periodic Security Counts, Verifications and Comparisons) To Simplify Position Statement and Reconciliation Requirements for Certain Alternative Investments</title>
-    <updated>2026-09-09T00:00:00+00:00</updated>
-    <content>Source: Finra
-Date: 2026-09-09</content>
-    <link href="https://www.federalregister.gov/documents/2026/09/09/2026-18292/self-regulatory-organizations-financial-industry-regulatory-authority-inc-notice-of-filing-of-a"/>
-    <published>2026-09-09T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.federalregister.gov/documents/2026/09/09/2026-18293/self-regulatory-organizations-financial-industry-regulatory-authority-inc-notice-of-filing-of-a</id>
-    <title>Self-Regulatory Organizations; Financial Industry Regulatory Authority, Inc.; Notice of Filing of a Proposed Rule Change To Amend FINRA Rules 0150 (Application of Rules to Exempted Securities Except Municipal Securities), 2165 (Financial Exploitation of Specified Adults) and 4512 (Customer Account Information) and To Adopt FINRA Rule 2166 (Temporary Delays for Suspected Fraud)</title>
-    <updated>2026-09-09T00:00:00+00:00</updated>
-    <content>Source: Finra
-Date: 2026-09-09</content>
-    <link href="https://www.federalregister.gov/documents/2026/09/09/2026-18293/self-regulatory-organizations-financial-industry-regulatory-authority-inc-notice-of-filing-of-a"/>
-    <published>2026-09-09T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>https://www.federalregister.gov/documents/2026/09/11/2026-18536/self-regulatory-organizations-texas-stock-exchange-llc-order-instituting-proceedings-to-determine</id>
     <title>Self-Regulatory Organizations; Texas Stock Exchange LLC; Order Instituting Proceedings To Determine Whether To Approve or Disapprove a Proposed Rule Change To Amend Exchange Rule 13.003 Related to Proxy Voting</title>
@@ -222,5 +186,14 @@ Date: 2026-09-24</content>
 Date: 2026-09-24</content>
     <link href="https://www.federalregister.gov/documents/2026/09/24/2026-19514/self-regulatory-organizations-nasdaq-ise-llc-notice-of-designation-of-a-longer-period-for-commission"/>
     <published>2026-09-24T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.federalregister.gov/documents/2026/09/25/2026-19619/agency-information-collection-activities-submission-for-omb-review-comment-request-extension-rule</id>
+    <title>Agency Information Collection Activities; Submission for OMB Review; Comment Request; Extension: Rule 608</title>
+    <updated>2026-09-25T00:00:00+00:00</updated>
+    <content>Source: National Securities Exchanges
+Date: 2026-09-25</content>
+    <link href="https://www.federalregister.gov/documents/2026/09/25/2026-19619/agency-information-collection-activities-submission-for-omb-review-comment-request-extension-rule"/>
+    <published>2026-09-25T00:00:00+00:00</published>
   </entry>
 </feed>
