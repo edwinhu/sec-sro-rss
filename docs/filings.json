@@ -1,7 +1,31 @@
 {
-  "updated": "2026-09-30T03:06:30.820019+00:00",
-  "count": 22,
+  "updated": "2026-09-30T11:36:42.264843+00:00",
+  "count": 23,
   "filings": [
+    {
+      "id": "12184f8a67f0",
+      "title": "Agency Information Collection Activities; Submission for OMB Review; Comment Request; Extension: Rule 17a-11",
+      "url": "https://www.federalregister.gov/documents/2026/09/30/2026-20055/agency-information-collection-activities-submission-for-omb-review-comment-request-extension-rule",
+      "date": "2026-09-30",
+      "description": "",
+      "source": "national-securities-exchanges"
+    },
+    {
+      "id": "ebc841a11a4e",
+      "title": "Self-Regulatory Organizations; Fixed Income Clearing Corporation; Notice of Filing of Partial Amendment No. 1, and Order Instituting Proceedings To Determine Whether To Approve or Disapprove a Proposed Rule Change, as Modified by Partial Amendment No. 1, To Modify the GSD Rules To Adopt a U.S. Treasury Clearing Trade Submission Requirement",
+      "url": "https://www.federalregister.gov/documents/2026/09/30/2026-19957/self-regulatory-organizations-fixed-income-clearing-corporation-notice-of-filing-of-partial",
+      "date": "2026-09-30",
+      "description": "",
+      "source": "national-securities-exchanges"
+    },
+    {
+      "id": "3b60d6b1e862",
+      "title": "Self-Regulatory Organizations; New York Stock Exchange LLC; Notice of Designation of a Longer Period for Commission Action on a Proposed Rule Change To Amend Sections 303A.00 and 303A.07 of the NYSE Listed Company Manual",
+      "url": "https://www.federalregister.gov/documents/2026/09/30/2026-19953/self-regulatory-organizations-new-york-stock-exchange-llc-notice-of-designation-of-a-longer-period",
+      "date": "2026-09-30",
+      "description": "",
+      "source": "national-securities-exchanges"
+    },
     {
       "id": "848801dd76e0",
       "title": "Notice of an Application of Cboe Clear U.S., LLC for an Exemption Pursuant to Section 36 of the Securities Exchange Act of 1934 Regarding the Treatment of Customer Margin Under Item 13 and Note F of Exhibit A to Rule 15c3-3",
@@ -159,22 +183,6 @@
       "title": "Self-Regulatory Organizations; Fixed Income Clearing Corporation; Notice of Designation of Longer Period for Commission Action on Proposed Rule Change, as Modified by Partial Amendment No. 1, To Establish a Guaranty Fund at the Government Securities Division",
       "url": "https://www.federalregister.gov/documents/2026/09/15/2026-18815/self-regulatory-organizations-fixed-income-clearing-corporation-notice-of-designation-of-longer",
       "date": "2026-09-15",
-      "description": "",
-      "source": "national-securities-exchanges"
-    },
-    {
-      "id": "57fff8231c01",
-      "title": "Self-Regulatory Organizations; The Nasdaq Stock Market LLC; Notice of Designation of a Longer Period for Commission Action on Proceedings To Determine Whether To Approve or Disapprove a Proposed Rule Change To List and Trade Shares of the VanEck JitoSOL ETF Under Nasdaq Rule 5711(d) (Commodity-Based Trust Shares)",
-      "url": "https://www.federalregister.gov/documents/2026/09/14/2026-18661/self-regulatory-organizations-the-nasdaq-stock-market-llc-notice-of-designation-of-a-longer-period",
-      "date": "2026-09-14",
-      "description": "",
-      "source": "national-securities-exchanges"
-    },
-    {
-      "id": "d2f17dbdc528",
-      "title": "Self-Regulatory Organizations; ICE Clear Credit LLC; Notice of Filing of Proposed Rule Change Relating to the ICE Clear Credit Recovery Plan and ICE Clear Credit Wind-Down Plan",
-      "url": "https://www.federalregister.gov/documents/2026/09/14/2026-18660/self-regulatory-organizations-ice-clear-credit-llc-notice-of-filing-of-proposed-rule-change-relating",
-      "date": "2026-09-14",
       "description": "",
       "source": "national-securities-exchanges"
     }
