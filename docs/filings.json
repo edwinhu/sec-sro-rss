@@ -1,7 +1,15 @@
 {
-  "updated": "2026-10-01T03:13:28.970493+00:00",
-  "count": 23,
+  "updated": "2026-10-01T12:05:47.035781+00:00",
+  "count": 24,
   "filings": [
+    {
+      "id": "5bd3437f5967",
+      "title": "Self-Regulatory Organizations; CME Securities Clearing Inc.; Order Approving Proposed Rule Change To amend the CMESC Stress Testing & Guaranty Fund Sizing Policy and Proposed Amendments to Rule 402(b)",
+      "url": "https://www.federalregister.gov/documents/2026/10/01/2026-20074/self-regulatory-organizations-cme-securities-clearing-inc-order-approving-proposed-rule-change-to",
+      "date": "2026-10-01",
+      "description": "",
+      "source": "national-securities-exchanges"
+    },
     {
       "id": "12184f8a67f0",
       "title": "Agency Information Collection Activities; Submission for OMB Review; Comment Request; Extension: Rule 17a-11",
