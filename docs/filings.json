@@ -1,7 +1,55 @@
 {
-  "updated": "2026-10-03T03:00:29.630375+00:00",
-  "count": 22,
+  "updated": "2026-10-03T10:50:16.346148+00:00",
+  "count": 24,
   "filings": [
+    {
+      "id": "1a3c4b6e7958",
+      "title": "Potential Designation of Chartered Financial Analyst Designation as Qualifying Natural Persons for Accredited Investor Status",
+      "url": "https://www.federalregister.gov/documents/2026/10/05/2026-20311/potential-designation-of-chartered-financial-analyst-designation-as-qualifying-natural-persons-for",
+      "date": "2026-10-05",
+      "description": "Notice is given that the Securities and Exchange Commission (the \"Commission\") is considering whether to issue an order designating holding a charter as a Chartered Financial Analyst (\"CFA\") in good standing as qualifying natural persons for accredited investor status.",
+      "source": "national-securities-exchanges"
+    },
+    {
+      "id": "9a3a3117072c",
+      "title": "Potential Designation of Passage of an Accredited Investor Exam To Be Developed by FINRA as Qualifying Natural Persons for Accredited Investor Status",
+      "url": "https://www.federalregister.gov/documents/2026/10/05/2026-20310/potential-designation-of-passage-of-an-accredited-investor-exam-to-be-developed-by-finra-as",
+      "date": "2026-10-05",
+      "description": "Notice is given that the Securities and Exchange Commission (the \"Commission\") is considering whether to issue an order designating passage of an accredited investor exam (the \"Exam\") to be developed by the Financial Industry Regulatory Authority, Inc. (\"FINRA\") as qualifying natural persons for accredited investor status.",
+      "source": "finra"
+    },
+    {
+      "id": "efd9b53c32c9",
+      "title": "Potential Designation of Certified Financial Planner Certification as Qualifying Natural Persons for Accredited Investor Status",
+      "url": "https://www.federalregister.gov/documents/2026/10/05/2026-20309/potential-designation-of-certified-financial-planner-certification-as-qualifying-natural-persons-for",
+      "date": "2026-10-05",
+      "description": "Notice is given that the Securities and Exchange Commission (the \"Commission\") is considering whether to issue an order designating holding a certification as a Certified Financial Planner (a \"CFP\") in the United States in good standing as qualifying natural persons for accredited investor status.",
+      "source": "national-securities-exchanges"
+    },
+    {
+      "id": "b69317929225",
+      "title": "Potential Designation of U.S. Certified Public Accountant License as Qualifying Natural Persons for Accredited Investor Status",
+      "url": "https://www.federalregister.gov/documents/2026/10/05/2026-20308/potential-designation-of-us-certified-public-accountant-license-as-qualifying-natural-persons-for",
+      "date": "2026-10-05",
+      "description": "Notice is given that the Securities and Exchange Commission (the \"Commission\") is considering whether to issue an order designating holding a license as a U.S. certified public accountant (a \"CPA\") in good standing as qualifying natural persons for accredited investor status.",
+      "source": "national-securities-exchanges"
+    },
+    {
+      "id": "e0c38cbf2c27",
+      "title": "Potential Designations of the Investment Banking Representative License (Series 79) and the Research Analyst License (Series 86 and Series 87) as Qualifying Natural Persons for Accredited Investor Status",
+      "url": "https://www.federalregister.gov/documents/2026/10/05/2026-20307/potential-designations-of-the-investment-banking-representative-license-series-79-and-the-research",
+      "date": "2026-10-05",
+      "description": "Notice is given that the Securities and Exchange Commission (the \"Commission\") is considering whether to issue an order designating the Investment Banking Representative license (Series 79) and the Research Analyst license (Series 86 and Series 87) as each independently qualifying natural persons for accredited investor status.",
+      "source": "national-securities-exchanges"
+    },
+    {
+      "id": "88033eb62af1",
+      "title": "Self-Regulatory Organizations; The Depository Trust Company; Notice of Filing of Proposed Rule Change To Modernize the Direct Registration System",
+      "url": "https://www.federalregister.gov/documents/2026/10/05/2026-20301/self-regulatory-organizations-the-depository-trust-company-notice-of-filing-of-proposed-rule-change",
+      "date": "2026-10-05",
+      "description": "",
+      "source": "national-securities-exchanges"
+    },
     {
       "id": "5bd3437f5967",
       "title": "Self-Regulatory Organizations; CME Securities Clearing Inc.; Order Approving Proposed Rule Change To amend the CMESC Stress Testing & Guaranty Fund Sizing Policy and Proposed Amendments to Rule 402(b)",
@@ -145,38 +193,6 @@
       "date": "2026-09-18",
       "description": "",
       "source": "finra"
-    },
-    {
-      "id": "02d1c6a5bf64",
-      "title": "Self-Regulatory Organizations; LCH SA; Order Granting Conditional Exemptive Relief Pursuant to Section 36 of the Securities Exchange Act of 1934 Relating to Rule Filing Requirements",
-      "url": "https://www.federalregister.gov/documents/2026/09/17/2026-19054/self-regulatory-organizations-lch-sa-order-granting-conditional-exemptive-relief-pursuant-to-section",
-      "date": "2026-09-17",
-      "description": "",
-      "source": "national-securities-exchanges"
-    },
-    {
-      "id": "44f33ff06956",
-      "title": "Joint Industry Plan; Order Approving the Third Amendment to the National Market System Plan Regarding Consolidated Equity Market Data To Revise the Revenue Allocation Formula",
-      "url": "https://www.federalregister.gov/documents/2026/09/17/2026-19043/joint-industry-plan-order-approving-the-third-amendment-to-the-national-market-system-plan-regarding",
-      "date": "2026-09-17",
-      "description": "",
-      "source": "national-securities-exchanges"
-    },
-    {
-      "id": "6c0c3a4704c6",
-      "title": "Self-Regulatory Organizations; LCH SA; Order Approving Proposed Rule Change Relating to the LCH SA CDSClear Trade Registration Fund",
-      "url": "https://www.federalregister.gov/documents/2026/09/17/2026-19041/self-regulatory-organizations-lch-sa-order-approving-proposed-rule-change-relating-to-the-lch-sa",
-      "date": "2026-09-17",
-      "description": "",
-      "source": "national-securities-exchanges"
-    },
-    {
-      "id": "331836ff5d99",
-      "title": "Self-Regulatory Organizations; NYSE American LLC; Notice of Designation of Longer Period for Commission Action on Proceedings To Determine Whether To Approve or Disapprove a Proposed Rule Change To Amend Sections 1003 and 1009 of the NYSE American Company Guide",
-      "url": "https://www.federalregister.gov/documents/2026/09/17/2026-19039/self-regulatory-organizations-nyse-american-llc-notice-of-designation-of-longer-period-for",
-      "date": "2026-09-17",
-      "description": "",
-      "source": "national-securities-exchanges"
     }
   ]
 }
