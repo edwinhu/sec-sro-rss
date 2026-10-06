@@ -1,7 +1,31 @@
 {
-  "updated": "2026-10-06T03:57:36.484196+00:00",
-  "count": 24,
+  "updated": "2026-10-06T12:27:21.125319+00:00",
+  "count": 27,
   "filings": [
+    {
+      "id": "3f521bff1df9",
+      "title": "Self-Regulatory Organizations; The Options Clearing Corporation; Order Setting Aside Action by Delegated Authority and Approving Proposed Rule Change, as Modified by Partial Amendment No. 1, by The Options Clearing Corporation Concerning Methodology To Allocate Clearing Fund Deposit Requirements Among Its Clearing Members To Better Align the Allocation With the Sizing of the Clearing Fund so Stress Based Risk is Fairly Allotted to Market Participants That Expose OCC to Such Stress Risk",
+      "url": "https://www.federalregister.gov/documents/2026/10/06/2026-20465/self-regulatory-organizations-the-options-clearing-corporation-order-setting-aside-action-by",
+      "date": "2026-10-06",
+      "description": "",
+      "source": "national-securities-exchanges"
+    },
+    {
+      "id": "b5622b6e3822",
+      "title": "Self-Regulatory Organizations; NYSE Arca, Inc.; Order Instituting Proceedings To Determine Whether To Approve or Disapprove a Proposed Rule Change To Amend Rules 5.32-O and 5.35-O",
+      "url": "https://www.federalregister.gov/documents/2026/10/06/2026-20406/self-regulatory-organizations-nyse-arca-inc-order-instituting-proceedings-to-determine-whether-to",
+      "date": "2026-10-06",
+      "description": "",
+      "source": "national-securities-exchanges"
+    },
+    {
+      "id": "a94fe557f781",
+      "title": "Self-Regulatory Organizations; NYSE American LLC; Order Instituting Proceedings To Determine Whether To Approve or Disapprove a Proposed Rule Change To Amend Rules 903G and 906G",
+      "url": "https://www.federalregister.gov/documents/2026/10/06/2026-20405/self-regulatory-organizations-nyse-american-llc-order-instituting-proceedings-to-determine-whether",
+      "date": "2026-10-06",
+      "description": "",
+      "source": "national-securities-exchanges"
+    },
     {
       "id": "1a3c4b6e7958",
       "title": "Potential Designation of Chartered Financial Analyst Designation as Qualifying Natural Persons for Accredited Investor Status",

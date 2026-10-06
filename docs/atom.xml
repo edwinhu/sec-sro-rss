@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://github.com/edwinhu/sec-sro-rss</id>
   <title>SEC Self-Regulatory Organization Rulemaking</title>
-  <updated>2026-10-06T03:57:36.462365+00:00</updated>
+  <updated>2026-10-06T12:27:21.114857+00:00</updated>
   <link href="https://www.sec.gov/rules-regulations/self-regulatory-organization-rulemaking" rel="alternate"/>
   <link href="https://edwinhu.github.io/sec-sro-rss/feed.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -227,5 +227,32 @@ Date: 2026-10-05
 Notice is given that the Securities and Exchange Commission (the "Commission") is considering whether to issue an order designating holding a charter as a Chartered Financial Analyst ("CFA") in good standing as qualifying natural persons for accredited investor status.</content>
     <link href="https://www.federalregister.gov/documents/2026/10/05/2026-20311/potential-designation-of-chartered-financial-analyst-designation-as-qualifying-natural-persons-for"/>
     <published>2026-10-05T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.federalregister.gov/documents/2026/10/06/2026-20405/self-regulatory-organizations-nyse-american-llc-order-instituting-proceedings-to-determine-whether</id>
+    <title>Self-Regulatory Organizations; NYSE American LLC; Order Instituting Proceedings To Determine Whether To Approve or Disapprove a Proposed Rule Change To Amend Rules 903G and 906G</title>
+    <updated>2026-10-06T00:00:00+00:00</updated>
+    <content>Source: National Securities Exchanges
+Date: 2026-10-06</content>
+    <link href="https://www.federalregister.gov/documents/2026/10/06/2026-20405/self-regulatory-organizations-nyse-american-llc-order-instituting-proceedings-to-determine-whether"/>
+    <published>2026-10-06T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.federalregister.gov/documents/2026/10/06/2026-20406/self-regulatory-organizations-nyse-arca-inc-order-instituting-proceedings-to-determine-whether-to</id>
+    <title>Self-Regulatory Organizations; NYSE Arca, Inc.; Order Instituting Proceedings To Determine Whether To Approve or Disapprove a Proposed Rule Change To Amend Rules 5.32-O and 5.35-O</title>
+    <updated>2026-10-06T00:00:00+00:00</updated>
+    <content>Source: National Securities Exchanges
+Date: 2026-10-06</content>
+    <link href="https://www.federalregister.gov/documents/2026/10/06/2026-20406/self-regulatory-organizations-nyse-arca-inc-order-instituting-proceedings-to-determine-whether-to"/>
+    <published>2026-10-06T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.federalregister.gov/documents/2026/10/06/2026-20465/self-regulatory-organizations-the-options-clearing-corporation-order-setting-aside-action-by</id>
+    <title>Self-Regulatory Organizations; The Options Clearing Corporation; Order Setting Aside Action by Delegated Authority and Approving Proposed Rule Change, as Modified by Partial Amendment No. 1, by The Options Clearing Corporation Concerning Methodology To Allocate Clearing Fund Deposit Requirements Among Its Clearing Members To Better Align the Allocation With the Sizing of the Clearing Fund so Stress Based Risk is Fairly Allotted to Market Participants That Expose OCC to Such Stress Risk</title>
+    <updated>2026-10-06T00:00:00+00:00</updated>
+    <content>Source: National Securities Exchanges
+Date: 2026-10-06</content>
+    <link href="https://www.federalregister.gov/documents/2026/10/06/2026-20465/self-regulatory-organizations-the-options-clearing-corporation-order-setting-aside-action-by"/>
+    <published>2026-10-06T00:00:00+00:00</published>
   </entry>
 </feed>
