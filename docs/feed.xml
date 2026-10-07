@@ -8,15 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 07 Oct 2026 03:25:26 +0000</lastBuildDate>
-    <item>
-      <title>Self-Regulatory Organizations; Financial Industry Regulatory Authority, Inc.; Order Approving a Proposed Rule Change, as Modified by Partial Amendment No. 1, To Adopt FINRA Rule 3290 (Outside Activities Requirements)</title>
-      <link>https://www.federalregister.gov/documents/2026/09/18/2026-19126/self-regulatory-organizations-financial-industry-regulatory-authority-inc-order-approving-a-proposed</link>
-      <description>Source: Finra
-Date: 2026-09-18</description>
-      <guid isPermaLink="false">https://www.federalregister.gov/documents/2026/09/18/2026-19126/self-regulatory-organizations-financial-industry-regulatory-authority-inc-order-approving-a-proposed</guid>
-      <pubDate>Fri, 18 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 07 Oct 2026 12:20:29 +0000</lastBuildDate>
     <item>
       <title>Self-Regulatory Organizations; NYSE American LLC; Notice of Filing of a Proposed Rule Change To Permit the Listing of Binary KPI Options</title>
       <link>https://www.federalregister.gov/documents/2026/09/18/2026-19132/self-regulatory-organizations-nyse-american-llc-notice-of-filing-of-a-proposed-rule-change-to-permit</link>
@@ -229,6 +221,14 @@ Date: 2026-10-06</description>
 Date: 2026-10-06</description>
       <guid isPermaLink="false">https://www.federalregister.gov/documents/2026/10/06/2026-20465/self-regulatory-organizations-the-options-clearing-corporation-order-setting-aside-action-by</guid>
       <pubDate>Tue, 06 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Self-Regulatory Organizations; Financial Industry Regulatory Authority, Inc.; Order Approving a Proposed Rule Change, as Modified by Partial Amendment No. 1, To Exempt Specified Collective Trust Funds From FINRA Rules 5130 (Restrictions on the Purchase and Sale of Initial Equity Public Offerings) and 5131(b) (New Issue Allocations and Distributions)</title>
+      <link>https://www.federalregister.gov/documents/2026/10/07/2026-20506/self-regulatory-organizations-financial-industry-regulatory-authority-inc-order-approving-a-proposed</link>
+      <description>Source: Finra
+Date: 2026-10-07</description>
+      <guid isPermaLink="false">https://www.federalregister.gov/documents/2026/10/07/2026-20506/self-regulatory-organizations-financial-industry-regulatory-authority-inc-order-approving-a-proposed</guid>
+      <pubDate>Wed, 07 Oct 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

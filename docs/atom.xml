@@ -2,20 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://github.com/edwinhu/sec-sro-rss</id>
   <title>SEC Self-Regulatory Organization Rulemaking</title>
-  <updated>2026-10-07T03:25:26.470309+00:00</updated>
+  <updated>2026-10-07T12:20:29.596656+00:00</updated>
   <link href="https://www.sec.gov/rules-regulations/self-regulatory-organization-rulemaking" rel="alternate"/>
   <link href="https://edwinhu.github.io/sec-sro-rss/feed.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Filtered SEC SRO filings (excludes immediate effectiveness notices and crypto)</subtitle>
-  <entry>
-    <id>https://www.federalregister.gov/documents/2026/09/18/2026-19126/self-regulatory-organizations-financial-industry-regulatory-authority-inc-order-approving-a-proposed</id>
-    <title>Self-Regulatory Organizations; Financial Industry Regulatory Authority, Inc.; Order Approving a Proposed Rule Change, as Modified by Partial Amendment No. 1, To Adopt FINRA Rule 3290 (Outside Activities Requirements)</title>
-    <updated>2026-09-18T00:00:00+00:00</updated>
-    <content>Source: Finra
-Date: 2026-09-18</content>
-    <link href="https://www.federalregister.gov/documents/2026/09/18/2026-19126/self-regulatory-organizations-financial-industry-regulatory-authority-inc-order-approving-a-proposed"/>
-    <published>2026-09-18T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>https://www.federalregister.gov/documents/2026/09/18/2026-19132/self-regulatory-organizations-nyse-american-llc-notice-of-filing-of-a-proposed-rule-change-to-permit</id>
     <title>Self-Regulatory Organizations; NYSE American LLC; Notice of Filing of a Proposed Rule Change To Permit the Listing of Binary KPI Options</title>
@@ -254,5 +245,14 @@ Date: 2026-10-06</content>
 Date: 2026-10-06</content>
     <link href="https://www.federalregister.gov/documents/2026/10/06/2026-20465/self-regulatory-organizations-the-options-clearing-corporation-order-setting-aside-action-by"/>
     <published>2026-10-06T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.federalregister.gov/documents/2026/10/07/2026-20506/self-regulatory-organizations-financial-industry-regulatory-authority-inc-order-approving-a-proposed</id>
+    <title>Self-Regulatory Organizations; Financial Industry Regulatory Authority, Inc.; Order Approving a Proposed Rule Change, as Modified by Partial Amendment No. 1, To Exempt Specified Collective Trust Funds From FINRA Rules 5130 (Restrictions on the Purchase and Sale of Initial Equity Public Offerings) and 5131(b) (New Issue Allocations and Distributions)</title>
+    <updated>2026-10-07T00:00:00+00:00</updated>
+    <content>Source: Finra
+Date: 2026-10-07</content>
+    <link href="https://www.federalregister.gov/documents/2026/10/07/2026-20506/self-regulatory-organizations-financial-industry-regulatory-authority-inc-order-approving-a-proposed"/>
+    <published>2026-10-07T00:00:00+00:00</published>
   </entry>
 </feed>
