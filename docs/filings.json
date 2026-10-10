@@ -1,7 +1,23 @@
 {
-  "updated": "2026-10-10T03:28:17.382670+00:00",
-  "count": 21,
+  "updated": "2026-10-10T11:36:54.328046+00:00",
+  "count": 19,
   "filings": [
+    {
+      "id": "6a377bab2903",
+      "title": "Self-Regulatory Organizations; MEMX LLC; Notice of Designation of a Longer Period for Commission Action on a Proposed Rule Change To Adopt Rules for the Listing and Trading of Securities Event Contracts on the Exchange",
+      "url": "https://www.federalregister.gov/documents/2026/10/13/2026-20801/self-regulatory-organizations-memx-llc-notice-of-designation-of-a-longer-period-for-commission",
+      "date": "2026-10-13",
+      "description": "",
+      "source": "national-securities-exchanges"
+    },
+    {
+      "id": "1a0435f6f3ce",
+      "title": "Self-Regulatory Organizations; CME Securities Clearing Inc.; Notice of Designation of Longer Period for Commission Action on Proposed Rule Change To Adopt Standards for Establishing Cross-Margin Arrangements and Adopt a Cross-Margin Arrangement With Chicago Mercantile Exchange Inc.",
+      "url": "https://www.federalregister.gov/documents/2026/10/13/2026-20794/self-regulatory-organizations-cme-securities-clearing-inc-notice-of-designation-of-longer-period-for",
+      "date": "2026-10-13",
+      "description": "",
+      "source": "national-securities-exchanges"
+    },
     {
       "id": "018b6bfae119",
       "title": "Self-Regulatory Organizations; Financial Industry Regulatory Authority, Inc.; Order Approving a Proposed Rule Change, as Modified by Partial Amendment No. 1, To Exempt Specified Collective Trust Funds From FINRA Rules 5130 (Restrictions on the Purchase and Sale of Initial Equity Public Offerings) and 5131(b) (New Issue Allocations and Distributions)",
@@ -135,38 +151,6 @@
       "title": "Self-Regulatory Organizations; The Depository Trust Company; Notice of Filing of Proposed Rule Change To Establish and Implement AnnounceDirect for the Submission of Corporate Action Announcements",
       "url": "https://www.federalregister.gov/documents/2026/09/29/2026-19870/self-regulatory-organizations-the-depository-trust-company-notice-of-filing-of-proposed-rule-change",
       "date": "2026-09-29",
-      "description": "",
-      "source": "national-securities-exchanges"
-    },
-    {
-      "id": "4dccd35e7fc0",
-      "title": "Agency Information Collection Activities; Submission for OMB Review; Comment Request; Extension: Rule 608",
-      "url": "https://www.federalregister.gov/documents/2026/09/25/2026-19619/agency-information-collection-activities-submission-for-omb-review-comment-request-extension-rule",
-      "date": "2026-09-25",
-      "description": "",
-      "source": "national-securities-exchanges"
-    },
-    {
-      "id": "7df3cd5bb0e7",
-      "title": "Self-Regulatory Organizations; Nasdaq ISE, LLC; Notice of Designation of a Longer Period for Commission Action on a Proposed Rule Change To Amend the Criteria for Underlying Securities",
-      "url": "https://www.federalregister.gov/documents/2026/09/24/2026-19514/self-regulatory-organizations-nasdaq-ise-llc-notice-of-designation-of-a-longer-period-for-commission",
-      "date": "2026-09-24",
-      "description": "",
-      "source": "national-securities-exchanges"
-    },
-    {
-      "id": "a9e754841521",
-      "title": "Self-Regulatory Organizations; Cboe Exchange, Inc.; Notice of Designation of a Longer Period for Commission Action on Proceedings To Determine Whether To Approve or Disapprove a Proposed Rule Change To Accommodate Stop-Limit Complex Orders and To Establish Stop Complex Order Auctions as a New Type of Auction Mechanism",
-      "url": "https://www.federalregister.gov/documents/2026/09/24/2026-19513/self-regulatory-organizations-cboe-exchange-inc-notice-of-designation-of-a-longer-period-for",
-      "date": "2026-09-24",
-      "description": "",
-      "source": "national-securities-exchanges"
-    },
-    {
-      "id": "734b738b81ba",
-      "title": "Self-Regulatory Organizations; Coinbase Derivatives, LLC; Notice of Filing of a Proposed Rule Change Relating to Customer Margin Requirements for Security Futures Products",
-      "url": "https://www.federalregister.gov/documents/2026/09/24/2026-19512/self-regulatory-organizations-coinbase-derivatives-llc-notice-of-filing-of-a-proposed-rule-change",
-      "date": "2026-09-24",
       "description": "",
       "source": "national-securities-exchanges"
     }
