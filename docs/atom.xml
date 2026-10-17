@@ -2,29 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://github.com/edwinhu/sec-sro-rss</id>
   <title>SEC Self-Regulatory Organization Rulemaking</title>
-  <updated>2026-10-17T02:14:10.579932+00:00</updated>
+  <updated>2026-10-17T09:54:35.747419+00:00</updated>
   <link href="https://www.sec.gov/rules-regulations/self-regulatory-organization-rulemaking" rel="alternate"/>
   <link href="https://edwinhu.github.io/sec-sro-rss/feed.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Filtered SEC SRO filings (excludes immediate effectiveness notices and crypto)</subtitle>
-  <entry>
-    <id>https://www.federalregister.gov/documents/2026/09/30/2026-19957/self-regulatory-organizations-fixed-income-clearing-corporation-notice-of-filing-of-partial</id>
-    <title>Self-Regulatory Organizations; Fixed Income Clearing Corporation; Notice of Filing of Partial Amendment No. 1, and Order Instituting Proceedings To Determine Whether To Approve or Disapprove a Proposed Rule Change, as Modified by Partial Amendment No. 1, To Modify the GSD Rules To Adopt a U.S. Treasury Clearing Trade Submission Requirement</title>
-    <updated>2026-09-30T00:00:00+00:00</updated>
-    <content>Source: National Securities Exchanges
-Date: 2026-09-30</content>
-    <link href="https://www.federalregister.gov/documents/2026/09/30/2026-19957/self-regulatory-organizations-fixed-income-clearing-corporation-notice-of-filing-of-partial"/>
-    <published>2026-09-30T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.federalregister.gov/documents/2026/09/30/2026-20055/agency-information-collection-activities-submission-for-omb-review-comment-request-extension-rule</id>
-    <title>Agency Information Collection Activities; Submission for OMB Review; Comment Request; Extension: Rule 17a-11</title>
-    <updated>2026-09-30T00:00:00+00:00</updated>
-    <content>Source: National Securities Exchanges
-Date: 2026-09-30</content>
-    <link href="https://www.federalregister.gov/documents/2026/09/30/2026-20055/agency-information-collection-activities-submission-for-omb-review-comment-request-extension-rule"/>
-    <published>2026-09-30T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>https://www.federalregister.gov/documents/2026/10/01/2026-20074/self-regulatory-organizations-cme-securities-clearing-inc-order-approving-proposed-rule-change-to</id>
     <title>Self-Regulatory Organizations; CME Securities Clearing Inc.; Order Approving Proposed Rule Change To amend the CMESC Stress Testing &amp; Guaranty Fund Sizing Policy and Proposed Amendments to Rule 402(b)</title>
