@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 20 Oct 2026 02:42:38 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 20 Oct 2026 10:40:49 +0000</lastBuildDate>
     <item>
       <title>Self-Regulatory Organizations; CME Securities Clearing Inc.; Order Approving Proposed Rule Change To amend the CMESC Stress Testing &amp; Guaranty Fund Sizing Policy and Proposed Amendments to Rule 402(b)</title>
       <link>https://www.federalregister.gov/documents/2026/10/01/2026-20074/self-regulatory-organizations-cme-securities-clearing-inc-order-approving-proposed-rule-change-to</link>
@@ -133,6 +133,14 @@ Date: 2026-10-16</description>
 Date: 2026-10-16</description>
       <guid isPermaLink="false">https://www.federalregister.gov/documents/2026/10/16/2026-21149/self-regulatory-organizations-cboe-exchange-inc-notice-of-filing-of-amendment-no-1-and-order</guid>
       <pubDate>Fri, 16 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Self-Regulatory Organizations; Financial Industry Regulatory Authority, Inc.; Order Approving a Proposed Rule Change, as Modified by Partial Amendment No. 1, To Amend FINRA Rule 2210 (Communications With the Public)</title>
+      <link>https://www.federalregister.gov/documents/2026/10/20/2026-21393/self-regulatory-organizations-financial-industry-regulatory-authority-inc-order-approving-a-proposed</link>
+      <description>Source: Finra
+Date: 2026-10-20</description>
+      <guid isPermaLink="false">https://www.federalregister.gov/documents/2026/10/20/2026-21393/self-regulatory-organizations-financial-industry-regulatory-authority-inc-order-approving-a-proposed</guid>
+      <pubDate>Tue, 20 Oct 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

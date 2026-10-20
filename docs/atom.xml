@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://github.com/edwinhu/sec-sro-rss</id>
   <title>SEC Self-Regulatory Organization Rulemaking</title>
-  <updated>2026-10-20T02:42:38.323675+00:00</updated>
+  <updated>2026-10-20T10:40:49.062422+00:00</updated>
   <link href="https://www.sec.gov/rules-regulations/self-regulatory-organization-rulemaking" rel="alternate"/>
   <link href="https://edwinhu.github.io/sec-sro-rss/feed.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -146,5 +146,14 @@ Date: 2026-10-16</content>
 Date: 2026-10-16</content>
     <link href="https://www.federalregister.gov/documents/2026/10/16/2026-21149/self-regulatory-organizations-cboe-exchange-inc-notice-of-filing-of-amendment-no-1-and-order"/>
     <published>2026-10-16T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.federalregister.gov/documents/2026/10/20/2026-21393/self-regulatory-organizations-financial-industry-regulatory-authority-inc-order-approving-a-proposed</id>
+    <title>Self-Regulatory Organizations; Financial Industry Regulatory Authority, Inc.; Order Approving a Proposed Rule Change, as Modified by Partial Amendment No. 1, To Amend FINRA Rule 2210 (Communications With the Public)</title>
+    <updated>2026-10-20T00:00:00+00:00</updated>
+    <content>Source: Finra
+Date: 2026-10-20</content>
+    <link href="https://www.federalregister.gov/documents/2026/10/20/2026-21393/self-regulatory-organizations-financial-industry-regulatory-authority-inc-order-approving-a-proposed"/>
+    <published>2026-10-20T00:00:00+00:00</published>
   </entry>
 </feed>

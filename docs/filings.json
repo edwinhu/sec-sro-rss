@@ -1,7 +1,15 @@
 {
-  "updated": "2026-10-20T02:42:38.333525+00:00",
-  "count": 15,
+  "updated": "2026-10-20T10:40:49.080998+00:00",
+  "count": 16,
   "filings": [
+    {
+      "id": "2e0ec042419b",
+      "title": "Self-Regulatory Organizations; Financial Industry Regulatory Authority, Inc.; Order Approving a Proposed Rule Change, as Modified by Partial Amendment No. 1, To Amend FINRA Rule 2210 (Communications With the Public)",
+      "url": "https://www.federalregister.gov/documents/2026/10/20/2026-21393/self-regulatory-organizations-financial-industry-regulatory-authority-inc-order-approving-a-proposed",
+      "date": "2026-10-20",
+      "description": "",
+      "source": "finra"
+    },
     {
       "id": "b8abdba75fb4",
       "title": "Self-Regulatory Organizations; Cboe Exchange, Inc.; Notice of Filing of Amendment No. 1 and Order Granting Accelerated Approval of a Proposed Rule Change, as Modified by Amendment No. 1, To Permit the Listing of Binary Options Overlying Key Performance Indicators Reported by Certain Issuers of Stock",
