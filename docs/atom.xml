@@ -2,20 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://github.com/edwinhu/sec-sro-rss</id>
   <title>SEC Self-Regulatory Organization Rulemaking</title>
-  <updated>2026-10-21T02:36:20.159540+00:00</updated>
+  <updated>2026-10-21T10:51:38.279250+00:00</updated>
   <link href="https://www.sec.gov/rules-regulations/self-regulatory-organization-rulemaking" rel="alternate"/>
   <link href="https://edwinhu.github.io/sec-sro-rss/feed.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Filtered SEC SRO filings (excludes immediate effectiveness notices and crypto)</subtitle>
-  <entry>
-    <id>https://www.federalregister.gov/documents/2026/10/01/2026-20074/self-regulatory-organizations-cme-securities-clearing-inc-order-approving-proposed-rule-change-to</id>
-    <title>Self-Regulatory Organizations; CME Securities Clearing Inc.; Order Approving Proposed Rule Change To amend the CMESC Stress Testing &amp; Guaranty Fund Sizing Policy and Proposed Amendments to Rule 402(b)</title>
-    <updated>2026-10-01T00:00:00+00:00</updated>
-    <content>Source: National Securities Exchanges
-Date: 2026-10-01</content>
-    <link href="https://www.federalregister.gov/documents/2026/10/01/2026-20074/self-regulatory-organizations-cme-securities-clearing-inc-order-approving-proposed-rule-change-to"/>
-    <published>2026-10-01T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>https://www.federalregister.gov/documents/2026/10/05/2026-20301/self-regulatory-organizations-the-depository-trust-company-notice-of-filing-of-proposed-rule-change</id>
     <title>Self-Regulatory Organizations; The Depository Trust Company; Notice of Filing of Proposed Rule Change To Modernize the Direct Registration System</title>
@@ -155,5 +146,23 @@ Date: 2026-10-16</content>
 Date: 2026-10-20</content>
     <link href="https://www.federalregister.gov/documents/2026/10/20/2026-21393/self-regulatory-organizations-financial-industry-regulatory-authority-inc-order-approving-a-proposed"/>
     <published>2026-10-20T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.federalregister.gov/documents/2026/10/21/2026-21479/self-regulatory-organizations-nyse-texas-inc-notice-of-designation-of-a-longer-period-for-commission</id>
+    <title>Self-Regulatory Organizations; NYSE Texas, Inc.; Notice of Designation of a Longer Period for Commission Action on a Proposed Rule Change, as Modified by Amendment No. 1, To Offer Complimentary Products and Services</title>
+    <updated>2026-10-21T00:00:00+00:00</updated>
+    <content>Source: National Securities Exchanges
+Date: 2026-10-21</content>
+    <link href="https://www.federalregister.gov/documents/2026/10/21/2026-21479/self-regulatory-organizations-nyse-texas-inc-notice-of-designation-of-a-longer-period-for-commission"/>
+    <published>2026-10-21T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.federalregister.gov/documents/2026/10/21/2026-21482/self-regulatory-organizations-cme-securities-clearing-inc-notice-of-filing-of-proposed-rule-change</id>
+    <title>Self-Regulatory Organizations; CME Securities Clearing Inc.; Notice of Filing of Proposed Rule Change To Amend the CMESC Risk Management Framework (“RMF”) Related to CMESC's Default Management Practices</title>
+    <updated>2026-10-21T00:00:00+00:00</updated>
+    <content>Source: National Securities Exchanges
+Date: 2026-10-21</content>
+    <link href="https://www.federalregister.gov/documents/2026/10/21/2026-21482/self-regulatory-organizations-cme-securities-clearing-inc-notice-of-filing-of-proposed-rule-change"/>
+    <published>2026-10-21T00:00:00+00:00</published>
   </entry>
 </feed>

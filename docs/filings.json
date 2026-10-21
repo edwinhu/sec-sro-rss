@@ -1,7 +1,23 @@
 {
-  "updated": "2026-10-21T02:36:20.167893+00:00",
-  "count": 16,
+  "updated": "2026-10-21T10:51:38.288831+00:00",
+  "count": 17,
   "filings": [
+    {
+      "id": "bffba3aa8d52",
+      "title": "Self-Regulatory Organizations; CME Securities Clearing Inc.; Notice of Filing of Proposed Rule Change To Amend the CMESC Risk Management Framework (\u201cRMF\u201d) Related to CMESC's Default Management Practices",
+      "url": "https://www.federalregister.gov/documents/2026/10/21/2026-21482/self-regulatory-organizations-cme-securities-clearing-inc-notice-of-filing-of-proposed-rule-change",
+      "date": "2026-10-21",
+      "description": "",
+      "source": "national-securities-exchanges"
+    },
+    {
+      "id": "39bb7958ed56",
+      "title": "Self-Regulatory Organizations; NYSE Texas, Inc.; Notice of Designation of a Longer Period for Commission Action on a Proposed Rule Change, as Modified by Amendment No. 1, To Offer Complimentary Products and Services",
+      "url": "https://www.federalregister.gov/documents/2026/10/21/2026-21479/self-regulatory-organizations-nyse-texas-inc-notice-of-designation-of-a-longer-period-for-commission",
+      "date": "2026-10-21",
+      "description": "",
+      "source": "national-securities-exchanges"
+    },
     {
       "id": "2e0ec042419b",
       "title": "Self-Regulatory Organizations; Financial Industry Regulatory Authority, Inc.; Order Approving a Proposed Rule Change, as Modified by Partial Amendment No. 1, To Amend FINRA Rule 2210 (Communications With the Public)",
@@ -119,14 +135,6 @@
       "title": "Self-Regulatory Organizations; The Depository Trust Company; Notice of Filing of Proposed Rule Change To Modernize the Direct Registration System",
       "url": "https://www.federalregister.gov/documents/2026/10/05/2026-20301/self-regulatory-organizations-the-depository-trust-company-notice-of-filing-of-proposed-rule-change",
       "date": "2026-10-05",
-      "description": "",
-      "source": "national-securities-exchanges"
-    },
-    {
-      "id": "5bd3437f5967",
-      "title": "Self-Regulatory Organizations; CME Securities Clearing Inc.; Order Approving Proposed Rule Change To amend the CMESC Stress Testing & Guaranty Fund Sizing Policy and Proposed Amendments to Rule 402(b)",
-      "url": "https://www.federalregister.gov/documents/2026/10/01/2026-20074/self-regulatory-organizations-cme-securities-clearing-inc-order-approving-proposed-rule-change-to",
-      "date": "2026-10-01",
       "description": "",
       "source": "national-securities-exchanges"
     }
