@@ -1,7 +1,15 @@
 {
-  "updated": "2026-10-22T02:33:51.694564+00:00",
-  "count": 17,
+  "updated": "2026-10-22T10:52:36.474789+00:00",
+  "count": 18,
   "filings": [
+    {
+      "id": "44e04f351d1b",
+      "title": "Agency Information Collection Activities; Submission for OMB Review; Comment Request; Extension: Rules 15Ba1-1 to 15Ba1-8-Registration of Municipal Advisors and Forms MA, MA-I, MA-W, and MA-NR",
+      "url": "https://www.federalregister.gov/documents/2026/10/22/2026-21562/agency-information-collection-activities-submission-for-omb-review-comment-request-extension-rules",
+      "date": "2026-10-22",
+      "description": "",
+      "source": "national-securities-exchanges"
+    },
     {
       "id": "bffba3aa8d52",
       "title": "Self-Regulatory Organizations; CME Securities Clearing Inc.; Notice of Filing of Proposed Rule Change To Amend the CMESC Risk Management Framework (\u201cRMF\u201d) Related to CMESC's Default Management Practices",

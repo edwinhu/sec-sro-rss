@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://github.com/edwinhu/sec-sro-rss</id>
   <title>SEC Self-Regulatory Organization Rulemaking</title>
-  <updated>2026-10-22T02:33:51.687308+00:00</updated>
+  <updated>2026-10-22T10:52:36.449038+00:00</updated>
   <link href="https://www.sec.gov/rules-regulations/self-regulatory-organization-rulemaking" rel="alternate"/>
   <link href="https://edwinhu.github.io/sec-sro-rss/feed.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -164,5 +164,14 @@ Date: 2026-10-21</content>
 Date: 2026-10-21</content>
     <link href="https://www.federalregister.gov/documents/2026/10/21/2026-21482/self-regulatory-organizations-cme-securities-clearing-inc-notice-of-filing-of-proposed-rule-change"/>
     <published>2026-10-21T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.federalregister.gov/documents/2026/10/22/2026-21562/agency-information-collection-activities-submission-for-omb-review-comment-request-extension-rules</id>
+    <title>Agency Information Collection Activities; Submission for OMB Review; Comment Request; Extension: Rules 15Ba1-1 to 15Ba1-8-Registration of Municipal Advisors and Forms MA, MA-I, MA-W, and MA-NR</title>
+    <updated>2026-10-22T00:00:00+00:00</updated>
+    <content>Source: National Securities Exchanges
+Date: 2026-10-22</content>
+    <link href="https://www.federalregister.gov/documents/2026/10/22/2026-21562/agency-information-collection-activities-submission-for-omb-review-comment-request-extension-rules"/>
+    <published>2026-10-22T00:00:00+00:00</published>
   </entry>
 </feed>
