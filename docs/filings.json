@@ -1,7 +1,23 @@
 {
-  "updated": "2026-10-23T02:38:30.272552+00:00",
-  "count": 18,
+  "updated": "2026-10-23T10:43:44.534373+00:00",
+  "count": 19,
   "filings": [
+    {
+      "id": "518db4e76c20",
+      "title": "Self-Regulatory Organizations; New York Stock Exchange LLC; Notice of Filing of Proposed Rule Change To Amend Rule 7.10 (Clearly Erroneous Executions)",
+      "url": "https://www.federalregister.gov/documents/2026/10/23/2026-21650/self-regulatory-organizations-new-york-stock-exchange-llc-notice-of-filing-of-proposed-rule-change",
+      "date": "2026-10-23",
+      "description": "",
+      "source": "national-securities-exchanges"
+    },
+    {
+      "id": "a0371df0f8e5",
+      "title": "Self-Regulatory Organizations; The Options Clearing Corporation; Notice of Filing of Proposed Rule Change by The Options Clearing Corporation Concerning Revisions to OCC Rule 213-Cybersecurity Obligations",
+      "url": "https://www.federalregister.gov/documents/2026/10/23/2026-21649/self-regulatory-organizations-the-options-clearing-corporation-notice-of-filing-of-proposed-rule",
+      "date": "2026-10-23",
+      "description": "",
+      "source": "national-securities-exchanges"
+    },
     {
       "id": "44e04f351d1b",
       "title": "Agency Information Collection Activities; Submission for OMB Review; Comment Request; Extension: Rules 15Ba1-1 to 15Ba1-8-Registration of Municipal Advisors and Forms MA, MA-I, MA-W, and MA-NR",
@@ -136,14 +152,6 @@
       "url": "https://www.federalregister.gov/documents/2026/10/05/2026-20307/potential-designations-of-the-investment-banking-representative-license-series-79-and-the-research",
       "date": "2026-10-05",
       "description": "Notice is given that the Securities and Exchange Commission (the \"Commission\") is considering whether to issue an order designating the Investment Banking Representative license (Series 79) and the Research Analyst license (Series 86 and Series 87) as each independently qualifying natural persons for accredited investor status.",
-      "source": "national-securities-exchanges"
-    },
-    {
-      "id": "88033eb62af1",
-      "title": "Self-Regulatory Organizations; The Depository Trust Company; Notice of Filing of Proposed Rule Change To Modernize the Direct Registration System",
-      "url": "https://www.federalregister.gov/documents/2026/10/05/2026-20301/self-regulatory-organizations-the-depository-trust-company-notice-of-filing-of-proposed-rule-change",
-      "date": "2026-10-05",
-      "description": "",
       "source": "national-securities-exchanges"
     }
   ]

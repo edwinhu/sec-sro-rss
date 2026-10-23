@@ -2,20 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://github.com/edwinhu/sec-sro-rss</id>
   <title>SEC Self-Regulatory Organization Rulemaking</title>
-  <updated>2026-10-23T02:38:30.263126+00:00</updated>
+  <updated>2026-10-23T10:43:44.509176+00:00</updated>
   <link href="https://www.sec.gov/rules-regulations/self-regulatory-organization-rulemaking" rel="alternate"/>
   <link href="https://edwinhu.github.io/sec-sro-rss/feed.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Filtered SEC SRO filings (excludes immediate effectiveness notices and crypto)</subtitle>
-  <entry>
-    <id>https://www.federalregister.gov/documents/2026/10/05/2026-20301/self-regulatory-organizations-the-depository-trust-company-notice-of-filing-of-proposed-rule-change</id>
-    <title>Self-Regulatory Organizations; The Depository Trust Company; Notice of Filing of Proposed Rule Change To Modernize the Direct Registration System</title>
-    <updated>2026-10-05T00:00:00+00:00</updated>
-    <content>Source: National Securities Exchanges
-Date: 2026-10-05</content>
-    <link href="https://www.federalregister.gov/documents/2026/10/05/2026-20301/self-regulatory-organizations-the-depository-trust-company-notice-of-filing-of-proposed-rule-change"/>
-    <published>2026-10-05T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>https://www.federalregister.gov/documents/2026/10/05/2026-20307/potential-designations-of-the-investment-banking-representative-license-series-79-and-the-research</id>
     <title>Potential Designations of the Investment Banking Representative License (Series 79) and the Research Analyst License (Series 86 and Series 87) as Qualifying Natural Persons for Accredited Investor Status</title>
@@ -173,5 +164,23 @@ Date: 2026-10-21</content>
 Date: 2026-10-22</content>
     <link href="https://www.federalregister.gov/documents/2026/10/22/2026-21562/agency-information-collection-activities-submission-for-omb-review-comment-request-extension-rules"/>
     <published>2026-10-22T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.federalregister.gov/documents/2026/10/23/2026-21649/self-regulatory-organizations-the-options-clearing-corporation-notice-of-filing-of-proposed-rule</id>
+    <title>Self-Regulatory Organizations; The Options Clearing Corporation; Notice of Filing of Proposed Rule Change by The Options Clearing Corporation Concerning Revisions to OCC Rule 213-Cybersecurity Obligations</title>
+    <updated>2026-10-23T00:00:00+00:00</updated>
+    <content>Source: National Securities Exchanges
+Date: 2026-10-23</content>
+    <link href="https://www.federalregister.gov/documents/2026/10/23/2026-21649/self-regulatory-organizations-the-options-clearing-corporation-notice-of-filing-of-proposed-rule"/>
+    <published>2026-10-23T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.federalregister.gov/documents/2026/10/23/2026-21650/self-regulatory-organizations-new-york-stock-exchange-llc-notice-of-filing-of-proposed-rule-change</id>
+    <title>Self-Regulatory Organizations; New York Stock Exchange LLC; Notice of Filing of Proposed Rule Change To Amend Rule 7.10 (Clearly Erroneous Executions)</title>
+    <updated>2026-10-23T00:00:00+00:00</updated>
+    <content>Source: National Securities Exchanges
+Date: 2026-10-23</content>
+    <link href="https://www.federalregister.gov/documents/2026/10/23/2026-21650/self-regulatory-organizations-new-york-stock-exchange-llc-notice-of-filing-of-proposed-rule-change"/>
+    <published>2026-10-23T00:00:00+00:00</published>
   </entry>
 </feed>
