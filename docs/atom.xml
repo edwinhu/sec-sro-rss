@@ -2,20 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://github.com/edwinhu/sec-sro-rss</id>
   <title>SEC Self-Regulatory Organization Rulemaking</title>
-  <updated>2026-10-28T03:10:04.644005+00:00</updated>
+  <updated>2026-10-28T11:51:22.834228+00:00</updated>
   <link href="https://www.sec.gov/rules-regulations/self-regulatory-organization-rulemaking" rel="alternate"/>
   <link href="https://edwinhu.github.io/sec-sro-rss/feed.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Filtered SEC SRO filings (excludes immediate effectiveness notices and crypto)</subtitle>
-  <entry>
-    <id>https://www.federalregister.gov/documents/2026/10/06/2026-20406/self-regulatory-organizations-nyse-arca-inc-order-instituting-proceedings-to-determine-whether-to</id>
-    <title>Self-Regulatory Organizations; NYSE Arca, Inc.; Order Instituting Proceedings To Determine Whether To Approve or Disapprove a Proposed Rule Change To Amend Rules 5.32-O and 5.35-O</title>
-    <updated>2026-10-06T00:00:00+00:00</updated>
-    <content>Source: National Securities Exchanges
-Date: 2026-10-06</content>
-    <link href="https://www.federalregister.gov/documents/2026/10/06/2026-20406/self-regulatory-organizations-nyse-arca-inc-order-instituting-proceedings-to-determine-whether-to"/>
-    <published>2026-10-06T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>https://www.federalregister.gov/documents/2026/10/06/2026-20465/self-regulatory-organizations-the-options-clearing-corporation-order-setting-aside-action-by</id>
     <title>Self-Regulatory Organizations; The Options Clearing Corporation; Order Setting Aside Action by Delegated Authority and Approving Proposed Rule Change, as Modified by Partial Amendment No. 1, by The Options Clearing Corporation Concerning Methodology To Allocate Clearing Fund Deposit Requirements Among Its Clearing Members To Better Align the Allocation With the Sizing of the Clearing Fund so Stress Based Risk is Fairly Allotted to Market Participants That Expose OCC to Such Stress Risk</title>
@@ -141,5 +132,23 @@ Date: 2026-10-26</content>
 Date: 2026-10-27</content>
     <link href="https://www.federalregister.gov/documents/2026/10/27/2026-21845/cboe-clear-us-llc-order-granting-an-application-as-amended-for-temporary-registration-as-a-clearing"/>
     <published>2026-10-27T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.federalregister.gov/documents/2026/10/28/2026-21925/self-regulatory-organizations-nyse-texas-inc-notice-of-filing-of-amendment-no-1-and-order-granting</id>
+    <title>Self-Regulatory Organizations; NYSE Texas, Inc.; Notice of Filing of Amendment No. 1 and Order Granting Accelerated Approval of a Proposed Rule Change, as Modified by Amendment No. 1, To Offer Complimentary Products and Services</title>
+    <updated>2026-10-28T00:00:00+00:00</updated>
+    <content>Source: National Securities Exchanges
+Date: 2026-10-28</content>
+    <link href="https://www.federalregister.gov/documents/2026/10/28/2026-21925/self-regulatory-organizations-nyse-texas-inc-notice-of-filing-of-amendment-no-1-and-order-granting"/>
+    <published>2026-10-28T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.federalregister.gov/documents/2026/10/28/2026-21931/order-under-section-36-of-the-securities-exchange-act-of-1934-granting-conditional-exemptive-relief</id>
+    <title>Order Under Section 36 of the Securities Exchange Act of 1934 Granting Conditional Exemptive Relief Regarding the Treatment of Customer Margin Under Item 13 and Note F of Exhibit A to Rule 15c3-3</title>
+    <updated>2026-10-28T00:00:00+00:00</updated>
+    <content>Source: National Securities Exchanges
+Date: 2026-10-28</content>
+    <link href="https://www.federalregister.gov/documents/2026/10/28/2026-21931/order-under-section-36-of-the-securities-exchange-act-of-1934-granting-conditional-exemptive-relief"/>
+    <published>2026-10-28T00:00:00+00:00</published>
   </entry>
 </feed>

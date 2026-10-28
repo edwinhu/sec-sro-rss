@@ -1,7 +1,23 @@
 {
-  "updated": "2026-10-28T03:10:04.653881+00:00",
-  "count": 15,
+  "updated": "2026-10-28T11:51:22.867745+00:00",
+  "count": 16,
   "filings": [
+    {
+      "id": "45ef48faa668",
+      "title": "Order Under Section 36 of the Securities Exchange Act of 1934 Granting Conditional Exemptive Relief Regarding the Treatment of Customer Margin Under Item 13 and Note F of Exhibit A to Rule 15c3-3",
+      "url": "https://www.federalregister.gov/documents/2026/10/28/2026-21931/order-under-section-36-of-the-securities-exchange-act-of-1934-granting-conditional-exemptive-relief",
+      "date": "2026-10-28",
+      "description": "",
+      "source": "national-securities-exchanges"
+    },
+    {
+      "id": "a73f3bc8e999",
+      "title": "Self-Regulatory Organizations; NYSE Texas, Inc.; Notice of Filing of Amendment No. 1 and Order Granting Accelerated Approval of a Proposed Rule Change, as Modified by Amendment No. 1, To Offer Complimentary Products and Services",
+      "url": "https://www.federalregister.gov/documents/2026/10/28/2026-21925/self-regulatory-organizations-nyse-texas-inc-notice-of-filing-of-amendment-no-1-and-order-granting",
+      "date": "2026-10-28",
+      "description": "",
+      "source": "national-securities-exchanges"
+    },
     {
       "id": "3bd19d9c276c",
       "title": "Cboe Clear U.S., LLC; Order Granting an Application, as Amended, for Temporary Registration as a Clearing Agency Under Section 17A of the Securities Exchange Act of 1934",
@@ -110,14 +126,6 @@
       "id": "3f521bff1df9",
       "title": "Self-Regulatory Organizations; The Options Clearing Corporation; Order Setting Aside Action by Delegated Authority and Approving Proposed Rule Change, as Modified by Partial Amendment No. 1, by The Options Clearing Corporation Concerning Methodology To Allocate Clearing Fund Deposit Requirements Among Its Clearing Members To Better Align the Allocation With the Sizing of the Clearing Fund so Stress Based Risk is Fairly Allotted to Market Participants That Expose OCC to Such Stress Risk",
       "url": "https://www.federalregister.gov/documents/2026/10/06/2026-20465/self-regulatory-organizations-the-options-clearing-corporation-order-setting-aside-action-by",
-      "date": "2026-10-06",
-      "description": "",
-      "source": "national-securities-exchanges"
-    },
-    {
-      "id": "b5622b6e3822",
-      "title": "Self-Regulatory Organizations; NYSE Arca, Inc.; Order Instituting Proceedings To Determine Whether To Approve or Disapprove a Proposed Rule Change To Amend Rules 5.32-O and 5.35-O",
-      "url": "https://www.federalregister.gov/documents/2026/10/06/2026-20406/self-regulatory-organizations-nyse-arca-inc-order-instituting-proceedings-to-determine-whether-to",
       "date": "2026-10-06",
       "description": "",
       "source": "national-securities-exchanges"
