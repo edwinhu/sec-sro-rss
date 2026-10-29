@@ -2,29 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://github.com/edwinhu/sec-sro-rss</id>
   <title>SEC Self-Regulatory Organization Rulemaking</title>
-  <updated>2026-10-29T03:35:41.716638+00:00</updated>
+  <updated>2026-10-29T11:58:57.491218+00:00</updated>
   <link href="https://www.sec.gov/rules-regulations/self-regulatory-organization-rulemaking" rel="alternate"/>
   <link href="https://edwinhu.github.io/sec-sro-rss/feed.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Filtered SEC SRO filings (excludes immediate effectiveness notices and crypto)</subtitle>
-  <entry>
-    <id>https://www.federalregister.gov/documents/2026/10/06/2026-20465/self-regulatory-organizations-the-options-clearing-corporation-order-setting-aside-action-by</id>
-    <title>Self-Regulatory Organizations; The Options Clearing Corporation; Order Setting Aside Action by Delegated Authority and Approving Proposed Rule Change, as Modified by Partial Amendment No. 1, by The Options Clearing Corporation Concerning Methodology To Allocate Clearing Fund Deposit Requirements Among Its Clearing Members To Better Align the Allocation With the Sizing of the Clearing Fund so Stress Based Risk is Fairly Allotted to Market Participants That Expose OCC to Such Stress Risk</title>
-    <updated>2026-10-06T00:00:00+00:00</updated>
-    <content>Source: National Securities Exchanges
-Date: 2026-10-06</content>
-    <link href="https://www.federalregister.gov/documents/2026/10/06/2026-20465/self-regulatory-organizations-the-options-clearing-corporation-order-setting-aside-action-by"/>
-    <published>2026-10-06T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.federalregister.gov/documents/2026/10/07/2026-20506/self-regulatory-organizations-financial-industry-regulatory-authority-inc-order-approving-a-proposed</id>
-    <title>Self-Regulatory Organizations; Financial Industry Regulatory Authority, Inc.; Order Approving a Proposed Rule Change, as Modified by Partial Amendment No. 1, To Exempt Specified Collective Trust Funds From FINRA Rules 5130 (Restrictions on the Purchase and Sale of Initial Equity Public Offerings) and 5131(b) (New Issue Allocations and Distributions)</title>
-    <updated>2026-10-07T00:00:00+00:00</updated>
-    <content>Source: Finra
-Date: 2026-10-07</content>
-    <link href="https://www.federalregister.gov/documents/2026/10/07/2026-20506/self-regulatory-organizations-financial-industry-regulatory-authority-inc-order-approving-a-proposed"/>
-    <published>2026-10-07T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>https://www.federalregister.gov/documents/2026/10/13/2026-20794/self-regulatory-organizations-cme-securities-clearing-inc-notice-of-designation-of-longer-period-for</id>
     <title>Self-Regulatory Organizations; CME Securities Clearing Inc.; Notice of Designation of Longer Period for Commission Action on Proposed Rule Change To Adopt Standards for Establishing Cross-Margin Arrangements and Adopt a Cross-Margin Arrangement With Chicago Mercantile Exchange Inc.</title>
@@ -150,5 +132,14 @@ Date: 2026-10-28</content>
 Date: 2026-10-28</content>
     <link href="https://www.federalregister.gov/documents/2026/10/28/2026-21931/order-under-section-36-of-the-securities-exchange-act-of-1934-granting-conditional-exemptive-relief"/>
     <published>2026-10-28T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.federalregister.gov/documents/2026/10/29/2026-22026/self-regulatory-organizations-ice-clear-credit-llc-order-approving-proposed-rule-change-relating-to</id>
+    <title>Self-Regulatory Organizations; ICE Clear Credit LLC; Order Approving Proposed Rule Change Relating to the ICE Clear Credit Recovery Plan and ICE Clear Credit Wind-Down Plan</title>
+    <updated>2026-10-29T00:00:00+00:00</updated>
+    <content>Source: National Securities Exchanges
+Date: 2026-10-29</content>
+    <link href="https://www.federalregister.gov/documents/2026/10/29/2026-22026/self-regulatory-organizations-ice-clear-credit-llc-order-approving-proposed-rule-change-relating-to"/>
+    <published>2026-10-29T00:00:00+00:00</published>
   </entry>
 </feed>

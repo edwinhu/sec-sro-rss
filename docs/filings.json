@@ -1,7 +1,15 @@
 {
-  "updated": "2026-10-29T03:35:41.735403+00:00",
-  "count": 16,
+  "updated": "2026-10-29T11:58:57.496648+00:00",
+  "count": 15,
   "filings": [
+    {
+      "id": "451eb82f78bb",
+      "title": "Self-Regulatory Organizations; ICE Clear Credit LLC; Order Approving Proposed Rule Change Relating to the ICE Clear Credit Recovery Plan and ICE Clear Credit Wind-Down Plan",
+      "url": "https://www.federalregister.gov/documents/2026/10/29/2026-22026/self-regulatory-organizations-ice-clear-credit-llc-order-approving-proposed-rule-change-relating-to",
+      "date": "2026-10-29",
+      "description": "",
+      "source": "national-securities-exchanges"
+    },
     {
       "id": "45ef48faa668",
       "title": "Order Under Section 36 of the Securities Exchange Act of 1934 Granting Conditional Exemptive Relief Regarding the Treatment of Customer Margin Under Item 13 and Note F of Exhibit A to Rule 15c3-3",
@@ -111,22 +119,6 @@
       "title": "Self-Regulatory Organizations; CME Securities Clearing Inc.; Notice of Designation of Longer Period for Commission Action on Proposed Rule Change To Adopt Standards for Establishing Cross-Margin Arrangements and Adopt a Cross-Margin Arrangement With Chicago Mercantile Exchange Inc.",
       "url": "https://www.federalregister.gov/documents/2026/10/13/2026-20794/self-regulatory-organizations-cme-securities-clearing-inc-notice-of-designation-of-longer-period-for",
       "date": "2026-10-13",
-      "description": "",
-      "source": "national-securities-exchanges"
-    },
-    {
-      "id": "018b6bfae119",
-      "title": "Self-Regulatory Organizations; Financial Industry Regulatory Authority, Inc.; Order Approving a Proposed Rule Change, as Modified by Partial Amendment No. 1, To Exempt Specified Collective Trust Funds From FINRA Rules 5130 (Restrictions on the Purchase and Sale of Initial Equity Public Offerings) and 5131(b) (New Issue Allocations and Distributions)",
-      "url": "https://www.federalregister.gov/documents/2026/10/07/2026-20506/self-regulatory-organizations-financial-industry-regulatory-authority-inc-order-approving-a-proposed",
-      "date": "2026-10-07",
-      "description": "",
-      "source": "finra"
-    },
-    {
-      "id": "3f521bff1df9",
-      "title": "Self-Regulatory Organizations; The Options Clearing Corporation; Order Setting Aside Action by Delegated Authority and Approving Proposed Rule Change, as Modified by Partial Amendment No. 1, by The Options Clearing Corporation Concerning Methodology To Allocate Clearing Fund Deposit Requirements Among Its Clearing Members To Better Align the Allocation With the Sizing of the Clearing Fund so Stress Based Risk is Fairly Allotted to Market Participants That Expose OCC to Such Stress Risk",
-      "url": "https://www.federalregister.gov/documents/2026/10/06/2026-20465/self-regulatory-organizations-the-options-clearing-corporation-order-setting-aside-action-by",
-      "date": "2026-10-06",
       "description": "",
       "source": "national-securities-exchanges"
     }
