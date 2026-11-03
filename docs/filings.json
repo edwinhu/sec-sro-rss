@@ -1,7 +1,15 @@
 {
-  "updated": "2026-11-03T00:12:45.815647+00:00",
-  "count": 15,
+  "updated": "2026-11-03T13:17:51.566651+00:00",
+  "count": 16,
   "filings": [
+    {
+      "id": "3db0afdb0638",
+      "title": "Self-Regulatory Organizations; Texas Stock Exchange LLC; Notice of Filing, and Order Granting Accelerated Approval of, a Proposed Rule Change To Amend Rule 17.111(d) (Commodity-Based Trust Shares)",
+      "url": "https://www.federalregister.gov/documents/2026/11/03/2026-22377/self-regulatory-organizations-texas-stock-exchange-llc-notice-of-filing-and-order-granting",
+      "date": "2026-11-03",
+      "description": "",
+      "source": "national-securities-exchanges"
+    },
     {
       "id": "451eb82f78bb",
       "title": "Self-Regulatory Organizations; ICE Clear Credit LLC; Order Approving Proposed Rule Change Relating to the ICE Clear Credit Recovery Plan and ICE Clear Credit Wind-Down Plan",
