@@ -2,20 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://github.com/edwinhu/sec-sro-rss</id>
   <title>SEC Self-Regulatory Organization Rulemaking</title>
-  <updated>2026-11-04T03:59:42.543767+00:00</updated>
+  <updated>2026-11-04T13:29:41.347816+00:00</updated>
   <link href="https://www.sec.gov/rules-regulations/self-regulatory-organization-rulemaking" rel="alternate"/>
   <link href="https://edwinhu.github.io/sec-sro-rss/feed.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Filtered SEC SRO filings (excludes immediate effectiveness notices and crypto)</subtitle>
-  <entry>
-    <id>https://www.federalregister.gov/documents/2026/10/13/2026-20794/self-regulatory-organizations-cme-securities-clearing-inc-notice-of-designation-of-longer-period-for</id>
-    <title>Self-Regulatory Organizations; CME Securities Clearing Inc.; Notice of Designation of Longer Period for Commission Action on Proposed Rule Change To Adopt Standards for Establishing Cross-Margin Arrangements and Adopt a Cross-Margin Arrangement With Chicago Mercantile Exchange Inc.</title>
-    <updated>2026-10-13T00:00:00+00:00</updated>
-    <content>Source: National Securities Exchanges
-Date: 2026-10-13</content>
-    <link href="https://www.federalregister.gov/documents/2026/10/13/2026-20794/self-regulatory-organizations-cme-securities-clearing-inc-notice-of-designation-of-longer-period-for"/>
-    <published>2026-10-13T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>https://www.federalregister.gov/documents/2026/10/13/2026-20801/self-regulatory-organizations-memx-llc-notice-of-designation-of-a-longer-period-for-commission</id>
     <title>Self-Regulatory Organizations; MEMX LLC; Notice of Designation of a Longer Period for Commission Action on a Proposed Rule Change To Adopt Rules for the Listing and Trading of Securities Event Contracts on the Exchange</title>
@@ -150,5 +141,14 @@ Date: 2026-10-29</content>
 Date: 2026-11-03</content>
     <link href="https://www.federalregister.gov/documents/2026/11/03/2026-22377/self-regulatory-organizations-texas-stock-exchange-llc-notice-of-filing-and-order-granting"/>
     <published>2026-11-03T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.federalregister.gov/documents/2026/11/04/2026-22453/self-regulatory-organizations-nasdaq-ise-llc-notice-of-filing-of-proposed-rule-change-to-amend-the</id>
+    <title>Self-Regulatory Organizations; Nasdaq ISE, LLC; Notice of Filing of Proposed Rule Change To Amend the Strike Price Intervals for Options on Certain Exchange-Traded Fund Shares That Meet the Qualifying Securities Criteria</title>
+    <updated>2026-11-04T00:00:00+00:00</updated>
+    <content>Source: National Securities Exchanges
+Date: 2026-11-04</content>
+    <link href="https://www.federalregister.gov/documents/2026/11/04/2026-22453/self-regulatory-organizations-nasdaq-ise-llc-notice-of-filing-of-proposed-rule-change-to-amend-the"/>
+    <published>2026-11-04T00:00:00+00:00</published>
   </entry>
 </feed>

@@ -1,7 +1,15 @@
 {
-  "updated": "2026-11-04T03:59:42.551503+00:00",
+  "updated": "2026-11-04T13:29:41.363769+00:00",
   "count": 16,
   "filings": [
+    {
+      "id": "b0f420a59b9b",
+      "title": "Self-Regulatory Organizations; Nasdaq ISE, LLC; Notice of Filing of Proposed Rule Change To Amend the Strike Price Intervals for Options on Certain Exchange-Traded Fund Shares That Meet the Qualifying Securities Criteria",
+      "url": "https://www.federalregister.gov/documents/2026/11/04/2026-22453/self-regulatory-organizations-nasdaq-ise-llc-notice-of-filing-of-proposed-rule-change-to-amend-the",
+      "date": "2026-11-04",
+      "description": "",
+      "source": "national-securities-exchanges"
+    },
     {
       "id": "3db0afdb0638",
       "title": "Self-Regulatory Organizations; Texas Stock Exchange LLC; Notice of Filing, and Order Granting Accelerated Approval of, a Proposed Rule Change To Amend Rule 17.111(d) (Commodity-Based Trust Shares)",
@@ -118,14 +126,6 @@
       "id": "6a377bab2903",
       "title": "Self-Regulatory Organizations; MEMX LLC; Notice of Designation of a Longer Period for Commission Action on a Proposed Rule Change To Adopt Rules for the Listing and Trading of Securities Event Contracts on the Exchange",
       "url": "https://www.federalregister.gov/documents/2026/10/13/2026-20801/self-regulatory-organizations-memx-llc-notice-of-designation-of-a-longer-period-for-commission",
-      "date": "2026-10-13",
-      "description": "",
-      "source": "national-securities-exchanges"
-    },
-    {
-      "id": "1a0435f6f3ce",
-      "title": "Self-Regulatory Organizations; CME Securities Clearing Inc.; Notice of Designation of Longer Period for Commission Action on Proposed Rule Change To Adopt Standards for Establishing Cross-Margin Arrangements and Adopt a Cross-Margin Arrangement With Chicago Mercantile Exchange Inc.",
-      "url": "https://www.federalregister.gov/documents/2026/10/13/2026-20794/self-regulatory-organizations-cme-securities-clearing-inc-notice-of-designation-of-longer-period-for",
       "date": "2026-10-13",
       "description": "",
       "source": "national-securities-exchanges"
