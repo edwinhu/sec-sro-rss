@@ -2,20 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://github.com/edwinhu/sec-sro-rss</id>
   <title>SEC Self-Regulatory Organization Rulemaking</title>
-  <updated>2026-11-05T04:21:32.528720+00:00</updated>
+  <updated>2026-11-05T13:44:09.155970+00:00</updated>
   <link href="https://www.sec.gov/rules-regulations/self-regulatory-organization-rulemaking" rel="alternate"/>
   <link href="https://edwinhu.github.io/sec-sro-rss/feed.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Filtered SEC SRO filings (excludes immediate effectiveness notices and crypto)</subtitle>
-  <entry>
-    <id>https://www.federalregister.gov/documents/2026/10/13/2026-20801/self-regulatory-organizations-memx-llc-notice-of-designation-of-a-longer-period-for-commission</id>
-    <title>Self-Regulatory Organizations; MEMX LLC; Notice of Designation of a Longer Period for Commission Action on a Proposed Rule Change To Adopt Rules for the Listing and Trading of Securities Event Contracts on the Exchange</title>
-    <updated>2026-10-13T00:00:00+00:00</updated>
-    <content>Source: National Securities Exchanges
-Date: 2026-10-13</content>
-    <link href="https://www.federalregister.gov/documents/2026/10/13/2026-20801/self-regulatory-organizations-memx-llc-notice-of-designation-of-a-longer-period-for-commission"/>
-    <published>2026-10-13T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>https://www.federalregister.gov/documents/2026/10/16/2026-21136/self-regulatory-organizations-cme-securities-clearing-inc-order-approving-proposed-rule-change-to</id>
     <title>Self-Regulatory Organizations; CME Securities Clearing Inc.; Order Approving Proposed Rule Change To Amend Rule 410, Rule 101, the Capped Liquidity Facility Procedure, and the Liquidity Risk Management Policy</title>
