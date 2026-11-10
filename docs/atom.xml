@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://github.com/edwinhu/sec-sro-rss</id>
   <title>SEC Self-Regulatory Organization Rulemaking</title>
-  <updated>2026-11-10T00:59:06.596003+00:00</updated>
+  <updated>2026-11-10T13:58:34.978321+00:00</updated>
   <link href="https://www.sec.gov/rules-regulations/self-regulatory-organization-rulemaking" rel="alternate"/>
   <link href="https://edwinhu.github.io/sec-sro-rss/feed.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -141,5 +141,32 @@ Date: 2026-11-03</content>
 Date: 2026-11-04</content>
     <link href="https://www.federalregister.gov/documents/2026/11/04/2026-22453/self-regulatory-organizations-nasdaq-ise-llc-notice-of-filing-of-proposed-rule-change-to-amend-the"/>
     <published>2026-11-04T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.federalregister.gov/documents/2026/11/10/2026-22847/self-regulatory-organizations-cboe-byx-exchange-inc-notice-of-designation-of-longer-period-for</id>
+    <title>Self-Regulatory Organizations; Cboe BYX Exchange, Inc.; Notice of Designation of Longer Period for Commission Action on Proceedings To Determine Whether To Approve or Disapprove a Proposed Rule Change, as Modified by Amendment No. 1, To Amend Rule 11.25 To Introduce an Optional, Contingent Instruction Applicable to Periodic Auction Only Orders, Introduce a Time-in-Force of Auction or Cancel, and Make Conforming Changes to Its Periodic Auction Processing Behavior To Support the Proposed Contingent Instruction</title>
+    <updated>2026-11-10T00:00:00+00:00</updated>
+    <content>Source: National Securities Exchanges
+Date: 2026-11-10</content>
+    <link href="https://www.federalregister.gov/documents/2026/11/10/2026-22847/self-regulatory-organizations-cboe-byx-exchange-inc-notice-of-designation-of-longer-period-for"/>
+    <published>2026-11-10T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.federalregister.gov/documents/2026/11/10/2026-22850/self-regulatory-organizations-ice-clear-credit-llc-notice-of-filing-of-proposed-rule-change-relating</id>
+    <title>Self-Regulatory Organizations; ICE Clear Credit LLC; Notice of Filing of Proposed Rule Change Relating to the Procedures for Monitoring Compliance With the Eligible Secondary Market Transaction Submission Requirements</title>
+    <updated>2026-11-10T00:00:00+00:00</updated>
+    <content>Source: National Securities Exchanges
+Date: 2026-11-10</content>
+    <link href="https://www.federalregister.gov/documents/2026/11/10/2026-22850/self-regulatory-organizations-ice-clear-credit-llc-notice-of-filing-of-proposed-rule-change-relating"/>
+    <published>2026-11-10T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.federalregister.gov/documents/2026/11/10/2026-22851/self-regulatory-organizations-fixed-income-clearing-corporation-order-instituting-proceedings-to</id>
+    <title>Self-Regulatory Organizations; Fixed Income Clearing Corporation; Order Instituting Proceedings To Determine Whether To Approve or Disapprove a Proposed Rule Change, as Modified by Partial Amendment No. 1, To Establish a Guaranty Fund at the Government Securities Division</title>
+    <updated>2026-11-10T00:00:00+00:00</updated>
+    <content>Source: National Securities Exchanges
+Date: 2026-11-10</content>
+    <link href="https://www.federalregister.gov/documents/2026/11/10/2026-22851/self-regulatory-organizations-fixed-income-clearing-corporation-order-instituting-proceedings-to"/>
+    <published>2026-11-10T00:00:00+00:00</published>
   </entry>
 </feed>

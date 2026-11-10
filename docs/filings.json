@@ -1,7 +1,31 @@
 {
-  "updated": "2026-11-10T00:59:06.611737+00:00",
-  "count": 15,
+  "updated": "2026-11-10T13:58:34.994191+00:00",
+  "count": 18,
   "filings": [
+    {
+      "id": "3985efa1ea12",
+      "title": "Self-Regulatory Organizations; Fixed Income Clearing Corporation; Order Instituting Proceedings To Determine Whether To Approve or Disapprove a Proposed Rule Change, as Modified by Partial Amendment No. 1, To Establish a Guaranty Fund at the Government Securities Division",
+      "url": "https://www.federalregister.gov/documents/2026/11/10/2026-22851/self-regulatory-organizations-fixed-income-clearing-corporation-order-instituting-proceedings-to",
+      "date": "2026-11-10",
+      "description": "",
+      "source": "national-securities-exchanges"
+    },
+    {
+      "id": "ebd64b3cb70a",
+      "title": "Self-Regulatory Organizations; ICE Clear Credit LLC; Notice of Filing of Proposed Rule Change Relating to the Procedures for Monitoring Compliance With the Eligible Secondary Market Transaction Submission Requirements",
+      "url": "https://www.federalregister.gov/documents/2026/11/10/2026-22850/self-regulatory-organizations-ice-clear-credit-llc-notice-of-filing-of-proposed-rule-change-relating",
+      "date": "2026-11-10",
+      "description": "",
+      "source": "national-securities-exchanges"
+    },
+    {
+      "id": "f1b666082933",
+      "title": "Self-Regulatory Organizations; Cboe BYX Exchange, Inc.; Notice of Designation of Longer Period for Commission Action on Proceedings To Determine Whether To Approve or Disapprove a Proposed Rule Change, as Modified by Amendment No. 1, To Amend Rule 11.25 To Introduce an Optional, Contingent Instruction Applicable to Periodic Auction Only Orders, Introduce a Time-in-Force of Auction or Cancel, and Make Conforming Changes to Its Periodic Auction Processing Behavior To Support the Proposed Contingent Instruction",
+      "url": "https://www.federalregister.gov/documents/2026/11/10/2026-22847/self-regulatory-organizations-cboe-byx-exchange-inc-notice-of-designation-of-longer-period-for",
+      "date": "2026-11-10",
+      "description": "",
+      "source": "national-securities-exchanges"
+    },
     {
       "id": "b0f420a59b9b",
       "title": "Self-Regulatory Organizations; Nasdaq ISE, LLC; Notice of Filing of Proposed Rule Change To Amend the Strike Price Intervals for Options on Certain Exchange-Traded Fund Shares That Meet the Qualifying Securities Criteria",
