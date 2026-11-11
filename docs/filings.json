@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-11T03:51:27.923498+00:00",
-  "count": 18,
+  "updated": "2026-11-11T13:14:24.720924+00:00",
+  "count": 16,
   "filings": [
     {
       "id": "3985efa1ea12",
@@ -129,22 +129,6 @@
       "date": "2026-10-20",
       "description": "",
       "source": "finra"
-    },
-    {
-      "id": "b8abdba75fb4",
-      "title": "Self-Regulatory Organizations; Cboe Exchange, Inc.; Notice of Filing of Amendment No. 1 and Order Granting Accelerated Approval of a Proposed Rule Change, as Modified by Amendment No. 1, To Permit the Listing of Binary Options Overlying Key Performance Indicators Reported by Certain Issuers of Stock",
-      "url": "https://www.federalregister.gov/documents/2026/10/16/2026-21149/self-regulatory-organizations-cboe-exchange-inc-notice-of-filing-of-amendment-no-1-and-order",
-      "date": "2026-10-16",
-      "description": "",
-      "source": "national-securities-exchanges"
-    },
-    {
-      "id": "416d92e8d80d",
-      "title": "Self-Regulatory Organizations; CME Securities Clearing Inc.; Order Approving Proposed Rule Change To Amend Rule 410, Rule 101, the Capped Liquidity Facility Procedure, and the Liquidity Risk Management Policy",
-      "url": "https://www.federalregister.gov/documents/2026/10/16/2026-21136/self-regulatory-organizations-cme-securities-clearing-inc-order-approving-proposed-rule-change-to",
-      "date": "2026-10-16",
-      "description": "",
-      "source": "national-securities-exchanges"
     }
   ]
 }
