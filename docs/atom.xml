@@ -2,74 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://github.com/edwinhu/sec-sro-rss</id>
   <title>SEC Self-Regulatory Organization Rulemaking</title>
-  <updated>2026-11-13T04:13:45.979547+00:00</updated>
+  <updated>2026-11-13T13:39:37.577158+00:00</updated>
   <link href="https://www.sec.gov/rules-regulations/self-regulatory-organization-rulemaking" rel="alternate"/>
   <link href="https://edwinhu.github.io/sec-sro-rss/feed.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Filtered SEC SRO filings (excludes immediate effectiveness notices and crypto)</subtitle>
-  <entry>
-    <id>https://www.federalregister.gov/documents/2026/10/20/2026-21393/self-regulatory-organizations-financial-industry-regulatory-authority-inc-order-approving-a-proposed</id>
-    <title>Self-Regulatory Organizations; Financial Industry Regulatory Authority, Inc.; Order Approving a Proposed Rule Change, as Modified by Partial Amendment No. 1, To Amend FINRA Rule 2210 (Communications With the Public)</title>
-    <updated>2026-10-20T00:00:00+00:00</updated>
-    <content>Source: Finra
-Date: 2026-10-20</content>
-    <link href="https://www.federalregister.gov/documents/2026/10/20/2026-21393/self-regulatory-organizations-financial-industry-regulatory-authority-inc-order-approving-a-proposed"/>
-    <published>2026-10-20T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.federalregister.gov/documents/2026/10/21/2026-21479/self-regulatory-organizations-nyse-texas-inc-notice-of-designation-of-a-longer-period-for-commission</id>
-    <title>Self-Regulatory Organizations; NYSE Texas, Inc.; Notice of Designation of a Longer Period for Commission Action on a Proposed Rule Change, as Modified by Amendment No. 1, To Offer Complimentary Products and Services</title>
-    <updated>2026-10-21T00:00:00+00:00</updated>
-    <content>Source: National Securities Exchanges
-Date: 2026-10-21</content>
-    <link href="https://www.federalregister.gov/documents/2026/10/21/2026-21479/self-regulatory-organizations-nyse-texas-inc-notice-of-designation-of-a-longer-period-for-commission"/>
-    <published>2026-10-21T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.federalregister.gov/documents/2026/10/21/2026-21482/self-regulatory-organizations-cme-securities-clearing-inc-notice-of-filing-of-proposed-rule-change</id>
-    <title>Self-Regulatory Organizations; CME Securities Clearing Inc.; Notice of Filing of Proposed Rule Change To Amend the CMESC Risk Management Framework (“RMF”) Related to CMESC's Default Management Practices</title>
-    <updated>2026-10-21T00:00:00+00:00</updated>
-    <content>Source: National Securities Exchanges
-Date: 2026-10-21</content>
-    <link href="https://www.federalregister.gov/documents/2026/10/21/2026-21482/self-regulatory-organizations-cme-securities-clearing-inc-notice-of-filing-of-proposed-rule-change"/>
-    <published>2026-10-21T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.federalregister.gov/documents/2026/10/22/2026-21562/agency-information-collection-activities-submission-for-omb-review-comment-request-extension-rules</id>
-    <title>Agency Information Collection Activities; Submission for OMB Review; Comment Request; Extension: Rules 15Ba1-1 to 15Ba1-8-Registration of Municipal Advisors and Forms MA, MA-I, MA-W, and MA-NR</title>
-    <updated>2026-10-22T00:00:00+00:00</updated>
-    <content>Source: National Securities Exchanges
-Date: 2026-10-22</content>
-    <link href="https://www.federalregister.gov/documents/2026/10/22/2026-21562/agency-information-collection-activities-submission-for-omb-review-comment-request-extension-rules"/>
-    <published>2026-10-22T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.federalregister.gov/documents/2026/10/23/2026-21649/self-regulatory-organizations-the-options-clearing-corporation-notice-of-filing-of-proposed-rule</id>
-    <title>Self-Regulatory Organizations; The Options Clearing Corporation; Notice of Filing of Proposed Rule Change by The Options Clearing Corporation Concerning Revisions to OCC Rule 213-Cybersecurity Obligations</title>
-    <updated>2026-10-23T00:00:00+00:00</updated>
-    <content>Source: National Securities Exchanges
-Date: 2026-10-23</content>
-    <link href="https://www.federalregister.gov/documents/2026/10/23/2026-21649/self-regulatory-organizations-the-options-clearing-corporation-notice-of-filing-of-proposed-rule"/>
-    <published>2026-10-23T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.federalregister.gov/documents/2026/10/23/2026-21650/self-regulatory-organizations-new-york-stock-exchange-llc-notice-of-filing-of-proposed-rule-change</id>
-    <title>Self-Regulatory Organizations; New York Stock Exchange LLC; Notice of Filing of Proposed Rule Change To Amend Rule 7.10 (Clearly Erroneous Executions)</title>
-    <updated>2026-10-23T00:00:00+00:00</updated>
-    <content>Source: National Securities Exchanges
-Date: 2026-10-23</content>
-    <link href="https://www.federalregister.gov/documents/2026/10/23/2026-21650/self-regulatory-organizations-new-york-stock-exchange-llc-notice-of-filing-of-proposed-rule-change"/>
-    <published>2026-10-23T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.federalregister.gov/documents/2026/10/26/2026-21735/self-regulatory-organizations-the-options-clearing-corporation-order-approving-proposed-rule-change</id>
-    <title>Self-Regulatory Organizations; The Options Clearing Corporation; Order Approving Proposed Rule Change by The Options Clearing Corporation Concerning Amendments to Clearing Member Standards</title>
-    <updated>2026-10-26T00:00:00+00:00</updated>
-    <content>Source: National Securities Exchanges
-Date: 2026-10-26</content>
-    <link href="https://www.federalregister.gov/documents/2026/10/26/2026-21735/self-regulatory-organizations-the-options-clearing-corporation-order-approving-proposed-rule-change"/>
-    <published>2026-10-26T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>https://www.federalregister.gov/documents/2026/10/27/2026-21845/cboe-clear-us-llc-order-granting-an-application-as-amended-for-temporary-registration-as-a-clearing</id>
     <title>Cboe Clear U.S., LLC; Order Granting an Application, as Amended, for Temporary Registration as a Clearing Agency Under Section 17A of the Securities Exchange Act of 1934</title>
@@ -150,5 +87,23 @@ Date: 2026-11-10</content>
 Date: 2026-11-10</content>
     <link href="https://www.federalregister.gov/documents/2026/11/10/2026-22851/self-regulatory-organizations-fixed-income-clearing-corporation-order-instituting-proceedings-to"/>
     <published>2026-11-10T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.federalregister.gov/documents/2026/11/13/2026-23180/self-regulatory-organizations-nasdaq-ise-llc-notice-of-filing-of-amendment-no-2-and-order-granting</id>
+    <title>Self-Regulatory Organizations; Nasdaq ISE, LLC; Notice of Filing of Amendment No. 2 and Order Granting Accelerated Approval of a Proposed Rule Change, as Modified by Amendment No. 2, To Amend the Criteria for Underlying Securities</title>
+    <updated>2026-11-13T00:00:00+00:00</updated>
+    <content>Source: National Securities Exchanges
+Date: 2026-11-13</content>
+    <link href="https://www.federalregister.gov/documents/2026/11/13/2026-23180/self-regulatory-organizations-nasdaq-ise-llc-notice-of-filing-of-amendment-no-2-and-order-granting"/>
+    <published>2026-11-13T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.federalregister.gov/documents/2026/11/13/2026-23185/self-regulatory-organizations-financial-industry-regulatory-authority-inc-notice-of-filing-of-a</id>
+    <title>Self-Regulatory Organizations; Financial Industry Regulatory Authority, Inc.; Notice of Filing of a Proposed Rule Change To Amend the FINRA By-Laws, the FINRA Regulation By-Laws, the Plan of Allocation and Delegation of Functions by FINRA to Subsidiaries, FINRA's Restated Certificate of Incorporation, and FINRA Rule 5110</title>
+    <updated>2026-11-13T00:00:00+00:00</updated>
+    <content>Source: Finra
+Date: 2026-11-13</content>
+    <link href="https://www.federalregister.gov/documents/2026/11/13/2026-23185/self-regulatory-organizations-financial-industry-regulatory-authority-inc-notice-of-filing-of-a"/>
+    <published>2026-11-13T00:00:00+00:00</published>
   </entry>
 </feed>

@@ -1,7 +1,23 @@
 {
-  "updated": "2026-11-13T04:13:46.016296+00:00",
-  "count": 16,
+  "updated": "2026-11-13T13:39:37.584907+00:00",
+  "count": 11,
   "filings": [
+    {
+      "id": "88f091e8db65",
+      "title": "Self-Regulatory Organizations; Financial Industry Regulatory Authority, Inc.; Notice of Filing of a Proposed Rule Change To Amend the FINRA By-Laws, the FINRA Regulation By-Laws, the Plan of Allocation and Delegation of Functions by FINRA to Subsidiaries, FINRA's Restated Certificate of Incorporation, and FINRA Rule 5110",
+      "url": "https://www.federalregister.gov/documents/2026/11/13/2026-23185/self-regulatory-organizations-financial-industry-regulatory-authority-inc-notice-of-filing-of-a",
+      "date": "2026-11-13",
+      "description": "",
+      "source": "finra"
+    },
+    {
+      "id": "7fd8e8bde8bc",
+      "title": "Self-Regulatory Organizations; Nasdaq ISE, LLC; Notice of Filing of Amendment No. 2 and Order Granting Accelerated Approval of a Proposed Rule Change, as Modified by Amendment No. 2, To Amend the Criteria for Underlying Securities",
+      "url": "https://www.federalregister.gov/documents/2026/11/13/2026-23180/self-regulatory-organizations-nasdaq-ise-llc-notice-of-filing-of-amendment-no-2-and-order-granting",
+      "date": "2026-11-13",
+      "description": "",
+      "source": "national-securities-exchanges"
+    },
     {
       "id": "3985efa1ea12",
       "title": "Self-Regulatory Organizations; Fixed Income Clearing Corporation; Order Instituting Proceedings To Determine Whether To Approve or Disapprove a Proposed Rule Change, as Modified by Partial Amendment No. 1, To Establish a Guaranty Fund at the Government Securities Division",
@@ -73,62 +89,6 @@
       "date": "2026-10-27",
       "description": "",
       "source": "national-securities-exchanges"
-    },
-    {
-      "id": "be1b125079d0",
-      "title": "Self-Regulatory Organizations; The Options Clearing Corporation; Order Approving Proposed Rule Change by The Options Clearing Corporation Concerning Amendments to Clearing Member Standards",
-      "url": "https://www.federalregister.gov/documents/2026/10/26/2026-21735/self-regulatory-organizations-the-options-clearing-corporation-order-approving-proposed-rule-change",
-      "date": "2026-10-26",
-      "description": "",
-      "source": "national-securities-exchanges"
-    },
-    {
-      "id": "518db4e76c20",
-      "title": "Self-Regulatory Organizations; New York Stock Exchange LLC; Notice of Filing of Proposed Rule Change To Amend Rule 7.10 (Clearly Erroneous Executions)",
-      "url": "https://www.federalregister.gov/documents/2026/10/23/2026-21650/self-regulatory-organizations-new-york-stock-exchange-llc-notice-of-filing-of-proposed-rule-change",
-      "date": "2026-10-23",
-      "description": "",
-      "source": "national-securities-exchanges"
-    },
-    {
-      "id": "a0371df0f8e5",
-      "title": "Self-Regulatory Organizations; The Options Clearing Corporation; Notice of Filing of Proposed Rule Change by The Options Clearing Corporation Concerning Revisions to OCC Rule 213-Cybersecurity Obligations",
-      "url": "https://www.federalregister.gov/documents/2026/10/23/2026-21649/self-regulatory-organizations-the-options-clearing-corporation-notice-of-filing-of-proposed-rule",
-      "date": "2026-10-23",
-      "description": "",
-      "source": "national-securities-exchanges"
-    },
-    {
-      "id": "44e04f351d1b",
-      "title": "Agency Information Collection Activities; Submission for OMB Review; Comment Request; Extension: Rules 15Ba1-1 to 15Ba1-8-Registration of Municipal Advisors and Forms MA, MA-I, MA-W, and MA-NR",
-      "url": "https://www.federalregister.gov/documents/2026/10/22/2026-21562/agency-information-collection-activities-submission-for-omb-review-comment-request-extension-rules",
-      "date": "2026-10-22",
-      "description": "",
-      "source": "national-securities-exchanges"
-    },
-    {
-      "id": "bffba3aa8d52",
-      "title": "Self-Regulatory Organizations; CME Securities Clearing Inc.; Notice of Filing of Proposed Rule Change To Amend the CMESC Risk Management Framework (\u201cRMF\u201d) Related to CMESC's Default Management Practices",
-      "url": "https://www.federalregister.gov/documents/2026/10/21/2026-21482/self-regulatory-organizations-cme-securities-clearing-inc-notice-of-filing-of-proposed-rule-change",
-      "date": "2026-10-21",
-      "description": "",
-      "source": "national-securities-exchanges"
-    },
-    {
-      "id": "39bb7958ed56",
-      "title": "Self-Regulatory Organizations; NYSE Texas, Inc.; Notice of Designation of a Longer Period for Commission Action on a Proposed Rule Change, as Modified by Amendment No. 1, To Offer Complimentary Products and Services",
-      "url": "https://www.federalregister.gov/documents/2026/10/21/2026-21479/self-regulatory-organizations-nyse-texas-inc-notice-of-designation-of-a-longer-period-for-commission",
-      "date": "2026-10-21",
-      "description": "",
-      "source": "national-securities-exchanges"
-    },
-    {
-      "id": "2e0ec042419b",
-      "title": "Self-Regulatory Organizations; Financial Industry Regulatory Authority, Inc.; Order Approving a Proposed Rule Change, as Modified by Partial Amendment No. 1, To Amend FINRA Rule 2210 (Communications With the Public)",
-      "url": "https://www.federalregister.gov/documents/2026/10/20/2026-21393/self-regulatory-organizations-financial-industry-regulatory-authority-inc-order-approving-a-proposed",
-      "date": "2026-10-20",
-      "description": "",
-      "source": "finra"
     }
   ]
 }
