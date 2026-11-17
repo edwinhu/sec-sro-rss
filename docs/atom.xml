@@ -2,47 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://github.com/edwinhu/sec-sro-rss</id>
   <title>SEC Self-Regulatory Organization Rulemaking</title>
-  <updated>2026-11-17T01:18:04.808045+00:00</updated>
+  <updated>2026-11-17T15:12:15.463759+00:00</updated>
   <link href="https://www.sec.gov/rules-regulations/self-regulatory-organization-rulemaking" rel="alternate"/>
   <link href="https://edwinhu.github.io/sec-sro-rss/feed.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Filtered SEC SRO filings (excludes immediate effectiveness notices and crypto)</subtitle>
-  <entry>
-    <id>https://www.federalregister.gov/documents/2026/10/27/2026-21845/cboe-clear-us-llc-order-granting-an-application-as-amended-for-temporary-registration-as-a-clearing</id>
-    <title>Cboe Clear U.S., LLC; Order Granting an Application, as Amended, for Temporary Registration as a Clearing Agency Under Section 17A of the Securities Exchange Act of 1934</title>
-    <updated>2026-10-27T00:00:00+00:00</updated>
-    <content>Source: National Securities Exchanges
-Date: 2026-10-27</content>
-    <link href="https://www.federalregister.gov/documents/2026/10/27/2026-21845/cboe-clear-us-llc-order-granting-an-application-as-amended-for-temporary-registration-as-a-clearing"/>
-    <published>2026-10-27T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.federalregister.gov/documents/2026/10/28/2026-21925/self-regulatory-organizations-nyse-texas-inc-notice-of-filing-of-amendment-no-1-and-order-granting</id>
-    <title>Self-Regulatory Organizations; NYSE Texas, Inc.; Notice of Filing of Amendment No. 1 and Order Granting Accelerated Approval of a Proposed Rule Change, as Modified by Amendment No. 1, To Offer Complimentary Products and Services</title>
-    <updated>2026-10-28T00:00:00+00:00</updated>
-    <content>Source: National Securities Exchanges
-Date: 2026-10-28</content>
-    <link href="https://www.federalregister.gov/documents/2026/10/28/2026-21925/self-regulatory-organizations-nyse-texas-inc-notice-of-filing-of-amendment-no-1-and-order-granting"/>
-    <published>2026-10-28T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.federalregister.gov/documents/2026/10/28/2026-21931/order-under-section-36-of-the-securities-exchange-act-of-1934-granting-conditional-exemptive-relief</id>
-    <title>Order Under Section 36 of the Securities Exchange Act of 1934 Granting Conditional Exemptive Relief Regarding the Treatment of Customer Margin Under Item 13 and Note F of Exhibit A to Rule 15c3-3</title>
-    <updated>2026-10-28T00:00:00+00:00</updated>
-    <content>Source: National Securities Exchanges
-Date: 2026-10-28</content>
-    <link href="https://www.federalregister.gov/documents/2026/10/28/2026-21931/order-under-section-36-of-the-securities-exchange-act-of-1934-granting-conditional-exemptive-relief"/>
-    <published>2026-10-28T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.federalregister.gov/documents/2026/10/29/2026-22026/self-regulatory-organizations-ice-clear-credit-llc-order-approving-proposed-rule-change-relating-to</id>
-    <title>Self-Regulatory Organizations; ICE Clear Credit LLC; Order Approving Proposed Rule Change Relating to the ICE Clear Credit Recovery Plan and ICE Clear Credit Wind-Down Plan</title>
-    <updated>2026-10-29T00:00:00+00:00</updated>
-    <content>Source: National Securities Exchanges
-Date: 2026-10-29</content>
-    <link href="https://www.federalregister.gov/documents/2026/10/29/2026-22026/self-regulatory-organizations-ice-clear-credit-llc-order-approving-proposed-rule-change-relating-to"/>
-    <published>2026-10-29T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>https://www.federalregister.gov/documents/2026/11/03/2026-22377/self-regulatory-organizations-texas-stock-exchange-llc-notice-of-filing-and-order-granting</id>
     <title>Self-Regulatory Organizations; Texas Stock Exchange LLC; Notice of Filing, and Order Granting Accelerated Approval of, a Proposed Rule Change To Amend Rule 17.111(d) (Commodity-Based Trust Shares)</title>
@@ -105,5 +69,32 @@ Date: 2026-11-13</content>
 Date: 2026-11-13</content>
     <link href="https://www.federalregister.gov/documents/2026/11/13/2026-23185/self-regulatory-organizations-financial-industry-regulatory-authority-inc-notice-of-filing-of-a"/>
     <published>2026-11-13T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.federalregister.gov/documents/2026/11/17/2026-23325/agency-information-collection-activities-submission-for-omb-review-comment-request-revision</id>
+    <title>Agency Information Collection Activities; Submission for OMB Review; Comment Request; Revision: Ombudsman Matter Management System (OMMS) Form</title>
+    <updated>2026-11-17T00:00:00+00:00</updated>
+    <content>Source: National Securities Exchanges
+Date: 2026-11-17</content>
+    <link href="https://www.federalregister.gov/documents/2026/11/17/2026-23325/agency-information-collection-activities-submission-for-omb-review-comment-request-revision"/>
+    <published>2026-11-17T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.federalregister.gov/documents/2026/11/17/2026-23334/self-regulatory-organizations-nyse-american-llc-notice-of-filing-of-proposed-change-amending-section</id>
+    <title>Self-Regulatory Organizations; NYSE American LLC; Notice of Filing of Proposed Change Amending Section 341 of the NYSE American Company Guide To Address Multi-Step Transactions</title>
+    <updated>2026-11-17T00:00:00+00:00</updated>
+    <content>Source: National Securities Exchanges
+Date: 2026-11-17</content>
+    <link href="https://www.federalregister.gov/documents/2026/11/17/2026-23334/self-regulatory-organizations-nyse-american-llc-notice-of-filing-of-proposed-change-amending-section"/>
+    <published>2026-11-17T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.federalregister.gov/documents/2026/11/17/2026-23337/self-regulatory-organizations-the-depository-trust-company-notice-of-filing-of-partial-amendment-no</id>
+    <title>Self-Regulatory Organizations; The Depository Trust Company; Notice of Filing of Partial Amendment No. 1 and Notice of Designation of Longer Period for Commission Action on Proposed Rule Change To Establish and Implement AnnounceDirect for the Submission of Corporate Action Announcements</title>
+    <updated>2026-11-17T00:00:00+00:00</updated>
+    <content>Source: National Securities Exchanges
+Date: 2026-11-17</content>
+    <link href="https://www.federalregister.gov/documents/2026/11/17/2026-23337/self-regulatory-organizations-the-depository-trust-company-notice-of-filing-of-partial-amendment-no"/>
+    <published>2026-11-17T00:00:00+00:00</published>
   </entry>
 </feed>

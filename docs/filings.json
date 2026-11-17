@@ -1,7 +1,31 @@
 {
-  "updated": "2026-11-17T01:18:04.814672+00:00",
-  "count": 11,
+  "updated": "2026-11-17T15:12:15.487357+00:00",
+  "count": 10,
   "filings": [
+    {
+      "id": "01ed5fab451d",
+      "title": "Self-Regulatory Organizations; The Depository Trust Company; Notice of Filing of Partial Amendment No. 1 and Notice of Designation of Longer Period for Commission Action on Proposed Rule Change To Establish and Implement AnnounceDirect for the Submission of Corporate Action Announcements",
+      "url": "https://www.federalregister.gov/documents/2026/11/17/2026-23337/self-regulatory-organizations-the-depository-trust-company-notice-of-filing-of-partial-amendment-no",
+      "date": "2026-11-17",
+      "description": "",
+      "source": "national-securities-exchanges"
+    },
+    {
+      "id": "8abb018cd17e",
+      "title": "Self-Regulatory Organizations; NYSE American LLC; Notice of Filing of Proposed Change Amending Section 341 of the NYSE American Company Guide To Address Multi-Step Transactions",
+      "url": "https://www.federalregister.gov/documents/2026/11/17/2026-23334/self-regulatory-organizations-nyse-american-llc-notice-of-filing-of-proposed-change-amending-section",
+      "date": "2026-11-17",
+      "description": "",
+      "source": "national-securities-exchanges"
+    },
+    {
+      "id": "9bee8645851c",
+      "title": "Agency Information Collection Activities; Submission for OMB Review; Comment Request; Revision: Ombudsman Matter Management System (OMMS) Form",
+      "url": "https://www.federalregister.gov/documents/2026/11/17/2026-23325/agency-information-collection-activities-submission-for-omb-review-comment-request-revision",
+      "date": "2026-11-17",
+      "description": "",
+      "source": "national-securities-exchanges"
+    },
     {
       "id": "88f091e8db65",
       "title": "Self-Regulatory Organizations; Financial Industry Regulatory Authority, Inc.; Notice of Filing of a Proposed Rule Change To Amend the FINRA By-Laws, the FINRA Regulation By-Laws, the Plan of Allocation and Delegation of Functions by FINRA to Subsidiaries, FINRA's Restated Certificate of Incorporation, and FINRA Rule 5110",
@@ -55,38 +79,6 @@
       "title": "Self-Regulatory Organizations; Texas Stock Exchange LLC; Notice of Filing, and Order Granting Accelerated Approval of, a Proposed Rule Change To Amend Rule 17.111(d) (Commodity-Based Trust Shares)",
       "url": "https://www.federalregister.gov/documents/2026/11/03/2026-22377/self-regulatory-organizations-texas-stock-exchange-llc-notice-of-filing-and-order-granting",
       "date": "2026-11-03",
-      "description": "",
-      "source": "national-securities-exchanges"
-    },
-    {
-      "id": "451eb82f78bb",
-      "title": "Self-Regulatory Organizations; ICE Clear Credit LLC; Order Approving Proposed Rule Change Relating to the ICE Clear Credit Recovery Plan and ICE Clear Credit Wind-Down Plan",
-      "url": "https://www.federalregister.gov/documents/2026/10/29/2026-22026/self-regulatory-organizations-ice-clear-credit-llc-order-approving-proposed-rule-change-relating-to",
-      "date": "2026-10-29",
-      "description": "",
-      "source": "national-securities-exchanges"
-    },
-    {
-      "id": "45ef48faa668",
-      "title": "Order Under Section 36 of the Securities Exchange Act of 1934 Granting Conditional Exemptive Relief Regarding the Treatment of Customer Margin Under Item 13 and Note F of Exhibit A to Rule 15c3-3",
-      "url": "https://www.federalregister.gov/documents/2026/10/28/2026-21931/order-under-section-36-of-the-securities-exchange-act-of-1934-granting-conditional-exemptive-relief",
-      "date": "2026-10-28",
-      "description": "",
-      "source": "national-securities-exchanges"
-    },
-    {
-      "id": "a73f3bc8e999",
-      "title": "Self-Regulatory Organizations; NYSE Texas, Inc.; Notice of Filing of Amendment No. 1 and Order Granting Accelerated Approval of a Proposed Rule Change, as Modified by Amendment No. 1, To Offer Complimentary Products and Services",
-      "url": "https://www.federalregister.gov/documents/2026/10/28/2026-21925/self-regulatory-organizations-nyse-texas-inc-notice-of-filing-of-amendment-no-1-and-order-granting",
-      "date": "2026-10-28",
-      "description": "",
-      "source": "national-securities-exchanges"
-    },
-    {
-      "id": "3bd19d9c276c",
-      "title": "Cboe Clear U.S., LLC; Order Granting an Application, as Amended, for Temporary Registration as a Clearing Agency Under Section 17A of the Securities Exchange Act of 1934",
-      "url": "https://www.federalregister.gov/documents/2026/10/27/2026-21845/cboe-clear-us-llc-order-granting-an-application-as-amended-for-temporary-registration-as-a-clearing",
-      "date": "2026-10-27",
       "description": "",
       "source": "national-securities-exchanges"
     }
