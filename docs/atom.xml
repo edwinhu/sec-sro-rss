@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://github.com/edwinhu/sec-sro-rss</id>
   <title>SEC Self-Regulatory Organization Rulemaking</title>
-  <updated>2026-11-18T00:14:15.966586+00:00</updated>
+  <updated>2026-11-18T14:49:48.708207+00:00</updated>
   <link href="https://www.sec.gov/rules-regulations/self-regulatory-organization-rulemaking" rel="alternate"/>
   <link href="https://edwinhu.github.io/sec-sro-rss/feed.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -96,5 +96,23 @@ Date: 2026-11-17</content>
 Date: 2026-11-17</content>
     <link href="https://www.federalregister.gov/documents/2026/11/17/2026-23337/self-regulatory-organizations-the-depository-trust-company-notice-of-filing-of-partial-amendment-no"/>
     <published>2026-11-17T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.federalregister.gov/documents/2026/11/18/2026-23423/self-regulatory-organizations-new-york-stock-exchange-llc-order-instituting-proceedings-to-determine</id>
+    <title>Self-Regulatory Organizations; New York Stock Exchange LLC; Order Instituting Proceedings To Determine Whether To Approve or Disapprove a Proposed Rule Change To Amend Sections 303A.00 and 303A.07 of the NYSE Listed Company Manual</title>
+    <updated>2026-11-18T00:00:00+00:00</updated>
+    <content>Source: National Securities Exchanges
+Date: 2026-11-18</content>
+    <link href="https://www.federalregister.gov/documents/2026/11/18/2026-23423/self-regulatory-organizations-new-york-stock-exchange-llc-order-instituting-proceedings-to-determine"/>
+    <published>2026-11-18T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.federalregister.gov/documents/2026/11/18/2026-23426/self-regulatory-organizations-cme-securities-clearing-inc-notice-of-filing-of-proposed-rule-change</id>
+    <title>Self-Regulatory Organizations; CME Securities Clearing Inc.; Notice of Filing of Proposed Rule Change for Transaction Submission Amendments</title>
+    <updated>2026-11-18T00:00:00+00:00</updated>
+    <content>Source: National Securities Exchanges
+Date: 2026-11-18</content>
+    <link href="https://www.federalregister.gov/documents/2026/11/18/2026-23426/self-regulatory-organizations-cme-securities-clearing-inc-notice-of-filing-of-proposed-rule-change"/>
+    <published>2026-11-18T00:00:00+00:00</published>
   </entry>
 </feed>

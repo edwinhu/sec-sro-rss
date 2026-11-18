@@ -1,7 +1,23 @@
 {
-  "updated": "2026-11-18T00:14:15.975063+00:00",
-  "count": 10,
+  "updated": "2026-11-18T14:49:48.716917+00:00",
+  "count": 12,
   "filings": [
+    {
+      "id": "fc49133d2d56",
+      "title": "Self-Regulatory Organizations; CME Securities Clearing Inc.; Notice of Filing of Proposed Rule Change for Transaction Submission Amendments",
+      "url": "https://www.federalregister.gov/documents/2026/11/18/2026-23426/self-regulatory-organizations-cme-securities-clearing-inc-notice-of-filing-of-proposed-rule-change",
+      "date": "2026-11-18",
+      "description": "",
+      "source": "national-securities-exchanges"
+    },
+    {
+      "id": "0d0c4a9f62f6",
+      "title": "Self-Regulatory Organizations; New York Stock Exchange LLC; Order Instituting Proceedings To Determine Whether To Approve or Disapprove a Proposed Rule Change To Amend Sections 303A.00 and 303A.07 of the NYSE Listed Company Manual",
+      "url": "https://www.federalregister.gov/documents/2026/11/18/2026-23423/self-regulatory-organizations-new-york-stock-exchange-llc-order-instituting-proceedings-to-determine",
+      "date": "2026-11-18",
+      "description": "",
+      "source": "national-securities-exchanges"
+    },
     {
       "id": "01ed5fab451d",
       "title": "Self-Regulatory Organizations; The Depository Trust Company; Notice of Filing of Partial Amendment No. 1 and Notice of Designation of Longer Period for Commission Action on Proposed Rule Change To Establish and Implement AnnounceDirect for the Submission of Corporate Action Announcements",
