@@ -2,29 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://github.com/edwinhu/sec-sro-rss</id>
   <title>SEC Self-Regulatory Organization Rulemaking</title>
-  <updated>2026-11-19T05:08:28.530760+00:00</updated>
+  <updated>2026-11-19T14:56:01.964989+00:00</updated>
   <link href="https://www.sec.gov/rules-regulations/self-regulatory-organization-rulemaking" rel="alternate"/>
   <link href="https://edwinhu.github.io/sec-sro-rss/feed.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Filtered SEC SRO filings (excludes immediate effectiveness notices and crypto)</subtitle>
-  <entry>
-    <id>https://www.federalregister.gov/documents/2026/11/03/2026-22377/self-regulatory-organizations-texas-stock-exchange-llc-notice-of-filing-and-order-granting</id>
-    <title>Self-Regulatory Organizations; Texas Stock Exchange LLC; Notice of Filing, and Order Granting Accelerated Approval of, a Proposed Rule Change To Amend Rule 17.111(d) (Commodity-Based Trust Shares)</title>
-    <updated>2026-11-03T00:00:00+00:00</updated>
-    <content>Source: National Securities Exchanges
-Date: 2026-11-03</content>
-    <link href="https://www.federalregister.gov/documents/2026/11/03/2026-22377/self-regulatory-organizations-texas-stock-exchange-llc-notice-of-filing-and-order-granting"/>
-    <published>2026-11-03T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.federalregister.gov/documents/2026/11/04/2026-22453/self-regulatory-organizations-nasdaq-ise-llc-notice-of-filing-of-proposed-rule-change-to-amend-the</id>
-    <title>Self-Regulatory Organizations; Nasdaq ISE, LLC; Notice of Filing of Proposed Rule Change To Amend the Strike Price Intervals for Options on Certain Exchange-Traded Fund Shares That Meet the Qualifying Securities Criteria</title>
-    <updated>2026-11-04T00:00:00+00:00</updated>
-    <content>Source: National Securities Exchanges
-Date: 2026-11-04</content>
-    <link href="https://www.federalregister.gov/documents/2026/11/04/2026-22453/self-regulatory-organizations-nasdaq-ise-llc-notice-of-filing-of-proposed-rule-change-to-amend-the"/>
-    <published>2026-11-04T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>https://www.federalregister.gov/documents/2026/11/10/2026-22847/self-regulatory-organizations-cboe-byx-exchange-inc-notice-of-designation-of-longer-period-for</id>
     <title>Self-Regulatory Organizations; Cboe BYX Exchange, Inc.; Notice of Designation of Longer Period for Commission Action on Proceedings To Determine Whether To Approve or Disapprove a Proposed Rule Change, as Modified by Amendment No. 1, To Amend Rule 11.25 To Introduce an Optional, Contingent Instruction Applicable to Periodic Auction Only Orders, Introduce a Time-in-Force of Auction or Cancel, and Make Conforming Changes to Its Periodic Auction Processing Behavior To Support the Proposed Contingent Instruction</title>
@@ -114,5 +96,32 @@ Date: 2026-11-18</content>
 Date: 2026-11-18</content>
     <link href="https://www.federalregister.gov/documents/2026/11/18/2026-23426/self-regulatory-organizations-cme-securities-clearing-inc-notice-of-filing-of-proposed-rule-change"/>
     <published>2026-11-18T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.federalregister.gov/documents/2026/11/19/2026-23528/self-regulatory-organizations-nyse-american-llc-order-approving-a-proposed-rule-change-to-amend</id>
+    <title>Self-Regulatory Organizations; NYSE American LLC; Order Approving a Proposed Rule Change To Amend Sections 1003 and 1009 of the NYSE American Company Guide</title>
+    <updated>2026-11-19T00:00:00+00:00</updated>
+    <content>Source: National Securities Exchanges
+Date: 2026-11-19</content>
+    <link href="https://www.federalregister.gov/documents/2026/11/19/2026-23528/self-regulatory-organizations-nyse-american-llc-order-approving-a-proposed-rule-change-to-amend"/>
+    <published>2026-11-19T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.federalregister.gov/documents/2026/11/19/2026-23552/self-regulatory-organizations-ice-clear-credit-llc-notice-of-filing-of-proposed-rule-change-relating</id>
+    <title>Self-Regulatory Organizations; ICE Clear Credit LLC; Notice of Filing of Proposed Rule Change Relating to the Treasury Rules, Treasury Clearing Service Initial Margin Approach Model Description Document, Treasury Clearing Service Guaranty Fund and Stress Test Approach Model Description Document, and Treasury Clearing Service Risk Parameter Setting and Review Policy</title>
+    <updated>2026-11-19T00:00:00+00:00</updated>
+    <content>Source: National Securities Exchanges
+Date: 2026-11-19</content>
+    <link href="https://www.federalregister.gov/documents/2026/11/19/2026-23552/self-regulatory-organizations-ice-clear-credit-llc-notice-of-filing-of-proposed-rule-change-relating"/>
+    <published>2026-11-19T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.federalregister.gov/documents/2026/11/19/2026-23554/self-regulatory-organizations-the-depository-trust-company-notice-of-designation-of-longer-period</id>
+    <title>Self-Regulatory Organizations; The Depository Trust Company; Notice of Designation of Longer Period for Commission Action on Proposed Rule Change To Amend the DTC Operational Arrangements (Necessary for Securities To Become and Remain Eligible for DTC Services)</title>
+    <updated>2026-11-19T00:00:00+00:00</updated>
+    <content>Source: National Securities Exchanges
+Date: 2026-11-19</content>
+    <link href="https://www.federalregister.gov/documents/2026/11/19/2026-23554/self-regulatory-organizations-the-depository-trust-company-notice-of-designation-of-longer-period"/>
+    <published>2026-11-19T00:00:00+00:00</published>
   </entry>
 </feed>
