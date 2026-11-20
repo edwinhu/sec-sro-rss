@@ -1,7 +1,15 @@
 {
-  "updated": "2026-11-20T00:01:32.394530+00:00",
-  "count": 13,
+  "updated": "2026-11-20T14:37:51.603466+00:00",
+  "count": 14,
   "filings": [
+    {
+      "id": "03856b5ad38c",
+      "title": "Self-Regulatory Organizations; ICE Clear Credit LLC; Notice of Filing of Proposed Rule Change Relating to the CDS Clearing Rules, End-of-Day Price Discovery Policies and Procedures, Default Auction Procedures-Initial Default Auctions, and Secondary Auction Procedures",
+      "url": "https://www.federalregister.gov/documents/2026/11/20/2026-23652/self-regulatory-organizations-ice-clear-credit-llc-notice-of-filing-of-proposed-rule-change-relating",
+      "date": "2026-11-20",
+      "description": "",
+      "source": "national-securities-exchanges"
+    },
     {
       "id": "10c141aa6f75",
       "title": "Self-Regulatory Organizations; The Depository Trust Company; Notice of Designation of Longer Period for Commission Action on Proposed Rule Change To Amend the DTC Operational Arrangements (Necessary for Securities To Become and Remain Eligible for DTC Services)",
