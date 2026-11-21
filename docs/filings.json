@@ -1,7 +1,23 @@
 {
-  "updated": "2026-11-21T04:52:51.191302+00:00",
-  "count": 14,
+  "updated": "2026-11-21T13:55:17.678823+00:00",
+  "count": 16,
   "filings": [
+    {
+      "id": "8bf0ad67acd5",
+      "title": "Self-Regulatory Organizations; 24X National Exchange LLC; Notice of Filing of a Proposed Rule Change To Adopt Rules To Govern the Trading of Options on the Exchange",
+      "url": "https://www.federalregister.gov/documents/2026/11/23/2026-23748/self-regulatory-organizations-24x-national-exchange-llc-notice-of-filing-of-a-proposed-rule-change",
+      "date": "2026-11-23",
+      "description": "",
+      "source": "national-securities-exchanges"
+    },
+    {
+      "id": "24d22bf77a7e",
+      "title": "Self-Regulatory Organizations; The Depository Trust Company; Notice of Filing of Partial Amendment No. 1 and Order Granting Accelerated Approval of a Proposed Rule Change, as Modified by Partial Amendment No. 1, To Modernize the Direct Registration System",
+      "url": "https://www.federalregister.gov/documents/2026/11/23/2026-23743/self-regulatory-organizations-the-depository-trust-company-notice-of-filing-of-partial-amendment-no",
+      "date": "2026-11-23",
+      "description": "",
+      "source": "national-securities-exchanges"
+    },
     {
       "id": "03856b5ad38c",
       "title": "Self-Regulatory Organizations; ICE Clear Credit LLC; Notice of Filing of Proposed Rule Change Relating to the CDS Clearing Rules, End-of-Day Price Discovery Policies and Procedures, Default Auction Procedures-Initial Default Auctions, and Secondary Auction Procedures",
