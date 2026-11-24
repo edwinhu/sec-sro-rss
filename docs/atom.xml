@@ -2,20 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://github.com/edwinhu/sec-sro-rss</id>
   <title>SEC Self-Regulatory Organization Rulemaking</title>
-  <updated>2026-11-24T03:38:13.152823+00:00</updated>
+  <updated>2026-11-24T16:43:55.344486+00:00</updated>
   <link href="https://www.sec.gov/rules-regulations/self-regulatory-organization-rulemaking" rel="alternate"/>
   <link href="https://edwinhu.github.io/sec-sro-rss/feed.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Filtered SEC SRO filings (excludes immediate effectiveness notices and crypto)</subtitle>
-  <entry>
-    <id>https://www.federalregister.gov/documents/2026/11/10/2026-22847/self-regulatory-organizations-cboe-byx-exchange-inc-notice-of-designation-of-longer-period-for</id>
-    <title>Self-Regulatory Organizations; Cboe BYX Exchange, Inc.; Notice of Designation of Longer Period for Commission Action on Proceedings To Determine Whether To Approve or Disapprove a Proposed Rule Change, as Modified by Amendment No. 1, To Amend Rule 11.25 To Introduce an Optional, Contingent Instruction Applicable to Periodic Auction Only Orders, Introduce a Time-in-Force of Auction or Cancel, and Make Conforming Changes to Its Periodic Auction Processing Behavior To Support the Proposed Contingent Instruction</title>
-    <updated>2026-11-10T00:00:00+00:00</updated>
-    <content>Source: National Securities Exchanges
-Date: 2026-11-10</content>
-    <link href="https://www.federalregister.gov/documents/2026/11/10/2026-22847/self-regulatory-organizations-cboe-byx-exchange-inc-notice-of-designation-of-longer-period-for"/>
-    <published>2026-11-10T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>https://www.federalregister.gov/documents/2026/11/10/2026-22850/self-regulatory-organizations-ice-clear-credit-llc-notice-of-filing-of-proposed-rule-change-relating</id>
     <title>Self-Regulatory Organizations; ICE Clear Credit LLC; Notice of Filing of Proposed Rule Change Relating to the Procedures for Monitoring Compliance With the Eligible Secondary Market Transaction Submission Requirements</title>
@@ -150,5 +141,14 @@ Date: 2026-11-23</content>
 Date: 2026-11-23</content>
     <link href="https://www.federalregister.gov/documents/2026/11/23/2026-23748/self-regulatory-organizations-24x-national-exchange-llc-notice-of-filing-of-a-proposed-rule-change"/>
     <published>2026-11-23T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.federalregister.gov/documents/2026/11/24/2026-23850/self-regulatory-organizations-cboe-exchange-inc-notice-of-filing-of-amendment-no-2-and-order</id>
+    <title>Self-Regulatory Organizations; Cboe Exchange, Inc.; Notice of Filing of Amendment No. 2 and Order Granting Accelerated Approval of a Proposed Rule Change, as Modified by Amendment No. 2, To Allow Stop-Limit Complex Orders and Establish Stop Complex Order Auctions as a New Type of Auction Mechanism</title>
+    <updated>2026-11-24T00:00:00+00:00</updated>
+    <content>Source: National Securities Exchanges
+Date: 2026-11-24</content>
+    <link href="https://www.federalregister.gov/documents/2026/11/24/2026-23850/self-regulatory-organizations-cboe-exchange-inc-notice-of-filing-of-amendment-no-2-and-order"/>
+    <published>2026-11-24T00:00:00+00:00</published>
   </entry>
 </feed>

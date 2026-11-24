@@ -1,7 +1,15 @@
 {
-  "updated": "2026-11-24T03:38:13.162456+00:00",
+  "updated": "2026-11-24T16:43:55.351709+00:00",
   "count": 16,
   "filings": [
+    {
+      "id": "7d6e31323ab4",
+      "title": "Self-Regulatory Organizations; Cboe Exchange, Inc.; Notice of Filing of Amendment No. 2 and Order Granting Accelerated Approval of a Proposed Rule Change, as Modified by Amendment No. 2, To Allow Stop-Limit Complex Orders and Establish Stop Complex Order Auctions as a New Type of Auction Mechanism",
+      "url": "https://www.federalregister.gov/documents/2026/11/24/2026-23850/self-regulatory-organizations-cboe-exchange-inc-notice-of-filing-of-amendment-no-2-and-order",
+      "date": "2026-11-24",
+      "description": "",
+      "source": "national-securities-exchanges"
+    },
     {
       "id": "8bf0ad67acd5",
       "title": "Self-Regulatory Organizations; 24X National Exchange LLC; Notice of Filing of a Proposed Rule Change To Adopt Rules To Govern the Trading of Options on the Exchange",
@@ -118,14 +126,6 @@
       "id": "ebd64b3cb70a",
       "title": "Self-Regulatory Organizations; ICE Clear Credit LLC; Notice of Filing of Proposed Rule Change Relating to the Procedures for Monitoring Compliance With the Eligible Secondary Market Transaction Submission Requirements",
       "url": "https://www.federalregister.gov/documents/2026/11/10/2026-22850/self-regulatory-organizations-ice-clear-credit-llc-notice-of-filing-of-proposed-rule-change-relating",
-      "date": "2026-11-10",
-      "description": "",
-      "source": "national-securities-exchanges"
-    },
-    {
-      "id": "f1b666082933",
-      "title": "Self-Regulatory Organizations; Cboe BYX Exchange, Inc.; Notice of Designation of Longer Period for Commission Action on Proceedings To Determine Whether To Approve or Disapprove a Proposed Rule Change, as Modified by Amendment No. 1, To Amend Rule 11.25 To Introduce an Optional, Contingent Instruction Applicable to Periodic Auction Only Orders, Introduce a Time-in-Force of Auction or Cancel, and Make Conforming Changes to Its Periodic Auction Processing Behavior To Support the Proposed Contingent Instruction",
-      "url": "https://www.federalregister.gov/documents/2026/11/10/2026-22847/self-regulatory-organizations-cboe-byx-exchange-inc-notice-of-designation-of-longer-period-for",
       "date": "2026-11-10",
       "description": "",
       "source": "national-securities-exchanges"
