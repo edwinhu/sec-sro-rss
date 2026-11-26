@@ -1,7 +1,31 @@
 {
-  "updated": "2026-11-26T01:20:09.335140+00:00",
-  "count": 15,
+  "updated": "2026-11-26T16:03:03.017139+00:00",
+  "count": 18,
   "filings": [
+    {
+      "id": "b447c8417473",
+      "title": "Self-Regulatory Organizations; ICE Clear Credit LLC; Notice of Filing of Proposed Rule Change Relating to ICC's Exercise Procedures",
+      "url": "https://www.federalregister.gov/documents/2026/11/27/2026-24067/self-regulatory-organizations-ice-clear-credit-llc-notice-of-filing-of-proposed-rule-change-relating",
+      "date": "2026-11-27",
+      "description": "",
+      "source": "national-securities-exchanges"
+    },
+    {
+      "id": "e8e6b082f9f2",
+      "title": "Self-Regulatory Organizations; Financial Industry Regulatory Authority, Inc.; Order Approving a Proposed Rule Change To Amend FINRA Rule 4522 (Periodic Security Counts, Verifications and Comparisons) To Modify Position Statement and Reconciliation Requirements for Members Holding Certain Alternative Investments",
+      "url": "https://www.federalregister.gov/documents/2026/11/27/2026-24061/self-regulatory-organizations-financial-industry-regulatory-authority-inc-order-approving-a-proposed",
+      "date": "2026-11-27",
+      "description": "",
+      "source": "finra"
+    },
+    {
+      "id": "5850968fbd55",
+      "title": "Self-Regulatory Organizations; Financial Industry Regulatory Authority, Inc.; Notice of Filing of Partial Amendment No. 1 and Order Instituting Proceedings To Determine Whether To Approve or Disapprove a Proposed Rule Change, as Modified by Partial Amendment No. 1, To Amend the Codes of Arbitration Procedure To Make Changes to Certain Provisions Relating to Arbitrator List Selection",
+      "url": "https://www.federalregister.gov/documents/2026/11/27/2026-24057/self-regulatory-organizations-financial-industry-regulatory-authority-inc-notice-of-filing-of",
+      "date": "2026-11-27",
+      "description": "",
+      "source": "finra"
+    },
     {
       "id": "d2aa45c298d3",
       "title": "Order Granting Exemptive Relief, Pursuant to Section 36(a)(1) of the Securities Exchange Act of 1934 and Rule 608(e) of Regulation NMS Under the Exchange Act, From Certain Requirements of the National Market System Plan Governing the Consolidated Audit Trail Related to the Recovery of Costs Incurred During Period 4 of the Financial Accountability Milestones",

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://github.com/edwinhu/sec-sro-rss</id>
   <title>SEC Self-Regulatory Organization Rulemaking</title>
-  <updated>2026-11-26T01:20:09.302583+00:00</updated>
+  <updated>2026-11-26T16:03:02.975436+00:00</updated>
   <link href="https://www.sec.gov/rules-regulations/self-regulatory-organization-rulemaking" rel="alternate"/>
   <link href="https://edwinhu.github.io/sec-sro-rss/feed.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -141,5 +141,32 @@ Date: 2026-11-24</content>
 Date: 2026-11-25</content>
     <link href="https://www.federalregister.gov/documents/2026/11/25/2026-23950/order-granting-exemptive-relief-pursuant-to-section-36a1-of-the-securities-exchange-act-of-1934-and"/>
     <published>2026-11-25T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.federalregister.gov/documents/2026/11/27/2026-24057/self-regulatory-organizations-financial-industry-regulatory-authority-inc-notice-of-filing-of</id>
+    <title>Self-Regulatory Organizations; Financial Industry Regulatory Authority, Inc.; Notice of Filing of Partial Amendment No. 1 and Order Instituting Proceedings To Determine Whether To Approve or Disapprove a Proposed Rule Change, as Modified by Partial Amendment No. 1, To Amend the Codes of Arbitration Procedure To Make Changes to Certain Provisions Relating to Arbitrator List Selection</title>
+    <updated>2026-11-27T00:00:00+00:00</updated>
+    <content>Source: Finra
+Date: 2026-11-27</content>
+    <link href="https://www.federalregister.gov/documents/2026/11/27/2026-24057/self-regulatory-organizations-financial-industry-regulatory-authority-inc-notice-of-filing-of"/>
+    <published>2026-11-27T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.federalregister.gov/documents/2026/11/27/2026-24061/self-regulatory-organizations-financial-industry-regulatory-authority-inc-order-approving-a-proposed</id>
+    <title>Self-Regulatory Organizations; Financial Industry Regulatory Authority, Inc.; Order Approving a Proposed Rule Change To Amend FINRA Rule 4522 (Periodic Security Counts, Verifications and Comparisons) To Modify Position Statement and Reconciliation Requirements for Members Holding Certain Alternative Investments</title>
+    <updated>2026-11-27T00:00:00+00:00</updated>
+    <content>Source: Finra
+Date: 2026-11-27</content>
+    <link href="https://www.federalregister.gov/documents/2026/11/27/2026-24061/self-regulatory-organizations-financial-industry-regulatory-authority-inc-order-approving-a-proposed"/>
+    <published>2026-11-27T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.federalregister.gov/documents/2026/11/27/2026-24067/self-regulatory-organizations-ice-clear-credit-llc-notice-of-filing-of-proposed-rule-change-relating</id>
+    <title>Self-Regulatory Organizations; ICE Clear Credit LLC; Notice of Filing of Proposed Rule Change Relating to ICC's Exercise Procedures</title>
+    <updated>2026-11-27T00:00:00+00:00</updated>
+    <content>Source: National Securities Exchanges
+Date: 2026-11-27</content>
+    <link href="https://www.federalregister.gov/documents/2026/11/27/2026-24067/self-regulatory-organizations-ice-clear-credit-llc-notice-of-filing-of-proposed-rule-change-relating"/>
+    <published>2026-11-27T00:00:00+00:00</published>
   </entry>
 </feed>
